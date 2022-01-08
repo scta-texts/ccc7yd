@@ -1,0 +1,1606 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 4</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 4</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="111"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g32199"><!--l1proq4 -->
+            <head xml:id="ccc7yd-g32199-Hd1e99">Quaestio 4</head>
+            <p xml:id="ccc7yd-g32199-d1e101">
+      <!--126.xml-->
+               <cb ed="#N" n="c"/>
+               <lb ed="#N" n="59"/>VAESTIV 
+      <lb ed="#N" n="60"/>ullii De duratione Theologiae. 
+      <lb ed="#N" n="61"/>QXplicatis ijs, quae consequuntur ad Essentiam Theologiae, remanet explicanda duratio 
+      eius<lb ed="#N" n="62" break="no"/>idem, quae consequitur existentiam, cum duratio rei nihil aliud sit, quam continuatio 
+      existen<lb ed="#N" n="63" break="no"/>tae; hoc autem praestabimus in duobus sequentibus articulis.
+        </p>
+            <div xml:id="ccc7yd-g32199-Dd1e119">
+               <head xml:id="ccc7yd-g32199-Hd1e121">Articulus 1</head>
+               <p xml:id="ccc7yd-g32199-d1e123">
+      <!--126.xml-->
+                  <cb ed="#N" n="d"/>
+                  <lb ed="#N" n="64"/>ART. I. 
+      <lb ed="#N" n="65"/>mSAn Theologia duret in Haeretico? 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e134">
+                  <lb ed="#N" n="66"/>Vanuis praesens difficultas sufficienter 
+      <lb ed="#N" n="67"/>. 7 deducatur ex dictis q. 3. art. 3: &amp; 9.vbi  
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e141">
+                  <lb ed="#N" n="68"/>Estatuimus Theologiam essentialiter  
+      <lb ed="#N" n="69"/>fundamin Fide Diuina, quam non habent 
+      Hae<lb ed="#N" n="70" break="no"/>retieis &amp; eius assensum esse plusquam humanum; 
+      <lb ed="#N" n="71"/>aeDiuinam reuelationem esse rationem 
+      assen<lb ed="#N" n="72" break="no"/>nendiconclusionibus Theologicis; 
+      quemadino<lb ed="#N" n="73" break="no"/>dum non est in Haeretico, qui assentitur tantum 
+      <lb ed="#N" n="74"/>aquibus: propositionibus reuelatis per proprium 
+      <lb ed="#N" n="75"/>achitrium:, &amp; beneplacitum, nam si in ipso 
+      <lb ed="#N" n="76"/>mmmareuelatio esset ratio assentiendi 
+      proposi<lb ed="#N" n="77" break="no"/>ionibus Fidei, iam assentiretur auctoritati 
+      Sum<lb ed="#N" n="78" break="no"/>miontificis, &amp; Ecclesiae, quae, vt infra 
+      osten<lb ed="#N" n="79" break="no"/>demus, connumerantur inter propositiones 
+      re<lb ed="#N" n="80" break="no"/>quelatas; unde cum assentiatur tantum huic 
+      pro<lb ed="#N" n="81" break="no"/>spositionis &amp; non alteri pro suo arbitrio, &amp; 
+      bene<lb ed="#N" n="82" break="no"/>placito, dicendum est, quod arbitrium, non 
+      Diui<lb ed="#N" n="83" break="no"/>mageuelatio, est eius ratio assentiendi 
+      veritatis<lb ed="#N" n="84" break="no"/>busfidei. Attamen ad hoc, ve clarius 
+      expli<lb ed="#N" n="85" break="no"/>cetur  
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e183">
+                  <lb ed="#N" n="86"/>Brima sententia vult, quod in Haeretico, 
+      <lb ed="#N" n="87"/>quiprius erat Catholicus, remaneat Theologia. 
+      <!--126.xml-->
+      <cb ed="#N" n="e"/>
+                  <lb ed="#N" n="88"/>eiusdem speciei cum ea, quae erat in illo, 
+      ante<lb ed="#N" n="89" break="no"/>quam esset Haereticus; quia ad rationem 
+      forma<lb ed="#N" n="90" break="no"/>lem Theologiae non requiritur assensus Fidei 
+      <lb ed="#N" n="91"/>supernaturalis infusae, sed sufficit assensus Fidei 
+      <lb ed="#N" n="92"/>naturalis acquisitae. Ita Vasq. 1. p. q. 1: art1, in 
+      <lb ed="#N" n="93"/>Dubit. text; &amp; disp. 4. n. 233 &amp; 24, &amp; disp. 5. 6. 4. 
+      <lb ed="#N" n="94"/>Noster Put. art. 2. dub. 4. in 4. probat. primae 
+      concli<lb ed="#N" n="95" break="no"/>Aureolus; &amp; alij pauci. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e213">
+                  <lb ed="#N" n="96"/>Secunda sententia docet Theologiam 
+      hae<lb ed="#N" n="97" break="no"/>reticam non esse veram Theologiam, &amp; ideo 
+      <lb ed="#N" n="98"/>Haereticum amittedo Fidem amittere 
+      Theolo<lb ed="#N" n="99" break="no"/>giam. Colligitur ex Fundatiss. Doct. hic p. 1. 
+      prin<lb ed="#N" n="100" break="no"/>cip. 2. art. 3. in corps vbi ait; quod Theologia 
+      vti<lb ed="#N" n="101" break="no"/>tur principijs, &amp; articulis Fidei; Et p. 2. princ. 1. 
+      <lb ed="#N" n="102"/>q. 2. vbi docet Theologiam certissimo lumini 
+      inni<lb ed="#N" n="103" break="no"/>ti; Et in opusc. de Summa Trimpag. 1. col. 33. Et de 
+      <lb ed="#N" n="104"/>Art. Fidei col. 2. Idem docent noster Greg. q. 1. 
+      <lb ed="#N" n="105"/>Prol. art. 4. in fine corps Tolet; Tafesse q. 2. c. 53. 
+      <lb ed="#N" n="106"/>&amp; communiter Thomistae apud Io:a S. Tho: 1. p. 
+      <lb ed="#N" n="107"/>q. 1. disp. 2. art. 2; Gonet. art. 3ratque alij 
+      Neote<lb ed="#N" n="108" break="no"/>cici; pro cuius explicatione. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e244">
+                  <lb ed="#N" n="109"/>2 Not. 1; quod tunc non manet essentia 
+      ali<lb ed="#N" n="110" break="no"/>cuius rei, quando tollitur differentia vltimo 
+      eo<lb ed="#N" n="111" break="no"/>stitutiua, &amp; distinctiua illius; vtsi tolleretur a 
+      <!--127.xml-->
+      <pb ed="#N" n="112"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Petro rationalitas, non maneret ipso 
+      essentia<lb ed="#N" n="2" break="no"/>hominis. Vt igitur cognoscamus, an maneat  
+      <lb ed="#N" n="3"/>Theologia nostra in Haeretico, considerate 
+      de<lb ed="#N" n="4" break="no"/>bemus id, quod se habet differentialiter vitimo, 
+      <lb ed="#N" n="5"/>in Theologia nostra. Quare, cum ex dictis in 
+      sup<lb ed="#N" n="6" break="no"/>quaest. art. 3: &amp; art. 2. n. 3: &amp; 9i Theologia nostra 
+      <lb ed="#N" n="7"/>habeat rationem scientiae similitudinarie 
+      subal<lb ed="#N" n="8" break="no"/>ternatae Theologiae Beate; &amp; scientia subalterna 
+      <lb ed="#N" n="9"/>ta constituatur, &amp; distinguatur formaliter 
+      per<lb ed="#N" n="10" break="no"/>ordinem ad differentiam accidetalem extraneam. 
+      <lb ed="#N" n="11"/>qua addit obiecto formali subalternantis, vt 
+      pa<lb ed="#N" n="12" break="no"/>tet de visualitate, quae est ratio extranea 
+      super<lb ed="#N" n="13" break="no"/>nddita lineae costituens Perspectiua; &amp; de ratione 
+      <lb ed="#N" n="14"/>sonori superaddita ipsi numero, per quam 
+      costitui<lb ed="#N" n="15" break="no"/>tur Musica, &amp; qua ablata non manet Musica, sicuti 
+      <lb ed="#N" n="16"/>ablata visualitate non manet Perspectiua; cunque  
+      <lb ed="#N" n="17"/>differentia accidentalis extranea, quam Obiectum 
+      <lb ed="#N" n="18"/>Theologiae nostre addit Obiecto formali 
+      Theo<lb ed="#N" n="19" break="no"/>logiae Beatae, scilicet Deo Glorificatori, sit ratio 
+      <lb ed="#N" n="20"/>obscure reuelatis in hoc enim solummodo 
+      distin<lb ed="#N" n="21" break="no"/>guitur Theologia nostra a Theologia Beata, &amp; 
+      <lb ed="#N" n="22"/>per hoc formaliter constituitur in esse 
+      Theolo<lb ed="#N" n="23" break="no"/>gie nostrae, idest in esse Theologiae quasi 
+      subal<lb ed="#N" n="24" break="no"/>ternatae ipsi Theologiae Beatae: hoc enim 
+      essen<lb ed="#N" n="25" break="no"/>tialiter importat Theologia nostra considerata. 
+      <lb ed="#N" n="26"/>prout distinguitur a Theologia Beata; etenim si 
+      <lb ed="#N" n="27"/>non consideretur, prout distincta ab illa, iam non 
+      <lb ed="#N" n="28"/>consideratur, vt Theologia nostra, sed vel 
+      vt<lb ed="#N" n="29" break="no"/>Theologia Beata, vel vt communis Theologiae 
+      <lb ed="#N" n="30"/>nostrae, &amp; Beatae, &amp; sic non est amplius 
+      prae<lb ed="#N" n="31" break="no"/>seus difficultas, quae procedit de 
+      Theologia<lb ed="#N" n="32" break="no"/>nostra tantum; &amp; cum tandem circa obscure 
+      re<lb ed="#N" n="33" break="no"/>quelata formaliter versetur Fides, manifeste 
+      se<lb ed="#N" n="34" break="no"/>quitur, quod deficiente Fide deficit habitus 
+      for<lb ed="#N" n="35" break="no"/>maliter tendens circa obscure reuelata; Fides 
+      <lb ed="#N" n="36"/>enim est non apparentium ex Apost; &amp; per 
+      con<lb ed="#N" n="37" break="no"/>sequens deficit ratio obscure reuelati; destructo 
+      <lb ed="#N" n="38"/>enim habitu destruitur Obiectum, quod est illius 
+      <lb ed="#N" n="39"/>correlatiuum; &amp; destructa ratione obscure 
+      reue<lb ed="#N" n="40" break="no"/>lati. destruitur ratio formalis costitutiua 
+      Theo<lb ed="#N" n="41" break="no"/>logiae nostre. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e348">
+                  <lb ed="#N" n="42"/> Fides autem, prout spectat ad praesens, 
+      <lb ed="#N" n="43"/>duplex est, alia Diuina a Deo Diuinitus infusa; 
+      <lb ed="#N" n="44"/>&amp; alia humana, quae acquiritur per assensum 
+      hu<lb ed="#N" n="45" break="no"/>manum, quem praestamus Libris Scripturarum 
+      <lb ed="#N" n="46"/>Diuinarum: in hoc autem distinguitur Fides 
+      Di<lb ed="#N" n="47" break="no"/>uina ab humana, quod Fides Diuina importat  
+      <lb ed="#N" n="48"/>infallibilitate simpliciter, quia importat 
+      aucto<lb ed="#N" n="49" break="no"/>ritatem Dei dicentis, qui non potest fallere, nec 
+      <lb ed="#N" n="50"/>falli; Humana autem importat fallibilitate; quia 
+      <lb ed="#N" n="51"/>innititur auctoritati hominis, cui potest inesse 
+      <lb ed="#N" n="52"/>mendacium iuxta illud: Omnis homo mendax 
+      <lb ed="#N" n="53"/>Ex hoc enascitur, quod eidem propositioni 
+      re<lb ed="#N" n="54" break="no"/>quelatae possumus assentiri nedum per Fidem 
+      Di<lb ed="#N" n="55" break="no"/>uinam, quatenus scilicet a Deo est reuelata, sed  
+      <lb ed="#N" n="56"/>etiam per Fidem humanam, scilicet vel 
+      quate<lb ed="#N" n="57" break="no"/>nus eam docent homines magnae auctoritatis in 
+      <lb ed="#N" n="58"/>scientiis, vel quia non repugnat alijs Scripturis, 
+      <lb ed="#N" n="59"/>vel quia est rationi consona, ivel propter aliud 
+      <lb ed="#N" n="60"/>motiuum humanum. 
+      <!--127.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>4 Certum est in Haeretico discredente 
+      ali<lb ed="#N" n="62" break="no"/>quem articulum Fidei non remanere Fidem 
+      <lb ed="#N" n="63"/>Diuinam, quia per peccatum infidelitatis 
+      tolli<lb ed="#N" n="64" break="no"/>tur Fides, ve suo loco ostendemus, habetur enim 
+      <lb ed="#N" n="65"/>Iac. 2. Quicunque autem totam legem seruauerit, 
+      <lb ed="#N" n="66"/>offendat autem in unosfactus est omnium reus; 
+      vn<lb ed="#N" n="67" break="no"/>de nedum non habet Fidem Diuinam illi 
+      arti<lb ed="#N" n="68" break="no"/>culo, cui discredit, sed neque alijs articulis, 
+      qui<lb ed="#N" n="69" break="no"/>bus assentitur; &amp; ratio est, quia quauis credat 
+      il<lb ed="#N" n="70" break="no"/>los esse a Deo reuelatos, non tamen Diuina 
+      re<lb ed="#N" n="71" break="no"/>quelatio est ratio formalis ipsis assentiendi, sed  
+      <lb ed="#N" n="72"/>aliquod motiuum humanum, vt dictum est; nam 
+      <lb ed="#N" n="73"/>si Diuina reuelatio esset ratio assentiendi, 
+      assen<lb ed="#N" n="74" break="no"/>tiretur omnibus: non enim est ratio, cur potius 
+      <lb ed="#N" n="75"/>huic, quam illi assetiatur, cum Diuina reuelatio,  
+      <lb ed="#N" n="76"/>quantum est de se, sit ratio formalis 
+      assentiendi<lb ed="#N" n="77" break="no"/>omnibus equaliter: ergo, si assentiatur huic, &amp; non 
+      <lb ed="#N" n="78"/>illi, iam non Diuia reuelatio, sed aliquod 
+      mo<lb ed="#N" n="79" break="no"/>tiuum humanum, quod est ratio assentiendi 
+      po<lb ed="#N" n="80" break="no"/>tius huic, quam illi, est Haeretico ratio formalis 
+      <lb ed="#N" n="81"/>credendi, &amp; per consequens Fides, que 
+      inniti<lb ed="#N" n="82" break="no"/>tur tali motiuo, non est Diuina, sed Humana. 
+      Tum<lb ed="#N" n="83" break="no"/>quia ratio formalis assentiendi propositionibus 
+      <lb ed="#N" n="84"/>reuelatis constitutiua Fidei Diuinae est illa, qua 
+      <lb ed="#N" n="85"/>firmiter credimus propositionibus a Deo 
+      reue<lb ed="#N" n="86" break="no"/>latis eo prorsus modo, quo ab Ecclesia 
+      propo<lb ed="#N" n="87" break="no"/>nuntur credendae, &amp; non a quacunque Ecclesia, sed  
+      <lb ed="#N" n="88"/>ab Ecclesia Romana, cuius Caput est Summus 
+      <lb ed="#N" n="89"/>Pontifex verus Christi Vicarius, &amp; legitimus 
+      <lb ed="#N" n="90"/>Petri Successor, apud quem solummodo sunt 
+      <lb ed="#N" n="91"/>claues aperiendi, &amp; claudendi Hegnum Celorum, 
+      <lb ed="#N" n="92"/>&amp; summa potestas declarandi, ac definiendi res 
+      <lb ed="#N" n="93"/>Fidei iuxta illud Christi Domini Matt. 18. Si. 
+      <lb ed="#N" n="94"/>Ecclesiam non audierit, sit tibi velut Ethnicus; &amp; 
+      <lb ed="#N" n="95"/>Publicanus, propter quod Beatiss. Doct Aug. 
+      cona<lb ed="#N" n="96" break="no"/>tra Epist. Fundam. c. 5. ait: Ego Euangelio non 
+      cre<lb ed="#N" n="97" break="no"/>derem, nisi me Catholicae Ecclesiae commoueret 
+      au<lb ed="#N" n="98" break="no"/>ctorita sjergo Haereticus discredens aliquam de 
+      <lb ed="#N" n="99"/>finitionem Ecclesiae prolatam a Summo Pontia 
+      <lb ed="#N" n="100"/>fice de Sede non assentitur alijs articulis pert 
+      <lb ed="#N" n="101"/>dem Diuinam, sed per Fidem Humanam. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e485">
+                  <lb ed="#N" n="102"/>S Ex hac doctrina eruuntur duae validissime 
+      <lb ed="#N" n="103"/>rationes, quibus cuincitur Theologiam Catho, 
+      <lb ed="#N" n="104"/>dicam non remanere in Heretico. 1. est, quia non 
+      <lb ed="#N" n="105"/>remanet ratio formalis objectiua specificatiua, 
+      <lb ed="#N" n="106"/>&amp; distinctiua Theologiae nostrae Catholicae; &amp; 
+      <lb ed="#N" n="107"/>per consequens in habitu existente in intellectu 
+      <lb ed="#N" n="108"/>Haeretici desinit modus relatiuus, seu relatio 
+      se<lb ed="#N" n="109" break="no"/>cundum dici, quam dicit ad suum Obiectum sub 
+      <lb ed="#N" n="110"/>ipsius specificatiuum, patet autem, quod quaelis 
+      <lb ed="#N" n="111"/>bet scientia specificatur a modo relatiuo, quem 
+      <lb ed="#N" n="112"/>dicit ad suum Obiectum; &amp; quod iste modus 
+      re<lb ed="#N" n="113" break="no"/>latiuus, siue ordo, vel habitudo, vt alij vocant, 
+      <lb ed="#N" n="114"/>destruitur destructo Obiecto; quia ad nihil non 
+      <lb ed="#N" n="115"/>datur relatio, &amp; non ponitur, nisi posito suo 
+      ter<lb ed="#N" n="116" break="no"/>mino; vnde in Petro non ponitur paternitas, nisi 
+      <lb ed="#N" n="117"/>posito filio, aliter esset pater nihili, quod 
+      omni<lb ed="#N" n="118" break="no"/>no fatuum est; &amp; ideo destructo Obiecto formali 
+      <lb ed="#N" n="119"/>Theologiae Catholicae, destruitur quoque 
+      mo<lb ed="#N" n="120" break="no"/>dus relatiuus ad tale Obiectum, qui non ponitura 
+      <!--128.xml-->
+      <pb ed="#N" n="113"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>nisi posito tali Obiecto, &amp; per consequens 
+      de<lb ed="#N" n="2" break="no"/>struntur statim ratio formalis specificatiua talis 
+      <lb ed="#N" n="3"/>habitus; &amp; posito alio Obiecto formali, statim. 
+      <lb ed="#N" n="4"/>resultat in entitate illius habitus alius modus 
+      <lb ed="#N" n="5"/>relatiuus ad aliud Obiectum, &amp; per consequens. 
+      <lb ed="#N" n="6"/>ponitur specificatiuum alterius habitus; sed 
+      in<lb ed="#N" n="7" break="no"/>Haeretico discredente destruitur Obiectum 
+      for<lb ed="#N" n="8" break="no"/>male specificatiuum Theologiae nostrae, vt dictum 
+      <lb ed="#N" n="9"/>est; ergo in entitate habitus existentis in 
+      intel<lb ed="#N" n="10" break="no"/>lectu Haeretici, statim cessat ille modus relatiuus 
+      <lb ed="#N" n="11"/>ad tale Obiectum, &amp; per consequens statim 
+      de<lb ed="#N" n="12" break="no"/>struitur Theologia nostra, que per illum modum 
+      <lb ed="#N" n="13"/>specificatur, &amp; constituitur intrinseces sicuti 
+      per<lb ed="#N" n="14" break="no"/>rationalitatem specificatur intrinsece, &amp; 
+      consti<lb ed="#N" n="15" break="no"/>tuitur homo. Cum autem Hereticus reuertitur 
+      <lb ed="#N" n="16"/>ad Fidem, statim ponitur Obiectum Theologiae, &amp; 
+      <lb ed="#N" n="17"/>perconsequens statim resultat in entitate illius 
+      <lb ed="#N" n="18"/>habitus modus relatiuus specificatiuus 
+      Theo<lb ed="#N" n="19" break="no"/>logiae nostrae; sicuti posito filio statim resultat  
+      <lb ed="#N" n="20"/>paternitas in alio contermino. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e579">
+                  <lb ed="#N" n="21"/>Altera ratio est. Certitudo infallibilis est 
+      <lb ed="#N" n="22"/>de essentia Theologiae nostrae non minus, ac 
+      ob<lb ed="#N" n="23" break="no"/>scuritas, vt diximus q. 3. art. 5, sed ablata Fide 
+      <lb ed="#N" n="24"/>Diuina Theologia nostra non remanet amplius 
+      <lb ed="#N" n="25"/>infallibilis, quia nititur soli testimonio humano, 
+      <lb ed="#N" n="26"/>quod falli, &amp; fallere potest; ergo non remanet 
+      <lb ed="#N" n="27"/>Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e597">
+                  <lb ed="#N" n="28"/>Per istam fundatissimam doctrinam 
+      <lb ed="#N" n="29"/>quae ducitur ex motiuo communiter admisse 
+      <lb ed="#N" n="30"/>(sentiunt enim omnes cum Philosopho scientia 
+      <lb ed="#N" n="31"/>importare relationem mensurae, mensura autem 
+      <lb ed="#N" n="32"/>dicit relationem secundum dici ad mensuratum) 
+      <lb ed="#N" n="33"/>enitatur incogruitas dicendi aliquorum 
+      Recen<lb ed="#N" n="34" break="no"/>tiorum; inter quos est Ioca S. Thochic in resp. ad 
+      <lb ed="#N" n="35"/>confirm. 1arg. in controprope finem; Vbi ait; quod  
+      <lb ed="#N" n="36"/>ablata Fide in Haeretico, manent saltem ad 
+      breue<lb ed="#N" n="37" break="no"/>tempus duo habitus Theologiae specie diuersi; alter.  
+      <lb ed="#N" n="38"/>quiprius erat ex Fide Catholica genitus, qui non 
+      <lb ed="#N" n="39"/>stuumeorrumpitur, alter, qui ab Haeretico 
+      genera<lb ed="#N" n="40" break="no"/>turm ex Fide acquisita; quauis hic Doct. loquatur  
+      <lb ed="#N" n="41"/>comparatiue, non absolute dicedo, quod potius 
+      <lb ed="#N" n="42"/>admitteret hoc, quam concederet vnum, &amp; 
+      cun<lb ed="#N" n="43" break="no"/>dem habitum Theologiae esse communem 
+      Ca<lb ed="#N" n="44" break="no"/>tholico, &amp; Haeretico. Caeterum Vtrunque 
+      abso<lb ed="#N" n="45" break="no"/>lute est negandum; si enim non manet Fides, &amp; 
+      <lb ed="#N" n="46"/>sumen Fidei; quomodo ex Fide, &amp; ex lumine. 
+      <lb ed="#N" n="47"/>fidei potest deducere suas conclusiones, si 
+      Fi<lb ed="#N" n="48" break="no"/>demmon habet, &amp; lumen Fidei extinctum est: Et  
+      <lb ed="#N" n="49"/>figertitudo Theologiae est essentialiter 
+      infalli<lb ed="#N" n="50" break="no"/>bilis, vt ait secunda ratio, quomodo potest 
+      mu<lb ed="#N" n="51" break="no"/>nere Theologia per breue tempus, si pro eo tunc 
+      <lb ed="#N" n="52"/>non manet Fides, a qua infallibilitatem suae 
+      cer<lb ed="#N" n="53" break="no"/>titudinis praecise deriuat? His not. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e657">
+                  <lb ed="#N" n="54"/>S Vnica conclusio. In Haeretico non manet 
+      <lb ed="#N" n="55"/>Theologia Catholica; sed ille habitus, quo 
+      di<lb ed="#N" n="56" break="no"/>scutrit circa res Fidei, quibus assentitur, est 
+      ha<lb ed="#N" n="57" break="no"/>bitus pure humanus fundatus tantum super 
+      Fi<lb ed="#N" n="58" break="no"/>dem humanam. Prob. ex Beatiss. Dect. Aug. lib. 
+      <lb ed="#N" n="59"/>Hde Trin. c. 1. vbi ait; Huic scientiae tribui debet, 
+      <lb ed="#N" n="60"/>non, quidquid ab homine sciri potest in rebus hu¬ 
+      <!--128.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>manis, sed illud tantummodo, quo Fides 
+      saluberri<lb ed="#N" n="62" break="no"/>ma, quae ad veram Beatitudinem ducit, gignitur,  
+      <lb ed="#N" n="63"/>nutritur, &amp; roboratur. Et contra Epist. Fundam. 
+      <lb ed="#N" n="64"/>c. 19. Ego Catholicam Fide profiteor, &amp; per illam 
+      <lb ed="#N" n="65"/>me ad certam scientiam peruenturum esse 
+      praesu<lb ed="#N" n="66" break="no"/>mo. Ex 1. auctoritate formatur haec ratio. 
+      Theo<lb ed="#N" n="67" break="no"/>logia nostra est tantum de his, quae Fidem 
+      nu<lb ed="#N" n="68" break="no"/>triunt, &amp; roborant; sed Theologia haeretica est: 
+      <lb ed="#N" n="69"/>de his, que Fidem euertunt, &amp; destruunt, quia 
+      <lb ed="#N" n="70"/>supponit Infidelitatem, ex qua procedit, &amp; 
+      per<lb ed="#N" n="71" break="no"/>quam tollitur Fides; ergo in Haeretico non 
+      ma<lb ed="#N" n="72" break="no"/>net Theologia nostra. Ex 2. auctoritate sic 
+      ar<lb ed="#N" n="73" break="no"/>guitur. Implicat haberi scientiam sine lumine. 
+      <lb ed="#N" n="74"/>vt patet de Visione Beata, quae sine lumine 
+      ha<lb ed="#N" n="75" break="no"/>beri non potest, &amp; de scientiis naturalibus, quae 
+      <lb ed="#N" n="76"/>sine lumine naturali nequeunt consistere; sunt  
+      <lb ed="#N" n="77"/>enim euidentes, &amp; euidentia habetur 
+      formali<lb ed="#N" n="78" break="no"/>ter a lumine, sed lumen Theologie nostrae est 
+      lu<lb ed="#N" n="79" break="no"/>men Fidei Diuinae; ergo destructa Fide 
+      desirui<lb ed="#N" n="80" break="no"/>tur nostra Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e722">
+                  <lb ed="#N" n="81"/>V Prob. 2. Destructa ratione formali 
+      consti<lb ed="#N" n="82" break="no"/>tutiua, &amp; distinctiua rei non manet ipsa res; sed  
+      <lb ed="#N" n="83"/>in Heretico destruitur ratio formalis 
+      constituti<lb ed="#N" n="84" break="no"/>na Theologiae Catholicae, quia destruitur 
+      mo<lb ed="#N" n="85" break="no"/>dus relatiuus ad suum objectum formale 
+      consti<lb ed="#N" n="86" break="no"/>turiuum, vt dictum est in 1. ratione superius 
+      al<lb ed="#N" n="87" break="no"/>lata; ergo non manet Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e740">
+                  <lb ed="#N" n="88"/>Prob. 3. altera ratione. Certitudo, &amp; 
+      incer<lb ed="#N" n="89" break="no"/>titudo variant habitum, vt patet de opinione, &amp; 
+      <lb ed="#N" n="90"/>scientia; sed Theologia nostra importat 
+      essentia<lb ed="#N" n="91" break="no"/>liter certitudinem infallibilem fundatam super 
+      <lb ed="#N" n="92"/>Fidem Diuinam existentem in nobis; Theologia 
+      <lb ed="#N" n="93"/>vero haeret ica non importat certitudinem 
+      in<lb ed="#N" n="94" break="no"/>fallibilem fundatam supra Fidem Diuinam, quia 
+      <lb ed="#N" n="95"/>Fides Diuina in Haeretico non existit, ergo 
+      <lb ed="#N" n="96"/>Theologia haeretica est diuerse rationis a 
+      Theo<lb ed="#N" n="97" break="no"/>logia Catholica. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e764">
+                  <lb ed="#N" n="98"/>Conf. Si proponatur alicui Idiotae 
+      propo<lb ed="#N" n="99" break="no"/>positio aliunde certa, illi assentietur opinatiue, 
+      <lb ed="#N" n="100"/>&amp; forsan dissentietur; quia etsi illa propositio sit. 
+      <lb ed="#N" n="101"/>certa secundum se, ei tamen non constat de 
+      il<lb ed="#N" n="102" break="no"/>ius certitudine, ac propterea de illa potest 
+      du<lb ed="#N" n="103" break="no"/>bitare, &amp; opinari, ergo quanuis propositiones 
+      <lb ed="#N" n="104"/>reuelatae sint certae secundum se, haereticus 
+      ta<lb ed="#N" n="105" break="no"/>men de illis potest dubitare, &amp; opinari; quia 
+      ni<lb ed="#N" n="106" break="no"/>titur motiuo humano, quod non est infallibile 
+      <lb ed="#N" n="107"/>simpliciter: imo potest eas negare, sicuti negat,  
+      <lb ed="#N" n="108"/>illas propositiones, quibus dissentitur; sed 
+      Idio<lb ed="#N" n="109" break="no"/>ta opinans de tali propositione, non dicitur 
+      ha<lb ed="#N" n="110" break="no"/>pere eundem habitum, quem habet 
+      Philoso<lb ed="#N" n="111" break="no"/>bhus certo cognoscens illam eandem 
+      proposi<lb ed="#N" n="112" break="no"/>tionem, aliter habitus opinatiuus esset idem 
+      <lb ed="#N" n="113"/>formaliter, ac habitus scientiae; ergo neque 
+      Hae<lb ed="#N" n="114" break="no"/>reticus dicitur habere eundem habitum, quem 
+      <lb ed="#N" n="115"/>habet Catholicus, quia non habet eandem 
+      cer<lb ed="#N" n="116" break="no"/>titudinem. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e808">
+                  <lb ed="#N" n="117"/>S Obiicies 1. Quotiescunque duo habitus 
+      <lb ed="#N" n="118"/>realiter distinguuntur, tunc destructo vno alter 
+      <lb ed="#N" n="119"/>remanet; vt patet de Mathematica, quae non 
+      pe<lb ed="#N" n="120" break="no"/>rit, etiamsi pereat Philosophia existens in eo¬  
+      <!--129.xml-->
+      <pb ed="#N" n="114"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>dem intellectu; sed Fides, &amp; Theologia realiter  
+      <lb ed="#N" n="2"/>distinguuntur, vt dictum est q. 2. art. 2; ergo 
+      de<lb ed="#N" n="3" break="no"/>structa Fide adhuc remanet Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e832">
+                  <lb ed="#N" n="4"/>Resp. dist. maiorem. Si illi duo habitus ita 
+      <lb ed="#N" n="5"/>se habeant, vtvnus sit fundamentum alterius, 
+      <lb ed="#N" n="6"/>neginam destructo fundamento destruitur 
+      pari<lb ed="#N" n="7" break="no"/>ter res fundata; si vnum non sit fundamentum 
+      <lb ed="#N" n="8"/>alterius, conc. Et eodem modo dist. minor; Fides 
+      <lb ed="#N" n="9"/>enim est fundamentum, supra quod fundatur 
+      es<lb ed="#N" n="10" break="no"/>sentialiter Theologia; sicuti habitus 
+      principio<lb ed="#N" n="11" break="no"/>rum est fundamentum scientiae; vnde 
+      quemad<lb ed="#N" n="12" break="no"/>modum pereunte habitu principiorum periret. 
+      <lb ed="#N" n="13"/>scientia, quae essentialiter habet procedere ex 
+      <lb ed="#N" n="14"/>per se notis, quae nequeunt esse per se nota, nisi 
+      <lb ed="#N" n="15"/>per habitum principiorum; ita a pari.¬ 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e862">
+                  <lb ed="#N" n="16"/>P Obijeies 2. Habitus, quo Haereticus 
+      as<lb ed="#N" n="17" break="no"/>sentitur articulis Fidei, quos credit, non est 
+      opi<lb ed="#N" n="18" break="no"/>natiuus, quia est sine formidine, &amp; sine 
+      dubita<lb ed="#N" n="19" break="no"/>tione; neque est scientificus naturalis, quia 
+      ver<lb ed="#N" n="20" break="no"/>satur circa propositiones reuelatas, quae sunt 
+      su<lb ed="#N" n="21" break="no"/>pernaturales, circa quas non versatur scientia. 
+      <lb ed="#N" n="22"/>naturalis; ergo est habitus Theologicus. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e880">
+                  <lb ed="#N" n="23"/>Resp. neg. 1. partem antecedetis. Ad prob. 
+      <lb ed="#N" n="24"/>insertam dicitur, quod est semper cum aliqua 
+      <lb ed="#N" n="25"/>formidine vel actuali, vel radicali; quia potest 
+      <lb ed="#N" n="26"/>dubitare de illis, an sint falsi, sicuti credit falsos 
+      <lb ed="#N" n="27"/>articulos, quos negat. Quod si Haereticus 
+      cre<lb ed="#N" n="28" break="no"/>dat se habere motiuum infallibile simpliciter,  
+      <lb ed="#N" n="29"/>tunc est habitus deceptiuus, quia non credit 
+      ex<lb ed="#N" n="30" break="no"/>motiuo Diuinae reuelationis, sed ex motiuo 
+      hu<lb ed="#N" n="31" break="no"/>mano, vt dictum est; &amp; per consequens 
+      decipi<lb ed="#N" n="32" break="no"/>tur, vt diximus ex Fundatiss. Doct. q. 3. art. 7. n. 3. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e904">
+                  <lb ed="#N" n="33"/>IO Obiicies 3. Quodl ibet tollitur tantum 
+      per<lb ed="#N" n="34" break="no"/>suum oppositum: nam quaelibet destructio est 
+      quae<lb ed="#N" n="35" break="no"/>dam corruptio, quae est a contrariis in contraria; 
+      <lb ed="#N" n="36"/>sed Infidelitas non opponitur Theologiae, sed  
+      <lb ed="#N" n="37"/>Fidei, sicuti Fidelitas non est idem cum 
+      Theolo<lb ed="#N" n="38" break="no"/>gia, secus omnis Fidelis esset Theologus, ergo 
+      <lb ed="#N" n="39"/>per Infidelitatem non tollitur Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e922">
+                  <lb ed="#N" n="40"/>Resp. dist. maiorem. Quodlibet tollitur 
+      per<lb ed="#N" n="41" break="no"/>suum oppositum vel directe, &amp; formaliter, vel 
+      <lb ed="#N" n="42"/>indirecte, &amp; materialiter, cone; tantum 
+      formali<lb ed="#N" n="43" break="no"/>ter directe, neg: nam licet dulcedo lactis non 
+      <lb ed="#N" n="44"/>opponatur directe calori ignis, opponitur 
+      ta<lb ed="#N" n="45" break="no"/>men indirecte, quatenus fundatur in frigiditate 
+      <lb ed="#N" n="46"/>lactis, quae directe opponitur calori; &amp; sic dicitur  
+      <lb ed="#N" n="47"/>ad minorem, quod Infidelitas opponitur 
+      indi<lb ed="#N" n="48" break="no"/>recte Theologiae, quatenus opponitur Fidei, 
+      <lb ed="#N" n="49"/>quae est fundamentum Theologiae. Ad id, quod  
+      <lb ed="#N" n="50"/>dicitur, quod Fidelitas non est idem, ac 
+      Theo<lb ed="#N" n="51" break="no"/>logia, resp; quod ex eo, quod Fides sit 
+      funda<lb ed="#N" n="52" break="no"/>mentum Theologiae, non arguitur, quod sit ide 
+      <lb ed="#N" n="53"/>sicuti ex eo, quod substantia sit fundamentum 
+      <lb ed="#N" n="54"/>accidentis, non arguitur, quod substantia sit 
+      ac<lb ed="#N" n="55" break="no"/>cidens, sed tantum, quod sine Fide nequit stare 
+      <lb ed="#N" n="56"/>Theologia; quia res fundata nequit stare sine 
+      <lb ed="#N" n="57"/>fundamento, cum posterius nequeat esse sine 
+      <lb ed="#N" n="58"/>priori; &amp; quod Fides potest stare sine 
+      Theolo<lb ed="#N" n="59" break="no"/>gia, quia fundamentum potest esse sine re 
+      fun<lb ed="#N" n="60" break="no"/>data, cum prius possit esse sine posteriori; &amp; per¬ 
+      <!--129.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>consequens omnis Theologus est Fidelis; non 
+      <lb ed="#N" n="62"/>tamen omnis Fidelis est Theologus. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e979">
+                  <lb ed="#N" n="63"/>II Obiicies 4. Theologia est habitus 
+      de<lb ed="#N" n="64" break="no"/>ductiuus conclusionum ex principiis Fidei, sed  
+      <lb ed="#N" n="65"/>in Haeretico manet habitus deductiuus 
+      conclu<lb ed="#N" n="66" break="no"/>sionum ex principiis Fidei; ergo in ipso manet 
+      <lb ed="#N" n="67"/>Theologia. Maior patet: nam Theologia 
+      distin<lb ed="#N" n="68" break="no"/>guitur a scientiis naturalibus eo, quia est 
+      dedu<lb ed="#N" n="69" break="no"/>ctiua conclusionum ex principiis Fidei, illae 
+      ve<lb ed="#N" n="70" break="no"/>ro ex principiis naturalibus. Prob. minor, 
+      Haere<lb ed="#N" n="71" break="no"/>ticus ex vno Articulo Fidei, cui assentitur, 
+      de<lb ed="#N" n="72" break="no"/>ducit alium Articulum, cui pariter assentituri 
+      <lb ed="#N" n="73"/>v.8. ex eo, quod Christus resurrexit, deducit,  
+      <lb ed="#N" n="74"/>quod etiam nos resurgemus. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1008">
+                  <lb ed="#N" n="75"/>Resp. dist. maiorem. Theologia est habitus 
+      <lb ed="#N" n="76"/>deductiuus ex principiis Fidei sub lumine Fidei, 
+      <lb ed="#N" n="77"/>&amp; prout ab auctoritate Ecclesiae infallibiliter 
+      <lb ed="#N" n="78"/>firmantur, cone; sub lumine naturali, &amp; praecisa 
+      <lb ed="#N" n="79"/>auctoritate Ecclesiae, neg. Et eodem modo dist? 
+      <lb ed="#N" n="80"/>minor; Haereticus enim non deducit per lumen 
+      <lb ed="#N" n="81"/>Fidei, quia in ipso tale lumen extinctum est; nec 
+      <lb ed="#N" n="82"/>ex motiuo Diuino, seu ex auctoritate Ecclesiae; 
+      <lb ed="#N" n="83"/>sed ex motiuo humano, vel quia id audiuit a 
+      <lb ed="#N" n="84"/>Doctoribus, vel quia sic arbitratur, &amp;c. Sic 
+      dici<lb ed="#N" n="85" break="no"/>tur ad prob, maioris, &amp; minoris: nam Theologia 
+      <lb ed="#N" n="86"/>distinguitur a scientiis naturalibus, quia 
+      proce<lb ed="#N" n="87" break="no"/>dit sub lumine Fidei: &amp; Haereticus ex 
+      resurre<lb ed="#N" n="88" break="no"/>ctione Christi, cui assentitur ex motiuo 
+      huma<lb ed="#N" n="89" break="no"/>no, deducit resurrectionem nostram. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1044">
+                  <lb ed="#N" n="90"/>I2. Obiicies 5. Amissa Fide non amittitur 
+      <lb ed="#N" n="91"/>statim Theologia; ergo saltem manet per 
+      ali<lb ed="#N" n="92" break="no"/>quod tempus. Prob. antecedens. Tum quia 
+      Hae<lb ed="#N" n="93" break="no"/>reticus amissa Fide retinet eandem facilitatem 
+      <lb ed="#N" n="94"/>discurrendi circa res Fidei. Tum quia quilibet 
+      <lb ed="#N" n="95"/>habitus ex repetitione tot actuum, tanto 
+      tem<lb ed="#N" n="96" break="no"/>pore, &amp; studio acquisitus nequit in instanti de 
+      <lb ed="#N" n="97"/>perdi; corruptio enim correspondet generationis, 
+      <lb ed="#N" n="98"/>ynde si generatio est temporanea, etiam 
+      cor<lb ed="#N" n="99" break="no"/>ruptio temporanea esse debet, vt Physica tot 
+      <lb ed="#N" n="100"/>actibus acquisita deperditur paulatim modo 
+      <lb ed="#N" n="101"/>circa hanc, modo citca illam conclusionem; 
+      er<lb ed="#N" n="102" break="no"/>go amissa Fide, quae deperditur in instanti, non 
+      <lb ed="#N" n="103"/>amittitur statim Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1077">
+                  <lb ed="#N" n="104"/>Conf.1. Implicat, quod vnico instanti, &amp; 
+      <lb ed="#N" n="105"/>ynico actu acquiratur habitus naturali modo 
+      <lb ed="#N" n="106"/>comparabilis; nam habitus naturali modo 
+      compa<lb ed="#N" n="107" break="no"/>rabilis fit ex frequentatis actibus, &amp; longo teporet. 
+      <lb ed="#N" n="108"/>sic enim definitur habitus acquisitus, sed 
+      Haere<lb ed="#N" n="109" break="no"/>ticus statim post haeresim reuertens ad Fidem 
+      <lb ed="#N" n="110"/>statim acquirit habitum Theologiae, quem prius 
+      <lb ed="#N" n="111"/>nabebat; quia acquirit Fidem, per quam potest. 
+      <lb ed="#N" n="112"/>deducere conclusiones, vt prius deducebat; ergo 
+      <lb ed="#N" n="113"/>in ipso manet Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1101">
+                  <lb ed="#N" n="114"/>Cons. 2. Apriuatione ad habitum non datur 
+      <lb ed="#N" n="115"/>regressus naturalis, sed Haereticus reuertens ad 
+      <lb ed="#N" n="116"/>Fidem, habet veram Theologiam; ergo quando 
+      <lb ed="#N" n="117"/>erat Fide priuatus, non erat priuatus Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1112">
+                  <lb ed="#N" n="118"/>Respondet Gonet Theologiam in 
+      Haereti<lb ed="#N" n="119" break="no"/>co remanere, sicut cadauer, quod adueniente 
+      Fi<lb ed="#N" n="120" break="no"/>de vinificatur. Caeterum haec responsio reiicitur? 
+      <!--130.xml-->
+      <pb ed="#N" n="115"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>a Io: a S. Tho; quia Theologia non est aliquod  
+      <lb ed="#N" n="2"/>compositum ex materia, &amp; forma, sed est 
+      sim<lb ed="#N" n="3" break="no"/>plex qualitas, sicut calor, qui totus destruitur? 
+      <lb ed="#N" n="4"/>nec remanet secundum partem materialem. 
+      <lb ed="#N" n="5"/>Nec est simile de Charitates nam Fides non est 
+      <lb ed="#N" n="6"/>forma Theologiae, sicut charitas est forma 
+      Fi<lb ed="#N" n="7" break="no"/>dei, aliter Theologia remaneret destructa Fide, 
+      <lb ed="#N" n="8"/>sicut remanet Fides amissa Charitate, sed est 
+      <lb ed="#N" n="9"/>fundamentum illius. Neque valet exemplum 
+      <lb ed="#N" n="10"/>de Prudentia respectu virtutum moralium; quia 
+      <lb ed="#N" n="11"/>Prudentia est regula tantum externa actuum. 
+      <lb ed="#N" n="12"/>aliarum virtutum, non autem fundamentum 
+      il<lb ed="#N" n="13" break="no"/>larum; vnde possunt remanere virtutes 
+      secun<lb ed="#N" n="14" break="no"/>dum substantiam absque Prudentia. Omissa 
+      igi<lb ed="#N" n="15" break="no"/>tur huius Recentis responsione. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1160">
+                  <lb ed="#N" n="16"/>Resp. 1. ad arg. neg. antecedens. Ad 1. probi 
+      <lb ed="#N" n="17"/>dist. assumptum. Remanet eade facilitas 
+      discur<lb ed="#N" n="18" break="no"/>rendi circa res Fidei sub lumine Fidei, &amp; 
+      ex<lb ed="#N" n="19" break="no"/>motiuo. Diuino, negi sub lumine naturali, &amp; 
+      ex<lb ed="#N" n="20" break="no"/>motiuo humano, conc. Ad 2. dist. antecedens. 
+      <lb ed="#N" n="21"/>Quilibet habitus acquisitus nequit deperdi 
+      in<lb ed="#N" n="22" break="no"/>initanti ratione sui conseruato ipsius 
+      fundamen<lb ed="#N" n="23" break="no"/>to, conc; destructo fundamento, in quo tantum 
+      <lb ed="#N" n="24"/>conseruatur, neg: nam frigiditas, quae est in 
+      li<lb ed="#N" n="25" break="no"/>igno, nequit expelli in instanti ratione sui, sed 
+      in<lb ed="#N" n="26" break="no"/>temporanea successione caloris; attamen si in 
+      in<lb ed="#N" n="27" break="no"/>stanti destruatur substatia ligni, destruitur quoque  
+      <lb ed="#N" n="28"/>ininstati frigiditas in ipsa fundata, sic si 
+      destrua<lb ed="#N" n="29" break="no"/>tur homo in instanti, destruuntur quoque in 
+      in<lb ed="#N" n="30" break="no"/>stanti omnes habitus illius. Ita quanuis habitus 
+      <lb ed="#N" n="31"/>Theologiae acquisitae nequeat deperdi in 
+      instan<lb ed="#N" n="32" break="no"/>ti secundum se, vt patet in Theologo Fidelis 
+      <lb ed="#N" n="33"/>omittente studium Theologicum; attamen si 
+      de<lb ed="#N" n="34" break="no"/>struatur Fides, quae est fundamentum illius, 
+      de<lb ed="#N" n="35" break="no"/>struitur in instanti, quia accidens nequit 
+      rema<lb ed="#N" n="36" break="no"/>nere sine suo subjecto proximo. Resp. 2. ad 
+      am<lb ed="#N" n="37" break="no"/>bas probationes. Remanet eadem facilitas cum 
+      <lb ed="#N" n="38"/>eodommodo relatiuo ad idem obiectum 
+      for<lb ed="#N" n="39" break="no"/>male, negi cum diuerso modo, conc; &amp; sic 
+      mo<lb ed="#N" n="40" break="no"/>dusgelatiuus non acquititur, &amp; deperditur in 
+      <lb ed="#N" n="41"/>instanti, nege entitas substracta illi modo 
+      rela<lb ed="#N" n="42" break="no"/>tiuo, conc. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1221">
+                  <lb ed="#N" n="43"/>Ad 1. confir. dist. maior. Implicat, quod 
+      <lb ed="#N" n="44"/>gmico actu acquiratur entitas habitus, per quam 
+      <lb ed="#N" n="45"/>eutenditur ad plures veritates sui objecti, 
+      conc<lb ed="#N" n="46" break="no"/>modus relatiuus, neg. Et sic dist, minor. Haeretis 
+      <lb ed="#N" n="47"/>cus rediens ad Fidem non acquirit vnico actu 
+      en<lb ed="#N" n="48" break="no"/>titatem habitus, conc; illa etim entitas remansit,  
+      <lb ed="#N" n="49"/>sed sub diuerso modo relatiuo specificatiuo 
+      di<lb ed="#N" n="50" break="no"/>uersi habitus formaliter sumpti; non acquirit 
+      <lb ed="#N" n="51"/>modum relatiuum specificatiuum Theologie, neg 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1244">
+                  <lb ed="#N" n="52"/>Ad2. dicitur illud Effatum verisicari 
+      tan<lb ed="#N" n="53" break="no"/>tum de formis absolutis, non de relatiuis, vel 
+      <lb ed="#N" n="54"/>habentibus modum relatiuum, nam paries 
+      al<lb ed="#N" n="55" break="no"/>bus, qui modo refertur ad alium parietem 
+      al<lb ed="#N" n="56" break="no"/>bum, si destruatur alius paries, deperdit 
+      relatio<lb ed="#N" n="57" break="no"/>nem; &amp; si iterum aedificetur, acquirit illam 
+      rela<lb ed="#N" n="58" break="no"/>tionem; &amp; in habitibus acquisitis hoc est 
+      manife<lb ed="#N" n="59" break="no"/>stum potest enim quis obliuisci, &amp; deperdere 
+      Phi<lb ed="#N" n="60" break="no"/>losophia, &amp; posteanono studio illa reacquirere. 
+      <!--130.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>13 Obiicies 6. Theologia est scietia 
+      natura<lb ed="#N" n="62" break="no"/>lis, quia naturaliter acquiritur; sed scientia 
+      na<lb ed="#N" n="63" break="no"/>turalis potest conseruari sine habitu 
+      supernatu<lb ed="#N" n="64" break="no"/>rali: nam Philosophia conseruatur sine Fidei 
+      <lb ed="#N" n="65"/>ergo Theologia manet amissa Fide. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1281">
+                  <lb ed="#N" n="66"/>Resp. dist. maiorem. Est naturalis quoad 
+      en<lb ed="#N" n="67" break="no"/>titatem, conc; quoad modum, neg. Vel est 
+      scie<lb ed="#N" n="68" break="no"/>tia naturalis necessario fundata super Fidem 
+      su<lb ed="#N" n="69" break="no"/>pernaturalem, conc; non fundata, neg. Et sic ad 
+      <lb ed="#N" n="70"/>minorem dicitur, quod scientia naturalis 
+      funda<lb ed="#N" n="71" break="no"/>ta super habitum supernaturalem nequit sine 
+      <lb ed="#N" n="72"/>ipso conseruari; quia destructo fundamento 
+      de<lb ed="#N" n="73" break="no"/>struitur res fundata, Philosophia autem non 
+      <lb ed="#N" n="74"/>fundatur supra Fidem, &amp; ideo sine ipsa potest. 
+      <lb ed="#N" n="75"/>conseruari. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1305">
+                  <lb ed="#N" n="76"/>I4. Obiicies 7. Theologia nostra remanet 
+      <lb ed="#N" n="77"/>in Patria, vbi amittitur Fides; ergo amissa Fide. 
+      <lb ed="#N" n="78"/>non amittitur Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1314">
+                  <lb ed="#N" n="79"/>Resp. neg. antecedens, vt videbimus 
+      in<lb ed="#N" n="80" break="no"/>seq. art. Caeterum etiam omisso antecedente. 
+      <lb ed="#N" n="81"/>dist. consequens. Amissa Fide non amittitur 
+      <lb ed="#N" n="82"/>Theologia, si tamen fundetur super aliud lumen 
+      <lb ed="#N" n="83"/>supernaturale, vt est lumen Gloriae, conc; si 
+      nul<lb ed="#N" n="84" break="no"/>lum sit lumen supernaturale, supra quod funde 
+      <lb ed="#N" n="85"/>tur, vt in Haeretico, neg. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g32199-Dd1e1333">
+               <head xml:id="ccc7yd-g32199-Hd1e1335">Articulus 2</head>
+               <p xml:id="ccc7yd-g32199-d1e1337">
+                  <lb ed="#N" n="86"/>ART. II 
+      <lb ed="#N" n="87"/>An Theologia nostra duret in Patria? 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1344">
+                  <lb ed="#N" n="88"/>QVoniam Tempori succedit Aeternitas, 
+      <lb ed="#N" n="89"/>Pideo postquam egimus de temporanea 
+      <lb ed="#N" n="90"/> duratione Theologie in Via, 
+      agen<lb ed="#N" n="91" break="no"/>dum est de illius aeterna duratione in Patria. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1355">
+                  <lb ed="#N" n="92"/>I Supponimus aliquos habitus manere in 
+      <lb ed="#N" n="93"/>Patria tantum quoad ornatum, non quoad 
+      exer<lb ed="#N" n="94" break="no"/>citium, alios vero manere quoad ornatum, &amp; 
+      <lb ed="#N" n="95"/>quoad exercitium, alios tandem non manere 
+      <lb ed="#N" n="96"/>quoad ornatum, nec quoad exercitium. Illi 
+      ma<lb ed="#N" n="97" break="no"/>nent tantum quoad ornatum, quorum objectum 
+      <lb ed="#N" n="98"/>formale non habet oppositionem cum statu 
+      Pa<lb ed="#N" n="99" break="no"/>triae; exercitium tamen, seu actualis operatio 
+      <lb ed="#N" n="100"/>repugnat statui Beato; vt virtus Temperantiae 
+      <lb ed="#N" n="101"/>&amp; Fortitudinis, quarum obiecta non pugnant 
+      <lb ed="#N" n="102"/>cum statu Patriae, versantur enim circa partem 
+      <lb ed="#N" n="103"/>sensitiuam, vt ait Fundatiss. Doct. lib. 1. de Regim. 
+      <lb ed="#N" n="104"/>Princip. p. 2. c. 133 &amp; 15, pars autem sensitiua. 
+      <lb ed="#N" n="105"/>manet in Patria; attamen; quia in Patria sensitiua. 
+      <lb ed="#N" n="106"/>est indefectibilis, ideo repugnat illi statui 
+      poni<lb ed="#N" n="107" break="no"/>actus Temperantiae, &amp; Fortitudinis, qui 
+      essen<lb ed="#N" n="108" break="no"/>tialiter ordinantur ad regulandam partem 
+      sen<lb ed="#N" n="109" break="no"/>sitiuam, ne deficiat, &amp; retrahatur a recta 
+      ratio<lb ed="#N" n="110" break="no"/>ne. Illi habitus manent quoad ornatum, &amp; quo- 
+      <lb ed="#N" n="111"/>ad exercitium, quorum objecta, &amp; actus non 
+      <lb ed="#N" n="112"/>pugnant cum statu Patriae; vt Charitas, cuius 
+      <lb ed="#N" n="113"/>objectum est Deus, vt summe bonus, &amp; cuius 
+      <lb ed="#N" n="114"/>actus est amor, qui maxime conuenit Beatis. Illi  
+      <lb ed="#N" n="115"/>vero non manent quoad ornatum, nec quoad 
+      <lb ed="#N" n="116"/>exercitium, quorum objecta, &amp; actus pugnant 
+      <lb ed="#N" n="117"/>cum statu Patriae, vt Fides, &amp; Spes; cum enim 
+      <lb ed="#N" n="118"/>Fides habeat pro objecto Deum non visum, &amp; 
+      <lb ed="#N" n="119"/>eius actus sit obscure credere; Spes vero Deum 
+      <!--131.xml-->
+      <pb ed="#N" n="116"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>non possessum, &amp; eius actus sit appetere 
+      posses<lb ed="#N" n="2" break="no"/>sionem ipsius; Status vero Patriae essentialiter  
+      <lb ed="#N" n="3"/>importet Deum clare visum, &amp; possessum, ideo 
+      <lb ed="#N" n="4"/>objecta, &amp; actus earum pugnant cum statu 
+      Pa<lb ed="#N" n="5" break="no"/>triae; &amp; quia non manentibus objectis 
+      formali<lb ed="#N" n="6" break="no"/>bus non manent habitus, qui ab illis 
+      specifican<lb ed="#N" n="7" break="no"/>tur, ideo in Patria non manent.  
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1440">
+                  <lb ed="#N" n="8"/>Prima sentetia arbitratur Theologiam no¬n 
+      <lb ed="#N" n="9"/>stram hic in Via acquisitam manere in Patria 
+      <lb ed="#N" n="10"/>quantum ad ornatum, &amp; exercitium eandem 
+      <lb ed="#N" n="11"/>omnino secundum numerum, quanuis longe 
+      <lb ed="#N" n="12"/>perfectior sit in Patria, quam ii Via; ista tamen 
+      <lb ed="#N" n="13"/>maior perfectio non variat essetiam illius 
+      substa<lb ed="#N" n="14" break="no"/>tialiter, sed tantum accidentaliter. Ita Calet. art. 2. 
+      <lb ed="#N" n="15"/>8S. Quoad secundum, licet explicas illud Apost; 
+      Scie<lb ed="#N" n="16" break="no"/>tia destruetur; contrarium docuerit; vt notat 
+      La<lb ed="#N" n="17" break="no"/>fosse; Ban. ibid. dub. 23 &amp; 3: Nauarr, controu. 32. 
+      <lb ed="#N" n="18"/>Congal. disp. 1. n. 9, Ioca S. Tho: q. 1. disp. 3. art. 5. 
+      <lb ed="#N" n="19"/>8. Circa secundum punctum, Gonet art. 2. conc. 2. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1470">
+                  <lb ed="#N" n="20"/>Secunda sententia docet Theologiam 
+      no<lb ed="#N" n="21" break="no"/>stram penitus cuacuari per aduentum 
+      Theolo<lb ed="#N" n="22" break="no"/>giae Beate, quae est Visio clara Dei. Ita Fundatiss. 
+      <lb ed="#N" n="23"/>Doct. in 2. sent. dist. 21. q. 1. art, 1. dub. 2. lat; Ubi  
+      <lb ed="#N" n="24"/>ait: Cum peruentum est ad scire, quod est proprium, 
+      <lb ed="#N" n="25"/>Theologiae, non vtendo tanquam Domina alij: 
+      <lb ed="#N" n="26"/>scientiys, non dicemus, scio, sed credo; nec video, 
+      <lb ed="#N" n="27"/>sed audio. Nunc ergo credimus, sed in Patria 
+      <lb ed="#N" n="28"/>sciemus; nunc audimus, sed in Patria videhimus. 
+      <lb ed="#N" n="29"/>Hanc sententiam sequuntur ex nostris Greg. q. 2. 
+      <lb ed="#N" n="30"/>Prol art. 2, Caelestinus Brunus, Gibbon; Lafosse 
+      <lb ed="#N" n="31"/>q. 1. 6. 5; qui referunt ex exteris Capreol; Zum; 
+      <lb ed="#N" n="32"/>Vasque Gill; &amp; alios; pro quo- 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1501">
+                  <lb ed="#N" n="33"/> Not. est nos hic loqui de Theologia 
+      no<lb ed="#N" n="34" break="no"/>stra, prout distinguitur a Theologia Beatorum: 
+      <lb ed="#N" n="35"/>non prout est eadem cum illa, aut prout est 
+      con<lb ed="#N" n="36" break="no"/>munis Theologiae nostrae, &amp; Theologiae 
+      Beato<lb ed="#N" n="37" break="no"/>rum, vt diximus in sup. ari. n. 2. Theologia 
+      au<lb ed="#N" n="38" break="no"/>te nostra in hoc formaliter distinguitur a 
+      Theo<lb ed="#N" n="39" break="no"/>logia Beatorum, quod haec est ex creditis 
+      sub<lb ed="#N" n="40" break="no"/>lumine Fidei obscuro, articuli enim Fidei sunt:  
+      <lb ed="#N" n="41"/>illius principia, vt etiam fatentur Aduersarij: 
+      <lb ed="#N" n="42"/>illa vero est ex visis sub lumine claro. Ex quo 
+      <lb ed="#N" n="43"/>sequitur, quod Theologia nostra necessario 
+      Fi<lb ed="#N" n="44" break="no"/>dem inuoluit, quia versatur circa illius 
+      princi<lb ed="#N" n="45" break="no"/>pia, &amp; illius lumine vtitur; &amp; ideo cum in Patria 
+      <lb ed="#N" n="46"/>non remaneat Fides, neque lumen obscurum 
+      <lb ed="#N" n="47"/>neque illius principia, manifeste deducitur 
+      ne<lb ed="#N" n="48" break="no"/>que manere Theologiam nostram; quia 
+      impli<lb ed="#N" n="49" break="no"/>cat manere aliquam scientiam non manentibus. 
+      <lb ed="#N" n="50"/>illius principiis, ex quibus essentialiter deducit  
+      <lb ed="#N" n="51"/>suas conclusiones; &amp; eius lumine, quo 
+      necessa<lb ed="#N" n="52" break="no"/>rio vtitur; &amp; eius objecto formali, a quo 
+      essen<lb ed="#N" n="53" break="no"/>tialiter specificatur; deficientibus enim his, vel 
+      <lb ed="#N" n="54"/>vno ex istis impossibile est manere Scientiam, 
+      ve<lb ed="#N" n="55" break="no"/>diximus in sup. art. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1553">
+                  <lb ed="#N" n="56"/> Aduersarij, vt tueantur subalternationem 
+      <lb ed="#N" n="57"/>Theologiae nostrae, illius permanentiam in 
+      Pa<lb ed="#N" n="58" break="no"/>tria substinere conantur, non aduertentes, quod  
+      <lb ed="#N" n="59"/>quantum concordant doctrinae traditae de 
+      sub<lb ed="#N" n="60" break="no"/>alternatione, tantum discordant coctrinae tradi¬ 
+      <!--131.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>tae de lumine, seu de ratione sub qua, quam 
+      di<lb ed="#N" n="62" break="no"/>cut esse specificatiuam Theologiae, &amp; de 
+      perma<lb ed="#N" n="63" break="no"/>nentia Theologiae in Haeretico, in quo dicunt  
+      <lb ed="#N" n="64"/>non manere, quia non manet Fides, nec lume n 
+      <lb ed="#N" n="65"/>nec Objectum formale, nec ratio sub qua, quae 
+      <lb ed="#N" n="66"/>est reuelatio supernaturalis obscura, Igitur duo 
+      <lb ed="#N" n="67"/>dicunt, quae inter se dissonare videntur. Primum. 
+      <lb ed="#N" n="68"/>est Theologiam in Patria ex principiis cognitis 
+      <lb ed="#N" n="69"/>per lumen Gloriae deducere conclusiones 
+      per<lb ed="#N" n="70" break="no"/>umen naturale. Secundum est in Patria manere 
+      <lb ed="#N" n="71"/>formaliter discursum, quatenus ex clare visis 
+      de<lb ed="#N" n="72" break="no"/>ducit conclusiones per lumen naturale, &amp; 
+      ratio<lb ed="#N" n="73" break="no"/>ne discursus nituntur ibi figere Theologiam 
+      <lb ed="#N" n="74"/>Videantur Gonet hic in 3 not; &amp; loc aS. Tho: 
+      n<lb ed="#N" n="75" break="no"/>193 &amp; 20. Haec autem quomodo possint inter 
+      se<lb ed="#N" n="76" break="no"/>cohaerere, sic declaramus 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1605">
+                  <lb ed="#N" n="77"/>Dissonantia ergo horum sic ostenditur. 
+      No<lb ed="#N" n="78" break="no"/>ster intellectus nequit deducere conclusiones, 
+      <lb ed="#N" n="79"/>nisi cognoscendo vnionem subjecti cum 
+      praedi<lb ed="#N" n="80" break="no"/>cato conclusionis deductae; ista autem vnto nihil 
+      <lb ed="#N" n="81"/>aliud est, quam medius terminus, qui habet vim 
+      <lb ed="#N" n="82"/>vniendi duas extremitates, quae sunt subjectum, 
+      <lb ed="#N" n="83"/>&amp; praedicatum conclusionis. Verum ista vnio 
+      <lb ed="#N" n="84"/>potest dupliciter intelligi, vel omnino 
+      materia<lb ed="#N" n="85" break="no"/>iter, prout est nexus plurium vocum 
+      praescin<lb ed="#N" n="86" break="no"/>dendo a rebus significatis per voces; vel 
+      forma<lb ed="#N" n="87" break="no"/>liter, prout cognoscuntur res significatae per 
+      vo<lb ed="#N" n="88" break="no"/>ces . Vnio terminorum omnino materialiter 
+      <lb ed="#N" n="89"/>sumptorum cognoscitur quidem per lumen 
+      na<lb ed="#N" n="90" break="no"/>turale, sed dicere, quod in Patria intellectus 
+      de<lb ed="#N" n="91" break="no"/>ducat conclusionem cognoscendo vnionem tera 
+      <lb ed="#N" n="92"/>minorum materialiter sumptorum, est dicere, 
+      <lb ed="#N" n="93"/>quod in Patria maneat Logica, non Theologia; 
+      <lb ed="#N" n="94"/>quia Logica versatur circa terminos omnina 
+      <lb ed="#N" n="95"/>materialiter sumptos, non autem, circa res 
+      for<lb ed="#N" n="96" break="no"/>maliter significatas per illas voces. UVnio autem 
+      <lb ed="#N" n="97"/>rerum significatarum per voces, circa quam vera 
+      <lb ed="#N" n="98"/>satur Theologia, est omnino supernaturalis, quia 
+      <lb ed="#N" n="99"/>res significatae per voces sunt omnino superna 
+      <lb ed="#N" n="100"/>turales, quod sic demonstratur. Quado vna prae 
+      <lb ed="#N" n="101"/>missa naturalis vnitur propositioni supernatura; 
+      <lb ed="#N" n="102"/>li, tunc praemissa naturalis per talem vnionem 
+      <lb ed="#N" n="103"/>eleuatur, &amp; sit supernaturalis, &amp; cognoscitur in 
+      <lb ed="#N" n="104"/>lumine supernatura li Fidei, vt docent etiam Ad 
+      <lb ed="#N" n="105"/>quersarij; inter quos Ioca S. Thosq. 1. disp. 2. artg 
+      <lb ed="#N" n="106"/>n. 5: &amp; in resp. ad arg; ergo illa vnio est superna 
+      <lb ed="#N" n="107"/>turalis, aliter praemissa naturalis fieret superna 
+      <lb ed="#N" n="108"/>turalis per aliquod naturale, &amp; sic effectus 
+      exce<lb ed="#N" n="109" break="no"/>deret causam; sed id, quod est supernatur ale, 
+      ne<lb ed="#N" n="110" break="no"/>quit cognosci per lumen naturale, vt docent 
+      <lb ed="#N" n="111"/>etiam ipsi Aduersarij; ergo per lumen naturale 
+      <lb ed="#N" n="112"/>nequit deduci conclusio ex principiis 
+      superna<lb ed="#N" n="113" break="no"/>turalibus cuidenter cognitis, quia per lumen 
+      <lb ed="#N" n="114"/>naturale nequit cognosci formaliter vnio 
+      prae<lb ed="#N" n="115" break="no"/>dicati cum subiecto. Tum quia non minus est 
+      su<lb ed="#N" n="116" break="no"/>bernaturalis conclusio deducta ex duabus 
+      prae<lb ed="#N" n="117" break="no"/>missis supernaturalibus, quam sit supernaturalis 
+      <lb ed="#N" n="118"/>praemissa vnita propositioni supernaturali; 
+      quia<lb ed="#N" n="119" break="no"/>non minus vnitur coclusio cum praemissis, quam 
+      <lb ed="#N" n="120"/>vna praemissa cum altera, aliter si non esset vnita 
+      <!--132.xml-->
+      <pb ed="#N" n="117"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ex ipsis non posset deduci, deducitur enim 
+      for<lb ed="#N" n="2" break="no"/>maliter ratione vmionis, sed praemissa naturalis 
+      <lb ed="#N" n="3"/>ex eo, quod vnitur alteri praemissae 
+      supernatura<lb ed="#N" n="4" break="no"/>li, cognoscitur per Aduersarios per lumen 
+      iu<lb ed="#N" n="5" break="no"/>pernaturale; ergo &amp; conclusio deducta eo, quia 
+      <lb ed="#N" n="6"/>vnita, debet cognosci per lumen supernaturale, 
+      <lb ed="#N" n="7"/>non per lumen naturale. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1725">
+                  <lb ed="#N" n="8"/>Praeterea. Si in Patria Theologia per 
+      lu<lb ed="#N" n="9" break="no"/>men naturale deduceret suas conclusiones 
+      ex<lb ed="#N" n="10" break="no"/>principiis cuidenter cognitis per lumen Gloris 
+      <lb ed="#N" n="11"/>sequeretur, quod etiam in Via Theologia per 
+      <lb ed="#N" n="12"/>lumen naturale deduceret suas conclusiones ex 
+      <lb ed="#N" n="13"/>principiis obscure cognitis per lumen Fidei: nam 
+      <lb ed="#N" n="14"/>sicuti lumen Gloriae extenditur ad solas prae 
+      <lb ed="#N" n="15"/>missas euidenter illas manifestando, &amp; ex illis 
+      <lb ed="#N" n="16"/>sic manifestatis intellectus per lumen naturale 
+      <lb ed="#N" n="17"/>potest deducere conclusionem Theologicam, 
+      <lb ed="#N" n="18"/>ita lumen Fidei extenderetur ad solas premissa: 
+      <lb ed="#N" n="19"/>renelatas obscure, &amp; ex illis obscure reuelatis 
+      <lb ed="#N" n="20"/>posset intellectus per lumen naturale obscure 
+      <lb ed="#N" n="21"/>inferre conclusionem: nulla enim potest 
+      assigna<lb ed="#N" n="22" break="no"/>ri rationabilis disparitas, sed in Via Theologia 
+      <lb ed="#N" n="23"/>non deducit conclusiones per lumen naturale, 
+      <lb ed="#N" n="24"/>aliter non vteretur lumine Fidei, Theologia 
+      <lb ed="#N" n="25"/>enim est habitus conclusionum formaliter, vt 
+      fa<lb ed="#N" n="26" break="no"/>tentur Aduersarij; ergo neque in Patria. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1769">
+                  <lb ed="#N" n="27"/>Ex his apparent quatuor contradictiones. 
+      <lb ed="#N" n="28"/>1. est, quod conclusio deducta ex praemissis sua 
+      <lb ed="#N" n="29"/>pernaturalibus sit supernaturalis, vt fatetur 
+      Ad<lb ed="#N" n="30" break="no"/>uersarij; &amp; non sit supernaturalis eo, quia 
+      cogno<lb ed="#N" n="31" break="no"/>scitur per lumen naturale. 2. est, quod 
+      Theolo<lb ed="#N" n="32" break="no"/>gia, vtatur, &amp; non vtatur lumine supernaturalis 
+      <lb ed="#N" n="33"/>imdeducendis suis conclusionibus. 3. est, quod 
+      <lb ed="#N" n="34"/>vna propositio ex vnione ad propositionem 
+      su<lb ed="#N" n="35" break="no"/>pernaturalem fiat supernaturalis, &amp; non fiat sua 
+      <lb ed="#N" n="36"/>pernaturalis. 4. est, quod per lumen naturale 
+      <lb ed="#N" n="37"/>non possit cognosci, &amp; possit cognosci aliquod 
+      <lb ed="#N" n="38"/>supernaturale. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1799">
+                  <lb ed="#N" n="39"/>Dices. Per lumen naturale cognosci vim 
+      <lb ed="#N" n="40"/>syllogisticam, quae naturalis est, non autem 
+      <lb ed="#N" n="41"/>cognosci res formaliter significatas per illas 
+      <lb ed="#N" n="42"/>voces. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1810">
+                  <lb ed="#N" n="43"/>Sed contra. Vis syllogistica consistit in 
+      <lb ed="#N" n="44"/>debita dispositione terminorum, sed circa 
+      dispo<lb ed="#N" n="45" break="no"/>sitionem debitam terminorum versatur Logica, 
+      <lb ed="#N" n="46"/>gedictum est; ergo hoc probat in Patria manero 
+      <lb ed="#N" n="47"/>ogieam, non Theologiam: nam ex eo, quod  
+      <lb ed="#N" n="48"/>logicus faciat aliquem syllogismum in materia 
+      <lb ed="#N" n="49"/>Thueologica, quanuis per lumen naturale 
+      co<lb ed="#N" n="50" break="no"/>gnoscat vim syllogisticam, non dicitur habere 
+      <lb ed="#N" n="51"/>Theologiam, quia non cognoscit res 
+      formali<lb ed="#N" n="52" break="no"/>ter significatas per illas voces ordinatas per 
+      <lb ed="#N" n="53"/>vim syllogisticam, 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1836">
+                  <lb ed="#N" n="54"/>Respondent Alij Theologiam nostram in 
+      <lb ed="#N" n="55"/>Patria cognoscere nedum principia, sed etiam 
+      <lb ed="#N" n="56"/>conelusiones per lumen Gloriae¬ 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1845">
+                  <lb ed="#N" n="57"/>Sed etiam haec responsio plures inuo luit. 
+      <lb ed="#N" n="58"/>contradictiones. 1. est, quia posset videri vnum 
+      <lb ed="#N" n="59"/>praedicatum Attributale non viso alio; nam 
+      dedu<lb ed="#N" n="60" break="no"/>ctio vnius praedicati Attributalis ex altero prae¬ 
+      <!--132.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>dicato Attributali necessario importat plures 
+      <lb ed="#N" n="62"/>cognitiones, per quarum vnam cognoscitur vnum 
+      <lb ed="#N" n="63"/>praedicatum, &amp; non cognoscitur aliud; quia si 
+      <lb ed="#N" n="64"/>per cognitionem praemissarum cognosceretur. 
+      <lb ed="#N" n="65"/>etiam conclusio, iam illa cognitio esset per 
+      mo<lb ed="#N" n="66" break="no"/>dum simplicissimi intuitus, non autem per 
+      di<lb ed="#N" n="67" break="no"/>scursum, qui essentialiter est cognitio unius ignoti 
+      <lb ed="#N" n="68"/>deducta ex cognitione alierius noti, hoc autem 
+      <lb ed="#N" n="69"/>contradicit ijs, quae docent Aduersarij in Tract 
+      <lb ed="#N" n="70"/>de Viss vbi asserunt non posse quiditatiue 
+      euide<lb ed="#N" n="71" break="no"/>ter cognosci vnum Attributum sine alio. 2. est; 
+      <lb ed="#N" n="72"/>quod Theologia nostra distingueretur, &amp; non 
+      <lb ed="#N" n="73"/>distingueretur a Theologia Beata, nam omnis 
+      <lb ed="#N" n="74"/>distinctio habetur a lumine, vel ab objecto; sed  
+      <lb ed="#N" n="75"/>esset idem lumen, &amp; idem objectum; ergo non 
+      <lb ed="#N" n="76"/>distingueretur, &amp; distingueretur. 3. est. 
+      Theolo<lb ed="#N" n="77" break="no"/>gia nostra, &amp; Theologia Beata esset vna, &amp; non 
+      <lb ed="#N" n="78"/>esset vnasnon esset vna, vt supponitur; esset vnas 
+      <lb ed="#N" n="79"/>quia vnitas secundum Aduersarios sumitur a 
+      <lb ed="#N" n="80"/>ratione formali sub qua; &amp; eadem esset ratio sub 
+      <lb ed="#N" n="81"/>qua Theologiae nostrae, &amp; Beatae, quia esset 
+      reue<lb ed="#N" n="82" break="no"/>latio euidens, &amp; clara¬ 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1908">
+                  <lb ed="#N" n="83"/>Dices, differre eo, quia Theologia nostra 
+      <lb ed="#N" n="84"/>cognoscit illas propositiones extra Deum 
+      <lb ed="#N" n="85"/>Theologia vero Beata in Deo. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1917">
+                  <lb ed="#N" n="86"/>Sed contra est; nam praedicatum Diuinum 
+      <lb ed="#N" n="87"/>reuelatum extra Deum non est cuidenter in 
+      se<lb ed="#N" n="88" break="no"/>ipso manifestatum, quia non existit, nisi in Deo. 
+      <lb ed="#N" n="89"/>in quo tantum potest videri; cum visio clara sit 
+      <lb ed="#N" n="90"/>ad objectum existens, prout existens in seipso 
+      <lb ed="#N" n="91"/>ergo esset obscure reuelatum, &amp; per consequens. 
+      <lb ed="#N" n="92"/>non esset manifestatum per lumen Gloriae. Igitur.  
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1936">
+                  <lb ed="#N" n="93"/> Vnica conclusio. Theologia nostra non 
+      <lb ed="#N" n="94"/>manet in Patria. Prob. 1. ex Apost. 1. Cor. 13. Siue 
+      <lb ed="#N" n="95"/>Prophetiae euacuabutur, siue Linguae cessabunt, siue 
+      <lb ed="#N" n="96"/>Scientia destruetur; &amp; rationem subdens ait: 
+      Cam<lb ed="#N" n="97" break="no"/>venerit, quod perfectum est, euacuabitur, quod 
+      ex<lb ed="#N" n="98" break="no"/>parte est, sed scientia, quae destruetur, nequit esse, 
+      <lb ed="#N" n="99"/>nisi Theologia, quia nequit esse Fides; Apostolus 
+      <lb ed="#N" n="100"/>enim loquitur de scientia, quae 
+      contradistingui<lb ed="#N" n="101" break="no"/>tur a Prophetia, &amp; per consequens a Fide; cum 
+      <lb ed="#N" n="102"/>Prophetia spectet ad Fidem; Tum quia 
+      destrue<lb ed="#N" n="103" break="no"/>tur scient ia, quae ex parte est; Fides autem non 
+      <lb ed="#N" n="104"/>est ex parte, sed ex integro, quia versatur 
+      circa<lb ed="#N" n="105" break="no"/>omnia reuelabilia; Theologia autem nostra est? 
+      <lb ed="#N" n="106"/>ex parte, quia scientia integre accepta includie 
+      <lb ed="#N" n="107"/>certitudinem, &amp; euidentiam, vt ostendimus φ. 3. 
+      <lb ed="#N" n="108"/>art. 5: &amp; Theologia nostra includit solam 
+      certi<lb ed="#N" n="109" break="no"/>tudinem, non euidentiam; ergo per Apostolum 
+      <lb ed="#N" n="110"/>Theologia nostra non manet in Patria, 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1978">
+                  <lb ed="#N" n="111"/>Dices 1. S. Doct. Aug. ps. 103. concione 3. 
+      refe<lb ed="#N" n="112" break="no"/>rens Apostolum ait: Ex parte scimus, &amp; ex parte 
+      <lb ed="#N" n="113"/>prophetamus; sed nomine Prophetiae intelligitur? 
+      <lb ed="#N" n="114"/>Fides; ergo Fides est ex parte. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e1989">
+                  <lb ed="#N" n="115"/>Resp; quod licet Prophetia sit ex parte, non 
+      <lb ed="#N" n="116"/>tamen Fides, quia Prophetia est pars Fidei; non 
+      <lb ed="#N" n="117"/>enim omnia, quae continentur in Fide, sunt 
+      Pro<lb ed="#N" n="118" break="no"/>phetiae; aliter soli libri Prophetarum essent de 
+      <lb ed="#N" n="119"/>Fide, ideo Prophetia est ex parte, non tamen 
+      <lb ed="#N" n="120"/>Fides. 
+      <!--133.xml-->
+      <pb ed="#N" n="118"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Dices 2. Apost: nihil aliud velle, quam 
+      <lb ed="#N" n="2"/>Theologiam nostram esse destruendam 
+      secun<lb ed="#N" n="3" break="no"/>dum quid, idest secudum modum imperfectum, 
+      <lb ed="#N" n="4"/>quem habet, prout est in nobis: &amp; ideo destruit 
+      <lb ed="#N" n="5"/>idem esse, ac innouari, perfici, &amp; meliorari. Sicuti 
+      <lb ed="#N" n="6"/>dicit, quod linguae cessabunt, quod tamen 
+      simpli<lb ed="#N" n="7" break="no"/>citer verum non est, nam locutiones erunt 
+      in<lb ed="#N" n="8" break="no"/>Patria; &amp; ideo volunt Aliqui omnes Beatos 
+      lo<lb ed="#N" n="9" break="no"/>cuturos esse Hebraice. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2031">
+                  <lb ed="#N" n="10"/>Resp. Apost. dicere scientiam euacuari, 
+      con<lb ed="#N" n="11" break="no"/>stat autem, quod tunc aliquod cuacuatur, cum 
+      ni<lb ed="#N" n="12" break="no"/>hil entitatis illius remaner: sic vas euacuatur  
+      <lb ed="#N" n="13"/>aqua, cum nihil aque remanet in vase: quandius 
+      <lb ed="#N" n="14"/>enim aliquid aquae est in vase, non dicitur 
+      eua<lb ed="#N" n="15" break="no"/>cuatum. Ad illud de linguis dicitur, quod 
+      Apo<lb ed="#N" n="16" break="no"/>stolus intelligit Voces Prophetarum, quae vocabant  
+      <lb ed="#N" n="17"/>ad paenitentiam, ad obseruantiam mandatorum, ad 
+      <lb ed="#N" n="18"/>praeparanda corda Deo, ad credendum in Christu; 
+      <lb ed="#N" n="19"/>istae autem voces omnino cessabunt in Patria. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2055">
+                  <lb ed="#N" n="20"/> Prob. 2. ex Beatiss. Doct, Aug. in pse ubi sup. 
+      <lb ed="#N" n="21"/>Dmnis enim doctrina, quae toto isto tempore 
+      dispe<lb ed="#N" n="22" break="no"/>satur, transit; inde dicit Apostelus; scientia 
+      destrue<lb ed="#N" n="23" break="no"/>tur, &amp; Prophetia euacuabitur. Quare ista 
+      euacua<lb ed="#N" n="24" break="no"/>bitur? Ex parte enim scimus, &amp; ex parte 
+      prophe<lb ed="#N" n="25" break="no"/>tamus; cum autem venerit, quod perfectum est, 
+      <lb ed="#N" n="26"/>euacuabitur, quod ex parte est. In hac auctoritate 
+      <lb ed="#N" n="27"/>duo notanda sunt. 1. Omnis doctrina, quae 
+      toto<lb ed="#N" n="28" break="no"/>isto tempore dispensatur; patet autem, quod isto 
+      <lb ed="#N" n="29"/>tempore dispensatur nedum Fides, sed etiam 
+      <lb ed="#N" n="30"/>Theologia. 2. Ex parte scimus, &amp; ex parte 
+      pro<lb ed="#N" n="31" break="no"/>phetamus, vbi per scire intelligit Theologiam, 
+      <lb ed="#N" n="32"/>non Fidem; quia per Fidem credimus, non 
+      sci<lb ed="#N" n="33" break="no"/>mus; ergo transit, &amp; cuacuatur nedum Fides, sed  
+      <lb ed="#N" n="34"/>etiam Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2090">
+                  <lb ed="#N" n="35"/>Nec valet, quod tranfire aliquando 
+      in<lb ed="#N" n="36" break="no"/>Scriptura sumatur, prout est idem, ac perfici, &amp; 
+      <lb ed="#N" n="37"/>immutari; dicitur enim Matt. 24. Caelum, &amp; 
+      Ter<lb ed="#N" n="38" break="no"/>ra transibunt, sed Coelum, &amp; Terra non 
+      destrue<lb ed="#N" n="39" break="no"/>tur; quia tantum immutabuntur, quod pariter 
+      <lb ed="#N" n="40"/>dicendum est de Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2107">
+                  <lb ed="#N" n="41"/>Nam contra est; quia Beatiss. Doct nedum 
+      <lb ed="#N" n="42"/>ait tranfire, sed etiam cuacuari; cuacuari autem 
+      <lb ed="#N" n="43"/>non sumitur pro immutari, sed pro destrui, 
+      prop<lb ed="#N" n="44" break="no"/>terea subdit Apostolus; &amp; cum Apostolo 
+      Bea<lb ed="#N" n="45" break="no"/>tiss. Doct. Scientia destruetur; ergo tranfire, 
+      eua<lb ed="#N" n="46" break="no"/>cuari, &amp; destrui pro eodem sumitur. Adeo 
+      cla<lb ed="#N" n="47" break="no"/>rum est hoc, vt mirum sit, quomodo possit 
+      in<lb ed="#N" n="48" break="no"/>alium seusum distorqueri: 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2127">
+                  <lb ed="#N" n="49"/>S Prob. 3. ratione. Ablato specificatiuo 
+      <lb ed="#N" n="50"/>formali alicuius rei non manet res specificata 
+      <lb ed="#N" n="51"/>nam ablata rationalitate non manet amplius 
+      ho<lb ed="#N" n="52" break="no"/>mo, sed in Patria aufertur specificatiuum 
+      forma<lb ed="#N" n="53" break="no"/>le Theologiae, ergo non manet Theologia. 
+      <lb ed="#N" n="54"/>Prob. minor. Vel specificatiuum formale 
+      Theo<lb ed="#N" n="55" break="no"/>logiae nostrae, prout distinguitur a Theologia 
+      <lb ed="#N" n="56"/>Beata, est reuelatio virtualis obscura, vt volunt  
+      <lb ed="#N" n="57"/>Aduersarij; vel est reuelatio clara; vel reuelatio 
+      <lb ed="#N" n="58"/>praescindens a claritate, &amp; obscuritate? Si primu; 
+      <lb ed="#N" n="59"/>ergo in Patria non remanet specificatiuum 
+      for<lb ed="#N" n="60" break="no"/>male Theologiae nostrae; quia nulla obscuritas 
+      <!--133.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>manet in Patria, &amp; per consequens nec 
+      reuela<lb ed="#N" n="62" break="no"/>tio, nec reuelabilitas virtualis obscura potest. 
+      <lb ed="#N" n="63"/>manere. Si secundum; ergo Theologia in 
+      Via<lb ed="#N" n="64" break="no"/>manet sine suo specificatiuo formali, quia 
+      ma<lb ed="#N" n="65" break="no"/>net sine claritate. Si tertium; ergo Theologia, quae 
+      <lb ed="#N" n="66"/>manet in Patria, est Theologia praescindens 
+      ab<lb ed="#N" n="67" break="no"/>obscuritate, &amp; claritate; &amp; per consequens non 
+      <lb ed="#N" n="68"/>est Theologia nostra, quae prout nostra est, idest 
+      <lb ed="#N" n="69"/>prout distinguitur a Theologia Beatorum, 
+      non<lb ed="#N" n="70" break="no"/>praescindit ab obscuritate, &amp; claritate, 
+      distingui<lb ed="#N" n="71" break="no"/>tur enim ab ipsa per solam obscuritatem; ergo 
+      <lb ed="#N" n="72"/>in Patria non manet specificatiuum formale. 
+      <lb ed="#N" n="73"/>Theologiae nostrae. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2188">
+                  <lb ed="#N" n="74"/>GProb. 4. Si Theologia nmaneret in Patria; 
+      <lb ed="#N" n="75"/>vel theologizaret sub lumine naturali, vel 
+      sub<lb ed="#N" n="76" break="no"/>lumine Fidei, vel sub lumine Gloriae? Non 
+      pri<lb ed="#N" n="77" break="no"/>mum; quia Theologia non vtitur lumine 
+      natura<lb ed="#N" n="78" break="no"/>li, vt dictum est. Non secundum; quia obscuritas 
+      <lb ed="#N" n="79"/>luminis Fidei pugnat cum claritate Patriae. 
+      Ne<lb ed="#N" n="80" break="no"/>que tertium; quia non haberet, per quid 
+      distin<lb ed="#N" n="81" break="no"/>gueretur a Theologia Beata: nam Apostolus 
+      assi<lb ed="#N" n="82" break="no"/>gnans distinctionem inter Theologiam nostram; 
+      <lb ed="#N" n="83"/>&amp; Beatam, ait: Nunc videmus per speculum in 
+      <lb ed="#N" n="84"/>aenigmate, tuc autem facie ad faciem; &amp; ideo sicut  
+      <lb ed="#N" n="85"/>lumen obscurum est causa Visionis aenigmaticae; 
+      <lb ed="#N" n="86"/>ita lumen clarum est causa visionis facialis; &amp; 
+      per<lb ed="#N" n="87" break="no"/>consequens non haberet, per quid 
+      distinguere<lb ed="#N" n="88" break="no"/>tur; ergo Theologia nostra non manet in Patria¬ 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2223">
+                  <lb ed="#N" n="89"/>T Pob. 5. Vel Theologia in Patria 
+      deduce<lb ed="#N" n="90" break="no"/>ret suas conclusiones per species acquisitas 
+      in<lb ed="#N" n="91" break="no"/>via illustratas tamen in Patria; vel per alias 
+      spe<lb ed="#N" n="92" break="no"/>cies a Deo infusas; vel per ipsam DiuinamEssο 
+      <lb ed="#N" n="93"/>tiam immediate vnitam ipsi intellectui Beato; 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2236">
+                  <lb ed="#N" n="94"/>primum, &amp; secundum dici non potest; quia 
+      spe<lb ed="#N" n="95" break="no"/>cies, vtpote vicaria objecti, ponitur tatum, quan 
+      <lb ed="#N" n="96"/>do objectum est absens; Deus autem est summe 
+      <lb ed="#N" n="97"/>praesens intellectui Beato; &amp; ideo frustranea est 
+      <lb ed="#N" n="98"/>pecies. Tum quia illa species nec esset quidita 
+      <lb ed="#N" n="99"/>tiue repraesentatiua Dei, quia haec non datur in 
+      <lb ed="#N" n="100"/>sententia Aduersariorum; vt videbimus in Trat 
+      <lb ed="#N" n="101"/>de Vise Beat; Neque esset abstractiua, quia visso 
+      <lb ed="#N" n="102"/>abstractiua importat cognitionem vnius 
+      praedu<lb ed="#N" n="103" break="no"/>cati cum ignorantia, seu cum latentia alterius 
+      <lb ed="#N" n="104"/>ignorantia autem, &amp; latentia objecti importat  
+      <lb ed="#N" n="105"/>obscuritatem, quae pugnat cum statu Patriaea 
+      <lb ed="#N" n="106"/>Neque tertium; quia Diuina Essentia, vt vnitae 
+      <lb ed="#N" n="107"/>intellectui Beatorum, nonmanifestatur nisi per 
+      <lb ed="#N" n="108"/>lumen Gloriae; &amp; vt manifestata per lumen 
+      Glo<lb ed="#N" n="109" break="no"/>riae; terminat Visionem Beatam; ergo non potest. 
+      <lb ed="#N" n="110"/>terminate aliam cognitionem distinctam a ψie 
+      <lb ed="#N" n="111"/>sione Beata. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2278">
+                  <lb ed="#N" n="112"/>Igitur dicendum est, quod in Patria Visso 
+      <lb ed="#N" n="113"/>Beata succedit in locum Theologie nostrae; &amp; 
+      <lb ed="#N" n="114"/>hoc est magis consonum nedum Apostolo, sed  
+      <lb ed="#N" n="115"/>etiam Psalmistae Ps.47. vbi dicitur: Sicut audiuia 
+      <lb ed="#N" n="116"/>mus, sic vidimus in Ciuitate Dei nostri, idest sicut  
+      <lb ed="#N" n="117"/>audiuimus in Via a Deo obscure reuelante, &amp; 
+      a<lb ed="#N" n="118" break="no"/>Magistris; ita videbimus in Patria Deo se 
+      eui<lb ed="#N" n="119" break="no"/>denter manifestante. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2299">
+                  <lb ed="#N" n="120"/>8 Obiicies 1. In Patria manent omnes scien¬ 
+      <!--134.xml-->
+      <pb ed="#N" n="119"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>tiae naturales; ergo manet etiam Theologia, que 
+      <lb ed="#N" n="2"/>est illis perfectiori statui enim perfectissimo 
+      con<lb ed="#N" n="3" break="no"/>gruit omnis nostra perfectio, &amp; maior 
+      perfectio<lb ed="#N" n="4" break="no"/>magis congruit. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2319">
+                  <lb ed="#N" n="5"/>Respineg. consequentiam: &amp; disparitas est, 
+      <lb ed="#N" n="6"/>quia scientiae naturales mullam habent 
+      opposi<lb ed="#N" n="7" break="no"/>tionem cum statu Patriae, important enim 
+      eui<lb ed="#N" n="8" break="no"/>dentiam, &amp; certitudinem, quarum neutra 
+      op<lb ed="#N" n="9" break="no"/>ponitur illi foelicissimo statui, in quo est summa 
+      <lb ed="#N" n="10"/>claritas, &amp; per consequens summa cuidentia, 
+      <lb ed="#N" n="11"/>&amp; summa veritas, &amp; ideo suma certitudo. 
+      Scien<lb ed="#N" n="12" break="no"/>tiae igitur naturales remanebunt, sed purgatae a 
+      <lb ed="#N" n="13"/>suis imperfectionibus, &amp; erroribus, qui in loce 
+      <lb ed="#N" n="14"/>veritatis sedem habere non possunt.  
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2343">
+                  <lb ed="#N" n="15"/>9. Obijcies 2. S. Doct. Aug. ponit in Beatis 
+      <lb ed="#N" n="16"/>duplicem scientiam de Deo: nam lib. 11. de 
+      Ciu<lb ed="#N" n="17" break="no"/>Dei c. 7. &amp; seq. distinguit in Beatis cognitionem 
+      <lb ed="#N" n="18"/>Matutinam, quae est cognitio rerum in 
+      Verbo<lb ed="#N" n="19" break="no"/>&amp; est Visio Beata; &amp; Vespertinam, quae ex 
+      prin<lb ed="#N" n="20" break="no"/>cipiis notis lumine naturae per lumen naturale. 
+      <lb ed="#N" n="21"/>deducit coclusiones de Deo, easque extra 
+      Ver<lb ed="#N" n="22" break="no"/>bum cognoscit per species vel a Deo infusas, 
+      <lb ed="#N" n="23"/>vel in Via proprio studio acquisitas; ergo 
+      Theo<lb ed="#N" n="24" break="no"/>logia nostra manet in Patria, aliter non esset 
+      du<lb ed="#N" n="25" break="no"/>plex, sed vna in Beatis Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2369">
+                  <lb ed="#N" n="26"/>Resp; quod hoc arg. allatum a Gonet in 3 
+      <lb ed="#N" n="27"/>Mot, nedum est contra Beatiss. Doct Aug; qui 
+      lib<lb ed="#N" n="28" break="no"/>cit. c. 29. concludit; quod Angeli cognoscunt 
+      Crea<lb ed="#N" n="29" break="no"/>turas in se ipsis tanquam in cognitione vespertina; 
+      <lb ed="#N" n="30"/>sed cognitio creaturarum in se ipsis non est 
+      <lb ed="#N" n="31"/>Theologia; ergo nomine cognitionis vespertinae. 
+      <lb ed="#N" n="32"/>non intelligit Theologiam, sed scientiam 
+      natu<lb ed="#N" n="33" break="no"/>ralem; sed est etiam contra S. Thomam 1. p. 4. 
+      <lb ed="#N" n="34"/>Sοart. 6, &amp; 7; &amp; Calet. ibidem, vbi cognitionem 
+      <lb ed="#N" n="35"/>vespertinam appellant scientiam, quam Beati 
+      <lb ed="#N" n="36"/>habent de Creaturis in proprio genere per 
+      pro<lb ed="#N" n="37" break="no"/>prias earum species; quae sine dubio est scientia. 
+      <lb ed="#N" n="38"/>naturalis. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2400">
+                  <lb ed="#N" n="39"/>Praeterea si Beatiss. P. per has cognitiones. 
+      <lb ed="#N" n="40"/>intelligeret solam Theologiam, sequeretur non 
+      <lb ed="#N" n="41"/>rduastantum, sed tres esse in Beatis Theologias 
+      <lb ed="#N" n="42"/>distinctas; nam 4. sup. Gen.ad lit. c. 29. assignat 
+      in<lb ed="#N" n="43" break="no"/>Angelis triplicem cognitionem, scilicet 
+      Diur<lb ed="#N" n="44" break="no"/>nam, seu Meridianam, Matutinam, &amp; 
+      Vesperti<lb ed="#N" n="45" break="no"/>nam; quod si vespertina est Theologia, potiori 
+      <lb ed="#N" n="46"/>sureerit Theologia Diurna, &amp; Matutina, quae 
+      <lb ed="#N" n="47"/>suntclariores vespertina. Verba ipsius sunt haec 
+      <lb ed="#N" n="48"/>Nunquid tamen dicet, aut si dixerit quispiam, 
+      au<lb ed="#N" n="49" break="no"/>diendus, est, illam caelestem in Angelorum 
+      mil<lb ed="#N" n="50" break="no"/>sibus Ciuitatem, aut non contemplari Creatoris 
+      <lb ed="#N" n="51"/>aternitatem, aut mutabilitatem creaturae, aut 
+      <lb ed="#N" n="52"/>εeius inferiori quadam cognitione non 
+      lau<lb ed="#N" n="53" break="no"/>dare Creatorem? Simul hoc totum possint, 
+      si<lb ed="#N" n="54" break="no"/>mul hoc totum faciant, possunt tamen, &amp; 
+      fa<lb ed="#N" n="55" break="no"/>ciunt; Simul ergo habent &amp; diem, &amp; vesperam, &amp; 
+      <lb ed="#N" n="56"/>mane; quod expresse repetitc. 36: &amp; lib. 11. de 
+      <lb ed="#N" n="57"/>Qiu Dei c. 7. Super quae loca Fundatiss. Doct. 
+      in<lb ed="#N" n="58" break="no"/>asent. dist. 13. q. 1. art. 3. dub. 3. lat; &amp; dist. 10. q. 2. 
+      <lb ed="#N" n="59"/>inresel. 2. dub. lat, ait: cognitionem diurnam, seu  
+      <lb ed="#N" n="60"/>meradianam esse cognitionem rerum in Verbo, &amp; 
+      <!--134.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>hanc solam esse supernaturalem, &amp; veram 
+      Theo<lb ed="#N" n="62" break="no"/>logiam; cognitionem vero vespertinam esse 
+      na<lb ed="#N" n="63" break="no"/>turalem cognitionem rerum in seipsis extra 
+      <lb ed="#N" n="64"/>Verbum per proprias earum species; &amp; 
+      matuti<lb ed="#N" n="65" break="no"/>nam esse quoque cognitionem naturalem 
+      re<lb ed="#N" n="66" break="no"/>rum, prout exeunt a Verbo, ex eo enim, quod 
+      <lb ed="#N" n="67"/>Angeli cognouerint res esse effectus Dei, 
+      surre<lb ed="#N" n="68" break="no"/>xerunt ad cognoscendam omnem creaturam 
+      <lb ed="#N" n="69"/>exijsse a Verbo. Quod autem cognitio, qua 
+      na<lb ed="#N" n="70" break="no"/>turaliter cognoscuntur creaturae exire a Verbo, 
+      <lb ed="#N" n="71"/>apte vocetur Matutina; &amp; cognitio, qua 
+      cogno<lb ed="#N" n="72" break="no"/>scuntur in seipsis Vespertina; &amp; cognitio Beata. 
+      <lb ed="#N" n="73"/>nuncupetur Diurna, seu Meridiana, sic explicat,  
+      <lb ed="#N" n="74"/>B. Doct. Sicuti Mane est principium dici, 
+      ita<lb ed="#N" n="75" break="no"/>Verbum est Principium creaturarum; ergo 
+      co<lb ed="#N" n="76" break="no"/>gnitio, qua cognoscuntur creaturae exire a 
+      Ver<lb ed="#N" n="77" break="no"/>bo, Matutina apte vocatur, quia est cognitio 
+      <lb ed="#N" n="78"/>creaturarum in suo mane, idest in suo Principio; 
+      <lb ed="#N" n="79"/>Verbum enim est Principium, per quod facta 
+      <lb ed="#N" n="80"/>sunt omnia, vt habetur Io: 1. Et sicuti Vespere 
+      <lb ed="#N" n="81"/>est terminus dici, ita Creatura in seipsa est 
+      ter<lb ed="#N" n="82" break="no"/>minus productionis Diuinae; ergo cognitio, qua 
+      <lb ed="#N" n="83"/>cognoscitur Creatura in seipsa, apte dicitur 
+      Ve<lb ed="#N" n="84" break="no"/>spertina, quia est cognitio in suo Vespere, idest 
+      <lb ed="#N" n="85"/>in suo termino. Utraque tamen est cognitio 
+      na<lb ed="#N" n="86" break="no"/>turalis; quia sicut Philosophi naturaliter 
+      cogno<lb ed="#N" n="87" break="no"/>querunt omnes Creaturas esse effectus Dei, 
+      ita<lb ed="#N" n="88" break="no"/>cognouerunt omnes Creaturas exire a Deo 
+      ta<lb ed="#N" n="89" break="no"/>quam ab vnico earum Principio; implicat enim, 
+      <lb ed="#N" n="90"/>quod naturaliter cognoscatur terminus passiuus 
+      <lb ed="#N" n="91"/>productionis creaturarum, quin cognoscatur 
+      <lb ed="#N" n="92"/>Principium actiuum, cum terminus sit relatiuus 
+      <lb ed="#N" n="93"/>ad principium, &amp; relatiua sint simul cognitione. 
+      <lb ed="#N" n="94"/>Tandem sicuti Meridies est clarissima pars diei: 
+      <lb ed="#N" n="95"/>ita Visio Beata, quae est cognitio rerum in 
+      Ver<lb ed="#N" n="96" break="no"/>bo, quod est ipsa Lux, apte dicitur Diurna, seu 
+      <lb ed="#N" n="97"/>Meridiana, quia est cognitio rerum in sua luce, 
+      <lb ed="#N" n="98"/>idest in Verbo. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2537">
+                  <lb ed="#N" n="99"/>Contra hanc explicationem de more 
+      in<lb ed="#N" n="100" break="no"/>surgit Vasque 1. p. disp. 5 1. 4. 12. art. 8. c. 1. usque ad 
+      <lb ed="#N" n="101"/>4e asserens Beatise. Patrem nomine cognitionis 
+      <lb ed="#N" n="102"/>matutinae intelligere cognitionem Creaturarum 
+      <lb ed="#N" n="103"/>in Verbo non secundum proprias earum 
+      ratio<lb ed="#N" n="104" break="no"/>nes, sed secundum rationes eminentiales, 
+      secun<lb ed="#N" n="105" break="no"/>dum quas continentur in Deo, &amp; in ipso sunt Vita; 
+      <lb ed="#N" n="106"/>&amp; hoc colligit ex lib. 11. de Ciu. Deic. 7, &amp; ex lib. 
+      <lb ed="#N" n="107"/>65. q. q. 263 &amp; 4. sup. Gen. ad lit. a c. 21. usque ad 
+      <lb ed="#N" n="108"/>82, in quibus locis Mane assignat Visioni Beatae, 
+      <lb ed="#N" n="109"/>&amp; Vespere cognitioni naturali creaturarum 
+      in<lb ed="#N" n="110" break="no"/>se ipsis, propter quod alienam a Beatiss. Patris 
+      <lb ed="#N" n="111"/>mente vocat Fundatiss. Doct explicationem. Ad 
+      <lb ed="#N" n="112"/>illud autem, quo Beatiss. P. distinguit 
+      cognitio<lb ed="#N" n="113" break="no"/>nem Angelicam in Matutinam, Vespertinam, &amp; 
+      <lb ed="#N" n="114"/>Meridianam, ait, per cognitionem Matutina m 
+      <lb ed="#N" n="115"/>sumi totam illam partem diei, quae antecedit 
+      ve<lb ed="#N" n="116" break="no"/>speram; &amp; ideo modo Meridianam, modo 
+      Matuti<lb ed="#N" n="117" break="no"/>nam appellari, unam tamen pro altera usurpari. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2582">
+                  <lb ed="#N" n="118"/>Caeterum si Vasq. attentius legisset 
+      Tunda<lb ed="#N" n="119" break="no"/>tiss. Doct; vidisset ab ipso afferri etiam hanc 
+      expli<lb ed="#N" n="120" break="no"/>cationem. Quaenam aute ex his aptius adapretur: 
+      <!--135.xml-->
+      <pb ed="#N" n="120"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Dicendum contra Vasque primam magis 
+      <lb ed="#N" n="2"/>congruere: nam sicuti secundum propriorem 
+      <lb ed="#N" n="3"/>modum loquendi Meridies non est Mane, neque  
+      <lb ed="#N" n="4"/>quis apte Mane vocaret Meridiem, quia 
+      con<lb ed="#N" n="5" break="no"/>funderet diuersas partes diei, &amp; qui confuse 
+      lo<lb ed="#N" n="6" break="no"/>quitur, minus apte loquitur; ideo aptior est 
+      di<lb ed="#N" n="7" break="no"/>stinctio cognitionis Angelicae in Matuuinam, 
+      <lb ed="#N" n="8"/>Meridianam, &amp; Vespertinam. Tum quia 
+      Meri<lb ed="#N" n="9" break="no"/>dies est medium inter Mane, &amp; Vespere, &amp; sicut  
+      <lb ed="#N" n="10"/>minus apte loqueretur, qui Vespere vocaret 
+      Me<lb ed="#N" n="11" break="no"/>ridiem, ita minus congruenter Manedicitur 
+      <lb ed="#N" n="12"/>Menidies; cum enim medium aequaliter distet 
+      ab<lb ed="#N" n="13" break="no"/>extremis, non est maior ratio, cur potius possit. 
+      <lb ed="#N" n="14"/>vocari vnum extremum, quam aliud. Tandem. 
+      <lb ed="#N" n="15"/>Mane, &amp; Vespere sunt claritates tenebris admix 
+      <lb ed="#N" n="16"/>tae; Mane enim, quod est accessus ad lucem, non 
+      <lb ed="#N" n="17"/>sit nisi ex remissione tenebrarum: &amp; Vespere 
+      <lb ed="#N" n="18"/>quod est accessus ad tenebras sit ex remissione. 
+      <lb ed="#N" n="19"/>lucis;, &amp; quia quaecunque remissio sit cum 
+      ad<lb ed="#N" n="20" break="no"/>mixtione contrariorum; necesse est, quod 
+      Ma<lb ed="#N" n="21" break="no"/>ne, &amp; Vespere tenebris admisceantur. At 
+      Meri<lb ed="#N" n="22" break="no"/>dies, quae distat a Mane, &amp; Vespere, puram 
+      inten<lb ed="#N" n="23" break="no"/>sionem lucis sine vlla ad mixtione tenebrarum 
+      <lb ed="#N" n="24"/>importat, ergo aptior est prima interpretatio, 
+      <lb ed="#N" n="25"/>quam secunda. Ex hoc deducit Fundatiss. Docti 
+      <lb ed="#N" n="26"/>cognitionem Matutinam, &amp; Vespertinam esse 
+      <lb ed="#N" n="27"/>cognitiones naturales, quia cognitio 
+      creatura<lb ed="#N" n="28" break="no"/>rum in se ipsis tenebrosa est respectu 
+      cognitio<lb ed="#N" n="29" break="no"/>nis in Verbo; creaturae enim Sunt tenebris 
+      admix<lb ed="#N" n="30" break="no"/>tae propter suam potentialitatem, &amp; ideo Io: 1. 
+      <lb ed="#N" n="31"/>vocantur tenebrae: Et tenebrae eam non 
+      compren<lb ed="#N" n="32" break="no"/>derunt; Verbum autem vocatur lux, &amp; ideo 
+      co<lb ed="#N" n="33" break="no"/>gnitio Creaturarum in Verbo est Aeridiana 
+      <lb ed="#N" n="34"/>udest clarissima, &amp; purissima. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2671">
+                  <lb ed="#N" n="35"/>Ac Vasquem igitur dicitur, quod Beatiss. 
+      <lb ed="#N" n="36"/>Pater illis in locis fere semper loquitur de 
+      co<lb ed="#N" n="37" break="no"/>gnitione Diurna, &amp; Meridiana, non autem de 
+      <lb ed="#N" n="38"/>Matutina; Et si concedatur aliquando 
+      confun<lb ed="#N" n="39" break="no"/>dere Meridianam cum Matutina, hoc non 
+      in<lb ed="#N" n="40" break="no"/>terest, quia possunt fieri diue: sae adaptationes. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2687">
+                  <lb ed="#N" n="41"/>1IO. Obijcies 3. D. Hier. in Epist. ad Paulinam 
+      <lb ed="#N" n="42"/>ait: Talem scientiam discamus in terris, quae 
+      nobi<lb ed="#N" n="43" break="no"/>scum perseueret in Caelis; sed scientia, quam 
+      hor<lb ed="#N" n="44" break="no"/>tatur Hier, addiscendam in terris, non est 
+      Phi<lb ed="#N" n="45" break="no"/>losophia, quae est communis etiam Gentilibus. 
+      <lb ed="#N" n="46"/>sed Scientia, quae est propria Catholicorum 
+      <lb ed="#N" n="47"/>ergo est Theologia. Praeterea D. Chris. super 
+      <lb ed="#N" n="48"/>Apost. vbi sup. ait: Non abolebitur scientia, sed 
+      desi<lb ed="#N" n="49" break="no"/>net esse non perfecta. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2709">
+                  <lb ed="#N" n="50"/>Resp. textum D. Hier esse adulteratum: ait 
+      <lb ed="#N" n="51"/>enim: Talem scientiam discamus in terris, quorum 
+      <lb ed="#N" n="52"/>scientia nobiscum perscueret in Caelis; &amp; nihil aliud 
+      <lb ed="#N" n="53"/>Vult, nisi, quod idem objectum, quod nunc 
+      spe<lb ed="#N" n="54" break="no"/>culamur in Via, a nobis cognoscetur in Patria 
+      <lb ed="#N" n="55"/>Vnde Scientia dicitur perseuerate objectiue, non 
+      <lb ed="#N" n="56"/>formaliter, quia illi succedet Visio Beata, 
+      quae<lb ed="#N" n="57" break="no"/>erit praemium cognitionis Vialis, propterea 
+      <lb ed="#N" n="58"/>Beauss. Doct. Aug. tract. 3. in loc. 1. ait: Modo 
+      au<lb ed="#N" n="59" break="no"/>dimus, non videmus. Pro ista Fide praemium erit 
+      <lb ed="#N" n="60"/>vi dere, quod credimus; &amp; hoc manifeste docet 
+      <!--135.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>Apostolus? Nunc per speculum in aenigmate, tunt 
+      <lb ed="#N" n="62"/>autem facie ad faciem. Ad D. Chrisc resp. eodem 
+      <lb ed="#N" n="63"/>modo, quod non abolebitur scientia, objectiue, 
+      <lb ed="#N" n="64"/>quia idem obiectum videbitur; abolebitur tamen 
+      <lb ed="#N" n="65"/>formaliter, quia destruetur haec scientia, quae 
+      <lb ed="#N" n="66"/>essentialiter importat imperfectionem 
+      obscuri<lb ed="#N" n="67" break="no"/>tatis. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2755">
+                  <lb ed="#N" n="68"/>II Obijcies. 4. Quanuis Virtutes moraleo 
+      <lb ed="#N" n="69"/>informentur a prudentia, a qua naturaliter 
+      in<lb ed="#N" n="70" break="no"/>clinant dirigi, attamen possunt manere, non 
+      <lb ed="#N" n="71"/>manente prudentia, ergo quanuis Theologiae 
+      <lb ed="#N" n="72"/>participet ineuidentiam a Fide, attamen potest. 
+      <lb ed="#N" n="73"/>manere non manente euidentia; in tantum enim 
+      <lb ed="#N" n="74"/>Virtutes morales possunt manere sine 
+      directio<lb ed="#N" n="75" break="no"/>ne passiua, in quantum directio habetur a 
+      Pru<lb ed="#N" n="76" break="no"/>dentia, quae est realiter ab illis distincta; &amp; 
+      ita<lb ed="#N" n="77" break="no"/>inenidentia Theologiae est a Fide, quae realiter 
+      <lb ed="#N" n="78"/>distinguitur a Theologia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2781">
+                  <lb ed="#N" n="79"/>Resp. neg. paritatem, quia Prudentia non 
+      <lb ed="#N" n="80"/>tribuit Virtatibus moralibus constitutiuum 
+      <lb ed="#N" n="81"/>formale illarum, sed tantum eas extrinsece 
+      per<lb ed="#N" n="82" break="no"/>ficit; At vero Fides tribuit Theologiae constitua 
+      <lb ed="#N" n="83"/>tiuum formale, quia tribuit reuelati onem obscus 
+      <lb ed="#N" n="84"/>ram virtualem, per quam iuxta Aduersarios 
+      con<lb ed="#N" n="85" break="no"/>stituitur in esse Theologiae nostrae formaliteri &amp; 
+      <lb ed="#N" n="86"/>quia res nequit esse sine suo constitutiuo, ideo 
+      <lb ed="#N" n="87"/>Theologia nequit esse sine Fide, a qua habet  
+      <lb ed="#N" n="88"/>suum constitutiuum. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2806">
+                  <lb ed="#N" n="89"/>I2. Obiicies 5. Charitas Viae manet in 
+      Pa<lb ed="#N" n="90" break="no"/>tria sublata imperfectione, quae ei conuenit 
+      ra<lb ed="#N" n="91" break="no"/>tione status, ait enim Apost. 1. Cor. 13. Charitas, 
+      <lb ed="#N" n="92"/>nunquam excidit; ergo idem dicendum est de 
+      <lb ed="#N" n="93"/>Theologia, cui conuenit obscuritas tantum 
+      ta<lb ed="#N" n="94" break="no"/>tione status Viae, &amp; ideo mere accidentaliteri 
+      <lb ed="#N" n="95"/>sicut conuenit imperfectio amissibilitatis 
+      Cha<lb ed="#N" n="96" break="no"/>ritati, 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2826">
+                  <lb ed="#N" n="97"/>Resp. neg. paritatem: nam constitutiuum 
+      <lb ed="#N" n="98"/>formale Charitatis est ordo in Deum, quatenus 
+      <lb ed="#N" n="99"/>est summe bonus, &amp; amabilis, qui non pugna 
+      <lb ed="#N" n="100"/>cum statu Patriae; amissibilitas autem ei accidem 
+      <lb ed="#N" n="101"/>taliter conuenit, quia etiam in Via Charitaspos 
+      <lb ed="#N" n="102"/>test esse inamissibilis, vt in Christo Dominosο 
+      <lb ed="#N" n="103"/>Virgine, &amp;c. At vero formale constitutiuum 
+      <lb ed="#N" n="104"/>Theologiae est ohscura reuelatio virtualis, qua 
+      <lb ed="#N" n="105"/>pugnat cum Claritate Patriae. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2848">
+                  <lb ed="#N" n="106"/>13 Obiicies 6. Non minus dependent a Fide 
+      <lb ed="#N" n="107"/>Dona Spiritus Sancti, quam Theologia: nam 
+      <lb ed="#N" n="108"/>Dona Spiritus Sancti versatur circa res Fidei 
+      <lb ed="#N" n="109"/>quatenus discernunt credenda a non credendis, 
+      <lb ed="#N" n="110"/>ynde sicuti Fides tribuit principia Theologiaea 
+      <lb ed="#N" n="111"/>ita tribuit principia Donis Spiritus Sancti; sed 
+      <lb ed="#N" n="112"/>Donum Sapientiae, &amp; Scientiae manet in Patria, 
+      <lb ed="#N" n="113"/>vt docet D. Tho. 1. p. q. 68. art. 6; ergo, &amp; Theo: 
+      <lb ed="#N" n="114"/>logia. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2870">
+                  <lb ed="#N" n="115"/>Resp. dist. maiorem. Non minus dependent 
+      <lb ed="#N" n="116"/>a Fide Dona Spiritus Sancti, quam Theologiae 
+      <lb ed="#N" n="117"/>aequaliter, neg; inaequaliter, conc;nam Dona 
+      de<lb ed="#N" n="118" break="no"/>pedent tantum materialiter, quia specificatiuum 
+      <lb ed="#N" n="119"/>formale Sapientiae, quae est Donum, est Experiens 
+      <lb ed="#N" n="120"/>tia mentalis per amorem, &amp; unionem ad Deum, &amp; 
+      <!--136.xml-->
+      <pb ed="#N" n="121"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>specificatiuum formale Scientiae est Experientia. 
+      <lb ed="#N" n="2"/>menialis per aliquem effectum Dei intrinsece 
+      pro<lb ed="#N" n="3" break="no"/>ductum in Creatura, scilicet per inspirationem, &amp; 
+      <lb ed="#N" n="4"/>illuminationem, patet autem, quod haec experie. 
+      <lb ed="#N" n="5"/>etia mentalis praescindit ab obscuritate, &amp; 
+      clari<lb ed="#N" n="6" break="no"/>tate, potest enim haberi clare, &amp; obscure, &amp; ideo 
+      <lb ed="#N" n="7"/>Fides tantum materialiter se habet ad Dona 
+      <lb ed="#N" n="8"/>Spiritus Sancti. At vero specificatiuum formale 
+      <lb ed="#N" n="9"/>Theologiae nostrae, prout distinguitur a 
+      Theolo<lb ed="#N" n="10" break="no"/>gia Beatorum, est obscura reuelatio virtualis, que 
+      <lb ed="#N" n="11"/>formaliter habetur a Fide; ideo 
+      Fidesdiuersimo<lb ed="#N" n="12" break="no"/>de se habet ad nostram Theologiam, cui tribuit. 
+      <lb ed="#N" n="13"/>speocificatiuum formale, &amp; ad Dona Spiritus Sactis 
+      <lb ed="#N" n="14"/>quibus non tribuit specificatiuum formale. 
+      Igi<lb ed="#N" n="15" break="no"/>tur, quia sine specificatiuo formali res nequit 
+      es<lb ed="#N" n="16" break="no"/>se, quanuis possit esse formaliter sine eo, quod  
+      <lb ed="#N" n="17"/>matenaliter se habet, ideo Theologia nequit 
+      <lb ed="#N" n="18"/>manere, quanuis maneant Dona Spiritus Sancti 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2931">
+                  <lb ed="#N" n="19"/>14.  Obiicies 7. Quanuis scientia 
+      subalterna<lb ed="#N" n="20" break="no"/>ta secundum se sit essentialiter obscura, attamen 
+      <lb ed="#N" n="21"/>si fiat, clara ex coniunctione ad scientiam 
+      subal<lb ed="#N" n="22" break="no"/>ternante, non destruitur, vt patet de Perspectiua. 
+      <lb ed="#N" n="23"/>&amp; Geometria; ergo a pari de Theologia nostra, 
+      <lb ed="#N" n="24"/>&amp; Beata. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2947">
+                  <lb ed="#N" n="25"/>. Resp. 1. neg. suppositum consequetiae: nam 
+      <lb ed="#N" n="26"/>Theologia nostra non est formaliter subalterna, 
+      <lb ed="#N" n="27"/>ta, vt diximus φ. 3. art. 8. Resp. 2. neg. antecedes; 
+      <lb ed="#N" n="28"/>nam objectum Perspectiuae non est linea visualis, 
+      vt<lb ed="#N" n="29" break="no"/>obscure cognoscibilis, sed est linca visualis 
+      prae<lb ed="#N" n="30" break="no"/>seindens a claritate, &amp; obscuritate; ideo 
+      obscuri<lb ed="#N" n="31" break="no"/>tas solum materialiter se habet. At vero 
+      specifi<lb ed="#N" n="32" break="no"/>catiuum formale Theologiae est reuelatio 
+      vir<lb ed="#N" n="33" break="no"/>tualis obscura, vt dictum est. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2970">
+                  <lb ed="#N" n="34"/>Instabis. Specificatiuum formale scientiae 
+      <lb ed="#N" n="35"/>est ratio formalis quae, non ratio sub qua, vt 
+      dixi<lb ed="#N" n="36" break="no"/>mus q. 2. art. 13 &amp; qφ. 3. art. 13 ergo adhuc sublara 
+      <lb ed="#N" n="37"/>reuelatione obscura remanet Theologia nostra. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e2981">
+                  <lb ed="#N" n="38"/>Resp. nos loqui contra Thomistas 
+      Recen<lb ed="#N" n="39" break="no"/>fiores in eorum sententia. Arguimus igitur ex 
+      <lb ed="#N" n="40"/>eorum principiis; admittunt enim specificativum 
+      <lb ed="#N" n="41"/>formale scientiae esse a ratione sub qua, non a 
+      ra<lb ed="#N" n="42" break="no"/>tionequae. Praeterea dicimus, quod cum 
+      Theo<lb ed="#N" n="43" break="no"/>logia habeat similitudinem scientiae subalter 
+      <lb ed="#N" n="44"/>natae, si comparetur Theologie Beatae, cunque 
+      <lb ed="#N" n="45"/>scientia subalternata specificetur ab illa 
+      diffe<lb ed="#N" n="46" break="no"/>sentia accidentali extranea, quam addit obiecto 
+      <lb ed="#N" n="47"/>formali scientiae subaltemantis, ideo quanuis 
+      <lb ed="#N" n="48"/>queologia, absolute loquendo, si consideretur. 
+      <lb ed="#N" n="49"/>prout conuenit cum Theologia Beata, sicuti 
+      il<lb ed="#N" n="50" break="no"/>lamconsiderauimus loc. cit; specificetur a 
+      ratio<lb ed="#N" n="51" break="no"/>nerformali quae, quae est Deitas, vt Glorificans, 
+      <lb ed="#N" n="52"/>attamen si consideretur comparatiue ad 
+      Theo<lb ed="#N" n="53" break="no"/>logiam Beatam, prout ab illa distinguitur, sicuti 
+      <lb ed="#N" n="54"/>confideratur in praesenti, specificatur a 
+      cogno<lb ed="#N" n="55" break="no"/>scibilitate obscura, quam superaddit obiecto 
+      for<lb ed="#N" n="56" break="no"/>mali Theologiae Beatae, &amp; ideo cognoscibilitas 
+      <lb ed="#N" n="57"/>obscura est ratio formalis quae specificatiua 
+      <lb ed="#N" n="58"/>Theologiae nostrae sic sumptae 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e3029">
+                  <lb ed="#N" n="59"/>15. Obijcies 8. Charitas est forma Fidei, quae 
+      <lb ed="#N" n="60"/>sine Charitate est informis, &amp; tamen sine Chari¬ 
+      <!--136.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>tate manet Fides, vt patet in peccatore. Fideli; 
+      <lb ed="#N" n="62"/>ergo quanuis Fides det formale constitutiuum 
+      <lb ed="#N" n="63"/>Theologiae, poterit esse Theologia sine Fide: 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e3047">
+                  <lb ed="#N" n="64"/>Resp. dist. antecedens. Charitas est forma 
+      <lb ed="#N" n="65"/>intrinseca Fidei ipsam constituens, neg; Fides 
+      <lb ed="#N" n="66"/>enim constituitur per assensum propositionibus 
+      <lb ed="#N" n="67"/>reuelatis. Est forma extrinseca in ordine ad 
+      ope<lb ed="#N" n="68" break="no"/>ra meritoria, cone, sed neg. consequentia; quia 
+      <lb ed="#N" n="69"/>Fides tribuit Theologiae formale constitutiuum. 
+      <lb ed="#N" n="70"/>16. Obiicies 9. Quodlibet destruitur vel 
+      <lb ed="#N" n="71"/>per suum oppositum, vel ad destructionem 
+      su<lb ed="#N" n="72" break="no"/>biecti, in quo est; &amp; si sit de genere relatiuo, 
+      ve<lb ed="#N" n="73" break="no"/>scientia, ad destructionem sui termini, seu 
+      obie<lb ed="#N" n="74" break="no"/>cti; sed in Patria non adest ignorantia Dei, quae 
+      <lb ed="#N" n="75"/>opponitur Theologiae, neque destruitur eius 
+      su<lb ed="#N" n="76" break="no"/>bjectum, quod est intellectus, neque eius Obiectum, 
+      <lb ed="#N" n="77"/>quod est Deus; ergo neque Theologia destruitur  
+      <lb ed="#N" n="78"/> aRespi maiorem procedere ab insufficienti 
+      <lb ed="#N" n="79"/>enumeratione; praeter enimmodos enumeratos. 
+      <lb ed="#N" n="80"/>destructionis reperitur etiam destructio ratione 
+      <lb ed="#N" n="81"/>fundamenti; unde cum Fides sit fundamentum. 
+      <lb ed="#N" n="82"/>Theologiae, destructa Fide sequitur 
+      destructio<lb ed="#N" n="83" break="no"/>Theologiae nostrae. Preterea dicitur, quod 
+      oppo<lb ed="#N" n="84" break="no"/>situm Theologiae nostre, quae est cognitio 
+      ob<lb ed="#N" n="85" break="no"/>scura, est Visio Beata, quae est cognitio clara; 
+      cla<lb ed="#N" n="86" break="no"/>rum enim opponitur obscuro. Tandem obiectum 
+      <lb ed="#N" n="87"/>Theologiae nostrae est Deus, vt obscure 
+      cognosci<lb ed="#N" n="88" break="no"/>bilis, sub qua ratione non manet in Patria. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e3104">
+                  <lb ed="#N" n="89"/>17. Obiicies 10. Quae conueniunt rei 
+      ratio<lb ed="#N" n="90" break="no"/>ne status, conueniunt accidentaliter, non 
+      essen<lb ed="#N" n="91" break="no"/>tialiter, vtquia possibilitas, futuritio, &amp; 
+      existetia<lb ed="#N" n="92" break="no"/>conueniunt Essentiae Hominis ratione 
+      diuerso<lb ed="#N" n="93" break="no"/>rum statuum, ideo illi conueniunt 
+      accidenta<lb ed="#N" n="94" break="no"/>liter, &amp; Essentia hominis saluatur, etiam si 
+      tolla<lb ed="#N" n="95" break="no"/>tur a possibilitate, &amp; fiat futura, &amp; a futuritione, 
+      <lb ed="#N" n="96"/>&amp; fiat existens, &amp; ab existentia, &amp; fiat preterita. 
+      <lb ed="#N" n="97"/>sed ineuidentia conuenit Theologie nostre 
+      tan<lb ed="#N" n="98" break="no"/>tum ratione status Viae, cuius propria est 
+      obscu<lb ed="#N" n="99" break="no"/>ritas, ergo illi accidentaliter conuenit, &amp; 
+      per<lb ed="#N" n="100" break="no"/>consequens sine illa potest manere. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e3133">
+                  <lb ed="#N" n="101"/>Respiarg. nimis probare; probat enim m 
+      <lb ed="#N" n="102"/>Patria manere Fidem, si enim obscuritas, &amp; 
+      cla<lb ed="#N" n="103" break="no"/>ritas conueniunt tantum ratione status, &amp; quae 
+      <lb ed="#N" n="104"/>conueniunt ratione status, conueniunt 
+      acciden<lb ed="#N" n="105" break="no"/>taliter, sequitur, quod etiam Fides ablata 
+      obscu<lb ed="#N" n="106" break="no"/>ritate maneat in Patria; quod tamen negat 
+      Ad<lb ed="#N" n="107" break="no"/>quersarij. Ad arg. igitur dicitur, quod Theologia 
+      <lb ed="#N" n="108"/>potest considerati dupliciter; scilicet secundum 
+      <lb ed="#N" n="109"/>se, prout prescindit a Theologia nostra, &amp; Beata; 
+      <lb ed="#N" n="110"/>&amp; in hoc sensu obscuritas, &amp; claritas illi 
+      conue<lb ed="#N" n="111" break="no"/>nit accidetaliter, &amp; prout determinate est 
+      Theo<lb ed="#N" n="112" break="no"/>logia nostra, vel Beata; &amp; sic illi conuenit 
+      essen<lb ed="#N" n="113" break="no"/>tialiter, per obscuritatem enim, &amp; claritatem 
+      di<lb ed="#N" n="114" break="no"/>stinguuntur formaliter istae duae Theologiae Ita 
+      <lb ed="#N" n="115"/>quanuis Essentiae hominis secundum se sumptae 
+      <lb ed="#N" n="116"/>conueniat accidentaliter possibilitas, futuritio 
+      <lb ed="#N" n="117"/>existentia, &amp; praeteritio; attamen Essentiae 
+      homi<lb ed="#N" n="118" break="no"/>nis, prout determinatae ad statum possibilitatis, 
+      <lb ed="#N" n="119"/>possibilitas conuenit essentialiter, non 
+      acciden<lb ed="#N" n="120" break="no"/>taliter.  
+      <!--137.xml-->
+      <pb ed="#N" n="122"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>I8. Obiicies 11: In Patria non erit obliuio 
+      <lb ed="#N" n="2"/>demonstrationum acquisitarum in Via, ergo 
+      <lb ed="#N" n="3"/>manebunt species illarum, &amp; habitus illas 
+      co<lb ed="#N" n="4" break="no"/>gnoscens. Prob. antecedens. Ad rationem status 
+      <lb ed="#N" n="5"/>Beatifici pertinet cognoscere omnia illa, quae 
+      <lb ed="#N" n="6"/>pertinent ad proprium: eorum statum siue 
+      tran<lb ed="#N" n="7" break="no"/>factum in Via, siue praesentem in Patria; vt 
+      dice<lb ed="#N" n="8" break="no"/>mus in Tract. de Viss Tum quia si Beati haberent: 
+      <lb ed="#N" n="9"/>Oblmionem demonstrationum tanto labore 
+      ac<lb ed="#N" n="10" break="no"/>quisitarum in Via, nompossent gaudere de 
+      labo<lb ed="#N" n="11" break="no"/>ribus toleratis in Via; &amp; ideo eorum gaudium 
+      <lb ed="#N" n="12"/>non esset plenum. Prob,consequentia. Est 
+      imper<lb ed="#N" n="13" break="no"/>ceptibile, quod pereant species; &amp; habitus 
+      co<lb ed="#N" n="14" break="no"/>gnoscens aliquas veritates, &amp; non sequatur 
+      ob<lb ed="#N" n="15" break="no"/>liuio: 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e3219">
+                  <lb ed="#N" n="16"/>Resp. neg. consequentiam. Ad prob. dist. 
+      <lb ed="#N" n="17"/>assumptum. Si non succedat cognitio altior, &amp; 
+      <lb ed="#N" n="18"/>species eminentiorimodo repraesentas illas 
+      ve<lb ed="#N" n="19" break="no"/>ritates, cone;si succedat, ut in Patria; vbi succedit 
+      <lb ed="#N" n="20"/>Visio, &amp; pereuntibus speciebus acquisitis 
+      succe<lb ed="#N" n="21" break="no"/>dit Diuina Essentia ,quae eminentissimo 
+      modo<lb ed="#N" n="22" break="no"/>repraesentat illas species, &amp; illas veritates, neg. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e3237">
+                  <lb ed="#N" n="23"/>19. Obijeies 12. Si quis haberet 
+      assensum<lb ed="#N" n="24" break="no"/>conclusionis naturalis solum ex auditu, &amp; postea 
+      <lb ed="#N" n="25"/>acquireret euidentiam principiorum talis 
+      co<lb ed="#N" n="26" break="no"/>gnitionis; sicuti si quis per medium probabile as¬ 
+      <!--137.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="27"/>sentiretur conclusioni, assentiens postea per 
+      me<lb ed="#N" n="28" break="no"/>dium demonstratiuum, non deperderet, sed 
+      per<lb ed="#N" n="29" break="no"/>ficeret, &amp; roboraret primum assensum: ergo a 
+      <lb ed="#N" n="30"/>pari. 
+      </p>
+               <p xml:id="ccc7yd-g32199-d1e3261">
+                  <lb ed="#N" n="31"/>Resp. neg. antecedens; implicat enim, quod  
+      <lb ed="#N" n="32"/>assensus, qui essentialiter est incuidens; &amp; 
+      opina<lb ed="#N" n="33" break="no"/>tiuus, fiat cuidens, &amp; demonstratiuus; Sicuti 
+      im<lb ed="#N" n="34" break="no"/>plicat, quod Fides, &amp; opinio fiat scientias 
+      Essen<lb ed="#N" n="35" break="no"/>tie enimrerum sunt impermixtae. 
+      <lb ed="#N" n="36"/>adi20 . Obijcies vitimo. Si Theologia non 
+      ma<lb ed="#N" n="37" break="no"/>neret in Patria, frustra acquireretur, quia frustra 
+      <lb ed="#N" n="38"/>acquiritur; quod acquititur, vt deperdatur; sed  
+      <lb ed="#N" n="39"/>quod frustra acquititur, neque est necessarium, 
+      <lb ed="#N" n="40"/>nequevtile; ergo Theologia non esset 
+      necessa<lb ed="#N" n="41" break="no"/>ria, nequevtilis. 
+      <lb ed="#N" n="42"/>e Resp. neg. antecedens. Ad prob. insertam 
+      <lb ed="#N" n="43"/>dicitur, quod illud est frustra, quod caret fine, 
+      <lb ed="#N" n="44"/>vnde si illud, quod acquititur, vt deperdatur, 
+      ca<lb ed="#N" n="45" break="no"/>reat fine, frustraneum est; secus autem si gaudeat,  
+      <lb ed="#N" n="46"/>fine; &amp; ideo vestes, &amp; cibi quanis a nobis 
+      acqui<lb ed="#N" n="47" break="no"/>rantur, &amp; deperdantur; tamen non sunt frustras 
+      <lb ed="#N" n="48"/>Sic Fides acquititur in via, vt deperdatur in 
+      Pa<lb ed="#N" n="49" break="no"/>tria; &amp; tamen non est frustra, sed simpliciter ne 
+      <lb ed="#N" n="50"/>cessaria; &amp; poenalitates iustorum deperduntur  
+      <lb ed="#N" n="51"/>in Patria; &amp; tamen non sunt frustra, quia ex illis 
+      <lb ed="#N" n="52"/>poriuntur maxima bona.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

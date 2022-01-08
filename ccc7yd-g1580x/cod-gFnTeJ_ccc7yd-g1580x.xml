@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="544"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1580x"><!--l1t10prae -->
+            <head xml:id="ccc7yd-g1580x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1580x-d1e101">
+      <!--561.xml-->
+               <pb ed="#N" n="544"/>
+               <cb ed="#N" n="a"/>
+               <lb ed="#N" n="1"/>DE INFINITATE DEI 
+      </p>
+            <p xml:id="ccc7yd-g1580x-d1e112">
+               <lb ed="#N" n="2"/>TUlla Dei perfectio a nostra mente remotior, &amp; a cognitione distractior est, qua eius Infinitas; 
+      <lb ed="#N" n="3"/>etenim cum inter finitum, &amp; infinitum infinita intercapedo claudatur, idcirco ad 
+      perfe<lb ed="#N" n="4" break="no"/>ctam Infinitatis notitiam peruenire non possumus, quia infinitum finita Verborum periodo 
+      <lb ed="#N" n="5"/>pertransiri non potest: nam sicuti quod pertransitur, praeteritur, &amp; quod praeteritur, finitur; quia 
+      <lb ed="#N" n="6"/>quod praeteritur, per non esse recipit terminum esse; ita si infinitum praeteriretur, infinitum 
+      finire<lb ed="#N" n="7" break="no"/>tur, quod absonum dictu est; vnde cum nomine infiniti magis, quam quocunque alio Attributo 
+      <lb ed="#N" n="8"/>explicetur Deus, vt ait Fundatiss. Doct. lib. de Causis prop. 6, fit, quod per ignorantiam magis, quam 
+      <lb ed="#N" n="9"/>per scientiam sciatur. Dum quaerimus ergo, quid sit Infinitas Dei, Omnis cognitio carnalis 
+      euane<lb ed="#N" n="10" break="no"/>scit; docet Sanctiss. P. Aug. lib. 25. contra Faust. c. 2. Pet remotionem igitur, inquit D. Dion; 
+      remouen<lb ed="#N" n="11" break="no"/>do ea, quae non sunt, Infinitatem explicare poterimus. Quapropter pauca de hac materia 
+      affere<lb ed="#N" n="12" break="no"/>mus; quia nil de ipsa dici potest; cum omne, quod dicitur, de eo, quod non est, asseratur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

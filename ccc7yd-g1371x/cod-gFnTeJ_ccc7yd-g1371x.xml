@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1371x"><!--l1t6prae -->
+            <head xml:id="ccc7yd-g1371x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1371x-d1e101">
+      <!--489.xml-->
+               <cb ed="#N" n="c"/>
+               <lb ed="#N" n="58"/>DEVLRCTAILODRa
+    </p>
+            <p xml:id="ccc7yd-g1371x-d1e110">
+               <lb ed="#N" n="59"/>TEritas, quam in omnibus, &amp; singulis quaestionibus semper inquirimus, Deus est, quemade 
+      <lb ed="#N" n="60"/>modum creatura mendacium; ait enim Christus Dominus Io8. Qui loquitur mendacium ¬ 
+      <lb ed="#N" n="61"/>de suo loquitur; ex quo Beatiss. P. in lo Tract. 5. infert: Ergo, qui loquitur Veritatem, de Deo 
+      loqui<lb ed="#N" n="62" break="no"/>tur. A veritate igitur, quae est Deus, verax dicitur creatura, ceu a luce Solis sydera dicuntur lucida;, 
+      <lb ed="#N" n="63"/>vnde Veritas in creatura est veluti quidam Diuinitatis radius, aut lucis aeternae candor. 
+      Quamob<lb ed="#N" n="64" break="no"/>rem si Verita te assequi optamus, ea, quae Deus dixit in Sanctis Scripturis antiquis diebus persuos 
+      <lb ed="#N" n="65"/>Prophetas, &amp; nouiter per Verbum suu, quod misit, vt nobis interpraetaretur Scripturas in Via, idestaa 
+      <lb ed="#N" n="66"/>hac vita, in qua peregninamur ad Patriam; nec non ea, quae nobis communicauerunt Sancti Legis 
+      <lb ed="#N" n="67"/>Doctores, qui Sapientiam tradiderunt Seniorum, puro, ac simplici cordis obtutu debemus inqui 
+      <lb ed="#N" n="68"/>rere, oculo enim Columbino libenter se pandit pulcherrima, ac candidissima Veritas; acieme 
+      <lb ed="#N" n="69"/>autem Coruinam vel cuitat, vel retundit solidissima Virtus. Quia tamen opposita sese¬mus 
+      <lb ed="#N" n="70"/>cem docent, &amp; explicant; Rectum nanque est index sui, &amp; obliqui; ideo aliqua de Falsitate 
+      <lb ed="#N" n="71"/>tangemus, vt ab hac discamus recedere, &amp; ad illam omissis vanis sophismatum spectus ede 
+      <lb ed="#N" n="72"/>ceamur accedere. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

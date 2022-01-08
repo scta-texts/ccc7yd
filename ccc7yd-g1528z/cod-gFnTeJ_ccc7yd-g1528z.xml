@@ -1,0 +1,2639 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="526"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1528z"><!--l1t9q1 -->
+            <head xml:id="ccc7yd-g1528z-Hd1e99">Quaestio 1</head>
+            <p xml:id="ccc7yd-g1528z-d1e101">
+               <lb ed="#N" n="24"/>GVAEST VNICA 
+      <lb ed="#N" n="25"/>De Omnipotentia Dei. 
+      </p>
+            <p xml:id="ccc7yd-g1528z-d1e108">
+               <lb ed="#N" n="26"/>Gimus hic de Dei Potentia, prout respicit creaturas, quas ad extra producit, non autem 
+      <lb ed="#N" n="27"/>Rprout respicit Diuinas Personas, quas ad intra per simplicem communicationem producit,  
+      <lb ed="#N" n="28"/>Idcirco de ea loquimur, prout est Attributum distinctum ab Intellectu Diuino, qui est botentiae 
+      <lb ed="#N" n="29"/>generatiua Verbi Diuini, &amp; a Voluntate, quae est Potentia spiratiua Spiritus Sancti: in hoc seniu 
+      <lb ed="#N" n="30"/>enim de ea loquuntur SS. PPiac Antiqui Theologiae DDvt infra videbimus. Igitur agere de Ome 
+      <lb ed="#N" n="31"/>nipotentia idem est, ac agere de Potentia creatiua, per quam producuntur solum creaturae.
+    </p>
+            <div xml:id="ccc7yd-g1528z-Dd1e124">
+               <head xml:id="ccc7yd-g1528z-Hd1e126">Articulus 1</head>
+               <p xml:id="ccc7yd-g1528z-d1e128">
+      <!--543.xml-->
+                  <cb ed="#N" n="d"/>
+                  <lb ed="#N" n="32"/>ART. 
+      <lb ed="#N" n="33"/>Quibus rationibus probetur in Deo esse 
+      <lb ed="#N" n="34"/>Omnipotentiama. 
+    </p>
+               <p xml:id="ccc7yd-g1528z-d1e141">
+                  <lb ed="#N" n="35"/>POtentia iuxta Phil. 5. Metvt notat B. 
+      <lb ed="#N" n="36"/>Doct. in 1. dist. 42. princ. 1. q. 1, duplex est; 
+      <lb ed="#N" n="37"/>alia actiua, que importat actuale productionem 
+      <lb ed="#N" n="38"/>effectus; &amp; alia passiua, quae dicit receptionem 
+      <lb ed="#N" n="39"/>alicuius esse. Non loquimur hic de Potentia 
+      passi<lb ed="#N" n="40" break="no"/>qua, quae, vt pote secum deferes imperfectionem, 
+      <lb ed="#N" n="41"/>non est in Deo, qui est undequaque perfectus, 
+      <lb ed="#N" n="42"/>sed de actiua, quae, quia importat actum, dicit  
+      <lb ed="#N" n="43"/>perfectionem, quae sumitur ab actu¬ 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e163">
+                  <lb ed="#N" n="44"/>2 Potentia actiua ex eodem in 1. dist. 35. 
+      <lb ed="#N" n="45"/>princ. 2. q. 2. pariter duplex est; alia abijcies actum, 
+      <lb ed="#N" n="46"/>seu separata ab actu, &amp; alia coniuncta actui. Et  
+      <lb ed="#N" n="47"/>sicuti actus alius est primus, per quem potetia 
+      co<lb ed="#N" n="48" break="no"/>stituitur proxime potens agere, sed non actu 
+      ope<lb ed="#N" n="49" break="no"/>rans; &amp; alius actus secundus, per quem 
+      constitui<lb ed="#N" n="50" break="no"/>tur actu operans, seu in actuali exercitio; ita 
+      Po<lb ed="#N" n="51" break="no"/>tentia alia est separata ab actu primo, vt 
+      substan<lb ed="#N" n="52" break="no"/>tia ignis sine calore, qui est actus accidentalis, a 
+      <lb ed="#N" n="53"/>quo ignis constituitur proxime potens 
+      calefa<lb ed="#N" n="54" break="no"/>cere; &amp; alia est separata solum ab actu secundo, 
+      <lb ed="#N" n="55"/>vt ignis coniunctus calori actu non calefaciens. 
+      <lb ed="#N" n="56"/>Tandem Potentia coniuncta actui secundo alia 
+      <lb ed="#N" n="57"/>est cum distinctione reali ab ipso actus, &amp; 
+      alia<lb ed="#N" n="58" break="no"/>sine tali distinctione, sed cum omnimoda 
+      <lb ed="#N" n="59"/>identitate, ac simplicitate purissima . Non 
+      <lb ed="#N" n="60"/>loquimur in praesenti de Potentia seiuncta 
+      <lb ed="#N" n="61"/>ab actu, quia haec est seiuncta a sua perfectione, 
+      <lb ed="#N" n="62"/>cum actus sit perfectio Potentiae, neque de 
+      Po<lb ed="#N" n="63" break="no"/>tentia coniuncta actui per distinctionem, &amp; com¬ 
+      <!--543.xml-->
+      <cb ed="#N" n="e"/>
+                  <lb ed="#N" n="64"/>positionem, quia haec officit summae Dei Simpli: 
+      <lb ed="#N" n="65"/>citati, vt superius ostensum est; tum quia 
+      distin<lb ed="#N" n="66" break="no"/>ctio realis in Deo non datur nisi inter Diuinas 
+      <lb ed="#N" n="67"/>Personas, Loquimur ergo de Potentia 
+      coniun<lb ed="#N" n="68" break="no"/>cta actui per identitatem purissimam absque ylla 
+      <lb ed="#N" n="69"/>distinctione vel reali, vel virtuali, vt diximus qe 
+      <lb ed="#N" n="70"/>2. de Subst. Dei art. 6. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e228">
+                  <lb ed="#N" n="71"/>3 Tandem actus secundus constituens 
+      Do<lb ed="#N" n="72" break="no"/>tentiam in exercitio formali alius est immanens 
+      <lb ed="#N" n="73"/>perficiens potentiam, ipsanque denominans actu 
+      <lb ed="#N" n="74"/>operantem; &amp; alius transiens constituens in actu 
+      <lb ed="#N" n="75"/>ipsum effectum a Potetia extrinsece productum 
+      <lb ed="#N" n="76"/>qui actus, prout recipitur in effectu, dicitur 
+      pase<lb ed="#N" n="77" break="no"/>sio. Potentia perficitur solum per actum 
+      intrin<lb ed="#N" n="78" break="no"/>se cum, cum quo coniungitur, non autem per 
+      <lb ed="#N" n="79"/>actionem transeuntem, per quam solum perfici 
+      <lb ed="#N" n="80"/>tur effectus, quia per ipsam effectus acquirit 
+      es<lb ed="#N" n="81" break="no"/>se, &amp; per consequens suam perfectionem, vnde 
+      <lb ed="#N" n="82"/>quod detur, vel non detur effectus ad extra, 
+      nul<lb ed="#N" n="83" break="no"/>lam acquirit, vel ammittit Potentia perfectionen 
+      <lb ed="#N" n="84"/>quia, cum actio illa perfectiua effectus sit 
+      extrin<lb ed="#N" n="85" break="no"/>seca Potentiae, nullo modo potest perficere 
+      Po<lb ed="#N" n="86" break="no"/>tentiam, quae non perficitur nisi ex receptione. 
+      <lb ed="#N" n="87"/>alicuius esse in se ipsa. His notatis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e268">
+                  <lb ed="#N" n="88"/> Refert Beatiss. P. lib. de Fide, &amp; Symb.ea: 
+      <lb ed="#N" n="89"/>quod aliqui Haeretici, licet non explicite, 
+      atta<lb ed="#N" n="90" break="no"/>men implicite negarunt Deum esse Omnipore 
+      <lb ed="#N" n="91"/>tem, quia dixerunt esse naturam, quam Deus 
+      <lb ed="#N" n="92"/>Omnipotens non creauerit, de qua tamen istum 
+      <lb ed="#N" n="93"/>Mundum fabricauerit. His addi possunt 
+      Mani<lb ed="#N" n="94" break="no"/>chaei, qui dabant naturam malam, quae a Deo 
+      con<lb ed="#N" n="95" break="no"/>dita non erat, sed a Daemone; &amp; Arriani, qui¬  
+      <!--544.xml-->
+      <pb ed="#N" n="527"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>negabant Filium esse Omnipotentem, volebant  
+      <lb ed="#N" n="2"/>enim esse factum; &amp; Plinius lib. 7. hist. Nat, 
+      nega<lb ed="#N" n="3" break="no"/>uit Deo Omnipotentiam, quia Deus nequit sibi 
+      <lb ed="#N" n="4"/>mortem inferre; Abailardus apud Mag. sent. 
+      ne<lb ed="#N" n="5" break="no"/>gauit quoque Omnipotentiam, quia voluit Deum; 
+      <lb ed="#N" n="6"/>non posse facere, nisi ea, quae fecit; quod pariter 
+      <lb ed="#N" n="7"/>senserunt alij Haeretici substinentes Deum ex 
+      <lb ed="#N" n="8"/>necessitate agere, &amp; ideo praeter id, quod agit 
+      <lb ed="#N" n="9"/>nihil aliud posse facere. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e314">
+                  <lb ed="#N" n="10"/>Ceterum sentetia Catholica asserit Deum; 
+      <lb ed="#N" n="11"/>esse Omnipotentem. Hanc probat B. Doct. in 1¬. 
+      <lb ed="#N" n="12"/>dist. 425 33: &amp; 44. Igitur.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e323">
+                  <lb ed="#N" n="13"/>Vnica concl. In Deo est formaliter 
+      Om<lb ed="#N" n="14" break="no"/>nipotentia. Est de Fide; habetur enim in Symb. 
+      <lb ed="#N" n="15"/>Credo in unum Deum Patrem Omipotentem, 
+      <lb ed="#N" n="16"/>&amp; in Symb. D. Athan. Ommpotens Pater, 
+      Omni<lb ed="#N" n="17" break="no"/>potens Filius, Omnipotens Spiritus Sanctus, &amp; 
+      col<lb ed="#N" n="18" break="no"/>ligitur ex innumeris Scripturae locis, vt Gen. 17. 
+      <lb ed="#N" n="19"/>&amp; 35. Ego Deus Omnipotens; Et Exod. 15. 
+      Om<lb ed="#N" n="20" break="no"/>nipotens nomen eius; quod frequentissime legitur  
+      <lb ed="#N" n="21"/>in Iob; &amp; 2. Machab. Hoc idem probat Beatiss 
+      <lb ed="#N" n="22"/>P. Aug. lib. de Fide, &amp; Symb. c. 2; &amp; lib. 2. de Symb. 
+      <lb ed="#N" n="23"/>ad Cathecum. c. 23 &amp; 33 vbi ait: Omipotentem 
+      <lb ed="#N" n="24"/>Deum credimus, qui omnia faciens factus non est, 
+      <lb ed="#N" n="25"/>&amp; ideo omnipotens est, quia de nihilo fecit, 
+      quae<lb ed="#N" n="26" break="no"/>cunque fecit; &amp; locis infra afferendis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e356">
+                  <lb ed="#N" n="27"/>Probat Fundatiss. Doct. in 1. dist. 42. 
+      prin<lb ed="#N" n="28" break="no"/>cip. 1. q. 1. quinque rationibus desumptis ex 
+      Bea<lb ed="#N" n="29" break="no"/>tiss. P. doctrina. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e365">
+                  <lb ed="#N" n="30"/>6 Prima ratio, quam tradit etiam dist. 20. 
+      <lb ed="#N" n="31"/>princ. 1. q. 2, habetur apud Beatiss. P. lib. 5. de 
+      <lb ed="#N" n="32"/>Ciu. Dei c. 10; vbi ait: Dicitur Omnipotens 
+      facien<lb ed="#N" n="33" break="no"/>do, quod vult, non patiendo; quod non vult; 
+      qui<lb ed="#N" n="34" break="no"/>bus verbis insinuat nedum primam rationem 
+      <lb ed="#N" n="35"/>ductam ex actualitate purissima ipsius Dei ex 
+      <lb ed="#N" n="36"/>pertis omnis potentialitatis passiuae, sed etiam 
+      <lb ed="#N" n="37"/>alias quatuor ductas ex causalitate vniuersalissi 
+      <lb ed="#N" n="38"/>ma. Arguitur autem sic. Quanto magis aliquod 
+      <lb ed="#N" n="39"/>Ens est in actu, tanto maioris est actiuitatis, quae 
+      <lb ed="#N" n="40"/>sumitur ab actu, &amp; quanto maioris est actiuitatis 
+      <lb ed="#N" n="41"/>tanto maior est in eo Potentia, hinc Phil. ait: 
+      <lb ed="#N" n="42"/>Agens in tantum agit, in quanlum actu est, vnde 
+      <lb ed="#N" n="43"/>ratio actus est ratio agendi; sed Deus est 
+      om<lb ed="#N" n="44" break="no"/>nis actus, quia est summus, &amp; purissimus actus 
+      <lb ed="#N" n="45"/>includens omnem perfectionem, quae sumitur 
+      <lb ed="#N" n="46"/>ab omni actu; ergo in Deo est omnis potentia. 
+      <lb ed="#N" n="47"/>actiua, quae sumitur ab actu. Mi, patet. Prob. 
+      <lb ed="#N" n="48"/>maior: nam ideo materia nulliust actiuitatis 
+      <lb ed="#N" n="49"/>quia est pura potentia passiua nunum includens 
+      <lb ed="#N" n="50"/>actum; ergo quanto magis aliquod habet actua 
+      <lb ed="#N" n="51"/>litatis, tanto maior est in eo Potentia actiua, &amp; 
+      <lb ed="#N" n="52"/>per consequens quod habet omnem actum, 
+      ha<lb ed="#N" n="53" break="no"/>bet in se omnem Potentiam actiuam. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e420">
+                  <lb ed="#N" n="54"/>7. Secunda ratio est. Quanto magis aliquod 
+      <lb ed="#N" n="55"/>est vnum, tanto maior est in eo Potentia actiua; 
+      <lb ed="#N" n="56"/>nam, vt habetur ex Auctore de Causis prop. 183 &amp; 
+      <lb ed="#N" n="57"/>ex Proclo prop. 93. Omnis potentia unitior existens 
+      <lb ed="#N" n="58"/>est infinitior, quam multiplicata; unde ortum est, 
+      <lb ed="#N" n="59"/>illud adagium: Virtus unita fortior; sed Deus est 
+      <lb ed="#N" n="60"/>summe vnus; vt docet Fides; ergo in eo est sum¬ 
+      <!--544.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>ma Potentia actiua, quae summa esse non potest, 
+      <lb ed="#N" n="62"/>nisi sit omnis Potentia. Haec ratio reducitur ad 
+      <lb ed="#N" n="63"/>primam, quia summa Vnitas probatur ex 
+      summa<lb ed="#N" n="64" break="no"/>actualitate veluti accidentali, nam summa 
+      Vni<lb ed="#N" n="65" break="no"/>tas est summa Simplicitas, vt diximus de 
+      Sim<lb ed="#N" n="66" break="no"/>plic; &amp; Unit. Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e456">
+                  <lb ed="#N" n="67"/>S Tertia ratio est. Quanto magis aliquod 
+      <lb ed="#N" n="68"/>Agens immobiliter agit, tanto maior est in eo 
+      <lb ed="#N" n="69"/>Potentia; sed Deus est Agens immobiliter 
+      sim<lb ed="#N" n="70" break="no"/>pliciter; ergo in eo est summa, &amp; omnis 
+      Poten<lb ed="#N" n="71" break="no"/>tia. Prob. maior. Quanto magis Agens monet 
+      <lb ed="#N" n="72"/>motum, tanto magis instrumentaliter agit; de 
+      <lb ed="#N" n="73"/>ratione enim instrumenti est moueri ab Agente. 
+      <lb ed="#N" n="74"/>principali; &amp; quanto magis Agens agit, vt 
+      mo<lb ed="#N" n="75" break="no"/>tum, tanto minor est in eo Potentia, indiget 
+      nan<lb ed="#N" n="76" break="no"/>que virtute, et Potentia principalis Agentis ad 
+      <lb ed="#N" n="77"/>hoc, vt agat; ergo quanto magis agit 
+      immobili<lb ed="#N" n="78" break="no"/>ter, tanto maior est in eo Potetia. Minor patet; 
+      <lb ed="#N" n="79"/>nam si Deus non ageret immobiliter, ageret, 
+      ve<lb ed="#N" n="80" break="no"/>motus ab alio, &amp; sic non esset primum Mouens, 
+      <lb ed="#N" n="81"/>&amp; prima Causa. Vid. de Subst. Dei q. 1. art. 1. 8. 2. 
+      <lb ed="#N" n="82"/>n.165 &amp; art. 6. n. 3. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e493">
+                  <lb ed="#N" n="83"/>9. Quarta ratio est. Quanto vniuersalius est, 
+      <lb ed="#N" n="84"/>Agens, tanto maior est in eo Potentia; sed Deus 
+      <lb ed="#N" n="85"/>est Agens vniuersalissimum; ergo in Deo est 
+      om<lb ed="#N" n="86" break="no"/>nis Potentia. Prob. maior: nam Agens in tantum 
+      <lb ed="#N" n="87"/>dicitur vninersalius, in quantum extenditur ad 
+      <lb ed="#N" n="88"/>plures effectus, vt patet de Sole, qui dicitur 
+      cau<lb ed="#N" n="89" break="no"/>sa vniuersalior, quia eius virtus extenditur ad 
+      <lb ed="#N" n="90"/>producedos plures effectus, in quantum in 
+      ipso<lb ed="#N" n="91" break="no"/>congregantur plures rationes factiuae illorum 
+      <lb ed="#N" n="92"/>&amp; ideo Agens in tantum est vniuersalius, in 
+      quam<lb ed="#N" n="93" break="no"/>tum in ipso est maior virtus, seu Potentia. Prob. 
+      <lb ed="#N" n="94"/>min: nam Gen. 1. habetur: Creauit Deus Caelum, 
+      <lb ed="#N" n="95"/>&amp; Terram, &amp; omnia, quae in eis funt; &amp; Io. 1. 
+      <lb ed="#N" n="96"/>Deus erat Verbum, Omnia per ipsum facta sunt, 
+      <lb ed="#N" n="97"/>&amp; sine ipso factum est nihil: &amp; Coloss. 1. In ipsos 
+      <lb ed="#N" n="98"/>creata sunt omnia, &amp; Beatiss. P. Aug. in Io. reddes 
+      <lb ed="#N" n="99"/>rationem ait; quod si Deus non esset Agens 
+      vni<lb ed="#N" n="100" break="no"/>quersalissimum, iam daretur aliqua creatura, quae 
+      <lb ed="#N" n="101"/>non esset creata a Deo: vel ergo illa creatura 
+      <lb ed="#N" n="102"/>esset a se ipsa, vel ab alio? Non a se ipsa; 
+      quia<lb ed="#N" n="103" break="no"/>in tantum dicitur creatura, in quantum ab alios 
+      <lb ed="#N" n="104"/>creata est; vnde repugnat dicere creaturam non 
+      <lb ed="#N" n="105"/>creatam. Si ab alio; vel ab alia creatura, vel ab 
+      <lb ed="#N" n="106"/>alio Deo? Non ab alia creatura; quia de illa 
+      <lb ed="#N" n="107"/>quaeri potest in infinitum. Non ab alio Deo; quia 
+      <lb ed="#N" n="108"/>alius Deus non datur; ergo Deus est Agens 
+      vni<lb ed="#N" n="109" break="no"/>versalissimum. Tum quia si non esset Agens 
+      vni<lb ed="#N" n="110" break="no"/>quersalissimum, iam non contineret omne esse. 
+      <lb ed="#N" n="111"/>quia non contineret esse illius creaturae, quam 
+      <lb ed="#N" n="112"/>non crearet, &amp; sic non esset purissimus, &amp; 
+      per<lb ed="#N" n="113" break="no"/>fectissimus actus. Praeterea non haberet Idaeas 
+      <lb ed="#N" n="114"/>omnium, &amp; sic non esset sapientissimus 
+      Arti<lb ed="#N" n="115" break="no"/>fex, quae omnia repugnat perfectioni ipsius Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e567">
+                  <lb ed="#N" n="116"/>Quinta ratio est. Quanto aliquod Ages est, 
+      <lb ed="#N" n="117"/>formalius, &amp; spiritualius, tanto maior est in 
+      eo<lb ed="#N" n="118" break="no"/>Potentia; sed Deus est Agens formalissimum, &amp; 
+      <lb ed="#N" n="119"/>spiritualissimum: ergo in eo est Omnipotentia. 
+      <lb ed="#N" n="120"/>Prob. maior. Tum quia forma est ratio agendi, 
+      <!--545.xml-->
+      <pb ed="#N" n="528"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ut dicitur in Physs &amp; ideo quanto magis aliquod  
+      <lb ed="#N" n="2"/>habet de forma, seu de actu, forma enim est 
+      <lb ed="#N" n="3"/>actus, tanto maior est in eo Potentia. Tum quia 
+      <lb ed="#N" n="4"/>quanto magis aliquod est spirituale, tanto 
+      ma<lb ed="#N" n="5" break="no"/>gis recedit a materia, quae ob sui grossitiem 
+      im<lb ed="#N" n="6" break="no"/>pedit, vel reta rdat actionem; &amp; ideo magis 
+      ac<lb ed="#N" n="7" break="no"/>cedit ad actualitatem, &amp; subtilitate, quae adiuuat,  
+      <lb ed="#N" n="8"/>actionem: hinc videmus Ignem, quia minus 
+      ma<lb ed="#N" n="9" break="no"/>terialis est inter alia Elementa, esse magis 
+      acti<lb ed="#N" n="10" break="no"/>uum; &amp; Angelos, quia carent materia, maiorem 
+      <lb ed="#N" n="11"/>potentiam habere, quam homines; nullus enim 
+      <lb ed="#N" n="12"/>homo moueret Caelos, sicut Augelus. Min. patet: 
+      <lb ed="#N" n="13"/>quia Deus est purissimus actus excludens 
+      om<lb ed="#N" n="14" break="no"/>nem potentialitatem passiuam siue Physicam, siue 
+      <lb ed="#N" n="15"/>Metaphysicam, Haec ratio reducitur ad 1. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e619">
+                  <lb ed="#N" n="16"/>IO Tandem probari potest ratione 
+      genera<lb ed="#N" n="17" break="no"/>li sic. Potentia actiua est perfectio simpliciter 
+      <lb ed="#N" n="18"/>simplex nullam inuoluens in suo conceptu 
+      for<lb ed="#N" n="19" break="no"/>mali imperfectionem, loquimur enim de 
+      Poten<lb ed="#N" n="20" break="no"/>tia pure actiua excludente omnem passionem. 
+      <lb ed="#N" n="21"/>quae est imperfectio Potentiae, prout reperitur  
+      <lb ed="#N" n="22"/>in creatura; de qua dixit Phil; quod Omne Agens: 
+      <lb ed="#N" n="23"/>agendo repatitur, quod intelligitur de Agente. 
+      <lb ed="#N" n="24"/>creato, non de Agente increato; ergo est 
+      for<lb ed="#N" n="25" break="no"/>maliter in Deo. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e643">
+                  <lb ed="#N" n="26"/>II Obiicies. Deus agit per Essetiam suam, 
+      <lb ed="#N" n="27"/>ergo in ipso non datur Potentia, quae est virtus 
+      <lb ed="#N" n="28"/>superaddita Essentiae. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e652">
+                  <lb ed="#N" n="29"/>Resp. B. Doctor ad 2. Deus agit per 
+      Essen<lb ed="#N" n="30" break="no"/>tiam suam identice, idest per aliquod realiter  
+      <lb ed="#N" n="31"/>fidentificatum cum sua Essentia, conc; formaliter 
+      <lb ed="#N" n="32"/>sine Potentia superaddita virtualiter, &amp; realiter 
+      <lb ed="#N" n="33"/>fidentificata, negatur.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e666">
+                  <lb ed="#N" n="34"/>Auctoritates Phil; quae videntur negare, 
+      <lb ed="#N" n="35"/>Potentiam in Deo, procedunt vel de Potentia 
+      <lb ed="#N" n="36"/>pure passiua, vel de Potentia actiua admixta 
+      <lb ed="#N" n="37"/>cum potentialitate passiua, vt est in creaturis 
+      <lb ed="#N" n="38"/>non autem de Potentia pure actiua, vt 
+      loqui<lb ed="#N" n="39" break="no"/>mur in praesenti¬ 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1528z-Dd1e683">
+               <head xml:id="ccc7yd-g1528z-Hd1e685">Articulus 2</head>
+               <p xml:id="ccc7yd-g1528z-d1e687">
+                  <lb ed="#N" n="40"/>ART. II. 
+      <lb ed="#N" n="41"/>Unde sumatur ratio Omnipotentiae? 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e694">
+                  <lb ed="#N" n="42"/>OStendimus in sup. art. dari in Deo 
+      po<lb ed="#N" n="43" break="no"/>tentiam actiuam productiuam creatur 
+      <lb ed="#N" n="44"/>rarum: modo inquirimus, vnde deducatur, quod  
+      <lb ed="#N" n="45"/>haec Potentia sit Omnipotentia; quod idem est, 
+      <lb ed="#N" n="46"/>ac vnde trahat Potentia suam vniuersalitatem: 
+      <lb ed="#N" n="47"/>per quam denominatur Omnipotentia: 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e710">
+                  <lb ed="#N" n="48"/>Prima sententia substinet vniuersalitatem 
+      <lb ed="#N" n="49"/>Omnipotentiae Dei desumi ex objecto, quod est 
+      <lb ed="#N" n="50"/>infinitum, scilicet ex creaturis possibilibus, quae 
+      <lb ed="#N" n="51"/>sunt infinitae. Ita noster Greg; quem sequitur 
+      Va<lb ed="#N" n="52" break="no"/>sq. 15p. disp. 104. c. 23 &amp; alij. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e723">
+                  <lb ed="#N" n="53"/>Secunda sententia vult vniuersalitatem. 
+      <lb ed="#N" n="54"/>Omnipotentiae Dei desumi solum ex subjecto:; 
+      <lb ed="#N" n="55"/>scilicet ex Essentia Diuina, quae est infinita, non 
+      <lb ed="#N" n="56"/>autem ex objecto. Ita videtur sentire Ioca S. 
+      Tho<lb ed="#N" n="57" break="no"/>1. p. disp. 11. art. 2. a n. 32. usque ad 39; vbi 
+      co<lb ed="#N" n="58" break="no"/>natur ostendere hanc esse mentem D. Tho; 
+      qui<lb ed="#N" n="59" break="no"/>assignans rationem infinitatis Omnipotentiae Dei 
+      <!--545.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>ait petedam esse, ex infinitate Essentiae Diuinae 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e748">
+                  <lb ed="#N" n="61"/>Tertia sententia docet uninersalitatem, 
+      <lb ed="#N" n="62"/>Omnipotentiae Dei a priori desumi ex ipso esse 
+      <lb ed="#N" n="63"/>Dei, a posteriori vero ex objecto secundano, 
+      <lb ed="#N" n="64"/>scilicet ex creaturis possibilibus. Primam 
+      par<lb ed="#N" n="65" break="no"/>tem huius sententiae tradit B. Doct. dist. 42. 
+      princ<lb ed="#N" n="66" break="no"/>1. q. 2, &amp; dist. 20. princ. 1. q. 2. Alteram autem 
+      <lb ed="#N" n="67"/>partem tradit dist. 43. princ. 1. q. 1, &amp; Argentdist. 
+      <lb ed="#N" n="68"/>43. art. 3; quam sententiam putamus esse D. 
+      Tho<lb ed="#N" n="69" break="no"/>1. p. q. 25. art. 4 &amp; de Pot. q. 1. art. 23 vbi docet in 
+      <lb ed="#N" n="70"/>finitatem Potentiae Dei desumi ex infinitis 
+      mo<lb ed="#N" n="71" break="no"/>bilibus; quod nequit intelligi, nisi a posterios 
+      <lb ed="#N" n="72"/>ri, aliter contradiceret loc. cit. 4 Io. 48. 
+      Thos<lb ed="#N" n="73" break="no"/>pro cuius decisione. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e779">
+                  <lb ed="#N" n="74"/> Not; quod Potentia ab eo sumit 
+      vni<lb ed="#N" n="75" break="no"/>quersalitatem, a quo sumit specificationem: 
+      im<lb ed="#N" n="76" break="no"/>plicat enim, quod aliquod specificatum 
+      pluri<lb ed="#N" n="77" break="no"/>bus conueniat, quam eius specificatiuum, vt vig 
+      <lb ed="#N" n="78"/>implicat, quod homo conueniat pluribus 
+      indi<lb ed="#N" n="79" break="no"/>quiduis, quam conueniat rationalitas, quae est 
+      <lb ed="#N" n="80"/>specificatiua illius; specificatum enim, &amp; 
+      specifi<lb ed="#N" n="81" break="no"/>catiuum dicuntur essentialiter ad 
+      conuerten<lb ed="#N" n="82" break="no"/>tiam, cum specificatum nihil aliud sit 
+      formali<lb ed="#N" n="83" break="no"/>ter, quam specificatiuum; specificatiuum autem 
+      <lb ed="#N" n="84"/>Potentiae est objectum, vt docet Phil; &amp; 
+      com<lb ed="#N" n="85" break="no"/>muniter omnes; ex quo deducitur, quod Potem 
+      <lb ed="#N" n="86"/>tia habet suam vniuersalitatem ab objecto, ve. 
+      <lb ed="#N" n="87"/>contendit prima sententia, &amp; vt etiam docet 
+      <lb ed="#N" n="88"/>Fundatiss. Doct. hic. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e814">
+                  <lb ed="#N" n="89"/>Haec doctrina, si recte intelligatur, vera est; 
+      <lb ed="#N" n="90"/>&amp; improbat primam sententiam; nam cum obies 
+      <lb ed="#N" n="91"/>ctum duplex sit, scilicet primarium, &amp; 
+      secunda<lb ed="#N" n="92" break="no"/>rium; &amp; cum specificatio habeatur tantum 
+      ab<lb ed="#N" n="93" break="no"/>objecto primario, non autem a secundario, quia 
+      <lb ed="#N" n="94"/>specificatiuum est id, quod primo est in re, non 
+      <lb ed="#N" n="95"/>autem id, quod est posterius, quia posterius sema 
+      <lb ed="#N" n="96"/>per supponit rem constitutam, &amp; specificatam; 
+      <lb ed="#N" n="97"/>supponit enim aliquod prius in ipsa, per quod 
+      <lb ed="#N" n="98"/>res specificatur, &amp; constituitur in se ipsa, ideo 
+      <lb ed="#N" n="99"/>Potentia Dei specificatur tantum a suo obiecto 
+      <lb ed="#N" n="100"/>primario, non autem a secundario; patet autem 
+      <lb ed="#N" n="101"/>quod objectum primarium Potentiae Diuinae est 
+      <lb ed="#N" n="102"/>ipsum esse Dei, vt communicabile, &amp; participa 
+      <lb ed="#N" n="103"/>bile creaturis, seu est ipsum esse, quod habet  
+      <lb ed="#N" n="104"/>creatura in Deo: quia illud esse solum est 
+      eius<lb ed="#N" n="105" break="no"/>dem speciei cum Deo, cum sit idem, ac esse, seu 
+      <lb ed="#N" n="106"/>Essentia Deieatura nanque (ut docet Beatisapa. 
+      <lb ed="#N" n="107"/>in Diuina Esssua nihil aliud est, qua ipsa creatria 
+      <lb ed="#N" n="108"/>Essentia, &amp; ideo Potentia Dei specificatur ab 
+      <lb ed="#N" n="109"/>esse creaturarum in Deo, quod, cum sit idem, ae 
+      <lb ed="#N" n="110"/>esse Dei, habet dare illi vniuersalitatem, seu 
+      om<lb ed="#N" n="111" break="no"/>neitatem. Creaturae vero secundum illud esse 
+      <lb ed="#N" n="112"/>quod habent extra Deum, sunt objectum de 
+      <lb ed="#N" n="113"/>cundarium Omnipotentiae Dei, vt 
+      commu<lb ed="#N" n="114" break="no"/>riter asseritur, &amp; ideo nequeunt illam spe 
+      <lb ed="#N" n="115"/>cificare, nec esse radicem, a qua desumatur 
+      <lb ed="#N" n="116"/>illius vniuersalitas. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e877">
+                  <lb ed="#N" n="117"/>Quanuis autem objectum secundarium non 
+      <lb ed="#N" n="118"/>sit specificatiuum potentiae, neque sit radix, aut 
+      <lb ed="#N" n="119"/>ratio formalis illam qualitercunque denominans 
+      <!--546.xml-->
+      <pb ed="#N" n="529"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>attamen ex illo potest argui a posteriori 
+      vni<lb ed="#N" n="2" break="no"/>quersalitas ipsius Potentiae; tum quia nullum 
+      obie<lb ed="#N" n="3" break="no"/>ectum siue secundarium, siue primarium potest. 
+      <lb ed="#N" n="4"/>excedere suam potentiam, aliter in eo, in quo 
+      <lb ed="#N" n="5"/>excederet, non esset objectum, quia illi non 
+      obii<lb ed="#N" n="6" break="no"/>ceretur; vnde sicuti ex uniuersalitate objecti 
+      <lb ed="#N" n="7"/>primarij, quod se habet, vt ratio a priori, 
+      argui<lb ed="#N" n="8" break="no"/>tur a priori vniuersalitas Potentiae, ita ex 
+      vni<lb ed="#N" n="9" break="no"/>uersalitate objecti secundarij, in quod tendit 
+      <lb ed="#N" n="10"/>Potentia, &amp; quod se habet, vt quid posterius 
+      na<lb ed="#N" n="11" break="no"/>turaliter consequens ad ipsam, optime arguitur? 
+      <lb ed="#N" n="12"/>a posteriori viuersalitas ipsius. Tum quia lice 
+      <lb ed="#N" n="13"/>quaecunque passio sit posterior essentia, attamen 
+      <lb ed="#N" n="14"/>ex illa a posteriori argnitur latitudo, &amp; 
+      vniuer<lb ed="#N" n="15" break="no"/>salitas essentiae eo, quia passio conuertitur cum 
+      <lb ed="#N" n="16"/>essentia; ergo licet objectum secundarium sit, 
+      <lb ed="#N" n="17"/>quid posterius ipsa Potentia, attamen ex illo 
+      ar<lb ed="#N" n="18" break="no"/>guitur a posteriori vniuersalitas Potentiae eo, quia 
+      <lb ed="#N" n="19"/>objectum, &amp; Potentia debent inter se adaequari. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e934">
+                  <lb ed="#N" n="20"/>Quamobrem si consideretur creatura 
+      se<lb ed="#N" n="21" break="no"/>cundum illud esse, quod habet in Deo, quod est 
+      <lb ed="#N" n="22"/>idem, ac esse Dei, est radix, a qua formaliter 
+      de<lb ed="#N" n="23" break="no"/>sumitur ratio Omnipotentiae a priori, ex quo 
+      <lb ed="#N" n="24"/>apparet continentiam omnis esse, seu 
+      Eminen<lb ed="#N" n="25" break="no"/>tiam Dei esse rationem formalem, per quam 
+      a<lb ed="#N" n="26" break="no"/>priori probatur Omnipotentia, propter quod in 
+      <lb ed="#N" n="27"/>Arbore Theologica Eminentiae supposuimus 
+      Om<lb ed="#N" n="28" break="no"/>mpotentiam; si vero consideretur creatura se 
+      <lb ed="#N" n="29"/>cundum illud esse, quod habet, vel habere 
+      po<lb ed="#N" n="30" break="no"/>test extra Deum, est quid posterius 
+      Omnipo<lb ed="#N" n="31" break="no"/>tentia, &amp; ideo ex illa non arguitur a priori, sed  
+      <lb ed="#N" n="32"/>tantum a posteriori vniuersalitas Potentiae. His not. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e965">
+                  <lb ed="#N" n="33"/> UVnica concl. Uniuersalitas, siue omneitas 
+      <lb ed="#N" n="34"/>potentiae Dei a priori probatur per 
+      continen<lb ed="#N" n="35" break="no"/>tiam omnis esse in ipso Deo, a posteriori vero 
+      <lb ed="#N" n="36"/>colligi potest ex creaturis secundum illud esse, 
+      <lb ed="#N" n="37"/>quod habere possunt extra Deum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e979">
+                  <lb ed="#N" n="38"/>Prob. 1. concl. ex Beatiss. P. Aug. lib. de Symbi 
+      <lb ed="#N" n="39"/>ad Cathecum. c. 4. vbi ait: An non est Omnipotens, 
+      <lb ed="#N" n="40"/>qui continet omnia? Quibus verbis aperte 
+      decla<lb ed="#N" n="41" break="no"/>rat continentiam omnis esse rationem esse 
+      Omni<lb ed="#N" n="42" break="no"/>potentiae. Et superius c. 2. Ideo Omnipotens est, 
+      <lb ed="#N" n="43"/>quia de nihilo fecit, quaecunque fecit: Quibus 
+      in<lb ed="#N" n="44" break="no"/>sinuat ex creaturis tanquam ex effectibus, &amp; 
+      <lb ed="#N" n="45"/>fideo a posteriori probari Omnipotentiam Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e999">
+                  <lb ed="#N" n="46"/>A Prob. 1. pars concl.a Fundatiss. Doct. in 1. 
+      <lb ed="#N" n="47"/>dist. 20. princ. 1. q. 2. sic exponente rationem 
+      Bea<lb ed="#N" n="48" break="no"/>uss. P. Aug. Causa efficiens in tantum dicitur 
+      po<lb ed="#N" n="49" break="no"/>tens agere, in quantum continet ipsum effectum; 
+      <lb ed="#N" n="50"/>quia causa ex Phil. in tantum agit, in quantum 
+      <lb ed="#N" n="51"/>actu est secundum illam formam, secundum quam 
+      <lb ed="#N" n="52"/>agit; tum quia nemo dat, quod non habet, vnde si 
+      <lb ed="#N" n="53"/>causa non contineret in se ipsa esse effectus 
+      <lb ed="#N" n="54"/>neque posset dare esse ipsi effectui, nec alia 
+      ra<lb ed="#N" n="55" break="no"/>tio potest assignari, quare Leo producat tantum  
+      <lb ed="#N" n="56"/>Leonem, non autem Canem, aut plantam, nisit 
+      <lb ed="#N" n="57"/>quia continet tantum esse Leonis, non Canis, 
+      <lb ed="#N" n="58"/>aut plantae; ergo vniuersalitas Potentiae a 
+      priori<lb ed="#N" n="59" break="no"/>deducitur ex ipsa Eminentia, seu Continentia 
+      <lb ed="#N" n="60"/>omnis esse; vnde quanto plura esse continentur; 
+      <!--546.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>tanto plura potest illa Potentia producere; sed  
+      <lb ed="#N" n="62"/>in Deo habent esse infinitae creaturae possibiles. 
+      <lb ed="#N" n="63"/>ergo Omnipotentia est infinita. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1045">
+                  <lb ed="#N" n="64"/>SProb. 2. Potentia trahit suam 
+      vniuersali<lb ed="#N" n="65" break="no"/>tatem tantum ab objecto primario, vt supra 
+      <lb ed="#N" n="66"/>ostensum est, quia trahit vniuersalitatem a suo 
+      <lb ed="#N" n="67"/>specificatiuo; sed objectum primarium est esse. 
+      <lb ed="#N" n="68"/>Dei, prout est omne esse omnium creaturarum; 
+      <lb ed="#N" n="69"/>implicat, enim, quod aliqua creatura sit 
+      obie<lb ed="#N" n="70" break="no"/>ctum primarium alicuius Attributi Diuini, quia 
+      <lb ed="#N" n="71"/>implicat, quod sit in eadem specie cum Deo, 
+      ali<lb ed="#N" n="72" break="no"/>ter esset Deus; ergo Potentia Dei trahit suam 
+      <lb ed="#N" n="73"/>yniuersalitatem ab esse Dei, prout continet esse 
+      <lb ed="#N" n="74"/>omnium creaturarum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1071">
+                  <lb ed="#N" n="75"/>6. Prob. 2. pars concl. Ex illo probatur a 
+      po<lb ed="#N" n="76" break="no"/>steriori vniuersalitas Potentiae, quod 
+      consequi<lb ed="#N" n="77" break="no"/>tur naturaliter ad illam, &amp; est connexum 
+      essen<lb ed="#N" n="78" break="no"/>tialiter cum illa; sed creaturae possibiles 
+      conse<lb ed="#N" n="79" break="no"/>quuntur naturaliter ad Omnipotentiam Dei; ex 
+      <lb ed="#N" n="80"/>eo enim, quod Omnipotentia potest illas 
+      crea<lb ed="#N" n="81" break="no"/>re, sunt possibiles; &amp; ideo resultat possibilitas 
+      il<lb ed="#N" n="82" break="no"/>larum, ergo a posteriori ex creaturis arguitur  
+      <lb ed="#N" n="83"/>yniuersalitas Potentiae Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1093">
+                  <lb ed="#N" n="84"/>Confirmatur ex B. Doct. Ex eo, quod 
+      om<lb ed="#N" n="85" break="no"/>nes creaturae ordinentur in Deum tanquam 
+      in<lb ed="#N" n="86" break="no"/>vitimum finem simpliciter, a posteriori arguitur  
+      <lb ed="#N" n="87"/>yniuersalissima eius Prouidentia; ergo ex eo, 
+      <lb ed="#N" n="88"/>quod omnes creaturae possibiles respiciantur  
+      <lb ed="#N" n="89"/>ab Omnipotentia Dei, a posteriori arguitur 
+      il<lb ed="#N" n="90" break="no"/>lius vniuersalitas. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1111">
+                  <lb ed="#N" n="91"/>TArist. 8. Physut refert Fundatiss. Doct. dist. 
+      <lb ed="#N" n="92"/>43. princ. 1. q. 13ostendit Deum habere Virtutem. 
+      <lb ed="#N" n="93"/>infinitam, quia mouet, vel mouere potest in 
+      tempo<lb ed="#N" n="94" break="no"/>re infinito; imaginatur enim, quod posse reuoluere 
+      <lb ed="#N" n="95"/>infinities Caelum circa Terram per infinitum 
+      tem<lb ed="#N" n="96" break="no"/>pus esse non possit sine infinitate virtutis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1128">
+                  <lb ed="#N" n="97"/>Hanc rationem adducit Vasque ait enim; 
+      <lb ed="#N" n="98"/>quod ex eo, quod quodlibet corpus sit aptum 
+      <lb ed="#N" n="99"/>moueri velocius, &amp; velocius in infinitum sine 
+      <lb ed="#N" n="100"/>termino, est danda Potentia infinita, quia si illa 
+      <lb ed="#N" n="101"/>Potentia esset finita in monendo velociter, iam 
+      <lb ed="#N" n="102"/>haberet terminum in monendo, &amp; sic velocitas 
+      <lb ed="#N" n="103"/>motus non posset crescere in infinitum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1146">
+                  <lb ed="#N" n="104"/>Hanc explicationem reijjcit Io. 4S. Tho. 1. 
+      <lb ed="#N" n="105"/>Quia ex velocitate motus corporalis solum 
+      ar<lb ed="#N" n="106" break="no"/>guitur infinitas in aliquo genere determinato; 
+      <lb ed="#N" n="107"/>ergo non arguitur infinitas Potentiae Dei, quae 
+      <lb ed="#N" n="108"/>est infinitas simpliciter in omni genere. 2. 
+      Apti<lb ed="#N" n="109" break="no"/>tudo infinita ad moneri velocius in infinitum est, 
+      <lb ed="#N" n="110"/>infinitas sincathegorematica, ergo ex ipsa non 
+      <lb ed="#N" n="111"/>arguitur, nisi infinitas sincathegorematica, &amp; 
+      <lb ed="#N" n="112"/>ideo non arguitur infinitas Potentiae Dei, quae 
+      <lb ed="#N" n="113"/>est cathegorematica. 3. Illa aptitudo ad 
+      mo<lb ed="#N" n="114" break="no"/>queri in infinitum est creata a Deo: ergo ex illa 
+      <lb ed="#N" n="115"/>tantum arguitur, quod Deus possit creare 
+      crea<lb ed="#N" n="116" break="no"/>turam perfectiorem in infinitum in velocius 
+      <lb ed="#N" n="117"/>mouendo. Vid. de Subst. Dei q. 1. art. 6. n. 3. 
+      Ad<lb ed="#N" n="118" break="no"/>dit B; Dest; quod haec ratio sic explicata solum 
+      <lb ed="#N" n="119"/>probat Deum habere Potentiam infinitam 
+      du<lb ed="#N" n="120" break="no"/>ratione, non vigore: nam si daretur aliqua vir¬ 
+      <!--547.xml-->
+      <pb ed="#N" n="530"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>tus, quae nunquam fatigaretur in monendo 
+      ve<lb ed="#N" n="2" break="no"/>dlocius, posset per infinitum tempus semper 
+      ve<lb ed="#N" n="3" break="no"/>locius monere, sicuti enim ex eo, quod detur  
+      <lb ed="#N" n="4"/>virtus non defatigata in monendo in infinitum, 
+      <lb ed="#N" n="5"/>potest mouere in infinitum absque eo, quod sit, 
+      <lb ed="#N" n="6"/>actu infinita simpliciter, vt est virtus Angeli, que 
+      <lb ed="#N" n="7"/>potest monere Coelos in infinitum; ita ex eo, 
+      <lb ed="#N" n="8"/>quod possit monere velocius in infinitum, non 
+      <lb ed="#N" n="9"/>arguitur, quod sit infinita simpliciter, sed sufficit,  
+      <lb ed="#N" n="10"/>quod in infinitum excedat passiuam resistentiam 
+      <lb ed="#N" n="11"/>mobilis; virtus aute Angeli, &amp; si actu finita, in 
+      in<lb ed="#N" n="12" break="no"/>finitum tamen excedit passiuam resistentia 
+      corpo<lb ed="#N" n="13" break="no"/>ris mobilis, &amp; ideo potest mouere velocius 
+      in<lb ed="#N" n="14" break="no"/>infinitum. Tandem sicuti non implicat virtus 
+      <lb ed="#N" n="15"/>creata monens in infinitum, ita non implicat, 
+      <lb ed="#N" n="16"/>virtus velocior in infinitum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1226">
+                  <lb ed="#N" n="17"/>Vt ergo ratio Phil. concludat, ait Fundatiss. 
+      <lb ed="#N" n="18"/>Doct; quod non est superficialiter inspicienda, 
+      <lb ed="#N" n="19"/>vt illam inspiciunt cit. DD; sed requirit 
+      altio<lb ed="#N" n="20" break="no"/>rem, ac subtiliorem intellectum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1237">
+                  <lb ed="#N" n="21"/>Formatur autem sic eius ratio. Omne 
+      <lb ed="#N" n="22"/>motum essentialiter supponit primum Mouens. 
+      <lb ed="#N" n="23"/>simpliciter immobile, quia non datur 
+      proces<lb ed="#N" n="24" break="no"/>sus in infinitum; sed Mouens simpliciter 
+      immo<lb ed="#N" n="25" break="no"/>bile habet Potentiam simpliciter infinitam; ergo 
+      <lb ed="#N" n="26"/>ex mobilibus, &amp; motis optime arguitur a 
+      po<lb ed="#N" n="27" break="no"/>steriori infinitas Potentiae Dei. Maior probata, 
+      <lb ed="#N" n="28"/>est de Subst. Dei ubi sup. Prob. min. 1. Monens. 
+      <lb ed="#N" n="29"/>immobile non habet virtutem ab alio recepta, 
+      <lb ed="#N" n="30"/>aliter moueretur ab alio; sed virtus irrecepta 
+      <lb ed="#N" n="31"/>est infinita, quia virtus irrecepta non limitatur  
+      <lb ed="#N" n="32"/>ab Agente communicante talem virtutem 
+      se<lb ed="#N" n="33" break="no"/>cundum tantam mensuram; loc enim Agens non 
+      <lb ed="#N" n="34"/>datur, aliter illa virtus esset recepta ab alios; nec 
+      <lb ed="#N" n="35"/>limitatur ab aliquo subjecto, in quo recipiatur;  
+      <lb ed="#N" n="36"/>Quodlibet enim receptum ad modum (idest ad 
+      me<lb ed="#N" n="37" break="no"/>suram) recipientis recipitur; non limitatur, 
+      in<lb ed="#N" n="38" break="no"/>quam, a subjecto passiue recipiente, quia cuilibet, 
+      <lb ed="#N" n="39"/>receptioni passiuae debet correspondere 
+      com<lb ed="#N" n="40" break="no"/>municatio actiua; vnde si illa virtus non est 
+      con<lb ed="#N" n="41" break="no"/>municata actiue, aliter esset recepta ab alio, neque  
+      <lb ed="#N" n="42"/>est recepta passiue, ergo Mouens immobile 
+      ha<lb ed="#N" n="43" break="no"/>bet virtutem infinitam. 2. Mouens immobile, 
+      <lb ed="#N" n="44"/>non habet virtutem contractam ad aliquod 
+      ge<lb ed="#N" n="45" break="no"/>nus, vel speciem: ergo habet virtutem infinitam. 
+      <lb ed="#N" n="46"/>Patet conseque quia genus, &amp; differentia sunt 
+      ter<lb ed="#N" n="47" break="no"/>mini finientes rem, quia ipsam definiunt, vt 
+      di<lb ed="#N" n="48" break="no"/>ximus de Simplic. Dei art. 8. Prob. antecedens. 
+      <lb ed="#N" n="49"/>Quod est in aliquo genere, habet tantum 
+      par<lb ed="#N" n="50" break="no"/>tem ipsius generis, &amp; partem esse specifici: non 
+      <lb ed="#N" n="51"/>enim Petrus v.g. est omne animal, aut omnis 
+      ho<lb ed="#N" n="52" break="no"/>mo; sed quod participat esse, nequit illud 
+      parti<lb ed="#N" n="53" break="no"/>cipare a se ipso, aut sibi ipsi; &amp; ideo necessario 
+      <lb ed="#N" n="54"/>illud participat ab alio, &amp; per consequens non 
+      <lb ed="#N" n="55"/>est primum Agens; Deus enim, qui est primum 
+      <lb ed="#N" n="56"/>Agens, nequit ab alio aliquod esse participare; 
+      <lb ed="#N" n="57"/>&amp; in eo, quod participat esse ab alio, monetur  
+      <lb ed="#N" n="58"/>ab illo, quia illud facit, vt transeat de non esse 
+      <lb ed="#N" n="59"/>ad esse, ergo Mouens immobile non habet 
+      vir<lb ed="#N" n="60" break="no"/>tutem contractam ad genus, vel speciem. Addi¬ 
+      <!--547.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>mus, quod illud, quod est in genere, habet 
+      ali<lb ed="#N" n="62" break="no"/>quid potentialitatis passiuae, vt ostendimus loc. 
+      <lb ed="#N" n="63"/>cit; sed quod habet potentialitatem passiuam 
+      <lb ed="#N" n="64"/>potest moueri; quia Motus est actus entis in 
+      po<lb ed="#N" n="65" break="no"/>tentia; ergo quod est in genere, non est Mouens 
+      <lb ed="#N" n="66"/>immobile. 3. Agens immobile ex eo, quod sit  
+      <lb ed="#N" n="67"/>primum, non innititur virtuti superioris 
+      Agen<lb ed="#N" n="68" break="no"/>tis; ergo eius virtus est simpliciter infinita; quia 
+      <lb ed="#N" n="69"/>non regulatur per virtutem superioris Agentis, 
+      <lb ed="#N" n="70"/>a qua solum mensuratur, &amp; finitur virtus 
+      infe<lb ed="#N" n="71" break="no"/>rioris Agentis, quod recipit tantam virtutem. 
+      <lb ed="#N" n="72"/>quanta illi communicatur ab Agente superiori. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1357">
+                  <lb ed="#N" n="73"/>Quod autem ratio Phil. sit intelligenda 
+      so<lb ed="#N" n="74" break="no"/>lum de mobilibus, &amp; motis vniuersaliter, non 
+      <lb ed="#N" n="75"/>pecialiter de motu locali per infinitum tempus; 
+      <lb ed="#N" n="76"/>ut illam intelligit Fundatiss. Doct; patet 1. quia 
+      <lb ed="#N" n="77"/>tantum sic intellecta concludit. 2. quia in eodem 
+      <lb ed="#N" n="78"/>lib. ex mobilibus, &amp; motis vniuersaliter probat  
+      <lb ed="#N" n="79"/>dari primum Motorem immobilem; vnde hic 
+      <lb ed="#N" n="80"/>adducit vnum motum particularem ad hoc) vi 
+      <lb ed="#N" n="81"/>explicet illam rationem vniuersalem; 
+      quaprop<lb ed="#N" n="82" break="no"/>ter haec non est alia ratio distincta a ratione, qua 
+      <lb ed="#N" n="83"/>probat dari primum Motorem, sed est quaedam 
+      <lb ed="#N" n="84"/>explicatio illius, 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1386">
+                  <lb ed="#N" n="85"/>S Obijcies 1. Vhiuersalitas Potentiae 
+      su<lb ed="#N" n="86" break="no"/>mitur ex objecto secundum Phil; ergo non 
+      su<lb ed="#N" n="87" break="no"/>mitur ex Essentia; &amp; ideo ex esse Dei non 
+      <lb ed="#N" n="88"/>bene probatur omneitas, siue vniuerfalitas 
+      Po<lb ed="#N" n="89" break="no"/>tentiae Dei: 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1400">
+                  <lb ed="#N" n="90"/>Resp. dist. antecedens. Ex objecto 
+      prima<lb ed="#N" n="91" break="no"/>rio, conc; secundario, neg. Obiectum autem 
+      <lb ed="#N" n="92"/>primarium Potentiae Dei est esse Dei, quatenus 
+      <lb ed="#N" n="93"/>communicabile creaturis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1411">
+                  <lb ed="#N" n="94"/>Obijcies 2. Si creaturae pos sibiles non 
+      es<lb ed="#N" n="95" break="no"/>sent infinitae, Potentia Dei non esset infinitai 
+      <lb ed="#N" n="96"/>ergo infinitas Potentiae Dei sumitur ex creatus 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1420">
+                  <lb ed="#N" n="97"/>ris possibilibus. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1425">
+                  <lb ed="#N" n="98"/>Conf. Ex Essentia Diuina non probatur in 
+      <lb ed="#N" n="99"/>finitas Potentiae Diuine in ratione Virtutis, quam 
+      <lb ed="#N" n="100"/>uis probetur in ratione Entis, quatenus omnes 
+      <lb ed="#N" n="101"/>id, quod est in Essentia Diuina, est omne esse, &amp; 
+      <lb ed="#N" n="102"/>ideo infinitum; ergo infinitas Potentiae Dei, quam 
+      <lb ed="#N" n="103"/>tenus Potentia, &amp; Virtus est formaliter, 
+      proba<lb ed="#N" n="104" break="no"/>tur solum ex infinitate creaturarum possibilium; 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1443">
+                  <lb ed="#N" n="105"/>Resp. ad arg; quod antecedens valet 
+      tan<lb ed="#N" n="106" break="no"/>tum a posteriori, quatenus ex vniuersalitate 
+      effe<lb ed="#N" n="107" break="no"/>ctus colligitur viuersalitas causae, non autema 
+      <lb ed="#N" n="108"/>priori: nam possibilitas creaturae non est causas 
+      <lb ed="#N" n="109"/>sed effectus Potentiae Dei: &amp; ita infinitas 
+      crea<lb ed="#N" n="110" break="no"/>turarum non est ratio a priori infinitatis Potem 
+      <lb ed="#N" n="111"/>tiae Dei, sed tantum a posteriori, quatenus ex 
+      in<lb ed="#N" n="112" break="no"/>finitate effectuum possibilium arguitur, quod caus 
+      <lb ed="#N" n="113"/>sa praecontineat infinitos effectus, &amp; ideo quod  
+      <lb ed="#N" n="114"/>sit infinita; nihil ergo deducitur ex illo 
+      antece<lb ed="#N" n="115" break="no"/>dente contra nostram sententiam. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1469">
+                  <lb ed="#N" n="116"/>Ad conf. dist. antecedens. Ex Essentia 
+      Di<lb ed="#N" n="117" break="no"/>quina, quatenus Essentia est praecise, non argnis 
+      <lb ed="#N" n="118"/>tur infinitas Potentiae, quatenus virtus est, 
+      tran<lb ed="#N" n="119" break="no"/>seat, haec enim propositio in rigore falsa est; quia 
+      <lb ed="#N" n="120"/>ex qualibet Essentia a priori arguuntur illius vir¬ 
+      <!--548.xml-->
+      <pb ed="#N" n="531"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>tutes; cum quaelibet Essentia ordinetur ad suas 
+      <lb ed="#N" n="2"/>operationes, quas non potest exercere nisi per 
+      <lb ed="#N" n="3"/>suas virtutes. Ex Essentia Diuina, quatenus 
+      prae<lb ed="#N" n="4" break="no"/>continet esse omnium creaturarum, neg: nam 
+      <lb ed="#N" n="5"/>virtus formaliter constituitur per 
+      praecontinen<lb ed="#N" n="6" break="no"/>tiam effectuum 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1503">
+                  <lb ed="#N" n="7"/>IO. Obiicies 3. contra 2. partem concl. 
+      Spe<lb ed="#N" n="8" break="no"/>cies creaturarum producibiles sunt finitae; ergo 
+      <lb ed="#N" n="9"/>ex ipsis nequit colligi a posteriori infinitas 
+      Po<lb ed="#N" n="10" break="no"/>tentiae Dei: nam licet in vnaquaque specie sint, 
+      <lb ed="#N" n="11"/>producibilia infinita indiuidua, attamen ex 
+      infi<lb ed="#N" n="12" break="no"/>nitate indiuiduorum nequit colligi infinitas 
+      Po<lb ed="#N" n="13" break="no"/>tentiae Dei, quae est infinitas in omni genere. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1521">
+                  <lb ed="#N" n="14"/>Resp. 1. neg. antecedens; ita enim se 
+      ha<lb ed="#N" n="15" break="no"/>bent species respectu generis, sicut indiuidua, 
+      <lb ed="#N" n="16"/>respectu specierum: &amp; ideo sicuti sub qualibet  
+      <lb ed="#N" n="17"/>specie sunt possibilia infinita indiuidua, ita sub 
+      <lb ed="#N" n="18"/>quolibet genere sunt possibiles infinitae species. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1534">
+                  <lb ed="#N" n="19"/>Resp. 23 quod licet essent finitae species. 
+      <lb ed="#N" n="20"/>creaturarum, imo &amp; finita individua, 
+      attamen<lb ed="#N" n="21" break="no"/>quia ex producibilitate ipsarum colligitur 
+      im<lb ed="#N" n="22" break="no"/>mobilitas primi Agentis, quae arguit infinitam 
+      <lb ed="#N" n="23"/>virtutem illius, vt diximus ex Fundatiss. Doct 
+      <lb ed="#N" n="24"/>ideo ex illis, quanuis finitis arguitur infinita; 
+      <lb ed="#N" n="25"/>Potentiae Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1552">
+                  <lb ed="#N" n="26"/>II Obiicies 4. Infinitas creaturarum 
+      pro<lb ed="#N" n="27" break="no"/>ducibilium est infinitas Syncathegorematica, &amp; 
+      <lb ed="#N" n="28"/>potentialis; quia implicat produci a Deo 
+      infini<lb ed="#N" n="29" break="no"/>tum cathegorematicum, vt docet Fundatiss. Doct. 
+      <lb ed="#N" n="30"/>in Phys; ergo ex illa nequit argui infinitas 
+      Po<lb ed="#N" n="31" break="no"/>tentiae Dei, quae est actualis, &amp; cathegorematis 
+      <lb ed="#N" n="32"/>ca; sicuti enim ex antecedente contingenti non 
+      <lb ed="#N" n="33"/>arguitur nisi conclusio contingens, ita ex 
+      infini<lb ed="#N" n="34" break="no"/>tate syncathegorematica &amp;c. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1574">
+                  <lb ed="#N" n="35"/>Resp. neg. conseque ad cuius prob. insertam 
+      <lb ed="#N" n="36"/>dist. assumptum. Ex antecedente contingenti non 
+      <lb ed="#N" n="37"/>arguitur nisi conclusio contingens, si arguatur: 
+      <lb ed="#N" n="38"/>proposito, conc; si ab opposito, negi vt cum 
+      di<lb ed="#N" n="39" break="no"/>citur. Quod accidentaliter aduenit, contingens est; 
+      <lb ed="#N" n="40"/>ergo quod necessario aduenit, necessarium est. 
+      Sic<lb ed="#N" n="41" break="no"/>est in casu; nam ex mobilibus, &amp; motis arguimus 
+      <lb ed="#N" n="42"/>primum Agens immobile, &amp; ideo ex finita; 
+      <lb ed="#N" n="43"/>te infinitatem. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1596">
+                  <lb ed="#N" n="44"/>I2. Obiicies 5. Posse mouere per infinitum 
+      <lb ed="#N" n="45"/>tempus potest competere virtuti finitae: nam 
+      <lb ed="#N" n="46"/>virtus Angeli est finita, &amp; tamen quia in 
+      mo<lb ed="#N" n="47" break="no"/>quendo non lassatur, potest infinito tempore 
+      mo<lb ed="#N" n="48" break="no"/>uere Caelos; ergo ratio Phil. non concludit.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1610">
+                  <lb ed="#N" n="49"/>Resp. dist. antecedens. Posse mouere 
+      im<lb ed="#N" n="50" break="no"/>mobiliter per infinitum tempus competit 
+      virtu<lb ed="#N" n="51" break="no"/>ti finitae, negi mobiliter, conc. Quanuis igitur 
+      <lb ed="#N" n="52"/>posse mouere infinito tempore non arguat 
+      in<lb ed="#N" n="53" break="no"/>Monente mobiliter infinitam virtutem, illam 
+      <lb ed="#N" n="54"/>tamen arguit in Monente immobiliter.  
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1528z-Dd1e1628">
+               <head xml:id="ccc7yd-g1528z-Hd1e1630">Articulus 3</head>
+               <p xml:id="ccc7yd-g1528z-d1e1632">
+                  <lb ed="#N" n="55"/>ART. III. 
+      <lb ed="#N" n="56"/>An Obiectum Omnipotentiae sit solum Ens 
+      <lb ed="#N" n="57"/>possibile2. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1641">
+                  <lb ed="#N" n="58"/>IC Ensus difficultatis est, an sub Obiecto 
+      <lb ed="#N" n="59"/>Omnipotentiae comprehedantur nedum 
+      <lb ed="#N" n="60"/>
+                  <!-- line coord error -->
+                  <!--548.xml-->
+                  <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>omnia Entia possibilia, sed etiam non Entia, 
+      im<lb ed="#N" n="62" break="no"/>possibilia, &amp; mala ita, vt defectu alicuius ex his, 
+      <lb ed="#N" n="63"/>quae non possit Deus, dici nequeat Omnipotes? 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1663">
+                  <lb ed="#N" n="64"/>Prima sententia est Haereticorum, quos 
+      ci<lb ed="#N" n="65" break="no"/>tanimus in sup. art; negantium Deo 
+      Omnipote<lb ed="#N" n="66" break="no"/>tiam, quia non potest mori, falli &amp;c; &amp; per 
+      con<lb ed="#N" n="67" break="no"/>sequens substinentium Omnipotentiam habere 
+      <lb ed="#N" n="68"/>pro objecto nedum Ens positiuum, sed etiam 
+      <lb ed="#N" n="69"/>non Ens. Hos redarguit Beatis. P. Aug. loc. ibid, cit.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1679">
+                  <lb ed="#N" n="70"/>Secunda sententia vult non Ens, prout 
+      ne<lb ed="#N" n="71" break="no"/>gat Essentiam, esse Obiectum Omnipotentiae, non 
+      <lb ed="#N" n="72"/>quidem positiuum ita, vt Omnipotentia 
+      produ<lb ed="#N" n="73" break="no"/>cat non Ens, sed negatiuum, sicut tenebrae sunt 
+      <lb ed="#N" n="74"/>objectum visionis; Non Ens autem, prout negat 
+      <lb ed="#N" n="75"/>existentia directe comprehendi in Obiecto 
+      Om<lb ed="#N" n="76" break="no"/>nipotentiae; quia Omnipotentia, sicuti per 
+      actio<lb ed="#N" n="77" break="no"/>nem productiuam facit rem existere, ita per 
+      ne<lb ed="#N" n="78" break="no"/>gationem sui concursus facit rem non esse. 
+      Ita<lb ed="#N" n="79" break="no"/>Vasq. apud Io. a S. Thos hic art. 1. n. 28. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1704">
+                  <lb ed="#N" n="80"/>Tertia sententia docet solum Ens 
+      possibi<lb ed="#N" n="81" break="no"/>le essentiale directe comprehendi sub Obiecto 
+      <lb ed="#N" n="82"/>Omnipotentiae; non Ens vero, prout negat esse. 
+      <lb ed="#N" n="83"/>existentiae, solum indirecte, scilicet ratione 
+      En<lb ed="#N" n="84" break="no"/>tis possibilis, pertinere ad Obiectum 
+      Omnipore<lb ed="#N" n="85" break="no"/>tiae. Ita B. Doct. dist. 20. princ. 1. q. 13 vbi ait: 
+      Pro<lb ed="#N" n="86" break="no"/>prie dicitur Omnipotens, quod potest omne, quod  
+      <lb ed="#N" n="87"/>habet rationem Entis. Idem docet omnes eius 
+      Di<lb ed="#N" n="88" break="no"/>scipuli; &amp; est doctrina D. Tho: apud Io: a S Tho: 
+      <lb ed="#N" n="89"/>ubi supra 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1728">
+                  <lb ed="#N" n="90"/>2. Not, ex B. Doct. in 1. dist. 42. princ. 2. q. 13. 
+      <lb ed="#N" n="91"/>&amp; 2, quod impossibile duplex est aliud 
+      absolu<lb ed="#N" n="92" break="no"/>te, &amp; secundum se; &amp; est illud, quod in terminis 
+      <lb ed="#N" n="93"/>essentialiter repugnat, vt Chimaeca; aliud 
+      compa<lb ed="#N" n="94" break="no"/>ratiue ad causa; &amp; est illud, quod nullo modo ab 
+      <lb ed="#N" n="95"/>aliqua causa potest produci. Hinc sicuti 
+      causa<lb ed="#N" n="96" break="no"/>duplex est, scilicet creata, &amp; increata;; ita 
+      impos<lb ed="#N" n="97" break="no"/>sibile aliud est per ordinem ad causam creatam, 
+      <lb ed="#N" n="98"/>vt creare omnes creaturas; &amp; aliud per ordinem. 
+      <lb ed="#N" n="99"/>ad causam increatam, vr peccare; ridere, 
+      ignora<lb ed="#N" n="100" break="no"/>re, &amp; cetera huiusmodi, que formaliter importati  
+      <lb ed="#N" n="101"/>imperfectionem; &amp; quae conueniunt soli creature; 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1757">
+                  <lb ed="#N" n="102"/>Ea autem, quae sunt possibilia causae create; 
+      <lb ed="#N" n="103"/>&amp; impossibilia Causae increatae, non dicuntur 
+      <lb ed="#N" n="104"/>possibilia eo, quia respiciant Potentiam actiuam 
+      <lb ed="#N" n="105"/>efficientem, sic enim importarent puram 
+      perfe<lb ed="#N" n="106" break="no"/>ctionem, sed quia respiciunt potentiam passiuam 
+      <lb ed="#N" n="107"/>deficientem: nam cum potentia passiua dicat non 
+      <lb ed="#N" n="108"/>esse, vt diximus de Subst. Dei q. 2. art. 3. 8. 1, ideo 
+      <lb ed="#N" n="109"/>dicit defectum, &amp; per consequens illud, quod  
+      <lb ed="#N" n="110"/>dicitur possibile per ordinem ad potentiam. 
+      <lb ed="#N" n="111"/>passiuam, dicit imperfectionem, &amp; defectum, &amp; 
+      <lb ed="#N" n="112"/>respicit causam deficientem, non efficientem 
+      <lb ed="#N" n="113"/>Causa autem deficiens dicit impotentiam 
+      for<lb ed="#N" n="114" break="no"/>maliter, non vero Potentiam, sicut causa efficies 
+      <lb ed="#N" n="115"/>dicit Potentiam, non impotentiam. Hinc 
+      pecca<lb ed="#N" n="116" break="no"/>ta dicuntur habere causam deficientem, non 
+      ef<lb ed="#N" n="117" break="no"/>ficientem, &amp; actiones in genere causae formalis 
+      <lb ed="#N" n="118"/>cum respiciant potentiam non pure actiuam, sed  
+      <lb ed="#N" n="119"/>simul actiuam, &amp; passiuam, quia in illa 
+      recipiun<lb ed="#N" n="120" break="no"/>tur, a qua eliciuntur, ideo re spiciunt causam de¬ 
+      <!--549.xml-->
+      <pb ed="#N" n="532"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ficientem, &amp; per consequens impotentiam. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1809">
+                  <lb ed="#N" n="2"/>Et hoc est, quod docet Beatiss. P. Aug. lib. 5. 
+      <lb ed="#N" n="3"/>de Ciu. Dei c. 10, &amp; loc cit. dicens: Propterea 
+      quae<lb ed="#N" n="4" break="no"/>dam non potest, quia Omnipotens est, idest 
+      ideo<lb ed="#N" n="5" break="no"/>Deus non potest mori, falli, mentiri, peccare, &amp; 
+      <lb ed="#N" n="6"/>cetera huiusmodi, quia nullam habet 
+      impoten<lb ed="#N" n="7" break="no"/>tiam, cum nullam habeat potentialitatem 
+      passi<lb ed="#N" n="8" break="no"/>uam, est enim actus purissimus, &amp; est ipsum esse 
+      <lb ed="#N" n="9"/>sine admixtione non esse, propter quod dicitur  
+      <lb ed="#N" n="10"/>Omnipotens. Hoc notato. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1831">
+                  <lb ed="#N" n="11"/> Unica concl. Omnipotentia habet 
+      pro<lb ed="#N" n="12" break="no"/>Obiecto solum Ens possibile, quanuis non Ens, 
+      <lb ed="#N" n="13"/>prout negat esse existentiae, possit indirecte esse 
+      <lb ed="#N" n="14"/>Obiectum Omnipotentiae ratione esse Essentie, 
+      <lb ed="#N" n="15"/>cui coniungitur.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1844">
+                  <lb ed="#N" n="16"/>Prob. 1 ex Beatiss. P. Aug. ubi sup. art. 1. 
+      Om<lb ed="#N" n="17" break="no"/>nipotentem Deum credimus, qui omnia faciens 
+      fa<lb ed="#N" n="18" break="no"/>ctus non, et ideo Omnipotens est. Ex quosic. 
+      Om<lb ed="#N" n="19" break="no"/>nipotentia dicitur ex eo, quod possit facere 
+      om<lb ed="#N" n="20" break="no"/>nia, sed solum Ens possibile est factibile, quia non 
+      <lb ed="#N" n="21"/>Ens non est factibile, &amp; cetera importantia 
+      im<lb ed="#N" n="22" break="no"/>perfectionem sunt defectibilia, non pure 
+      factibi<lb ed="#N" n="23" break="no"/>lia; ergo solum Ens possibile directe est Obiectum 
+      <lb ed="#N" n="24"/>Omnipotentiae. Hoc idem docet D. Ans. Prosologi 
+      <lb ed="#N" n="25"/>7. vbi loquens de iis, quae implicant, ait: An hoc 
+      <lb ed="#N" n="26"/>posse non est Potentia, sed impotentia: 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1871">
+                  <lb ed="#N" n="27"/> Prob. autem ratione I. Circa non Ens, 
+      <lb ed="#N" n="28"/>Impossibile, &amp; Malum, non est Potentia, sed 
+      im<lb ed="#N" n="29" break="no"/>potentia; ergo non Ens, impossibile, &amp; Malum 
+      <lb ed="#N" n="30"/>nequit esse Obiectum Omnipotentiae. 
+      Antece<lb ed="#N" n="31" break="no"/>dens supra probatum est. Prob. coseque nam illud 
+      <lb ed="#N" n="32"/>est Obiectum alicuius Potentiae, citca quod illa 
+      <lb ed="#N" n="33"/>Potentia versatur; sed Omnipotentia Dei non 
+      <lb ed="#N" n="34"/>versatur circa non Ens, Impossibile, &amp; Malum; 
+      <lb ed="#N" n="35"/>quia circa ista versatur impotentia, quae 
+      opponi<lb ed="#N" n="36" break="no"/>tur Potentiae; repugnat autem, quod idem sit 
+      <lb ed="#N" n="37"/>Obiectum formale duorum specifice 
+      opposito<lb ed="#N" n="38" break="no"/>rum, aliter duo opposita essent idem formaliter,  
+      <lb ed="#N" n="39"/>identitas enim formalis habetur ab Obiecto; 
+      er<lb ed="#N" n="40" break="no"/>go non Ens, Impossibile, &amp; Malum nequit esse 
+      <lb ed="#N" n="41"/>Obiectum Omnipotentiae. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1906">
+                  <lb ed="#N" n="42"/>S Prob. 2. Potentia Agentis supponit esse. 
+      <lb ed="#N" n="43"/>ipsius Agentis, quia fundatur in Essentia illius; &amp; 
+      <lb ed="#N" n="44"/>quia prius est rem esse, quam posse agere, 
+      prop<lb ed="#N" n="45" break="no"/>terea dixit Phil; quod Agens in tantum agit, in 
+      <lb ed="#N" n="46"/>quantum actu est; ergo posse fieri in effectu 
+      sup<lb ed="#N" n="47" break="no"/>ponit Essentiam ipsius effectus, supra quam 
+      fun<lb ed="#N" n="48" break="no"/>datur possibilitas illius;, Potentiae enim actiuae 
+      de<lb ed="#N" n="49" break="no"/>bet correspondere potentia passiua, sed non Ens, 
+      Im<lb ed="#N" n="50" break="no"/>possibile, &amp; Malum nullam habent Essentia, nec 
+      <lb ed="#N" n="51"/>possibil itatem respectu Omnipotentiae Dei; ergo 
+      <lb ed="#N" n="52"/>non sunt Obiectum illius. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1932">
+                  <lb ed="#N" n="53"/>6 Prob. 3. contra Vasq. Adhoc, vt aliquod 
+      <lb ed="#N" n="54"/>sit Obiectum alicuius facultatis, non sufficit, quod  
+      <lb ed="#N" n="55"/>illa facultas negatiue se habeat circa illud, aliter 
+      <lb ed="#N" n="56"/>Deus, &amp; Angeli, circa quos oculus corporeus 
+      <lb ed="#N" n="57"/>negatiue se habet, essent Obiectum Oculi 
+      cor<lb ed="#N" n="58" break="no"/>porei, ergo ex eo, quod Deus negatiue se 
+      ha<lb ed="#N" n="59" break="no"/>beat circa non esse Essentiae; non arguitur, quod  
+      <lb ed="#N" n="60"/>non esse Essentiae sit Obiectum Omnipotetiae Dei. 
+      <!--549.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/> Prob. 2. pars concl. Illud est Obiectum 
+      di<lb ed="#N" n="62" break="no"/>rectum alicuius Potentiae, quod secundum se 
+      ip<lb ed="#N" n="63" break="no"/>sum potest terminate actionem illius, illud aute 
+      <lb ed="#N" n="64"/>est Obiectum indirectum, quod potest 
+      termina<lb ed="#N" n="65" break="no"/>re actionem illius ratione alterius; sed non esse 
+      <lb ed="#N" n="66"/>existentiae nequit terminate actionem aliquam 
+      <lb ed="#N" n="67"/>Omnipotentiae Dei, quia non esse existentie non 
+      <lb ed="#N" n="68"/>causatur per aliquam actionem, sed per solam 
+      <lb ed="#N" n="69"/>suspesionem, aut negationem actionis; tum quia 
+      <lb ed="#N" n="70"/>non esse est nihil, nihil autem nequit terminate 
+      <lb ed="#N" n="71"/>aliquam actionem; coniugitur tamen cum 
+      Essen<lb ed="#N" n="72" break="no"/>tia creaturae, quae potest terminare actionem 
+      <lb ed="#N" n="73"/>Omnipotentiae Dei, quia potest per illam 
+      acqui<lb ed="#N" n="74" break="no"/>rere esse; ergo non esse existentiae directe non est? 
+      <lb ed="#N" n="75"/>Obiectum Omnipotetiae Dei, sed tatum indirecte 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e1989">
+                  <lb ed="#N" n="76"/>S Obiicies 1. ex Vasq. Potentia visiua, 
+      quam<lb ed="#N" n="77" break="no"/>uis tantum negaliue se habeat citca tenebras, &amp; 
+      <lb ed="#N" n="78"/>circa illas actum visionis non exerceat, 
+      attamen<lb ed="#N" n="79" break="no"/>dicitur aliquo modo habere pro objecto 
+      tene<lb ed="#N" n="80" break="no"/>bras, quia tenebrae opponuntur luci, quae est 
+      <lb ed="#N" n="81"/>Jobjectum potentiae visiuae, &amp; oppositorum eadem 
+      <lb ed="#N" n="82"/>est ratio; ergo a pari de Omnipotentia. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2007">
+                  <lb ed="#N" n="83"/>Resp. dist. 2. partem antecedentis. Tenebrae 
+      <lb ed="#N" n="84"/>opponuntur luci priuatiue, &amp; oculus aliquo 
+      mo<lb ed="#N" n="85" break="no"/>de tendit in aerem, qui est subjectum positiuum 
+      <lb ed="#N" n="86"/>aptum natum recipere lucem, nihil tamen 
+      viue<lb ed="#N" n="87" break="no"/>do, conciopponuntur negatiue, neg; &amp; sic dicitur  
+      <lb ed="#N" n="88"/>ad illud axioma, quod oppositorum 
+      priuatiue<lb ed="#N" n="89" break="no"/>vel positiue est eadem ratio, non autem 
+      negati<lb ed="#N" n="90" break="no"/>ue; nam si Deus destrueret aerem, in quo est 
+      ca<lb ed="#N" n="91" break="no"/>rentia lucis, oculus nullo modo diceretur 
+      vide<lb ed="#N" n="92" break="no"/>re tenebras, sed mere negatiue non videre. Non 
+      <lb ed="#N" n="93"/>esse autem opponitur Enti mere negatiue. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2033">
+                  <lb ed="#N" n="94"/>P Obijcies 2. Sicuti per cocursum positiuum 
+      <lb ed="#N" n="95"/>Deus facit rem esse, ita per subtractionem 
+      con<lb ed="#N" n="96" break="no"/>cursus facit rem non esse, sed ex eo, quod facit 
+      <lb ed="#N" n="97"/>rem esse, res est objectum Omnipotentiae; ergo 
+      <lb ed="#N" n="98"/>ex eo, quod facit rem non esse, non Ens est 
+      obie<lb ed="#N" n="99" break="no"/>ctum Omnipotentiae. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2050">
+                  <lb ed="#N" n="100"/>Resp. dist. 2. partem maioris. Per 
+      subtractio<lb ed="#N" n="101" break="no"/>nem concur sus facit rem non esse per aliquam 
+      <lb ed="#N" n="102"/>actionem positiuam, neg, per negationem 
+      actio<lb ed="#N" n="103" break="no"/>nis posit iuae, conc; &amp; sic distincta minori negi 
+      <lb ed="#N" n="104"/>consequentia¬ 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2063">
+                  <lb ed="#N" n="105"/>IO Obiicies 3. Si ad hoc, vt Deus sit 
+      Omni<lb ed="#N" n="106" break="no"/>potes, sufficeret, quod Dei Potentia possit; quid 
+      <lb ed="#N" n="107"/>quid non implicat contradictionem, sequeretur 
+      <lb ed="#N" n="108"/>quod omnis creatura esset Omnipotens: nam 
+      <lb ed="#N" n="109"/>ignis v.g. non potest frigefacere, quia frigefacere 
+      <lb ed="#N" n="110"/>in igne dicit contradictionem; implicat enim; 
+      <lb ed="#N" n="111"/>quod duo contraria sint simul in eodem subjecto; 
+      <lb ed="#N" n="112"/>aed consequens est falsum, quia Omnipotentia 
+      <lb ed="#N" n="113"/>est propria Dei, ergo &amp; antecedens. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2085">
+                  <lb ed="#N" n="114"/>Resp. B. Doctor dist. 20. q. 1. 8. Sed si sic dist. 
+      <lb ed="#N" n="115"/>maiorem. Quidquid non implicat 
+      contradictio<lb ed="#N" n="116" break="no"/>nem ex parte rei absolute sumptae, conc; sed 
+      in<lb ed="#N" n="117" break="no"/>hoc sensu, neg. minor: nam ex parte ligni non 
+      <lb ed="#N" n="118"/>implicat frigefieri, ex parte Agentis 
+      particula<lb ed="#N" n="119" break="no"/>ris, &amp; determinati, neg. maior; &amp; ad min. dicitur,  
+      <lb ed="#N" n="120"/>quod ignis est causa particularis, &amp; talis re¬ 
+      <!--550.xml-->
+      <pb ed="#N" n="533"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>pugnantia non est ex parte passi, aut ex 
+      par<lb ed="#N" n="2" break="no"/>te Agentis vniuersalis, sed ex parte Agentis 
+      <lb ed="#N" n="3"/>particularis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2116">
+                  <lb ed="#N" n="4"/>Aliae objectiones vid. apud B. Doct. dist. 42. 
+      <lb ed="#N" n="5"/>princip. 2. q. 13 &amp; 2. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1528z-Dd1e2124">
+               <head xml:id="ccc7yd-g1528z-Hd1e2126">Articulus 4</head>
+               <p xml:id="ccc7yd-g1528z-d1e2128">
+                  <lb ed="#N" n="6"/>ART. IV 
+      <lb ed="#N" n="7"/>In quo consistat esse possibile creaturarum: 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2135">
+                  <lb ed="#N" n="8"/>HAec difficultas adeo arcana visa est 
+      Re<lb ed="#N" n="9" break="no"/>centioribus, vt fere omnes in publicis 
+      <lb ed="#N" n="10"/>ac priuatis, disputationibus eam explicent 
+      nega<lb ed="#N" n="11" break="no"/>tiue, asserentes possibilitatem creaturarum 
+      ex<lb ed="#N" n="12" break="no"/>tra Deum consistere in non repugnantia 
+      termino<lb ed="#N" n="13" break="no"/>rum essentialium, seu in connexione eorundem,. 
+      <lb ed="#N" n="14"/>nec tamen declarant, quid sit haec non 
+      repugna<lb ed="#N" n="15" break="no"/>tia, cum manifestum sit ipsam non esse purum 
+      <lb ed="#N" n="16"/>nihil, vt infra videbimus, quod si non est nihil, 
+      <lb ed="#N" n="17"/>necesse est, quod sit aliquid, quod tamen silentio 
+      <lb ed="#N" n="18"/>inuoluunt. Et sic conexio terminorum necessario. 
+      <lb ed="#N" n="19"/>exigit extrema connexa, connexio enim est vnio, 
+      <lb ed="#N" n="20"/>quae essentialiter est inter duo extrema; nec 
+      ta<lb ed="#N" n="21" break="no"/>men ostendunt, quid sint ista extrema, propter 
+      <lb ed="#N" n="22"/>quod obscuritatis ymbra inuolutam latere hanc 
+      <lb ed="#N" n="23"/>veritatem fateri necesse est. Igitur, vt pro nostra 
+      <lb ed="#N" n="24"/>tenuitate proferamus, quod assequi potuimus. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2174">
+                  <lb ed="#N" n="25"/>Prima sententia vult esse creaturarum 
+      pos<lb ed="#N" n="26" break="no"/>sibilium formaliter cosistere in aliquo esse 
+      actua<lb ed="#N" n="27" break="no"/>li, quod habent ab aeterno creaturae possibiles 
+      <lb ed="#N" n="28"/>extra Deum, quod esse actuale nihil aliud est, 
+      <lb ed="#N" n="29"/>quam esse Essentiae quiditatiuum absolutum, 
+      in<lb ed="#N" n="30" break="no"/>quo fundatur possibilitas, &amp; quod suscipit 
+      de<lb ed="#N" n="31" break="no"/>nominationem possibilitatis. Ita <name xml:id="ccc7yd-g1528z-Nd1e2191">Henr.</name> in Sum. 
+      <lb ed="#N" n="32"/>art. 1. q. 233 &amp; Quodt. 5. q. 2. <name xml:id="ccc7yd-g1528z-Nd1e2195">Mapr</name> an Idist. 24. 
+      <lb ed="#N" n="33"/>q. 1. art. 25 <name xml:id="ccc7yd-g1528z-Nd1e2200">Albert</name> in. in praedicam. Subst. disp. 1. 
+      <lb ed="#N" n="34"/>q. 1. concl. 1. <name xml:id="ccc7yd-g1528z-Nd1e2204">Nazar</name>. 1. p. q. 3. art. 4. controu. 1. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2207">
+                  <lb ed="#N" n="35"/>Secunda sententia asserit creaturas 
+      possi<lb ed="#N" n="36" break="no"/>biles esse ipsum Intellectum Diuinum, vel 
+      ali<lb ed="#N" n="37" break="no"/>quod esse objectiuum intelligibile absolutum 
+      <lb ed="#N" n="38"/>intrinsecum ipsis creaturis productum ab 
+      Intel<lb ed="#N" n="39" break="no"/>lectu Diuino, antequam producantur a parte. 
+      <lb ed="#N" n="40"/>rei. Refertur Scot apud nostrum Basil. relect. 5. in 
+      <lb ed="#N" n="41"/>confutat. 2. modi dicendi. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2226">
+                  <lb ed="#N" n="42"/>Tertia tandem sententia docet creaturas 
+      <lb ed="#N" n="43"/>possibiles formaliter importate esse Eminentiale 
+      <lb ed="#N" n="44"/>contentum virtualiter in Deo cum modo 
+      rela<lb ed="#N" n="45" break="no"/>tiuo ad extra, qui vocatur a Theologis non 
+      <lb ed="#N" n="46"/>repugnantia ad essendum, seu aptitudo ad 
+      esse<lb ed="#N" n="47" break="no"/>dum, &amp; non essendum, vel conexio terminorum 
+      <lb ed="#N" n="48"/>essentialium. Ita Fundatiss. Doct, in lib. de Causit 
+      <lb ed="#N" n="49"/>prop. 23, &amp; in 1. dist. 36. princ. 2. q. 3: &amp; in 2. dist. 1. 
+      <lb ed="#N" n="50"/>p. 1. q. 3. art. 2. §. Sic &amp;; vbi ait: Nec Essentia 
+      <lb ed="#N" n="51"/>nec esse, nec aliquid erat de ipso creato ante 
+      crea<lb ed="#N" n="52" break="no"/>tionem. Hoc sine dubio implicite docent omnes 
+      <lb ed="#N" n="53"/>illius Discipuli, &amp; omnes Thomistae, ac alij 
+      Re<lb ed="#N" n="54" break="no"/>centiores, quanuis se ita non explicent. Igitur. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2257">
+                  <lb ed="#N" n="55"/> Not. 1. quod creatura possibilis 
+      formali<lb ed="#N" n="56" break="no"/>ter non est purum nihil; aut Ens rationis. 
+      Ratic<lb ed="#N" n="57" break="no"/>primi est: nam creatura possibilis vere est 
+      co<lb ed="#N" n="58" break="no"/>gnoscibilis, aliter Omnipotentia Dei, quando 
+      <lb ed="#N" n="59"/>fertur in creaturas possibiles illas producendo 
+      <!--550.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>in esse, &amp; Voluntas Dei decernendo illas 
+      trans<lb ed="#N" n="61" break="no"/>ferre ad statum futuritionis, &amp; actualis 
+      existen<lb ed="#N" n="62" break="no"/>tiae, tenderet in incognitum, quia nihil est 
+      inco<lb ed="#N" n="63" break="no"/>gnoscibile, cum cognoscibilitas sit passio Entis, 
+      <lb ed="#N" n="64"/>cognosci enim sequitur ad esse, sed implicat, quod  
+      <lb ed="#N" n="65"/>Omnipotentia, &amp; Voluntas Dei ferantur in 
+      in<lb ed="#N" n="66" break="no"/>cognitum; quia Omnipotentia Dei omnia 
+      pro<lb ed="#N" n="67" break="no"/>ducit artificioso modo, qui est cum 
+      praecogni<lb ed="#N" n="68" break="no"/>tione illius, quod producit; Artifex enim prius 
+      <lb ed="#N" n="69"/>cognoscit suum Opus in suis Idaeis, antequamo 
+      <lb ed="#N" n="70"/>illud producat; &amp; Voluntas fertur in tem prius 
+      <lb ed="#N" n="71"/>cognitam, quia nil volitum, quin 
+      praecognitumi<lb ed="#N" n="72" break="no"/>ergo creaturae, possibiles non sunt purum nihil. 
+      <lb ed="#N" n="73"/>Quomodo autem sint aliquid, mox explicabitur.  
+      <lb ed="#N" n="74"/>Ratio secundi est. Ens rationis purum non est. 
+      <lb ed="#N" n="75"/>producibile ad extra; est enim illud, quod 
+      ha<lb ed="#N" n="76" break="no"/>bet esse tantum obiectiue in intellectu; &amp; quod  
+      <lb ed="#N" n="77"/>producitur ad extra, non habet esse tatum 
+      obie<lb ed="#N" n="78" break="no"/>ejctiue in intellectu; sed creaturae pos sibiles sunt 
+      <lb ed="#N" n="79"/>producibiles ad extra; ergo non sunt formaliter 
+      <lb ed="#N" n="80"/>Ens rationis. Tum quia creaturae possibiles 
+      ha<lb ed="#N" n="81" break="no"/>bent esse in sua causa, quae potest illas 
+      produce<lb ed="#N" n="82" break="no"/>re sub esse actuali; omnis enim effectus habet  
+      <lb ed="#N" n="83"/>esse in sua causa, vt dictum est de Emin. Dei; 
+      er<lb ed="#N" n="84" break="no"/>go non habent esse tantum in intellectu, &amp; 
+      per<lb ed="#N" n="85" break="no"/>consequens non sunt Entia rationis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2331">
+                  <lb ed="#N" n="86"/> Hoc autem esse, quod dicit creatura 
+      pos<lb ed="#N" n="87" break="no"/>sibilis, a quo denominatur Ens, &amp; aliquod, non 
+      <lb ed="#N" n="88"/>est aliquod esse actuale ab aeterno existens extra 
+      <lb ed="#N" n="89"/>Deum, vt vult Henr; tum quia nihil actu est ab 
+      <lb ed="#N" n="90"/>aeterno extra Deum, vt docet Fides, quae statuit  
+      <lb ed="#N" n="91"/>omnia esse producta in tempore, &amp; habere 
+      prin<lb ed="#N" n="92" break="no"/>cipium suae durationis; tum quia si creatura 
+      pos<lb ed="#N" n="93" break="no"/>sibilis importaret aliquod esse actuale ab 
+      aeter<lb ed="#N" n="94" break="no"/>no, sequererur, quod quando creatura 
+      produ<lb ed="#N" n="95" break="no"/>citur in tempore, non crearetur, quia fieret 
+      ex<lb ed="#N" n="96" break="no"/>aliquo subjecto actuali praesupposito ab aeterno, 
+      <lb ed="#N" n="97"/>&amp; ideo non fieret ex nihilo sus tum quia actus: 
+      <lb ed="#N" n="98"/>per quem essentia denominatur actualis, est 
+      exi<lb ed="#N" n="99" break="no"/>stentia; existentia enim est actus Essentiae, sicut 
+      <lb ed="#N" n="100"/>forma est actus materiae; sed creaturae non sunt,  
+      <lb ed="#N" n="101"/>existentes ab aeterno extra Deum: ergo non sunt, 
+      <lb ed="#N" n="102"/>aliquid actuale. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2370">
+                  <lb ed="#N" n="103"/> Neque est aliquod esse objectiuum 
+      pro<lb ed="#N" n="104" break="no"/>ductum ab aeterno ab Intellectu Diuino; quia vel 
+      <lb ed="#N" n="105"/>hoc esse objectiuum est productum in ipso 
+      In<lb ed="#N" n="106" break="no"/>tellectu Diuino, vel extra Intellectum Diuinum; 
+      <lb ed="#N" n="107"/>Non primum; quia Intellectus Diuinus ad intra 
+      <lb ed="#N" n="108"/>non producit nisi Verbum; patet autem, quod 
+      <lb ed="#N" n="109"/>Verbum non est creatura, vt blasphaemabat 
+      Ar<lb ed="#N" n="110" break="no"/>rius; tum quia nihil possibile est intra Deum, 
+      <lb ed="#N" n="111"/>quia possibile dicit potentiam passiuam ad 
+      reci<lb ed="#N" n="112" break="no"/>piedum esse actuale, in Deo autem nulla 
+      poten<lb ed="#N" n="113" break="no"/>tia passiua reperiri potest, quia est actus 
+      vnde<lb ed="#N" n="114" break="no"/>quaque purissimus. Si secudum; ergo esse 
+      crea<lb ed="#N" n="115" break="no"/>turarum possibilium non est purum esse 
+      objecti<lb ed="#N" n="116" break="no"/>uum; quia illud dicitur purum esse objectiuum 
+      <lb ed="#N" n="117"/>quod est tantum in intellectu, cui obijcitur; 
+      <lb ed="#N" n="118"/>quod autem est extra intellectum, habet 
+      esse<lb ed="#N" n="119" break="no"/>reale, prout contradistinguitur ab esse objecti¬ 
+      <!--551.xml-->
+      <pb ed="#N" n="534"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>uo, nam licet homo, prout cognitus, habeat est 
+      <lb ed="#N" n="2"/>se objectiuum in intellectu, attamen prout 
+      exi<lb ed="#N" n="3" break="no"/>stit extra intellectum, habet esse reale, &amp; 
+      enti<lb ed="#N" n="4" break="no"/>tatiuum; nec vllus diceret rem existentem a 
+      par<lb ed="#N" n="5" break="no"/>te rei habere purum esse objectiuum in 
+      intelle<lb ed="#N" n="6" break="no"/>ctu; ergo, si creatura possibilis dicit aliquod 
+      es<lb ed="#N" n="7" break="no"/>se productum ab Intellectu Diuino extra se 
+      <lb ed="#N" n="8"/>iam non dicit purum esse objectiuum, sed realos 
+      <lb ed="#N" n="9"/>&amp; entitatiuum. Tum quia productio terminatur 
+      <lb ed="#N" n="10"/>ad existentiam ipsius rei; est enim actio, per quam 
+      <lb ed="#N" n="11"/>res transit de non esse ad esse, sed creaturae non 
+      <lb ed="#N" n="12"/>existunt ab aeterno; ergo non important aliquod  
+      <lb ed="#N" n="13"/>esse productum ab aeterno extra Deum ab In 
+      <lb ed="#N" n="14"/>tellectu Diumo; &amp; ideo rationes allatae 
+      contra<lb ed="#N" n="15" break="no"/>Henr; vrgent etiam Scotum. Tum quia nulla res 
+      <lb ed="#N" n="16"/>producta extra Deum consistit formaliter in 
+      es<lb ed="#N" n="17" break="no"/>se inte lligibili, quia esse intelligibile est pas sio 
+      <lb ed="#N" n="18"/>sequens ad Eng) &amp; nulla res potest formaliter 
+      <lb ed="#N" n="19"/>constitui per suam passionem, quae illi accidit: 
+      <lb ed="#N" n="20"/>&amp; est posterior illa; repugnat autem 
+      constituti<lb ed="#N" n="21" break="no"/>quum esse id, quod est posterius in re; quia 
+      defi<lb ed="#N" n="22" break="no"/>nitur id, quod est prius. Tum quia vel 
+      produ<lb ed="#N" n="23" break="no"/>cuntur ad extra ex imperio Voluntatis Diuinae 
+      <lb ed="#N" n="24"/>&amp; per consequens libere, vel producuntur 
+      prae<lb ed="#N" n="25" break="no"/>cisa Voluntate Diuina? Si primum; ergo 
+      crea<lb ed="#N" n="26" break="no"/>turae possibiles non sunt necessariae, sed 
+      contin<lb ed="#N" n="27" break="no"/>gentes; &amp; per consequens ita producuntur, 
+      ve<lb ed="#N" n="28" break="no"/>potuissent non produci, sicut dicimus de 
+      crea<lb ed="#N" n="29" break="no"/>turis futuris. Si secundum; ergo Deus ad extra 
+      <lb ed="#N" n="30"/>non est Agens liberum; vtrunque repugnat, nec 
+      <lb ed="#N" n="31"/>admittitur a Scoto; ergo creatura possibilis non 
+      <lb ed="#N" n="32"/>importat formaliter aliquod esse productum ad 
+      <lb ed="#N" n="33"/>extra aeternaliter ab Intellectu Diuino. Omissis 
+      <lb ed="#N" n="34"/>igitur his opinationibus. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2489">
+                  <lb ed="#N" n="35"/>S. Vnica concl. Esse possibile importat esse. 
+      <lb ed="#N" n="36"/>eminentiale contentum in Diuina 
+      Omnipoten<lb ed="#N" n="37" break="no"/>tia cum aptitudine ad essendum ad extra, quae 
+      <lb ed="#N" n="38"/>aptitudo est modus relatiuus, qui non 
+      distingui<lb ed="#N" n="39" break="no"/>tur ab ipso esse, sed est ipsum esse absolutum 
+      ha<lb ed="#N" n="40" break="no"/>bens modum respectiui. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2505">
+                  <lb ed="#N" n="41"/> Prob. 1. ex Beatiss. P. Aug. docente, vt 
+      su<lb ed="#N" n="42" break="no"/>perius diximus; quod creatura in Diuima 
+      Essen<lb ed="#N" n="43" break="no"/>tia nihil aliud est, quam ipsa creatrix Essentia 
+      <lb ed="#N" n="44"/>quod repetit Fundatiss. Dost. vbi sup. Formatur  
+      <lb ed="#N" n="45"/>autem sic ratio. Creatura possibilis nihil est 
+      <lb ed="#N" n="46"/>extra Deum, quia si esset aliquid, daretur 
+      ali<lb ed="#N" n="47" break="no"/>quid ab aeterno extra Deum; ergo importat 
+      so<lb ed="#N" n="48" break="no"/>lum esse eminentiale contentum in Deo. Tum 
+      <lb ed="#N" n="49"/>quia creatura possibilis est effectus in sua causa; 
+      <lb ed="#N" n="50"/>non enim ponitur effectus extra causam, 
+      nis<lb ed="#N" n="51" break="no"/>quando producitur sub actuali existentia, cum 
+      <lb ed="#N" n="52"/>sola existentia sit ratio, per quam res ponitur 
+      <lb ed="#N" n="53"/>extra causam; sed effectus in causa dicit solum 
+      <lb ed="#N" n="54"/>esse ipsius causae virtualiter continentis 
+      esse<lb ed="#N" n="55" break="no"/>quod potest communicare effectuergo 
+      creatu<lb ed="#N" n="56" break="no"/>ra possibilis importat esse eminentiale virtualis 
+      <lb ed="#N" n="57"/>ter contentum in Diuina Essentia, quae est 
+      causa<lb ed="#N" n="58" break="no"/>illius. Tum quia res vel habet esse in se ipsa, vel 
+      <lb ed="#N" n="59"/>in alio; nullus enim alius modus essendi 
+      reperi<lb ed="#N" n="60" break="no"/>ri potest, quia Ens immediate diuiditur in Ens 
+      <!--551.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>per se, &amp; in se, &amp; in Ens in alio; sed creatura 
+      pos<lb ed="#N" n="62" break="no"/>sibilis non habet esse in se ipsa, quia si haberet 
+      <lb ed="#N" n="63"/>aliquod esse in se ipsa extra Deum, quantunuis 
+      <lb ed="#N" n="64"/>potentiale, iam non crearetur, quando 
+      produci<lb ed="#N" n="65" break="no"/>tur, creatio enim est ex nullo praesupposito 
+      subie<lb ed="#N" n="66" break="no"/>cto etiam potentiali; nam si praesupponatur 
+      ma<lb ed="#N" n="67" break="no"/>teria extra Agens, ex qua educatur forma, illa 
+      <lb ed="#N" n="68"/>eductio non est creatio, quia praesupponit extra 
+      <lb ed="#N" n="69"/>Agens subjectum potentiale, ex quo educitur  
+      <lb ed="#N" n="70"/>forma; &amp; ideo ad hoc, vt detur vera creatio, 
+      ni<lb ed="#N" n="71" break="no"/>hil omnino debet praesupponi extra Agensi 
+      <lb ed="#N" n="72"/>ergo creatura possibilis importat tantum esse, 
+      <lb ed="#N" n="73"/>contentum in causa 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2584">
+                  <lb ed="#N" n="74"/>6 Prob. 2. pars concl. Esse possibile, quod  
+      <lb ed="#N" n="75"/>creatura possibilis importat in sua causa, si 
+      suma<lb ed="#N" n="76" break="no"/>tur absolute, est summe actuale; tum quia est esse 
+      <lb ed="#N" n="77"/>ipsius causae, quod est actuale, cum per ipsum 
+      <lb ed="#N" n="78"/>causa existat a parte rei; tum quia nulla 
+      poten<lb ed="#N" n="79" break="no"/>tialitas passiua reperitur in Deo, qui est actus 
+      <lb ed="#N" n="80"/>purissimus excludens omnem passiuitatem: ergo 
+      <lb ed="#N" n="81"/>esse possibile, quod creatura possibilis importat  
+      <lb ed="#N" n="82"/>in sua causa, debet sumi relatiue ad existentiam, 
+      <lb ed="#N" n="83"/>quam potest recipere extra Deum, in ordine ad 
+      <lb ed="#N" n="84"/>quam dicitur possibilis: &amp; ideo creatura 
+      possi<lb ed="#N" n="85" break="no"/>bilis importat esse eminentiale contentum in 
+      <lb ed="#N" n="86"/>Deo cum modo relatiuo ad esse, quod 
+      po<lb ed="#N" n="87" break="no"/>test fieri extra Deum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2617">
+                  <lb ed="#N" n="88"/>Conf. 1. Possibile est formaliter factibile; 
+      <lb ed="#N" n="89"/>sed factibile non dicitur nisi per ordinem 
+      extra<lb ed="#N" n="90" break="no"/>Deum, quia nihil in Deo est factibile, aut 
+      fa<lb ed="#N" n="91" break="no"/>ctum, vt docet Beatiss. P. ubi sup. art. 13 ergo esse 
+      <lb ed="#N" n="92"/>possibile importat esse eminentiale cum modo 
+      <lb ed="#N" n="93"/>relatiuo extra Deum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2633">
+                  <lb ed="#N" n="94"/>Conf. 2. Esse possibile dicit aptitudinem, 
+      <lb ed="#N" n="95"/>seu habitudinem ad essendum, sed aptitudo, &amp; 
+      <lb ed="#N" n="96"/>habitudo est modus relatiuus, relatio enimest 
+      <lb ed="#N" n="97"/>habitudo vnius ad aliud; ergo creatura possibi 
+      <lb ed="#N" n="98"/>lis importat modum relatiuum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2646">
+                  <lb ed="#N" n="99"/>Tandem sic dicendo cuitantur inconue 
+      <lb ed="#N" n="100"/>nientia, quae sequuntur ex Aliorum sententia; 
+      <lb ed="#N" n="101"/>nam I. euitatur, quod detur aliquod extra Deu 
+      <lb ed="#N" n="102"/>coaeternum Deo: quia ille modus relatiuus non 
+      <lb ed="#N" n="103"/>est aliquid praeter esse Dei, sed est ipsum esse 
+      <lb ed="#N" n="104"/>Dei sic se habens. 2. cuitatur, quod productio 
+      <lb ed="#N" n="105"/>creaturae non sit creatio propter eandem ratio 
+      <lb ed="#N" n="106"/>nem; quia scilicet fit ex nihilo sui extra Agensi 
+      <lb ed="#N" n="107"/>ille enim modus relatiuus est in ipso Agentea. 
+      <lb ed="#N" n="108"/>qui tamen habet respicere extra Agens illuc 
+      <lb ed="#N" n="109"/>esse, quod potest esse, &amp; simpliciter non est, cum 
+      <lb ed="#N" n="110"/>haec sit essentia relatiuorum; &amp; ideo rationabi  
+      <lb ed="#N" n="111"/>lior apparet hic modus dicendi. Circa hunc 
+      <lb ed="#N" n="112"/>modum relatiuum videantur, quae diximus de 
+      <lb ed="#N" n="113"/>Atur., in com. q. 2. art. 2, &amp; 6. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2681">
+                  <lb ed="#N" n="114"/>S Obiicies 1. Possibile definitur per 
+      nega<lb ed="#N" n="115" break="no"/>tionem, idest quod nec habet, nec habuit, nec 
+      <lb ed="#N" n="116"/>habebit esse; ergo est aliquod mere negatiuum, 
+      <lb ed="#N" n="117"/>&amp; si apprehendatur per modum entis positiui, 
+      <lb ed="#N" n="118"/>erit ens rationis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2694">
+                  <lb ed="#N" n="119"/>Resp. neg. conseque multa enim sunt, quae 
+      <lb ed="#N" n="120"/>sunt aliquod positiuum, quia tamen fundant ne¬ 
+      <!--552.xml-->
+      <pb ed="#N" n="535"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>gationem aliquam, definiuntur per negationem, 
+      <lb ed="#N" n="2"/>vt patet de Attributis Dei negatiuis, &amp; 
+      tamen<lb ed="#N" n="3" break="no"/>non sunt aliquod negatiuum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2715">
+                  <lb ed="#N" n="4"/>9. Obiicies 2. Ad hoc, vt creatura sit 
+      crea<lb ed="#N" n="5" break="no"/>ta, sufficit, quod sit facta ex nihilo actuali 
+      exi<lb ed="#N" n="6" break="no"/>stentiae, non autem ex puro nihilo actuali 
+      es<lb ed="#N" n="7" break="no"/>sentiae; ergo essentia possibilis importat aliquod  
+      <lb ed="#N" n="8"/>actuale. Prob. antecedens: nam creatio non est? 
+      <lb ed="#N" n="9"/>ex nihilo simpliciter, sed tantum ex nihilo 
+      exi<lb ed="#N" n="10" break="no"/>stentiae actualis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2733">
+                  <lb ed="#N" n="11"/>Resp. neg. antecedens. Ad prob. neg. 
+      as<lb ed="#N" n="12" break="no"/>sumptum; creatio enim in hoc distinguitur a 
+      <lb ed="#N" n="13"/>generatione, quod generatio est ex aliquo 
+      su<lb ed="#N" n="14" break="no"/>bjecto praesupposito, creatio vero est ex nullo 
+      <lb ed="#N" n="15"/>prae supposito; ergo si creatio praesupponeret. 
+      <lb ed="#N" n="16"/>essentiam actualem creature, quae est subjectum, 
+      <lb ed="#N" n="17"/>in quo recipitur existentia, sicut materia est 
+      su<lb ed="#N" n="18" break="no"/>biectum, in quo recipitur forma, &amp; esset tantum 
+      <lb ed="#N" n="19"/>ex nihilo existentiae; non distingueretur a 
+      gene<lb ed="#N" n="20" break="no"/>ratione, quae est tantum ex nihilo existentiae 
+      <lb ed="#N" n="21"/>ipsius forme, non autem ex nihilo ipsius essetie¬ 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2759">
+                  <lb ed="#N" n="22"/>1O Obijcies 3. Cognitio actualis, &amp; intuit 
+      <lb ed="#N" n="23"/>tiua necessario terminatur ad objectum actuale. 
+      <lb ed="#N" n="24"/>sed Deus ab aeterno cognonit creaturas 
+      possi<lb ed="#N" n="25" break="no"/>biles actualiter, &amp; intuitiue; ergo essent ia 
+      possi<lb ed="#N" n="26" break="no"/>bilis importat aliquod actuale. Mator patet: 
+      <lb ed="#N" n="27"/>nam cognitio specificatur, &amp; denominatur ab 
+      <lb ed="#N" n="28"/>objecto. Prob. min. Nunquam intellectus 
+      Di<lb ed="#N" n="29" break="no"/>mnus fuit in potentia ad cognoscendas 
+      creatu<lb ed="#N" n="30" break="no"/>ras possibiles, nec illas vnquam abstractiue 
+      co<lb ed="#N" n="31" break="no"/>gnonit; ergo Deus ab aeterno cognouit 
+      creatu<lb ed="#N" n="32" break="no"/>ras possibiles actualiter, &amp; intuitiue. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2785">
+                  <lb ed="#N" n="33"/>Resp. dist,. maiorem. Cognitio actualis, &amp; 
+      <lb ed="#N" n="34"/>intuitiua terminatur ad objectum actuale 
+      pri<lb ed="#N" n="35" break="no"/>marium, cone; secundarium, negi &amp; ad prob. 
+      di<lb ed="#N" n="36" break="no"/>citur, quod cognitio specificatur, &amp; 
+      denomina<lb ed="#N" n="37" break="no"/>tur ab objecto primario, non a secundario; &amp; sic 
+      <lb ed="#N" n="38"/>dist. min. Creaturae possibiles secundum 
+      esse<lb ed="#N" n="39" break="no"/>quod habent in Deo, sunt obiectum primarium. 
+      <lb ed="#N" n="40"/>&amp; sunt quid actuale, cone; secundum aliquod  
+      <lb ed="#N" n="41"/>esse actuale extra Deum, negatur.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2807">
+                  <lb ed="#N" n="42"/>Instabis. Deus cognoscit creaturas 
+      secun<lb ed="#N" n="43" break="no"/>dum illud esse, quod habiturae sunt in se ipsis, 
+      <lb ed="#N" n="44"/>quod dicitur esse in potentia passiua, sed illud 
+      <lb ed="#N" n="45"/>esse, quod habebunt in se ipsis, prout est in 
+      po<lb ed="#N" n="46" break="no"/>tentia passiua, non est in Deo, quia nihil 
+      poten<lb ed="#N" n="47" break="no"/>tiale passiuum est in Deo: ergo cognitio Dei. 
+      <lb ed="#N" n="48"/>actualiter terminatur ad esse creaturae 
+      possibi<lb ed="#N" n="49" break="no"/>lis extra Deum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2827">
+                  <lb ed="#N" n="50"/>Resp; quod illud idem esse, quod est 
+      in<lb ed="#N" n="51" break="no"/>creatura, est etiam in Deo, &amp; prout est in Deo, 
+      <lb ed="#N" n="52"/>est actuale, quia actu est in Deo, nam totus Deus 
+      <lb ed="#N" n="53"/>actus est, per ordinem vero ad creaturas est 
+      po<lb ed="#N" n="54" break="no"/>tentiale, quatenus potest communicari 
+      creatu<lb ed="#N" n="55" break="no"/>tis. Dist. ergo maior: Deus cognoscit creaturas 
+      <lb ed="#N" n="56"/>secundum illud esse, quod habiturae sunt in se 
+      <lb ed="#N" n="57"/>ipsis, prout est in ipso, &amp; quod per ordinem ad 
+      <lb ed="#N" n="58"/>creaturas est in potentia passiua, respectu tamen 
+      <lb ed="#N" n="59"/>ipsius Dei est summe actuale, conc, secundum 
+      <lb ed="#N" n="60"/>illud esse extra Deum, negatur.  
+      <!--552.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>II Obiicies4. Sicut se habet ens ad 
+      non<lb ed="#N" n="62" break="no"/>ens, ita possibile ad impossibile; ergo mutata 
+      <lb ed="#N" n="63"/>proportione sicut se habet imposs ibile ad non 
+      <lb ed="#N" n="64"/>ens, ita possibile ad ens; sed omne impossibile 
+      <lb ed="#N" n="65"/>est non ens actuale, ergo omne possibile. 
+      <lb ed="#N" n="66"/>est ens actuale. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2872">
+                  <lb ed="#N" n="67"/>Resp. dist. min. subsumptam. Sed omne. 
+      <lb ed="#N" n="68"/>impossibile est non ens actuale tantum, negi 
+      <lb ed="#N" n="69"/>etiam, conce impossibile enim non solum est non 
+      <lb ed="#N" n="70"/>ens actuale, sed etiam non ens potentiale, quia 
+      <lb ed="#N" n="71"/>impossibile nec est, nec potest esse, &amp; ita a pari 
+      <lb ed="#N" n="72"/>valet: Omne possibile vel est ens potentiale, 
+      <lb ed="#N" n="73"/>quod importat esse ipsius causae cum modo 
+      re<lb ed="#N" n="74" break="no"/>latiuo ad extra, vt supra explicatum est, vel 
+      im<lb ed="#N" n="75" break="no"/>portat ens actuale, quod habet existentiam. 
+      <lb ed="#N" n="76"/>Neg. igitur 2. consequentia. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2896">
+                  <lb ed="#N" n="77"/>I2. Obiicies 5. Creaturae secundum esse 
+      <lb ed="#N" n="78"/>possibile ponuntur in praedicamentis; substantia; 
+      <lb ed="#N" n="79"/>enim non existens est in praedicamento 
+      substan<lb ed="#N" n="80" break="no"/>tiae, non accidentis; sed illud, quod est in 
+      praedi<lb ed="#N" n="81" break="no"/>camento, est aliquod actuale, quia includit 
+      diffe<lb ed="#N" n="82" break="no"/>rentiam, quae est actus; ergo creaturae possibiles. 
+      <lb ed="#N" n="83"/>important aliquod actuale extra Deum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2914">
+                  <lb ed="#N" n="84"/>Resp. dist. maiorem. Creaturae possibiles 
+      <lb ed="#N" n="85"/>ponuntur in praedicamento ratione alicuius 
+      <lb ed="#N" n="86"/>actualitatis, quam habent in se ipsis ab aeterno. 
+      <lb ed="#N" n="87"/>extra Deum, neg; quam non habent, sed possunt, 
+      <lb ed="#N" n="88"/>habere, conc; essentiae enim creaturarum 
+      consi<lb ed="#N" n="89" break="no"/>stunt in aptitudine, non in actualitate, vt 
+      suppo<lb ed="#N" n="90" break="no"/>nimus ex Logica, &amp; vt superius ostendimus: Et  
+      <lb ed="#N" n="91"/>dic dist. min. Quod ponitur in praedicamento, 
+      in<lb ed="#N" n="92" break="no"/>cludit differentiam, quam actu habet, neg; quam 
+      <lb ed="#N" n="93"/>potest habere, conceditur. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2938">
+                  <lb ed="#N" n="94"/>13. Obiicies 6. Essentia realiter 
+      distingui<lb ed="#N" n="95" break="no"/>tur ab existentia, ergo essentia habet suum esse 
+      <lb ed="#N" n="96"/>actuale distinctum ab esse actuali existentiae: nam 
+      <lb ed="#N" n="97"/>si essentia haberet esse actuale existentiae, 
+      se<lb ed="#N" n="98" break="no"/>queretur, quod vna pars alicuius totius haberet  
+      <lb ed="#N" n="99"/>totum esse, quod habet totum, &amp; sic esset pars 
+      <lb ed="#N" n="100"/>&amp; esset totum: 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e2956">
+                  <lb ed="#N" n="101"/>Resp; quod licet materia distinguatur 
+      rea<lb ed="#N" n="102" break="no"/>liter a forma, attamen praecisa forma non habet  
+      <lb ed="#N" n="103"/>esse actuale; &amp; sicuti materia quando actu est. 
+      <lb ed="#N" n="104"/>consuncta cum forma, licet habeat esse actuale 
+      <lb ed="#N" n="105"/>per formam, attamen illius entitas est realiter  
+      <lb ed="#N" n="106"/>distincta ab entitate formae; sic dicendum de 
+      ac<lb ed="#N" n="107" break="no"/>cidente, quod licet existat per existentiam 
+      sub<lb ed="#N" n="108" break="no"/>stantiae, attamen habet entitatem realiter 
+      distin<lb ed="#N" n="109" break="no"/>ctam ab entitate substantiae; ita a pari. Neg. 
+      igi<lb ed="#N" n="110" break="no"/>tur conseque aliud est enim, quod essentia habeat:  
+      <lb ed="#N" n="111"/>entitatem distinctam ab entitate existentiae, &amp; 
+      <lb ed="#N" n="112"/>aliud, quod habeat esse actuale, seu actualitatem 
+      <lb ed="#N" n="113"/>distinctam ab actualitate existentiae, vt diximus 
+      <lb ed="#N" n="114"/>de materia, &amp; accidente, quae licet habeant 
+      di<lb ed="#N" n="115" break="no"/>stinctam entitatem, attamen existunt per 
+      ean<lb ed="#N" n="116" break="no"/>dem existentiam, per quam existunt forma, &amp; 
+      <lb ed="#N" n="117"/>substantia. Ad prob. insertam neg. sequela; nam 
+      <lb ed="#N" n="118"/>totum compositum nedum includit esse 
+      actua<lb ed="#N" n="119" break="no"/>le, quod importat forma, &amp; existentia, sed etiam 
+      <lb ed="#N" n="120"/>includit esse potentiale, quod importat mate¬ 
+      <!--553.xml-->
+      <pb ed="#N" n="536"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ria, &amp; essentia, &amp; ideo pars, quae importat solum 
+      <lb ed="#N" n="2"/>esse actuale, non est totum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3013">
+                  <lb ed="#N" n="3"/>14. Obiicies 7. Si essentia non haberet 
+      es<lb ed="#N" n="4" break="no"/>se actuale ab aeterno, sequeretur, quod haec 
+      pro<lb ed="#N" n="5" break="no"/>positio: Homo est animal rationale; non esset 
+      <lb ed="#N" n="6"/>aeternae veritatis, non enim dicitur, homo potest. 
+      <lb ed="#N" n="7"/>esse animal rationale, sed homo est animal 
+      ratio<lb ed="#N" n="8" break="no"/>nale; sed consequens est falsum; quia nulla 
+      da<lb ed="#N" n="9" break="no"/>retur scientia, quae essentialiter est ex necessarijs 
+      <lb ed="#N" n="10"/>&amp; sempiternis; ergo &amp; antecedens: 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3034">
+                  <lb ed="#N" n="11"/>Resp. neg. maiorem: &amp; ad prob. insertam 
+      <lb ed="#N" n="12"/>dicitur, quod illud verbum, est, appellat 
+      esse<lb ed="#N" n="13" break="no"/>quod habet creatura in Deo cum ordine ad 
+      <lb ed="#N" n="14"/>extra Deum, vt supra dictum est, illud autem 
+      <lb ed="#N" n="15"/>esse, quod est in Deo, est immutabile, necessa. 
+      <lb ed="#N" n="16"/>rium, &amp; aeternum, &amp; ideo de illo potest habere 
+      <lb ed="#N" n="17"/>scientia. Hinc dicimus, quod Deus, vtpote 
+      pri<lb ed="#N" n="18" break="no"/>ma Veritas, est verificatiuus omnium 
+      pro<lb ed="#N" n="19" break="no"/>positionum, quia continet esse omnium 
+      crea<lb ed="#N" n="20" break="no"/>turarum, de quibus possunt formari a 
+      no<lb ed="#N" n="21" break="no"/>bis propositiones. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1528z-Dd1e3061">
+               <head xml:id="ccc7yd-g1528z-Hd1e3063">Articulus 5</head>
+               <p xml:id="ccc7yd-g1528z-d1e3065">
+                  <lb ed="#N" n="22"/>ART. VI. 
+      <lb ed="#N" n="23"/>An Deus possit facere praeteritum non fuisse 
+      <lb ed="#N" n="24"/>praeteritum4 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3074">
+                  <lb ed="#N" n="25"/>DIfficultas haec, quae ab Antiquis agitata 
+      <lb ed="#N" n="26"/>est, apud Recentiores fere antiquanit:  
+      <lb ed="#N" n="27"/>pauci enim sunt, qui agant de illa; quia tamen 
+      <lb ed="#N" n="28"/>Potentia Dei explicatur per posse in omnia 
+      <lb ed="#N" n="29"/>cunque inter illa, ad quae videtur non posse 
+      <lb ed="#N" n="30"/>comparati Potentia Dei, vt sunt infinitum 
+      in<lb ed="#N" n="31" break="no"/>actu, non entia, impossibilia, &amp; chimaerae, ad 
+      <lb ed="#N" n="32"/>numeretur etiam praeteritum; quia praeteritum. 
+      <lb ed="#N" n="33"/>formaliter est non ens post esse, ideo 
+      quae<lb ed="#N" n="34" break="no"/>ritur, an Omnipotentia extendatur etiam ad 
+      <lb ed="#N" n="35"/>praeterita ita, vt possit facere praeterita non 
+      <lb ed="#N" n="36"/>fuisse praeterita 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3103">
+                  <lb ed="#N" n="37"/>Prima sententia vult Deum posse faceret 
+      <lb ed="#N" n="38"/>praeteritum non fuisse praeteritum, quia aliter 
+      <lb ed="#N" n="39"/>Deus non esset Omnipotens. Ita Gilbert. 
+      Por<lb ed="#N" n="40" break="no"/>retan. in com. super lib. de Trin. Bastij, quem 
+      se<lb ed="#N" n="41" break="no"/>quutus est Guilelmus Antisiodor, in summa lib. 1. 
+      <lb ed="#N" n="42"/>tract. de Potentia Dei, vbi quaerit, an Deus possit 
+      <lb ed="#N" n="43"/>facere de corrupta Virginem, vt refert noster 
+      <lb ed="#N" n="44"/>Greg. in 1. sent. dist. 22. q. 1. art. 2. ad4: &amp; haec 
+      sen<lb ed="#N" n="45" break="no"/>tentia a quibusdam ex nostris in M.S. tribuitur 
+      <lb ed="#N" n="46"/>etiam ipsi Gregorio. Ceterum quid dicendum sit 
+      <lb ed="#N" n="47"/>de eius mente, infra patebit. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3129">
+                  <lb ed="#N" n="48"/>Secunda sententia docet, quod Deus 
+      po<lb ed="#N" n="49" break="no"/>test facere praeteritum materialiter sumptum 
+      <lb ed="#N" n="50"/>non esse praeteritum, non autem praeteritum. 
+      <lb ed="#N" n="51"/>formaliter sumptum. Ita B. Doct. in 1. dist. 42. 
+      <lb ed="#N" n="52"/>princ. 2. q. 2. ad 33 &amp; q. 3. D. Tho.q. 25. art. 4. &amp; 
+      <lb ed="#N" n="53"/>ibid, omnes Thomistae; D. Bon. in 1. dist. 42. q. 3. 
+      <lb ed="#N" n="54"/>Vasq. disp. 105. n. 2. Sua. de Attr, positiuis c. 9. n. 253. 
+      <lb ed="#N" n="55"/>&amp; omnes alij Recentiores communiter; 
+      pro<lb ed="#N" n="56" break="no"/>culus decisione. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3152">
+                  <lb ed="#N" n="57"/> Not. 1. pro indagatione mentis nostri 
+      Gre<lb ed="#N" n="58" break="no"/>gorij; quod loco cit. in response ad auctoritatem. 
+      <lb ed="#N" n="59"/>quae est Beatiss. P. Augi praeteritum non esse prae¬ 
+      <!--553.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>teritum, potest dupliciter intelligi. 1. cum 
+      con<lb ed="#N" n="61" break="no"/>stantia praeteriti ita, vt sit simul praeteritum, &amp; 
+      <lb ed="#N" n="62"/>non praeteritum pro eadem duratione. 2. 
+      absolu<lb ed="#N" n="63" break="no"/>te, &amp; simpliciter ita, vt potuisset facere, quod 
+      <lb ed="#N" n="64"/>res, quae praeteriit, non fuisset praeterita, veli 
+      po<lb ed="#N" n="65" break="no"/>tuisset facere praeteritum non esse praeteritum pro 
+      di<lb ed="#N" n="66" break="no"/>uersa duratione ita, vt illud, quod praeteriit, possit. 
+      <lb ed="#N" n="67"/>reducere ad praesens dando denuo illi esset. Vult 
+      <lb ed="#N" n="68"/>igitur Greg; quod Deus non possit facere 
+      prete<lb ed="#N" n="69" break="no"/>ritum non fuisse praeteritum in primo sensus quia 
+      <lb ed="#N" n="70"/>implicat idem simul esse, &amp; non esse, &amp; in hoc  
+      <lb ed="#N" n="71"/>sensu ait impossibile esse propositionem veram. 
+      <lb ed="#N" n="72"/>mutari in falsam; attamen ait Deum posse faceret 
+      <lb ed="#N" n="73"/>praeteritum absolute secudum se simpliciter sumptu 
+      <lb ed="#N" n="74"/>non esse praeteritum. Quid autem intelligat 
+      per<lb ed="#N" n="75" break="no"/>praeteritum absolute sumptum, non explicat, &amp; 
+      <lb ed="#N" n="76"/>dissident Recentiores inter se 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3202">
+                  <lb ed="#N" n="77"/>Nam <name xml:id="ccc7yd-g1528z-Nd1e3206">Vasq.</name> loco cit. arbitratur nihil aliud 
+      <lb ed="#N" n="78"/>voluisse, quam, quod res, quae est praeterita, fiat  
+      <lb ed="#N" n="79"/>non praeterita referendo Potentiam Dei ad rem 
+      <lb ed="#N" n="80"/>secundum se, non autem ad praeteritionem. Suas 
+      <lb ed="#N" n="81"/>vero opinatur tantum voluisse, quod in Deo est? 
+      <lb ed="#N" n="82"/>Potentia, quae potuisset illam tem non 
+      facere<lb ed="#N" n="83" break="no"/>praeteritam, sicuti per eandem Potentiam eam 
+      <lb ed="#N" n="84"/>fecit praeteritam 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3224">
+                  <lb ed="#N" n="85"/>4 Contra istos Auctores insurgunt Aliqui  
+      <lb ed="#N" n="86"/>ex nostris in M. S. 1. quia si Gregorius intelligeret 
+      <lb ed="#N" n="87"/>rem praecisa praeteritione, non responderet que 
+      <lb ed="#N" n="88"/>stioni; quaestio enim erat; an Deus possit 
+      facere<lb ed="#N" n="89" break="no"/>praeteritum non praeteritum, non autem, an 
+      pos<lb ed="#N" n="90" break="no"/>sit facere rem non rem: nam quaerere, an Deus 
+      <lb ed="#N" n="91"/>possit facere praeteritum non praeteritum 
+      refere<lb ed="#N" n="92" break="no"/>do Potentiam Dei ad ipsam tem absolute 
+      prae<lb ed="#N" n="93" break="no"/>cisa praeteritione, idem est, ac quaerere, an libere 
+      <lb ed="#N" n="94"/>illam produxerit ita, vt sicuti illam producendo 
+      <lb ed="#N" n="95"/>illa praeteriit, ita illam non producendo illa non 
+      <lb ed="#N" n="96"/>praeteriisset, hoc autem est querere de Libertate, 
+      <lb ed="#N" n="97"/>non de Potentia Dei. 2. quia si Deus posset 
+      face<lb ed="#N" n="98" break="no"/>re praeteritum referendo Potentiam Dei ad 
+      ip<lb ed="#N" n="99" break="no"/>sam tem praecisa praeteritione, hoc posset etiam 
+      <lb ed="#N" n="100"/>creatura, presertim creatura libere agens; nam 
+      <lb ed="#N" n="101"/>creatura libere ages ita ponit rem, vt antequam 
+      <lb ed="#N" n="102"/>ponat, potuisset non ponere, in hoc enim 
+      consi<lb ed="#N" n="103" break="no"/>stit libertas, quod tamen non concederet 
+      Grego<lb ed="#N" n="104" break="no"/>rius de creatura, qui id tantum probabiliter ait 
+      <lb ed="#N" n="105"/>posse dici de Deo, &amp; eo magis, quia haec quaestic 
+      <lb ed="#N" n="106"/>excitata est de muliere corrupta, an possit reddi 
+      <lb ed="#N" n="107"/>Virgo a Deo? Quam tamen nullus diceret posse 
+      <lb ed="#N" n="108"/>reddi Virginem a creatura, quanis creatura, que 
+      <lb ed="#N" n="109"/>illam corrupit, potuisset ea non corrumpere; erge 
+      <lb ed="#N" n="110"/>Gregorius non est ita intelligendus. Quomodo 
+      <lb ed="#N" n="111"/>autem sit intelligendus, isti nostri Auctores non 
+      <lb ed="#N" n="112"/>explicant, sed solum tacite supponunt de bere 
+      <lb ed="#N" n="113"/>intelligi de praeterito, vt praeteritum est. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3289">
+                  <lb ed="#N" n="114"/>Verum quanuis Vasque &amp; Sua. plene non 
+      <lb ed="#N" n="115"/>explicauerint mentem Gregorii, attamen eodem 
+      <lb ed="#N" n="116"/>modo nori se habent, vel quia nihil dicunt, vel 
+      <lb ed="#N" n="117"/>quia supponunt ipsum loqui de praeterito eue 
+      <lb ed="#N" n="118"/>praeteritum est, quod tamen patebit esse 
+      mani<lb ed="#N" n="119" break="no"/>feste falsum. Igitur.  
+      <!--554.xml-->
+      <pb ed="#N" n="537"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>S Not. 2. ex B. Doct. loc. cit. ad 33 quod res 
+      <lb ed="#N" n="2"/>praeterita dupliciter accipi potest. 1. prout stat, 
+      <lb ed="#N" n="3"/>sub ipsa praeteritione formaliter, &amp; explicatur  
+      <lb ed="#N" n="4"/>per verbum, est, de praesenti, vt cum dicit ur: Dies 
+      <lb ed="#N" n="5"/>hesterna est praeterita. 2. materialiter, &amp; 
+      subjecti<lb ed="#N" n="6" break="no"/>ue ita, vt dicat ipsam tem praeteritam quidemo 
+      <lb ed="#N" n="7"/>non tamen manentem formaliter sub 
+      denomi<lb ed="#N" n="8" break="no"/>natione praeteritionis de praesenti, sed transeute 
+      <lb ed="#N" n="9"/>de statu praeteritionis ad statum non 
+      praeteritio<lb ed="#N" n="10" break="no"/>nis, &amp; praeteritio explicetur per verbum, fuisse, 
+      <lb ed="#N" n="11"/>temporis praeteriti, vt cum dicitur: haec res fuit. 
+      <lb ed="#N" n="12"/>praeterita. Si praeteritum consideretur primo 
+      mo<lb ed="#N" n="13" break="no"/>do, quaerere, an Deus possit facere praeteritum. 
+      <lb ed="#N" n="14"/>non esse praeteritum, idem est, ac inquirere, 
+      an<lb ed="#N" n="15" break="no"/>possit facere, quod ipsa praeteritio sit non 
+      prae<lb ed="#N" n="16" break="no"/>teritio, quod manifestam inuoluit 
+      contradictio<lb ed="#N" n="17" break="no"/>nem, quia importat formaliter simul esse, &amp; non 
+      <lb ed="#N" n="18"/>esse; &amp; hic est primus sensus sumendi praeteritum 
+      <lb ed="#N" n="19"/>allatus a Greg. Si consideretur 2. modo, tunc est, 
+      <lb ed="#N" n="20"/>quaerere, an res, quae manet sub praeteritione, non 
+      <lb ed="#N" n="21"/>reduplicatiue, prout stat sub praeteritione cum 
+      <lb ed="#N" n="22"/>consistentia praeteritionis, sed cum desitione 
+      prae<lb ed="#N" n="23" break="no"/>teritionis possit fieri non preterita: &amp; in hoc 
+      sen<lb ed="#N" n="24" break="no"/>su concedit Greg. posse fieri a Deo: &amp; a nullo 
+      <lb ed="#N" n="25"/>potest negari; potest enim Deus facere, quod  
+      <lb ed="#N" n="26"/>homo corruptus, cuius vita praeteriit, redeat 
+      exi<lb ed="#N" n="27" break="no"/>stens idem numero, vt fiet in die Iudicij juxta 
+      <lb ed="#N" n="28"/>Fidem Catholicam. Et hoc est praeteritum 
+      abso<lb ed="#N" n="29" break="no"/>lute, &amp; simpliciter sumptum sine consistentia. 
+      <lb ed="#N" n="30"/>praeteritionis posse fieri non praeteritum; eo enim 
+      <lb ed="#N" n="31"/>ipso, quod fiat presens, sit non praeteritum, non 
+      <lb ed="#N" n="32"/>tamen manet praeteritum de praesenti, quia 
+      im<lb ed="#N" n="33" break="no"/>plicat, quod praeteritum formaliter, vt 
+      praeteri<lb ed="#N" n="34" break="no"/>tum, sit praesens; quanuis remaneat, quo d fuerit, 
+      <lb ed="#N" n="35"/>praeteritum pro transacta differentia temporis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3387">
+                  <lb ed="#N" n="36"/>Praeteritum igitur formaliter importat duos 
+      <lb ed="#N" n="37"/>scilicet non esse, in quo differt a praesenti, quod 
+      <lb ed="#N" n="38"/>dicit esse; &amp; importat non esse post esse, in quo 
+      <lb ed="#N" n="39"/>differt a futuro, quod importat non esse, antequa 
+      <lb ed="#N" n="40"/>habeat esse. Igitur si consideretur praeteritum. 
+      <lb ed="#N" n="41"/>prout importat non esse, potest fieri non 
+      praete<lb ed="#N" n="42" break="no"/>ritum, quia potest recipere esse, &amp; ammittere non 
+      <lb ed="#N" n="43"/>esse, vt patet de restauratione hominis 
+      corrupti<lb ed="#N" n="44" break="no"/>Si vero consideretur, prout dicit fuisse, idest non 
+      <lb ed="#N" n="45"/>esse post esse, tunc nequit fieri non praeteritum. 
+      <lb ed="#N" n="46"/>quia variaretur essentia praeteriti. Itaque valde 
+      <lb ed="#N" n="47"/>notanda est differentia inter has duas 
+      proposi<lb ed="#N" n="48" break="no"/>tiones: Deus potest facere praeteritum non fuisse 
+      <lb ed="#N" n="49"/>praeteritum; &amp; Deus potest facere praeteritum non 
+      <lb ed="#N" n="50"/>esse praeteritum: prima enim falsa est; quia illud 
+      <lb ed="#N" n="51"/>verbum, fuisse, importat essentiam praeteritionis, 
+      <lb ed="#N" n="52"/>&amp; sensus est, quod Deus possit facere essentiam 
+      <lb ed="#N" n="53"/>praeteritionis non esse essentiam praeteritionis; 
+      se<lb ed="#N" n="54" break="no"/>cuda autem est vera, quia illud verbum, esse, 
+      im<lb ed="#N" n="55" break="no"/>portat aliquod, quod potest aduenire rei 
+      prae<lb ed="#N" n="56" break="no"/>terite contingenter: importat enim existentiam, 
+      <lb ed="#N" n="57"/>quae contingenter adueniret creaturae: &amp; ideo 
+      <lb ed="#N" n="58"/>potest fieri a Deo absque variatione essentia. 
+      <lb ed="#N" n="59"/>praeteritionis, quia dum res praeterita acquirit  
+      <lb ed="#N" n="60"/>esse, sit non praeterita, reducitur enim ad praesesa 
+      <!--554.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>&amp; tamen remanet illam tem fuisse, idest habuisse 
+      <lb ed="#N" n="62"/>non esse post esse pro alia differentia temporis 
+      <lb ed="#N" n="63"/>in quo consistit essentia perteritionis, a qua 
+      prae<lb ed="#N" n="64" break="no"/>teritum nequit absolui, &amp; ita intelligi debet Greg. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3457">
+                  <lb ed="#N" n="65"/>6 Ad 1. instatiam allatam contra Vasq. dist. 
+      <lb ed="#N" n="66"/>illa propositio. Si Greg. intelligeret rem 
+      praecisa<lb ed="#N" n="67" break="no"/>praeteritione vel formaliter, vel materialiter, non 
+      <lb ed="#N" n="68"/>responderet quaestioni, conc, formaliter tantum, 
+      <lb ed="#N" n="69"/>non materialiter, neg. Sic futurum potest fieri 
+      <lb ed="#N" n="70"/>presens, &amp; ideo non futurum, quia res, quae est 
+      <lb ed="#N" n="71"/>sub futuritione, potest fieri sub existetia; &amp; in hoc 
+      <lb ed="#N" n="72"/>consistebat quaestio; non enim quaerebatur, 
+      an<lb ed="#N" n="73" break="no"/>praeteritio possit esse non preteritio, sed an res, 
+      <lb ed="#N" n="74"/>que est sub praeteritione, possit transire ad esse 
+      <lb ed="#N" n="75"/>actualis existentiae, seu non praeteritionis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3484">
+                  <lb ed="#N" n="76"/>Ad 2. neg. sequela; nam creatura potest 
+      fa<lb ed="#N" n="77" break="no"/>cere praeteritum non esse praeteritum tantum 
+      abu<lb ed="#N" n="78" break="no"/>tedo hoc nomine praeteriti, prout est non 
+      preteri<lb ed="#N" n="79" break="no"/>um, quia ita posuit aliquod, quod praeteriit, quod si 
+      <lb ed="#N" n="80"/>non posuisset, non esset praeteritum: non 
+      tamen<lb ed="#N" n="81" break="no"/>potest restaurare rem corruptam, quam fecit. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3500">
+                  <lb ed="#N" n="82"/>7. Vnica concl. Deus potest facere preteritum 
+      <lb ed="#N" n="83"/>materialiter sumptum non esse praeteritum, non 
+      <lb ed="#N" n="84"/>tamen praeteritum formaliter sumptum. Hanc 
+      <lb ed="#N" n="85"/>putamus esse mente nostri Gregiimo &amp; aliorum, 
+      <lb ed="#N" n="86"/>quos citat in oppositam Sententiam, si bene 
+      in<lb ed="#N" n="87" break="no"/>telligantur; vnde censemus inter eos esse 
+      con<lb ed="#N" n="88" break="no"/>tentionem de nomine. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3518">
+                  <lb ed="#N" n="89"/>Prob. 1. ex heatiss. P. Aug. lib. 26. 
+      contra<lb ed="#N" n="90" break="no"/>Faust. c. 5; vbi ait: Quis dicit, si Omnipotens est 
+      <lb ed="#N" n="91"/>Deus, faciat, vt, quae facta sunt, facta non fuerint; 
+      <lb ed="#N" n="92"/>non videat hoc se dicere: Si Omnipotens est, faciat, 
+      <lb ed="#N" n="93"/>vi, quae vera sunt, eo ipso, quo vera sunt, falsa fint. 
+      <lb ed="#N" n="94"/>Potest enim facere, quod aliquod non sit, quod erat; 
+      <lb ed="#N" n="95"/>tunc enim facit, vt non sit, quando id esse inuenerit, 
+      <lb ed="#N" n="96"/>de quo fiat; vt cum aliquem, qui caepit esse 
+      nascen<lb ed="#N" n="97" break="no"/>do, facit non esse moriendo, hoc enim factum 
+      inue<lb ed="#N" n="98" break="no"/>nit, de quo fieret. Quis aute dicat, vt id, quod iam 
+      <lb ed="#N" n="99"/>non est, faciat non esse? Quidquid enim praeteritum 
+      <lb ed="#N" n="100"/>est, iam non est; quod si &amp; de ipso fieri aliquod 
+      po<lb ed="#N" n="101" break="no"/>tesi, adhuc est, de quo fiat. Quibus verbis 
+      subtilis<lb ed="#N" n="102" break="no"/>sime docet, quod non praeteritum potest sumi 
+      <lb ed="#N" n="103"/>dupliciter. 1. negatiue ita, vt non praeteritum 
+      di<lb ed="#N" n="104" break="no"/>cat solam negationem praeteriti. 2. positiue ita, 
+      <lb ed="#N" n="105"/>vt dicat aliquod positiuum fundans negationem 
+      <lb ed="#N" n="106"/>praeteriti. Primo modo sumitur non praeteritum 
+      <lb ed="#N" n="107"/>formaliter; secundo modo autem materialiter,  
+      <lb ed="#N" n="108"/>scilicet pro re fundante negationem praeteriti¬ 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3564">
+                  <lb ed="#N" n="109"/>Formatur autem sic eius ratio. Ad hoc, 
+      vt<lb ed="#N" n="110" break="no"/>praeteritum fiat non praeteritum, debent 
+      dari<lb ed="#N" n="111" break="no"/>duo termini oppositi, scilicet esse, &amp; non esse,¬ 
+      <lb ed="#N" n="112"/>quia praeteritum nequit fieri non praeteritum 
+      <lb ed="#N" n="113"/>nisi transeundo de esse praeteriti ad non esse 
+      pre<lb ed="#N" n="114" break="no"/>teriti; sed sola negatio praeteriti formaliter non 
+      <lb ed="#N" n="115"/>est terminus oppositus praeterito, quia 
+      negatio<lb ed="#N" n="116" break="no"/>formaliter dicit non esse, &amp; praeteritum 
+      forma<lb ed="#N" n="117" break="no"/>liter dicit non esse; non esse autem, &amp; non esse 
+      <lb ed="#N" n="118"/>non opponuntur, quia non esse opponitur esse; 
+      <lb ed="#N" n="119"/>ergo praeteritum nequit fieri non praeteritum 
+      <lb ed="#N" n="120"/>formaliter reduplicatiue. At vero quia esse op¬ 
+      <!--555.xml-->
+      <pb ed="#N" n="538"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ponitur non esse, ideo potest facere praeteritum 
+      <lb ed="#N" n="2"/>non esse praeteritum dando illi esse, quod oppo¬ 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3603">
+                  <lb ed="#N" n="3"/>nitur non esse, quod importat praeteritum, &amp; 
+      <lb ed="#N" n="4"/>ideo hoc potest solum mate riali ter. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3610">
+                  <lb ed="#N" n="5"/>Conf. 1. Quanuis possit Deus facere, quod  
+      <lb ed="#N" n="6"/>homo viuens moriatur, quia omnis actio 
+      immu<lb ed="#N" n="7" break="no"/>tatiua essentialiter petit esse inter duos 
+      termi<lb ed="#N" n="8" break="no"/>nos oppesitos, &amp; sic mors, quae dicit non 
+      esse<lb ed="#N" n="9" break="no"/>opponitur vitae, quae dicit esse; attamen nequit  
+      <lb ed="#N" n="10"/>facere, quod homo non viuens, aut non existes 
+      <lb ed="#N" n="11"/>moriatur; quia transiret ad non esse id, quod non 
+      <lb ed="#N" n="12"/>est; ergo quanuis possit Deus facere, quod 
+      prae<lb ed="#N" n="13" break="no"/>teritum, quod non est, acquirat esse positiuum, 
+      <lb ed="#N" n="14"/>quia esse positiuum opponitur non esse, 
+      attamen<lb ed="#N" n="15" break="no"/>nequit facere, quod praet eritum, quod non est, 
+      <lb ed="#N" n="16"/>sit non praeteritum, quod pariter non est, 
+      dare<lb ed="#N" n="17" break="no"/>tur enim transitus de non esse ad non esse, quod  
+      <lb ed="#N" n="18"/>repugnat Philosophiae. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3644">
+                  <lb ed="#N" n="19"/>Conf. 2. Si Deus posset facere praeteritum. 
+      <lb ed="#N" n="20"/>negatiue non praeteritum, vel hoc faceret 
+      per<lb ed="#N" n="21" break="no"/>aliquam actionem; vel per suspensionem 
+      actio<lb ed="#N" n="22" break="no"/>nis? Si per al iquam actionem, vel illa actio esset 
+      <lb ed="#N" n="23"/>productiua alicuius Entitatis, per quam 
+      praeteri<lb ed="#N" n="24" break="no"/>tum fieret non praeteritum: &amp; sic faceret tantum 
+      <lb ed="#N" n="25"/>positiue materialiter, non autem mere negatiue; 
+      <lb ed="#N" n="26"/>vel illa actio esset destructiua; &amp; hoc non, quia 
+      <lb ed="#N" n="27"/>actio destructiua supponit essetial iter esse factum, 
+      <lb ed="#N" n="28"/>quod destruitur; praeteritum autem non dicit 
+      es<lb ed="#N" n="29" break="no"/>se, sed non esse, ideo non est cestruibile, quia 
+      <lb ed="#N" n="30"/>destructio est mutatio de esse ad non esse, sicut  
+      <lb ed="#N" n="31"/>productio est mutatio de non esse ad esse. Neque  
+      <lb ed="#N" n="32"/>per suspensionem actionis, quia suspensio 
+      actio<lb ed="#N" n="33" break="no"/>nis eodem modo se habet, ac destructio: ex eo 
+      <lb ed="#N" n="34"/>enim, quod Deus suspendit suam actionem 
+      con<lb ed="#N" n="35" break="no"/>seruatiuam creaturae, creatura destruitur; ergo 
+      <lb ed="#N" n="36"/>nullo modo potest Deus facere praeteritum non 
+      <lb ed="#N" n="37"/>esse praeteritum formaliter mere negatiue, sed  
+      <lb ed="#N" n="38"/>tantum positiue materialiter.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3690">
+                  <lb ed="#N" n="39"/>S Prob. 2. Quanuis Deus possit facere 
+      <lb ed="#N" n="40"/>quod homo existat, &amp; non existat, quia 
+      existen<lb ed="#N" n="41" break="no"/>tia accidentaliter aduenit homini, attamen 
+      ne<lb ed="#N" n="42" break="no"/>quit facere, quod homo sit non animal 
+      rationa<lb ed="#N" n="43" break="no"/>le, quia nequit facere rem sine sua Essentia, 
+      ali<lb ed="#N" n="44" break="no"/>ter faceret rem sine se ipsa; ergo quanuis possit 
+      <lb ed="#N" n="45"/>facere praeteritum acquirere esse positiuum 
+      <lb ed="#N" n="46"/>quod est facere praeteritum non praeteritum 
+      po<lb ed="#N" n="47" break="no"/>sitiue materialiter, attamen nequit facere 
+      forma<lb ed="#N" n="48" break="no"/>liter praeteritum non praeteritum mere 
+      nega<lb ed="#N" n="49" break="no"/>tiue, quia existentia conuenit accidentaliter  
+      <lb ed="#N" n="50"/>espraeterito, at vero non fuisse illi conuenit 
+      <lb ed="#N" n="51"/>essentialiter., 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3721">
+                  <lb ed="#N" n="52"/>PProb. 3. alia ratione Beatiss. P. Non 
+      po<lb ed="#N" n="53" break="no"/>test Deus facere veritatem formaliter non esse. 
+      <lb ed="#N" n="54"/>veritatem formaliter, &amp; falsitatem non falsitate, 
+      <lb ed="#N" n="55"/>quanuis possit facere, qued eadem res transeat 
+      <lb ed="#N" n="56"/>de veritate in falsitate, quando talis veritas 
+      con<lb ed="#N" n="57" break="no"/>tingenter conuenit rei, vt sunt illae veritates, 
+      <lb ed="#N" n="58"/>quae fundantur in praedicatis contingentibus, sed  
+      <lb ed="#N" n="59"/>si posset facere praeteritum formaliter non 
+      prae<lb ed="#N" n="60" break="no"/>teritum, posset facere veritatem formaliter non 
+      <!--555.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>veritatem, &amp; falsitatem non falsitatem; &amp; si non 
+      <lb ed="#N" n="62"/>posset facere, quod res praeterita sit praesens, 
+      <lb ed="#N" n="63"/>non posset facere, quod eadem res transiret de 
+      <lb ed="#N" n="64"/>veritate contingenti ad non veritatem; ergo Deus 
+      <lb ed="#N" n="65"/>nequit facere praeteritum formaliter non 
+      praete<lb ed="#N" n="66" break="no"/>ritum, bene tamen materialiter. Maior patet, 
+      <lb ed="#N" n="67"/>quia si posset facere veritate non veritatem 
+      for<lb ed="#N" n="68" break="no"/>maliter, posset facere hominem non hominem, 
+      <lb ed="#N" n="69"/>&amp; sic de singulis rebus possent verificari 
+      contra<lb ed="#N" n="70" break="no"/>dictoria; &amp; si non posset facere, quod eadem, 
+      <lb ed="#N" n="71"/>res transeat de veritate contingeti ad non 
+      veri<lb ed="#N" n="72" break="no"/>tatem, non posset facere, quod res transeat, de 
+      <lb ed="#N" n="73"/>esse fundante aliquam veritatem ad non esse 
+      <lb ed="#N" n="74"/>falsificante illam veritatem, &amp; sic creaturae, esset 
+      <lb ed="#N" n="75"/>indestruibiles &amp;c. Prob. min. Si Deus posset 
+      fa<lb ed="#N" n="76" break="no"/>cere praeteritum non esse formaliter praeteritum, 
+      <lb ed="#N" n="77"/>posset falsificare hac propositionem: Praeteritum 
+      <lb ed="#N" n="78"/>fuit, quia posset verificare aliam oppositam: 
+      <lb ed="#N" n="79"/>Praeteritum non fuit; &amp; sic dicendum de re 
+      tran<lb ed="#N" n="80" break="no"/>seunte de vna veritate ad aliam, 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3791">
+                  <lb ed="#N" n="81"/>IO Prob. 4. Deus non potest facere non 
+      <lb ed="#N" n="82"/>fuisse suam actionem, suam cognitionem; &amp; suam, 
+      <lb ed="#N" n="83"/>volitionem; aliter Deus mutaretur; ergo nequit:  
+      <lb ed="#N" n="84"/>facere praeteritum formaliter non esse 
+      praeteri<lb ed="#N" n="85" break="no"/>tum: nam praeteritum a Deo cognitum fuit, Vt. 
+      <lb ed="#N" n="86"/>praeteritum, &amp; volitum, sicuti quod est 
+      praeteri<lb ed="#N" n="87" break="no"/>tum, antequam esset praeteritum, fuit productum 
+      <lb ed="#N" n="88"/>per actionem Dei, ergo si posset facere 
+      praeteri<lb ed="#N" n="89" break="no"/>tum non esse praeteritum negatiue, posset 
+      face<lb ed="#N" n="90" break="no"/>re non fuisse suam actionem, cognitionem, &amp; 
+      <lb ed="#N" n="91"/>volitionem. Quia tamen actio Dei, vepote 
+      infi<lb ed="#N" n="92" break="no"/>nita, potest extendi ad esse, &amp; non esse, ideo 
+      po<lb ed="#N" n="93" break="no"/>test facere, quod res, quae est sub praeteritiones 
+      <lb ed="#N" n="94"/>transeat ad esse praesens. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3824">
+                  <lb ed="#N" n="95"/>II Obiicies 1. Potest Deus facere futurum 
+      <lb ed="#N" n="96"/>formaliter non esse futurum, quia potest ipsum 
+      <lb ed="#N" n="97"/>facere praesens; ergo &amp; praeteritum non esse 
+      <lb ed="#N" n="98"/>praeteritum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3835">
+                  <lb ed="#N" n="99"/>Re sp. neg. antecedens; quanuis enimpoi 
+      <lb ed="#N" n="100"/>sit facere rem futuram praesentem, attamens 
+      <lb ed="#N" n="101"/>nequit facere futuritionem formaliter: es 
+      <lb ed="#N" n="102"/>praesentem.. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3847">
+                  <lb ed="#N" n="103"/>I2. Obijcies 2. Potest Deus facere aliqued 
+      <lb ed="#N" n="104"/>non praeteritum esse praeteritum, ergo e contra 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3854">
+                  <lb ed="#N" n="105"/>Resp. eodem modo neg. antecedens; quam, 
+      <lb ed="#N" n="106"/>uis enim possit facere rem non praeteritam esse 
+      <lb ed="#N" n="107"/>praeteritam, non tamen potest facere non praege 
+      <lb ed="#N" n="108"/>ritionem esse praeteritionem. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3865">
+                  <lb ed="#N" n="109"/>I3. Obijcies 3. Quidquid Deus agit adeu 
+      <lb ed="#N" n="110"/>tra, libere agit; ergo sicuti libore facit rem esse 
+      <lb ed="#N" n="111"/>praeteritam, ita libere potest facere nonesse 
+      <lb ed="#N" n="112"/>praeteritam formaliter.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3876">
+                  <lb ed="#N" n="113"/>Resp. dist. antecedes. Quidquid Deus facit 
+      <lb ed="#N" n="114"/>ad extra, libere agit simpliciter, &amp; absolutexζei 
+      <lb ed="#N" n="115"/>secundum quid, &amp; ex suppositione, neg; namea 
+      <lb ed="#N" n="116"/>eo, quid res est, necesse est esse, vt ait Phis &amp; ficca 
+      <lb ed="#N" n="117"/>eo, quod Deus agat, idest supposita actionemeus 
+      <lb ed="#N" n="118"/>potest non esse actio, aliter posset, essesm 
+      <lb ed="#N" n="119"/>actio, &amp; non actio. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3894">
+                  <lb ed="#N" n="120"/>14. Obiicies 4. Leus est Omnipotensialgο 
+      <!--556.xml-->
+      <pb ed="#N" n="539"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>potest facere praeteritum formaliter non: 
+      esse<lb ed="#N" n="2" break="no"/>praeteritum 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3910">
+                  <lb ed="#N" n="3"/>Resp. Omnipotentiam habere pro objecto 
+      <lb ed="#N" n="4"/>ens possibile, non autem impossibile, sicuti est 
+      il<lb ed="#N" n="5" break="no"/>lud, quod illi denegamus. Neg. igitur conseqe   
+      <lb ed="#N" n="6"/> 15 Ad illam autem quaestionem, quae 
+      anti<lb ed="#N" n="7" break="no"/>quitus excitata fuerati, respondet D. Iot 
+      Chris<lb ed="#N" n="8" break="no"/>in Eutrop. psal. 144. de Maria Magdalene his 
+      <lb ed="#N" n="9"/>verbis: Admirari libeat in sponso hoc, quia accepit,  
+      <lb ed="#N" n="10"/>meretricem, &amp; reddidit Virginem. Oram nouam, 
+      <lb ed="#N" n="11"/>&amp; admirabilemi Nuptiae apud nos missam faciunt 
+      <lb ed="#N" n="12"/>Virginitatem: Nuptiae apud Deum perditam exsu: 
+      <lb ed="#N" n="13"/>scitant Virginitatem. Apud nos, quae Virgo est, 
+      nup<lb ed="#N" n="14" break="no"/>ta non est Virgo; apud Deum, quae erat meretrix. 
+      <lb ed="#N" n="15"/>nupia mox Virgo facta est. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1528z-Dd1e3942">
+               <head xml:id="ccc7yd-g1528z-Hd1e3944">Articulus 6</head>
+               <p xml:id="ccc7yd-g1528z-d1e3946">
+                  <lb ed="#N" n="16"/>ART. VI. 
+      <lb ed="#N" n="17"/>An Omnipotentia sit Attributum distinctum 
+      vir<lb ed="#N" n="18" break="no"/>tualiter ab Intellectu, &amp; Voluntates 
+      <lb ed="#N" n="19"/>Omine. Omnipotentiae intelligimus. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3957">
+                  <lb ed="#N" n="20"/>AD potentiam executiuam productionis: 
+      <lb ed="#N" n="21"/>creaturarum directam ab imperio Voluntatis 
+      <lb ed="#N" n="22"/>Diuinae, &amp; a consilio intellectus, sicuti in nobis 
+      <lb ed="#N" n="23"/>potentiae exequentes imperium nostrae 
+      Volun<lb ed="#N" n="24" break="no"/>tatis, &amp; consilium intellectus, illis famulantes, &amp; 
+      <lb ed="#N" n="25"/>ministrantes vocantur potentiae executiue. 
+      Que<lb ed="#N" n="26" break="no"/>rimus igitur in praesenti, an Omnipotetia 
+      distin<lb ed="#N" n="27" break="no"/>guatur virtualiter ab Intellectu, &amp; Voluntates; 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e3977">
+                  <lb ed="#N" n="28"/>Prima sententia vult Omnipotentiam Dei, 
+      <lb ed="#N" n="29"/>esse Intellectum practicum ipsius, nec vllo modo 
+      <lb ed="#N" n="30"/>distingui virtualiter ab ipso. Ita <name xml:id="ccc7yd-g1528z-Nd1e3985">Calet.</name> 1. p. 7. 25. 
+      <lb ed="#N" n="31"/>art. 13 &amp; q. 54. art. 5, <name xml:id="ccc7yd-g1528z-Nd1e3990">aluar.</name> lib. 3. <name xml:id="ccc7yd-g1528z-Nd1e3992">de Aux.</name> disp. 17. 
+      <lb ed="#N" n="32"/>
+                  <name xml:id="ccc7yd-g1528z-Nd1e3996">Naz.</name> q. 14. art. 8. controu. 2; <name xml:id="ccc7yd-g1528z-Nd1e3998">Conzal</name>: disp. 38. sect 
+      <lb ed="#N" n="33"/>qe Salm. de Volunt Dei; Io a S. Thoq. 26. disp. 16. 
+      <lb ed="#N" n="34"/>art. 2. <name xml:id="ccc7yd-g1528z-Nd1e4005">Gonet</name>; &amp; alij Thomistarum putantes hanc 
+      <lb ed="#N" n="35"/>esse sententiam D. Thoeo, quod 1. p. 7. 25. art. 1. 
+      <lb ed="#N" n="36"/>ad de&amp; de Verit. q. 2. art. 4. doceat intellectum. 
+      <lb ed="#N" n="37"/>practicum esse causam immediatam 
+      productio<lb ed="#N" n="38" break="no"/>nis creaturarum; quod etiam ait de Voluntate 
+      Fun<lb ed="#N" n="39" break="no"/>datiss. Doct. loc. infra cit. Ceterum quomodo hoc  
+      <lb ed="#N" n="40"/>sit intelligendum, explicabimus iuferius. Hanc 
+      <lb ed="#N" n="41"/>sententiam docuit <name xml:id="ccc7yd-g1528z-Nd1e4022">Henr.</name> Quodl. 3 <name xml:id="ccc7yd-g1528z-Nd1e4024">Mol</name>; &amp; alij. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4027">
+                  <lb ed="#N" n="42"/>Secunda sententia vult Omnipotentiam 
+      <lb ed="#N" n="43"/>Dei formaliter esse Voluntatem Diuinam. 
+      Ita<lb ed="#N" n="44" break="no"/>
+                  <name xml:id="ccc7yd-g1528z-Nd1e4035">Vasq.</name> 1. p. disp. 102. c. 3. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4039">
+                  <lb ed="#N" n="45"/>Tertia sentetia docet Omnipotentiam 
+      vir<lb ed="#N" n="46" break="no"/>tualiter distingui ad Intellectu, &amp; Voluntate 
+      <lb ed="#N" n="47"/>Ita Fundatiss. Doct. in 1. dist. 39. p. 2. q. 1. 8. Hoc 
+      <lb ed="#N" n="48"/>autem; ubi loquens de Prouidentia ait: Ex hoc 
+      <lb ed="#N" n="49"/>autem apparet dispositionem Diuinam, et 
+      Prouide<lb ed="#N" n="50" break="no"/>tiam pertinere ad Scientiam, Potentiam, &amp; 
+      Volun<lb ed="#N" n="51" break="no"/>tatem diuersis respectibus; quod si Potentia esset 
+      <lb ed="#N" n="52"/>idem virtualiter cum Scientia, vel Voluntate, 
+      no<lb ed="#N" n="53" break="no"/>daretur, nisi vnus respectus: nam ad Voluntatem, 
+      <lb ed="#N" n="54"/>&amp; volitionem non datur, nisi vnus respectus, quia 
+      <lb ed="#N" n="55"/>Voluntas; &amp; volitio sunt idem virtualiter. Et  
+      <lb ed="#N" n="56"/>paulo post: Sed si consideramus ea, prout tali 
+      co<lb ed="#N" n="57" break="no"/>gnitiani, &amp; proposito superadditur executio, sic 
+      <lb ed="#N" n="58"/>pertinent ad Potentiam, mediante qua talis 
+      execu<lb ed="#N" n="59" break="no"/>tio habet fieri. Igitur si superadditur Intellectui, 
+      <!--556.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>&amp; Voluntati, distinguitur virtualiter ab illis. Ide 
+      <lb ed="#N" n="61"/>docet dist. 39. p. 1. q. 2. vbi ait Potentiam 
+      suppo<lb ed="#N" n="62" break="no"/>nere ordinem, &amp; Voluntatem; &amp; dist. 45. princ. 2. 
+      <lb ed="#N" n="63"/>q. 1. ad. 4: &amp; dist. 40. princ. 3. q. 1. ad 3? &amp; loc. 
+      infra<lb ed="#N" n="64" break="no"/>cit. Hanc sententiam docet Mag: sent; Alen; Rioc.  
+      <lb ed="#N" n="65"/>in. Idist. 38. art. 1. q. 2. Dur. in 1. dist. 38. q. 1; 
+      Sua<lb ed="#N" n="66" break="no"/>disp. 30. fect. 17; Arrub; Tum: et alij apud Fasol; &amp; 
+      <lb ed="#N" n="67"/>ipse Fasol. q. 25art. 1; pro cuius decisione. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4096">
+                  <lb ed="#N" n="68"/>P. Not. 1. Intellectum; &amp; Voluntatem actiue 
+      <lb ed="#N" n="69"/>concurrere ad productionem creaturarum, 
+      vt<lb ed="#N" n="70" break="no"/>suis in locis probabimus, quia, cum Deus agat 
+      <lb ed="#N" n="71"/>artificioso modo; &amp; Artifex agat per intellectum, 
+      <lb ed="#N" n="72"/>&amp; voluntatem, per intellectum quidem practicet 
+      <lb ed="#N" n="73"/>dirigendo opus, &amp; per voluntatem illud 
+      impe<lb ed="#N" n="74" break="no"/>rando, ideo agit per intellectum, &amp; voluntatem 
+      <lb ed="#N" n="75"/>Nec incongruum est, quod plures potentiae 
+      su<lb ed="#N" n="76" break="no"/>bordinatae actiue concurrant ad producendum cum 
+      <lb ed="#N" n="77"/>de effectum. Hinc ex eo; quod dicamus 
+      Omnipo<lb ed="#N" n="78" break="no"/>tentia virtualiter distingui:ab Intellectu, &amp; 
+      Volun<lb ed="#N" n="79" break="no"/>tate, non negamus Intellectum, &amp; Voluntatem 
+      <lb ed="#N" n="80"/>actiue concurrere ad productionem creaturarum. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4127">
+                  <lb ed="#N" n="81"/> Not. 2. pro explicatione mentis 
+      Funda<lb ed="#N" n="82" break="no"/>tiss. Doct; &amp; D. Tho; quod aliquod concurrere. 
+      <lb ed="#N" n="83"/>immediate ad productione alicuius effectus stat. 
+      <lb ed="#N" n="84"/>dupliciter: 1. prout immediatum idem est, ac 
+      <lb ed="#N" n="85"/>primum, &amp; principale; immediatum enim, &amp; 
+      <lb ed="#N" n="86"/>primum idem est, vt alibi diximus, quia, cum 
+      pri<lb ed="#N" n="87" break="no"/>mum non habeat aliud supra se, ideo primum 
+      <lb ed="#N" n="88"/>nequit habere rationem medij, medium nanque 
+      <lb ed="#N" n="89"/>essentialiter est inter duo extema, quorum vnum 
+      <lb ed="#N" n="90"/>est superius, &amp; aliud inferius; &amp; per consequens. 
+      <lb ed="#N" n="91"/>primum, &amp; principale nequit habere rationem 
+      <lb ed="#N" n="92"/>mediati, cum denominatio mediati habeatur a 
+      <lb ed="#N" n="93"/>medio. 2. prout immediatum idem est, ac 
+      proxi<lb ed="#N" n="94" break="no"/>mum effectui eo, quod proxime tangat effectum 
+      <lb ed="#N" n="95"/>sine vllo medio. Quando igitur Fundatiss. Docta 
+      <lb ed="#N" n="96"/>asserit Voluntatem Dei esse causam immediatam 
+      <lb ed="#N" n="97"/>creaturarum, sumit immediatum, prout ide est, ac 
+      <lb ed="#N" n="98"/>principale, non autem prout idem est, ac 
+      pro<lb ed="#N" n="99" break="no"/>ximum; ita enim clare se ipsum explicat dist. 
+      qo<lb ed="#N" n="100" break="no"/>princ. 3. q. 1. ad4; &amp; dist. 45. princ. 2. q. 1. ad qit 
+      <lb ed="#N" n="101"/>quod pariter dicendum est de D. Tho; quando 
+      <lb ed="#N" n="102"/>ait Intellectum practicum immediate causare 
+      <lb ed="#N" n="103"/>res, nulla enim alia differentia est inter hos 
+      <lb ed="#N" n="104"/>duos Summos Doctores, nisi quod iste vult 
+      im<lb ed="#N" n="105" break="no"/>perium esse actum Intellectus practici, ille vero 
+      <lb ed="#N" n="106"/>esse actum Voluntatis, cuius proprium est 
+      domi<lb ed="#N" n="107" break="no"/>nari, &amp; imperare, sicuti proprium est Intellectus 
+      <lb ed="#N" n="108"/>consulere, ostendere, &amp; ordinare; vnde Fundatiss 
+      <lb ed="#N" n="109"/>Doct. ait Intellectum practicum subdi imperio 
+      <lb ed="#N" n="110"/>Voluntatis Diuinae decernentis productionem 
+      <lb ed="#N" n="111"/>creaturarum; &amp; ideo Voluntatem Diuinam esse 
+      <lb ed="#N" n="112"/>primam, ac principalem Potentiam practice 
+      ope<lb ed="#N" n="113" break="no"/>rantem productionem creaturarum; D. Thocaute 
+      <lb ed="#N" n="114"/>Voluntatem subdi imperio Intellectus Diumi, 
+      <lb ed="#N" n="115"/>&amp; ideo Intellectum Diuinum imperantem esse. 
+      <lb ed="#N" n="116"/>primam, &amp; principalem Potentiam operantem. 
+      <lb ed="#N" n="117"/>productionem creaturarum: hinc ille vocat 
+      Vo<lb ed="#N" n="118" break="no"/>luntatem, iste vero Intellectum Potentiam 
+      im<lb ed="#N" n="119" break="no"/>mediate operatem, idest primo, &amp; principaliter,  
+      <!--557.xml-->
+      <pb ed="#N" n="540"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>non tamen proxime. Quare nec Fundatiss. Doct 
+      <lb ed="#N" n="2"/>nec D. Tho: substinent Omnipotentiam non 
+      di<lb ed="#N" n="3" break="no"/>stingui ab Intellectu, &amp; Voluntate Dei. His not. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4227">
+                  <lb ed="#N" n="4"/> Vnica concl. Omnipotentia est Attribus 
+      <lb ed="#N" n="5"/>tum virtualiter distinctum ab Intellectu, &amp; 
+      Vo<lb ed="#N" n="6" break="no"/>luntate Diuma. Prob. 1. ex Beatiss. P. Aug. lib. 21. 
+      <lb ed="#N" n="7"/>de Ciu. Dei c. 7. vbi ait: Non ob aliud vocatur Om. 
+      <lb ed="#N" n="8"/>nipotens, nisi quoniam quid quid vult, potest. Quod 
+      <lb ed="#N" n="9"/>si Omnipotentia idem esset formaliter, ac 
+      Volum<lb ed="#N" n="10" break="no"/>tas vitiosa cacophonia de Voluntate Dei 
+      lo<lb ed="#N" n="11" break="no"/>queretur; redderet enim hunc sensum: Quidquid  
+      <lb ed="#N" n="12"/>vult, vult; &amp; si esset idem cum Intellectu, faceret 
+      <lb ed="#N" n="13"/>hunc sensum: Quidquid vult, intelligit; quod 
+      ta<lb ed="#N" n="14" break="no"/>men nihil concluderet, de hoc enim nullum est, 
+      <lb ed="#N" n="15"/>dubium; quia nihil volitum, quin praecognitum. 
+      <lb ed="#N" n="16"/>Colligitur pariter ex lib. de Trin; vbi passim 
+      lo<lb ed="#N" n="17" break="no"/>quitur de Omnipotentia, tanquam, de alique 
+      <lb ed="#N" n="18"/>Attributo distincto a Voluntate, &amp; Intellectus 
+      <lb ed="#N" n="19"/>aliter idem formalissime bis vana sinonymia 
+      re<lb ed="#N" n="20" break="no"/>peteret. Quod Auoque dicendum est de Magnia 
+      <lb ed="#N" n="21"/>DD. Fundatiss; &amp; Angelico; qui distinctis in locis 
+      <lb ed="#N" n="22"/>agunt de Omnipotentia, de Scientia, &amp; 
+      Volun<lb ed="#N" n="23" break="no"/>tate Dei, quod certe non praestarent, nisi 
+      distin<lb ed="#N" n="24" break="no"/>ctionem virtualem inter illa supponerent. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4275">
+                  <lb ed="#N" n="25"/>S Prob. 2. ratione. Illa in Deo 
+      distinguun<lb ed="#N" n="26" break="no"/>tur virtualiter, quae oriuntur a diuersis 
+      radici<lb ed="#N" n="27" break="no"/>bus, &amp; habent diuersas actiones, ac objecta 
+      for<lb ed="#N" n="28" break="no"/>malia; sed Omnipotentia, Intellectus, &amp; 
+      Volun<lb ed="#N" n="29" break="no"/>tas in Deo sunt huiusmodi, ergo distinguuntur. 
+      <lb ed="#N" n="30"/>virtualiter, Maior patet: nam idem 
+      formalis<lb ed="#N" n="31" break="no"/>sime eandem formalissime habet radicem, 
+      actio<lb ed="#N" n="32" break="no"/>nem, &amp; objectum formale; ea enim, quae a 
+      di<lb ed="#N" n="33" break="no"/>uersa procedunt radice, &amp; quae habent 
+      diuer<lb ed="#N" n="34" break="no"/>sam actionem, &amp; obiectum formale, pertinent. 
+      <lb ed="#N" n="35"/>ad diuersas lineas, vt diximus q. 2. de Autr, in 
+      <lb ed="#N" n="36"/>com. art. 8; &amp; seqe &amp; ideo distinguuntur 
+      virtuali<lb ed="#N" n="37" break="no"/>ter. Prob. min. Omnipotentia oritur ex 
+      Eminen<lb ed="#N" n="38" break="no"/>tia, seu Continentia omnis esse, vt supra dictum 
+      <lb ed="#N" n="39"/>est, &amp; illius actio est transiens, &amp; objectum est, 
+      <lb ed="#N" n="40"/>Ens, quatenus factibile; Intellectus vero oritui 
+      <lb ed="#N" n="41"/>ex immaterialitate,. Voluntas ex intellectu, 
+      <lb ed="#N" n="42"/>actiones autem Intellectus, &amp; Voluntatis sunt,  
+      <lb ed="#N" n="43"/>essentialiter immanentes, &amp; tandem Obiectum 
+      <lb ed="#N" n="44"/>Intellectus est Ens, quatenus Verum, &amp; 
+      Volun<lb ed="#N" n="45" break="no"/>tatis Ens, quatenus Bonum; ergo 
+      Omnipoten<lb ed="#N" n="46" break="no"/>tia, Intellectus, &amp; Voluntas oriuntur ex diuersis 
+      <lb ed="#N" n="47"/>radicibus, habent diuersas actiones, &amp; obiecta. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4327">
+                  <lb ed="#N" n="48"/>Cons. Distinctio virtualis potentiarum 
+      ha<lb ed="#N" n="49" break="no"/>betur ex diuersitate actionum, a quibus 
+      specifi<lb ed="#N" n="50" break="no"/>cantur; &amp; diuersitas actionum ex diuersitate 
+      <lb ed="#N" n="51"/>Jobjectorum formalium; sed actio Omnipotentiae 
+      <lb ed="#N" n="52"/>est diuersa virtualiter ab actionibus Intellectus, 
+      <lb ed="#N" n="53"/>&amp; Voluntatis, quod pariter dicendum est de 
+      <lb ed="#N" n="54"/>earum Obiectis; ergo Omnipotentia virtualiter 
+      <lb ed="#N" n="55"/>differt ab Intellectu, &amp; Voluntate, Malor 
+      sup<lb ed="#N" n="56" break="no"/>ponitur ex lib. de Anima; nam idem est 
+      specifica<lb ed="#N" n="57" break="no"/>tiuum, &amp; distinctiuum ex Phil; unde si potentiae 
+      <lb ed="#N" n="58"/>specificatur per actiones, &amp; actiones per 
+      Obie<lb ed="#N" n="59" break="no"/>cta, per illa etiam distinguuntur. Prob. 
+      min<lb ed="#N" n="60" break="no"/>Actio transiens differt nedum genere, sed etiam 
+      <!--557.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>praedicamento, quod est genus supremum, 
+      ab<lb ed="#N" n="62" break="no"/>actione immanente, quia haec est de 
+      praedica<lb ed="#N" n="63" break="no"/>mento Qualitatis, inhaeret enim suo principio, 
+      <lb ed="#N" n="64"/>a quo elicitur; actio autem transiens est de 
+      prae<lb ed="#N" n="65" break="no"/>dicamento Actionis, quia non inhaeret suo, 
+      prin<lb ed="#N" n="66" break="no"/>cipio, a quo clicitur, sed transit extra illud, hinc 
+      <lb ed="#N" n="67"/>cum dicimus, quod Intellectus, &amp; Voluntas 
+      ex<lb ed="#N" n="68" break="no"/>tensione ad potentias transeuntes agentes fiunt 
+      <lb ed="#N" n="69"/>practicae, non est intelligendum, quod fiant prae 
+      <lb ed="#N" n="70"/>cticae eo, quia earum actiones transeant: extra 
+      <lb ed="#N" n="71"/>ipsas potentias, inteliectio enim practica 
+      nomre<lb ed="#N" n="72" break="no"/>cipitur in effectu, aliter denom inaret effectum 
+      <lb ed="#N" n="73"/>intelligentem, sicuti denominat intelligentem 
+      <lb ed="#N" n="74"/>potentiam eo, quia reci pitur in ipsa, &amp; sici 
+      dice<lb ed="#N" n="75" break="no"/>dum de volitione, sed dicuntur practicae eo, quia 
+      <lb ed="#N" n="76"/>coniunguntur cum potentia exequente, cuius 
+      <lb ed="#N" n="77"/>actio transit ad aliquodopus extrinsecum, unde 
+      <lb ed="#N" n="78"/>dicuntur practicae, &amp; transeuntes, non ratione. 
+      <lb ed="#N" n="79"/>suarum actionum, quae, cum sint essentialiter 
+      im<lb ed="#N" n="80" break="no"/>manentes, repugnat eas transire, sed ratione. 
+      <lb ed="#N" n="81"/>actionum potentiarum transeuntium, cum 
+      qui<lb ed="#N" n="82" break="no"/>bus coniunguntur; &amp; Ens, quod est Obiectum. 
+      <lb ed="#N" n="83"/>Omnipotentiae, eodem modo distinguitur a 
+      Ve<lb ed="#N" n="84" break="no"/>ritate, &amp; Bonitate, quo Bonitas distinguitur a 
+      <lb ed="#N" n="85"/>Veritate; Bonitas autem distinguitur virtualiter  
+      <lb ed="#N" n="86"/>a Veritate, ergo actio, &amp; Obiectum 
+      Omnipo<lb ed="#N" n="87" break="no"/>tentiae virtualiter distinguuntur ab actionibus, 
+      <lb ed="#N" n="88"/>&amp; Obiectis Intellectus, &amp; Voluntatis, 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4424">
+                  <lb ed="#N" n="89"/>6 Prob. 3. Intellectus speculatiuus virtuali 
+      <lb ed="#N" n="90"/>ter distinguitur ab Omnipotentia; quia de 
+      intel<lb ed="#N" n="91" break="no"/>lectu speculatiuo realiter negatur id, quod 
+      af<lb ed="#N" n="92" break="no"/>firmatur de Omniporentia; negatur enim de 
+      il<lb ed="#N" n="93" break="no"/>lo, quod ad extra producat; quod tamen affirma: 
+      <lb ed="#N" n="94"/>tur de Omnipotentia; &amp; idem dicendum est de 
+      <lb ed="#N" n="95"/>Voluntate non productiua, vt est Voluntas; qua 
+      <lb ed="#N" n="96"/>Spiritus Sanctus amat Patrem, &amp; Filium; ergo 
+      <lb ed="#N" n="97"/>&amp; Intellectus practicus, aut Voluntas productis 
+      <lb ed="#N" n="98"/>qua: nam Intellectus practicus, &amp; speculatiuus ne 
+      <lb ed="#N" n="99"/>sunt duo Intellectus specie diuersi, sed vnus, &amp; 
+      <lb ed="#N" n="100"/>idem virtualiter Intellectus, qui, quatenus sistit 
+      <lb ed="#N" n="101"/>in sua linea dicitur speculatiuus, &amp; quatenus 
+      <lb ed="#N" n="102"/>conmungitur cum Voluntate, &amp; ceteris 
+      poten<lb ed="#N" n="103" break="no"/>tijs, dicitur practicus; &amp; sic Voluntas mere 
+      af<lb ed="#N" n="104" break="no"/>fectiua, &amp; Voluntas effectiua non sunt duae Vo 
+      <lb ed="#N" n="105"/>luntates specie diuersae, sed vna, &amp; eademο¬ 
+      <lb ed="#N" n="106"/>luntas, quae, quatenus sistit in sua linea, dicitur 
+      <lb ed="#N" n="107"/>affectiua, quatenus vero extenditur ad potem 
+      <lb ed="#N" n="108"/>tias executrices, dicitur effectiua; ergo sicutiea 
+      <lb ed="#N" n="109"/>eo, quod Intellectus coniungatur cum Volum 
+      <lb ed="#N" n="110"/>tate, ex qua coniunctione sit practicus, &amp; 
+      ope<lb ed="#N" n="111" break="no"/>ratiuus, non sit idem virtualiter, ac Voluntas; ita 
+      <lb ed="#N" n="112"/>ex eo, quod Intellectus, &amp; Voluntas coniungana 
+      <lb ed="#N" n="113"/>tur cum potentia executiua, non sunt idem ti 
+      <lb ed="#N" n="114"/>tualiter cum illa. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4483">
+                  <lb ed="#N" n="115"/>V. Tandem prob. Si Intellectus practicus, &amp; 
+      <lb ed="#N" n="116"/>Voluntas practica essent idem virtualiter, ac 
+      Om<lb ed="#N" n="117" break="no"/>nipotetia, sequeretur, quod eodem modo Deus. 
+      <lb ed="#N" n="118"/>denominaretur practice productus, sicut deno 
+      <lb ed="#N" n="119"/>minatur practice cognitus, &amp; practice amatus; 
+      <lb ed="#N" n="120"/>nam potentiae actiuae correspondet potentia passiua 
+      <!--558.xml-->
+      <pb ed="#N" n="541"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>&amp; ideo sicuti intellectio practica actiua, aut 
+      voli<lb ed="#N" n="2" break="no"/>tio practica actiua denominant formaliter Deum 
+      <lb ed="#N" n="3"/>actiue producentem, ita intellectio practica, &amp; 
+      <lb ed="#N" n="4"/>volitio practica passiua denominarent ipsum. 
+      <lb ed="#N" n="5"/>passiue productum, hinc creatura, quia passiue 
+      <lb ed="#N" n="6"/>practice producitur, denominatur producta, &amp; 
+      <lb ed="#N" n="7"/>sic Deus, quia passiue practice intelligitur, &amp; 
+      <lb ed="#N" n="8"/>amatur, passiue practice produceretur: non enim 
+      <lb ed="#N" n="9"/>esset ratio, cur intellectio practica actiua sit ide 
+      <lb ed="#N" n="10"/>formaliter, ac productio practica actiua, &amp; 
+      in<lb ed="#N" n="11" break="no"/>tellectio practica passiua non sit idem 
+      formali<lb ed="#N" n="12" break="no"/>ter, ac productio practica passiua, sed implicat,  
+      <lb ed="#N" n="13"/>dicere Deum esse passiue productum, &amp; creatum; 
+      <lb ed="#N" n="14"/>nam, vt docet Beatiss. P. Aug. vbi sup. art. 13 Ideo 
+      <lb ed="#N" n="15"/>Deus est Omnipotes, qui omnia faciens factus non 
+      <lb ed="#N" n="16"/>est; &amp; habetur expresse in Symb. D. Athan. Non 
+      <lb ed="#N" n="17"/>factus; si enim esset factus, non esset 
+      Omnipo<lb ed="#N" n="18" break="no"/>tens, quia non fecisset se ipsum, &amp; ideo non 
+      fe<lb ed="#N" n="19" break="no"/>cisset omnia, ergo Omnipotentia distinguitur? 
+      <lb ed="#N" n="20"/>virtualiter ab Intellectu, &amp; Voluntate. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4548">
+                  <lb ed="#N" n="21"/>S Obiicies 1. Fundatiss. Doct. in 1. dist. 38. 
+      <lb ed="#N" n="22"/>princ. 1. 4. 1. ait: Voluntas erit causa immediata 
+      <lb ed="#N" n="23"/>productionis huius; Scientia autem mediante 
+      Vo<lb ed="#N" n="24" break="no"/>luntate. Et clarius in 2. dist. 7. q. 3. art. 3. dub. 5. 
+      <lb ed="#N" n="25"/>ait; quod intellectus dirigens, &amp; potentia 
+      exe<lb ed="#N" n="26" break="no"/>quens non differunt in Angelis, nisi sicut intellectus 
+      <lb ed="#N" n="27"/>practicus, &amp; speculatiuus, ergo Omnipotentia. 
+      <lb ed="#N" n="28"/>quae est potentia immediata, &amp; extensiua, non 
+      <lb ed="#N" n="29"/>differt ab Intellectu, &amp; Voluntate. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4570">
+                  <lb ed="#N" n="30"/>Resp. ad 1, quod, vt supra explicatum est, 
+      <lb ed="#N" n="31"/>ibi sumit immediate, prout idem est, ac 
+      princi<lb ed="#N" n="32" break="no"/>paliter, &amp; primo. Ad 2. dicitur, quod 
+      manife<lb ed="#N" n="33" break="no"/>ste loquitur in aliorum sententia; ait enim 
+      in<lb ed="#N" n="34" break="no"/>principio illius resolutionis. Dicendum, quod 
+      se<lb ed="#N" n="35" break="no"/>eundum quosdam in substantus separatis sunt tres 
+      <lb ed="#N" n="36"/>potentiae &amp;c. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4588">
+                  <lb ed="#N" n="37"/>9. Obiicies 2. Sacra Scriptura tribuit 
+      opera<lb ed="#N" n="38" break="no"/>tionem modo Intellectui, modo Voluntati, 
+      vt<lb ed="#N" n="39" break="no"/>psal. 148. Ipse dixit, &amp; facta sunt, ipse mandauit. 
+      <lb ed="#N" n="40"/>&amp; creata sunt, ergo Omnipotentia non 
+      distin<lb ed="#N" n="41" break="no"/>iguitur ab Intellectu, &amp; Voluntate. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4601">
+                  <lb ed="#N" n="42"/>Resp. Sacram Scripturam tribuere 
+      opera<lb ed="#N" n="43" break="no"/>tiones Dei Intellectui, &amp; Voluntati tanquam 
+      <lb ed="#N" n="44"/>potentiae principali, &amp; primae, non autem 
+      tan<lb ed="#N" n="45" break="no"/>quam potentiae proxime exequenti; &amp; hoc 
+      prae<lb ed="#N" n="46" break="no"/>stat, vt ostendat Deum esse Agens 
+      perfectissi<lb ed="#N" n="47" break="no"/>mum, &amp; nobilissimum, quod est Agens per 
+      In<lb ed="#N" n="48" break="no"/>tellectum, &amp; Voluntatem. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4620">
+                  <lb ed="#N" n="49"/>IO Obijcies 3. In separatis a materia non 
+      <lb ed="#N" n="50"/>est necessaria potetia motina distincta ab 
+      Intel<lb ed="#N" n="51" break="no"/>lectu, &amp; Voluntate; nam Phil. 3. de An. c. 10. 
+      lo<lb ed="#N" n="52" break="no"/>quens de Intellectu, &amp; Voluntate ait: Nec ideo 
+      <lb ed="#N" n="53"/>amho mouedi motu dicto principia sunt; sed Deus 
+      <lb ed="#N" n="54"/>est maxime separatus a materia, quia est actus 
+      <lb ed="#N" n="55"/>purissimus; ergo in ipso non datur Potentia 
+      di<lb ed="#N" n="56" break="no"/>stincta ab Intellectu, &amp; Voluntate. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4640">
+                  <lb ed="#N" n="57"/>Resp. Phil. loqui tantum de potentia 
+      loco<lb ed="#N" n="58" break="no"/>motiua progressiua animalium, cuius motus non 
+      <lb ed="#N" n="59"/>reducitur in Intellectum, sed tantum in 
+      Volun<lb ed="#N" n="60" break="no"/>tatem, seu in appetitum, quatenus ex eius im¬ 
+      <!--558.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>perio, vel instictu sit talis motus. Negatur ergo 
+      <lb ed="#N" n="62"/>maior; cuius prob, non est ad rem, vt diximus. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4660">
+                  <lb ed="#N" n="63"/>II Obiicies 4. Intellectus, &amp; Voluntas 
+      Di<lb ed="#N" n="64" break="no"/>uina sunt infinitae virtutis, &amp; efficacitatis, ergo 
+      <lb ed="#N" n="65"/>non indigent Potentia executiua distincta: nam 
+      <lb ed="#N" n="66"/>in tantum ponitur Potentia executiua distincta, 
+      <lb ed="#N" n="67"/>in quantum Potentia imperans non potest 
+      exe<lb ed="#N" n="68" break="no"/>qui per se ipsam; sed Intellectus, &amp; Voluntas 
+      Di<lb ed="#N" n="69" break="no"/>quina possunt exequi, aliter non essent infinitae 
+      <lb ed="#N" n="70"/>virtutis, &amp; efficaciae; ergo non indigent Potentia. 
+      <lb ed="#N" n="71"/>executiua virtualiter distincta. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4682">
+                  <lb ed="#N" n="72"/> Resp. dist. antecedens. Sunt infinitae 
+      virtu<lb ed="#N" n="73" break="no"/>tis in sua linea, &amp; sphaera, conc; in aliena linea, 
+      <lb ed="#N" n="74"/>negi nam sicuti licet Intellectus Diuinus sit 
+      infi<lb ed="#N" n="75" break="no"/>nitae virtutis, attamen non arguitur, quod non 
+      <lb ed="#N" n="76"/>detur Voluntas virtualiter distincta, aliter 
+      Intel<lb ed="#N" n="77" break="no"/>lectus formaliter amaret &amp;c, ita ex eo, quod  
+      <lb ed="#N" n="78"/>Intellectus, &amp; Voluntas sint infinire virtutis, non 
+      <lb ed="#N" n="79"/>arguitur, quod non detur Potentia exequens. 
+      <lb ed="#N" n="80"/>virtualiter distincta. Ad prob. conseq. dicitur, 
+      <lb ed="#N" n="81"/>quod in tantum ponitur Potentia executiua, 
+      in<lb ed="#N" n="82" break="no"/>quantum Potentiae immanentes non possunt 
+      ope<lb ed="#N" n="83" break="no"/>rari transeunter, nisi coniungantur cum 
+      Poten<lb ed="#N" n="84" break="no"/>tia transeunter agente; sed Intellectus, &amp; 
+      Volun<lb ed="#N" n="85" break="no"/>tas sunt Potentiae immanenter agentes; ergo 
+      vi<lb ed="#N" n="86" break="no"/>tra ipsas debet poni Potentia executiua, aliter 
+      <lb ed="#N" n="87"/>nihil ad extra producerent; nec ex hoc arguitur  
+      <lb ed="#N" n="88"/>finitas virtutis Intellectus, &amp; Voluntatis, sicut  
+      <lb ed="#N" n="89"/>non arguitur finitas Intellectus ex eo, quod non 
+      <lb ed="#N" n="90"/>possit practice intelligere, nisi coniungatur  
+      <lb ed="#N" n="91"/>cum Voluntate. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4728">
+                  <lb ed="#N" n="92"/>I2. Obiicies 5. Quae conueniunt in aliqua 
+      <lb ed="#N" n="93"/>forma, vel vnum est causa immediata alterius, 
+      <lb ed="#N" n="94"/>vel ambo causantur a tertio; sed res scitae 
+      con<lb ed="#N" n="95" break="no"/>queniunt cum Scientia Dei, quia sunt tales, 
+      qua<lb ed="#N" n="96" break="no"/>les sciuntur a Deo, &amp; Scientia nequit causari 
+      a<lb ed="#N" n="97" break="no"/>rebus, vel ab aliquo tertio; ergo res scitae 
+      imme<lb ed="#N" n="98" break="no"/>diate causantur a Scientia Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4746">
+                  <lb ed="#N" n="99"/>Resp. neg. maiorem absolute; nam Adam, 
+      <lb ed="#N" n="100"/>&amp; Abel conueniunt in Substantia, &amp; in natura 
+      <lb ed="#N" n="101"/>humana, &amp; tamen Substantia Abelis non 
+      causa<lb ed="#N" n="102" break="no"/>tur immediate a substantia Adami, nec eius 
+      na<lb ed="#N" n="103" break="no"/>tura a natura huius, quia nulla substantia est 
+      im<lb ed="#N" n="104" break="no"/>mediate operatiua, vt fatentur PP. Salmai; 
+      quo<lb ed="#N" n="105" break="no"/>rum est hoc argumentum, sed causatur tantum 
+      <lb ed="#N" n="106"/>mediante potentia generatiua, quae est accidens 
+      <lb ed="#N" n="107"/>superadditum; ergo licet res scitae, &amp; Scientia 
+      <lb ed="#N" n="108"/>Dei conueniant, attamen non sequitur, quod res 
+      <lb ed="#N" n="109"/>scitae immediate causentur a Scientia, sed 
+      suffi<lb ed="#N" n="110" break="no"/>cit, quod causentur mediante Potentia 
+      virtua<lb ed="#N" n="111" break="no"/>liter superaddita. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4778">
+                  <lb ed="#N" n="112"/>Instabis. Deus est Agens immediate 
+      imme<lb ed="#N" n="113" break="no"/>diatione suppositi, &amp; virtutis; ergo non indiget  
+      <lb ed="#N" n="114"/>Potentia superaddita. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4787">
+                  <lb ed="#N" n="115"/>Resp; quod hoc probat creaturas nec etiam 
+      <lb ed="#N" n="116"/>produci per Scientia, quae est virtus virtualiter 
+      <lb ed="#N" n="117"/>superaddita Essentiae Diuinae. Dist. ergo 
+      antece<lb ed="#N" n="118" break="no"/>dens. Deus est Agens immediatum 
+      immedia<lb ed="#N" n="119" break="no"/>tione virtutis realiter, conc; virtualiter, negi 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4800">
+                  <lb ed="#N" n="120"/>quanuis enim non agat per virtutem realiter di¬ 
+      <!--559.xml-->
+      <pb ed="#N" n="542"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>stinctam a sua Essentia, sicut agunt creaturae, 
+      <lb ed="#N" n="2"/>attamen agit per virtutem virtualiter 
+      super<lb ed="#N" n="3" break="no"/>additam. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4818">
+                  <lb ed="#N" n="4"/>13. Obiicit 6. Gonet. Esse Dei est suum 
+      vel<lb ed="#N" n="5" break="no"/>le, &amp; intelligere ipsius est suum facere; 
+      er<lb ed="#N" n="6" break="no"/>go superflua est Potentia executiua 
+      virtuali<lb ed="#N" n="7" break="no"/>ter distincta. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4829">
+                  <lb ed="#N" n="8"/>Resp. retorquendo argumetum; sed 
+      quan<lb ed="#N" n="9" break="no"/>uis esse Dei sit suum velle, attamen non 
+      argui<lb ed="#N" n="10" break="no"/>tur, quod Voluntas non sit Attributum 
+      distin<lb ed="#N" n="11" break="no"/>ctum virtualiter ab Essentia Dei, quae est 
+      forma<lb ed="#N" n="12" break="no"/>lissime suum esse, ve docet idem Gonet; ergo 
+      quan<lb ed="#N" n="13" break="no"/>uis intelligere Dei sit suum facere, attamen non 
+      <lb ed="#N" n="14"/>arguitur, quod Potentia non sit virtualiter 
+      di<lb ed="#N" n="15" break="no"/>stincta ab Intellectu. Dicitur ergo, quod sicut 
+      <lb ed="#N" n="16"/>esse Dei est suum velle tantum realiter, non 
+      vir<lb ed="#N" n="17" break="no"/>tualiter; ita intelligere est suum facere tantum 
+      <lb ed="#N" n="18"/>realiter, non virtualiter.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4855">
+                  <lb ed="#N" n="19"/>14. Obiicies 7. Deus est simplicissimus, &amp; 
+      <lb ed="#N" n="20"/>est naturae purae intellectualis; ergo in ipso non 
+      <lb ed="#N" n="21"/>debent admitti nisi Potentiae intellectuales; sed  
+      <lb ed="#N" n="22"/>istae sunt tantum duae, scilicet Intellectus, &amp; 
+      Vo<lb ed="#N" n="23" break="no"/>luntas; ergo in Deo non debet admitti 
+      Po<lb ed="#N" n="24" break="no"/>tentia virtualiter distincta ab Intellectu, &amp; 
+      <lb ed="#N" n="25"/>Voluntate. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4874">
+                  <lb ed="#N" n="26"/>Resp. hoc arg. probare in Deo non esse 
+      <lb ed="#N" n="27"/>nisi Attributum Intellectus, &amp; Voluntatis, ideo 
+      <lb ed="#N" n="28"/>nihil probat. Dist. ergo 1. pars antecedentis. 
+      <lb ed="#N" n="29"/>Deus est simplicissimus simplicitate 
+      imperfe<lb ed="#N" n="30" break="no"/>ctionis, vt est simplicitas puncti, vel materiae, 
+      <lb ed="#N" n="31"/>negi simplicitate perfectionis includente omnem 
+      <lb ed="#N" n="32"/>perfectionem, conc; &amp; dist. conseq. In ipso non 
+      <lb ed="#N" n="33"/>debent admitti nisi Potentiae intellectuales 
+      for<lb ed="#N" n="34" break="no"/>maliter, negi sic enim natura intellectualis non 
+      <lb ed="#N" n="35"/>esset communicabilis ad extra. Nisi Potentiae 
+      in<lb ed="#N" n="36" break="no"/>tellectuales formaliter, &amp; consecutiue, scilicet, 
+      <lb ed="#N" n="37"/>quae consequuntur ad naturam intellectualem, 
+      <lb ed="#N" n="38"/>cone; sed neg. min. subsumpta: nam vitra 
+      Intel<lb ed="#N" n="39" break="no"/>lectum, &amp; Voluntatem dantur etiam Potentiae 
+      <lb ed="#N" n="40"/>executiuae quae consequuntur ad naturam 
+      in<lb ed="#N" n="41" break="no"/>tellectualem, vt exequantur id, quod ordinant  
+      <lb ed="#N" n="42"/>Potentiae formaliter intellectiuae, &amp; ideo 
+      dicun<lb ed="#N" n="43" break="no"/>tur int ellectua les consecutiue. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4916">
+                  <lb ed="#N" n="44"/>I5 Obijcies 8. Potentia executiuam 
+      distin<lb ed="#N" n="45" break="no"/>gui a Potentia imperante dicit imperfectionem 
+      <lb ed="#N" n="46"/>tum ex parte imperantis, tum ex parte 
+      exeque<lb ed="#N" n="47" break="no"/>tis: nam ideo ponitur Potentia executina 
+      distin<lb ed="#N" n="48" break="no"/>cta ab Imperante, quia Imperans non habet in 
+      se<lb ed="#N" n="49" break="no"/>sufficiente efficaciam, nec res ipsi perfecte 
+      subij<lb ed="#N" n="50" break="no"/>citur; Artifex enim ideo indiget malleo ad 
+      ope<lb ed="#N" n="51" break="no"/>randum, quia ex se non habet sufficientem 
+      vir<lb ed="#N" n="52" break="no"/>tutem ad frangendum, vel plicandum ferrum.3 
+      <lb ed="#N" n="53"/>&amp; ex alia parte potentia exequens se habet, 
+      ve<lb ed="#N" n="54" break="no"/>mota, vt pure obediens, &amp; vt instrumentum 
+      <lb ed="#N" n="55"/>passiuum, quod dicit imperfectionem; ergo 
+      in<lb ed="#N" n="56" break="no"/>Deo Potentia executiua non distinguitur 
+      ab<lb ed="#N" n="57" break="no"/>Imperante. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e4949">
+                  <lb ed="#N" n="58"/>Resp. hoc arg. fuisse solutum ad 4. Dist. 
+      er<lb ed="#N" n="59" break="no"/>go anteced ens. Potentiam executiuam 
+      distin<lb ed="#N" n="60" break="no"/>gui realiter ab Imperante dicit imperfectionem, 
+      <!--559.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>concivir tualiter, neg. Ad prob. 1. partis dicitur,  
+      <lb ed="#N" n="62"/>quod ideo ponitur Potentia executiua, 
+      quia<lb ed="#N" n="63" break="no"/>Potentia essent ialiter immanens nequit transeum 
+      <lb ed="#N" n="64"/>ter agere, non quia non habeat sufficiente 
+      effica<lb ed="#N" n="65" break="no"/>cia ad agedum immanenter in sua linea; &amp; exeplum 
+      <lb ed="#N" n="66"/>de malleo non est ad rem, quia malleus, est 
+      rea<lb ed="#N" n="67" break="no"/>liter distinctus, &amp; est merum instrumentum. 
+      <lb ed="#N" n="68"/>non vero potentia actiua, quae per se ipsam 
+      cau<lb ed="#N" n="69" break="no"/>sat effectum, quae si absque instrumento externo 
+      <lb ed="#N" n="70"/>causet effectum, procul dubio est fortior, &amp; 
+      effi<lb ed="#N" n="71" break="no"/>cacior; attamen nequit causare sine 
+      potentia<lb ed="#N" n="72" break="no"/>transcunter agente, vt sine virtute motiua. 
+      Ita<lb ed="#N" n="73" break="no"/>virtus Dei, vtpote perfectissima, non indiget 
+      in<lb ed="#N" n="74" break="no"/>strumento externo ad hoc, vt externe operetum  
+      <lb ed="#N" n="75"/>debet tamen habere virtutem coniunctam 
+      tran<lb ed="#N" n="76" break="no"/>seunter agentem, aliter nihil operaretur ad 
+      ex<lb ed="#N" n="77" break="no"/>tra. Ad aliam dicitur, quod in sententia 
+      Ad<lb ed="#N" n="78" break="no"/>uersariorum Voluntas imperatur ab Intellectus 
+      <lb ed="#N" n="79"/>mouetur, &amp; obedit; &amp; in nostra sententia 
+      Intel<lb ed="#N" n="80" break="no"/>lectus monetur a Voluntate, imperatur &amp;c; &amp; 
+      <lb ed="#N" n="81"/>tamen propter hoc non de negatur Deo Intelle. 
+      <lb ed="#N" n="82"/>ctus, &amp; Voluntas; ergo nec denegari debet 
+      Po<lb ed="#N" n="83" break="no"/>tentia executiua. Ad id, quod dicitur de 
+      instru<lb ed="#N" n="84" break="no"/>mento, resp. potentiam executiuam non esse 
+      <lb ed="#N" n="85"/>proprie instrumentum; quanuis enim Voluntas 
+      <lb ed="#N" n="86"/>agat mediante potentia, attamen quia instrus 
+      <lb ed="#N" n="87"/>mentum semper agit in eadem linca, specie, &amp; 
+      <lb ed="#N" n="88"/>sphera, m qua agit causa principalis, &amp; simul cum 
+      <lb ed="#N" n="89"/>causa principali constituit vnam causam 
+      adae<lb ed="#N" n="90" break="no"/>quatam, &amp; sufficientem respectu vnius, &amp; 
+      eius<lb ed="#N" n="91" break="no"/>dem effectus, vt respectu vnius, &amp; eiusdem 
+      cla<lb ed="#N" n="92" break="no"/>qui formaliter versatur malleus, &amp; manus 
+      Artifi<lb ed="#N" n="93" break="no"/>cis: &amp; Potentia executiua non agat in eademo 
+      <lb ed="#N" n="94"/>specie, imo nec in eodem genere, in quo agunt 
+      <lb ed="#N" n="95"/>Intellectus, &amp; Voluntas; quia illa agit transeum 
+      <lb ed="#N" n="96"/>ter, &amp; habet pro Obiecto Ens, quatenusmi 
+      <lb ed="#N" n="97"/>Intellectus vero, &amp; Voluntas agunt immanem 
+      <lb ed="#N" n="98"/>ter, &amp; habent pro Objecto formali Verumο 
+      <lb ed="#N" n="99"/>Bonum, ideo non est proprie instrumentalis; 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5047">
+                  <lb ed="#N" n="100"/>I6. Obiicies 9. Pater aeternus produeit fe 
+      <lb ed="#N" n="101"/>lium per intelligere notionale; ergo omnes Det 
+      <lb ed="#N" n="102"/>sonae Diuinae producunt creaturas per intellige 
+      <lb ed="#N" n="103"/>re commune tribus Personis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5058">
+                  <lb ed="#N" n="104"/>Resp. neg. conseque &amp; disparitas est; quia 
+      <lb ed="#N" n="105"/>Verbum, &amp; Spiritus Si cum sint termini imma 
+      <lb ed="#N" n="106"/>nentes, manent enim intra Diuinam Naturam 
+      <lb ed="#N" n="107"/>possunt produci immediate per Potentias ime 
+      <lb ed="#N" n="108"/>manenter agentes; creaturae vero, cum produs 
+      <lb ed="#N" n="109"/>cantur extra Deum, debent produci per Potem 
+      <lb ed="#N" n="110"/>tiam transeunter agentem. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5076">
+                  <lb ed="#N" n="111"/>17. Colligitur ex dictis; quod Intellectus 
+      <lb ed="#N" n="112"/>&amp; Voluntas semper coniunguntur cum suis 
+      acti<lb ed="#N" n="113" break="no"/>bus, imo sunt formalissime ipsi actus; quia totus 
+      <lb ed="#N" n="114"/>Deus actus purissimus est, &amp; nulla potentialitas 
+      <lb ed="#N" n="115"/>passiua vel realis, vel virtualis in Deo reperim: 
+      <lb ed="#N" n="116"/>potest, at vero Omnipotentia, licet sempersit 
+      <lb ed="#N" n="117"/>coniuncta cum actu interno, attamenmonest. 
+      <lb ed="#N" n="118"/>semper coniuncta cum actione externa: nam 
+      <lb ed="#N" n="119"/>cum actio externa non recipiatur in ipsa sedi 
+      <lb ed="#N" n="120"/>effectu, ideo non perficit ipsam, sed effectum; &amp; 
+      <!--560.xml-->
+      <pb ed="#N" n="543"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ideo quannis non habeat actionem externam 
+      <lb ed="#N" n="2"/>nihil perfectionis illi deficit, sed totus defectus 
+      <lb ed="#N" n="3"/>est ex parte effectus. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1528z-Dd1e5114">
+               <head xml:id="ccc7yd-g1528z-Hd1e5116">Articulus 7</head>
+               <p xml:id="ccc7yd-g1528z-d1e5118">
+                  <lb ed="#N" n="4"/>ART. VII. 
+      <lb ed="#N" n="5"/>Aliquot quaesita ad complementum huius 
+      <lb ed="#N" n="6"/>Tractatus 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5127">
+                  <lb ed="#N" n="7"/>ALique difficultates, quas agitat B. Doct 
+      <lb ed="#N" n="8"/>in hoc art;breuiter resoluendae sunt.  
+      <lb ed="#N" n="9"/>Quaeres 1; an infinitas Potentiae, seu 
+      Om<lb ed="#N" n="10" break="no"/>nipotentia possit communicari creaturae e 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5138">
+                  <lb ed="#N" n="11"/>Resp. B. Doct. dist. 43. princ. 1. q. 2. negatiues 
+      <lb ed="#N" n="12"/>&amp; ratio est, quia, vt dictum est art. 15 Potentia. 
+      <lb ed="#N" n="13"/>Dei dicitur infinita, seu Omnipotentia, quia non 
+      <lb ed="#N" n="14"/>est recepta in materia, sed est actus purus, nec 
+      <lb ed="#N" n="15"/>est contracta ad genus, &amp; speciem, nec innititur 
+      <lb ed="#N" n="16"/>virtuti alterius, sed est virtus simpliciter 
+      imi<lb ed="#N" n="17" break="no"/>mobilis simpliciter, immaterialis, &amp; spiritualis, 
+      <lb ed="#N" n="18"/>sed haec omnia repugnant creaturae, vt 
+      dixi<lb ed="#N" n="19" break="no"/>mus loc. cit; ergo Omnipotentia nequit 
+      com<lb ed="#N" n="20" break="no"/>municari creaturis. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5162">
+                  <lb ed="#N" n="21"/>P Quaeres 2; an Deus sit Agens ex 
+      neces<lb ed="#N" n="22" break="no"/>sitate naturae  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5170">
+                  <lb ed="#N" n="23"/>Resp. negatiue ex eodem dist. 43. princ. 2. 
+      <lb ed="#N" n="24"/>q.1, &amp; ratio eius est. Deus omnia ordinat, 
+      om<lb ed="#N" n="25" break="no"/>nia conseruat, omnia producit, &amp; omnia ad 
+      se<lb ed="#N" n="26" break="no"/>ipsum tanquam ad finem conuertit; sed Agens 
+      <lb ed="#N" n="27"/>omnia ordinans, conseruans, producens, &amp; 
+      con<lb ed="#N" n="28" break="no"/>uertens non est Agens ex necessitate naturae 
+      <lb ed="#N" n="29"/>sed libere; ergo Deus non est Agens ex 
+      necessi<lb ed="#N" n="30" break="no"/>tate naturae: Prob. min. Agens ex necessitate. 
+      <lb ed="#N" n="31"/>naturae monet motum, &amp; eius actio est ad vnum 
+      <lb ed="#N" n="32"/>determinate, vt habetur in 2. Physea, com. 71. &amp; 
+      <lb ed="#N" n="33"/>lib. 9. Met. 1. com. 71; sed monens motum non 
+      <lb ed="#N" n="34"/>mouet omnia, quia non monet se ipsum, &amp; 
+      per<lb ed="#N" n="35" break="no"/>consequens non ordinat omnia, non conseruat,  
+      <lb ed="#N" n="36"/>mec producit, nec conuertit, &amp; ideo eius actic 
+      <lb ed="#N" n="37"/>non est ad vnum determinatum, ergo non agit: 
+      <lb ed="#N" n="38"/>ex necessitate naturae 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5207">
+                  <lb ed="#N" n="39"/>3. Quaeres 33 an Deus agat ex necessitate. 
+      <lb ed="#N" n="40"/>iustitiae 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5214">
+                  <lb ed="#N" n="41"/>Resp. ex eodem dist. . 2. Deum agere 
+      ne<lb ed="#N" n="42" break="no"/>cessitate iustitiae non simpliciter ita, vt necessitas 
+      <lb ed="#N" n="43"/>iustitiae sumatur pro debito, quo Deus obligatur 
+      <lb ed="#N" n="44"/>ad agedum ea, quae agit; nullo modo enim Deus. 
+      <lb ed="#N" n="45"/>potest obligari a creatura; agere tamen ex 
+      iusti<lb ed="#N" n="46" break="no"/>tia, prout lIyiustitia dicit condecentiam suae 
+      Bo<lb ed="#N" n="47" break="no"/>nitatis; cum quidquid agat; supposito, quod agat;  
+      <lb ed="#N" n="48"/>faciat, prout decet suam Bonitatem. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5234">
+                  <lb ed="#N" n="49"/>4 Quaeres qian Deus potuerit facere aliqua 
+      <lb ed="#N" n="50"/>rem meliorem, quam fecerit: 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5241">
+                  <lb ed="#N" n="51"/>Resp. ex eode dist. 44. princ. 1. q. 1mo potuisse. 
+      <lb ed="#N" n="52"/>facere res meliores quantum ad essentiam, seu 
+      <lb ed="#N" n="53"/>quantum ad praedicata essentialia; quia essentiae 
+      <lb ed="#N" n="54"/>rerum sunt sicuti numeri inuariabiles, &amp; 
+      omni<lb ed="#N" n="55" break="no"/>no immutabiles; bene tamen potuisse facere 
+      me<lb ed="#N" n="56" break="no"/>liores quantum ad accidentia, quae cum non 
+      <lb ed="#N" n="57"/>mutent essentias rerum, adhuc mutata in melius. 
+      <lb ed="#N" n="58"/>reliquissent eadem essentiam, &amp; hoc patet, quia 
+      <!--560.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="59"/>res corruptibiles, quae dicuntur tales propter 
+      <lb ed="#N" n="60"/>accidentia corruptiua, poterat Deus 
+      facere<lb ed="#N" n="61" break="no"/>incorruptibiles. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5272">
+                  <lb ed="#N" n="62"/>S Quaeres 5; an Deus potuerit facere totum 
+      <lb ed="#N" n="63"/>Vniuersum melius, quam fecerit S 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5280">
+                  <lb ed="#N" n="64"/>Resp. dist. 44. princ. 1. q. 2, quod Deus non 
+      <lb ed="#N" n="65"/>potui t facere Vniuersum melius quantum ad 
+      <lb ed="#N" n="66"/>Crdinem, quia ordo Vniuersi est secundum suam 
+      <lb ed="#N" n="67"/>summam Sapientiam, &amp; Prouidentiam, bene 
+      ta<lb ed="#N" n="68" break="no"/>men quantum ad partes ordinatas secundum 
+      <lb ed="#N" n="69"/>accidentalia, non secundum essentialia intesiue, 
+      <lb ed="#N" n="70"/>&amp; extensiue producendo alias species, quas de 
+      <lb ed="#N" n="71"/>facto non produxit.  
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5300">
+                  <lb ed="#N" n="72"/>G. Quaeres o an Deus potuerit facere 
+      me<lb ed="#N" n="73" break="no"/>liora ea, quae sunt excellentiora, v. gi an 
+      potue<lb ed="#N" n="74" break="no"/>rit facere melius Christo Domino, &amp; Beata. 
+      <lb ed="#N" n="75"/>Virgine 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5311">
+                  <lb ed="#N" n="76"/>Resp. ibidem φ. 3: quod si loquamur de 
+      <lb ed="#N" n="77"/>Christo, &amp; Beata Virgine quantum ad esse, 
+      po<lb ed="#N" n="78" break="no"/>tuit facere melius, quia uterque habuit esse 
+      hu<lb ed="#N" n="79" break="no"/>manum; patet autem, quod fecit esse Angelicum, 
+      <lb ed="#N" n="80"/>quod est melius esse humano. Si autem 
+      loqua<lb ed="#N" n="81" break="no"/>mur de respectu, quem dicit humanitas 
+      Christi<lb ed="#N" n="82" break="no"/>ad Petsonam Verbi, cui vnitur, &amp; de respectu, 
+      <lb ed="#N" n="83"/>quem dicit Maternitas Virginis ad Filium Dei: 
+      <lb ed="#N" n="84"/>non potuit facere melius, quia nec humanitas 
+      <lb ed="#N" n="85"/>Christi, nec Maternitas Virginis potuit dicere, 
+      <lb ed="#N" n="86"/>respectum ad aliquod excellentius Filio Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5337">
+                  <lb ed="#N" n="87"/>7. Quaeres Vitimo; an Deus modo possita 
+      <lb ed="#N" n="88"/>quidquid potuit T 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5344">
+                  <lb ed="#N" n="89"/>Resp. eadem dist. princ. 2. q. unica, quod 
+      ab<lb ed="#N" n="90" break="no"/>solute loquendo Deus potest, quidquid potuit; 
+      <lb ed="#N" n="91"/>nam eius Potentia cum sit eterna, consistit 
+      in<lb ed="#N" n="92" break="no"/>vno instanti semper praesenti, ideo quod 
+      dici<lb ed="#N" n="93" break="no"/>tur de ea in praeterito, enunciari potest in 
+      prae<lb ed="#N" n="94" break="no"/>senti; sed de Potentia Dei dicitur, quod potuiti 
+      <lb ed="#N" n="95"/>ergo de ea enunciari potest in praesenti, quod  
+      <lb ed="#N" n="96"/>potest, quidquid potuit; tum quia eius Potentia. 
+      <lb ed="#N" n="97"/>non diminuitur per actionem, cum sit infinita 
+      <lb ed="#N" n="98"/>ergo semper potest, quidquid potuit. Si tamen 
+      ly<lb ed="#N" n="99" break="no"/>quidquid referatur non ad Potentiam Dei, sed  
+      <lb ed="#N" n="100"/>ad res ad extra productas, quia ex parte rerum 
+      <lb ed="#N" n="101"/>aliquod prius fuit possibile, quod nunc non est 
+      <lb ed="#N" n="102"/>possibile;, ideo si haec locutio referatur ad 
+      crea<lb ed="#N" n="103" break="no"/>turas, Deus non potest, quidquid potuit. 
+      Cete<lb ed="#N" n="104" break="no"/>rum quia ex vi sermonis haec locutio refertur 
+      <lb ed="#N" n="105"/>ad Potentiam Dei, absolute est concedendum, 
+      <lb ed="#N" n="106"/>Deum posse quidquid potuit: 
+      </p>
+               <p xml:id="ccc7yd-g1528z-d1e5386">
+                  <lb ed="#N" n="107"/>S Hic multa congerunt Recentiores, scilicet 
+      <lb ed="#N" n="108"/>an Deus possit facere infinitum 
+      cathegoremati<lb ed="#N" n="109" break="no"/>cum, &amp; sincathegorematicum tam secundum. 
+      <lb ed="#N" n="110"/>substantiam, quam secundum magnitudinem, 
+      <lb ed="#N" n="111"/>multitudinem, &amp; intensionem; verum quia 
+      tra<lb ed="#N" n="112" break="no"/>ctari solent in Philosophia, ne hanc scientiama 
+      <lb ed="#N" n="113"/>omnino euacuemus, ab istis difficultatibus 
+      absti<lb ed="#N" n="114" break="no"/>nendum inre merito censemus remittente? 
+      il<lb ed="#N" n="115" break="no"/>larum explicationem, &amp; responsiones ad 
+      argu<lb ed="#N" n="116" break="no"/>menta contra illas ab Aduersarijs objecta in 3. lib.  
+      <lb ed="#N" n="117"/>de Physico Auditu.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

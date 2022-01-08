@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="258"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g74971"><!--l1t3prae -->
+            <head xml:id="ccc7yd-g74971-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g74971-d1e101">
+      <!--275.xml-->
+               <cb ed="#N" n="c"/>
+               <lb ed="#N" n="73"/>LLHIIRLVTLEVAIVAh 
+      <lb ed="#N" n="74"/>SVBSTANTIAEINCOMMVNI.
+        </p>
+            <p xml:id="ccc7yd-g74971-d1e112">
+               <lb ed="#N" n="75"/>TIninae Substatiae praesentiam claro coram si vidissemus aspectu, sicuti in suo Aenigmate, quod 
+      <lb ed="#N" n="76"/>est Creatura, sub obscuro Fidei Microscopio in praehabito Tractatu a longe suspeximus, 
+      pota<lb ed="#N" n="77" break="no"/>ro nedum ea, quae pro nostrae tenuitatis mensura manifestare studuimus, clare apparerent, fed etiam 
+      <lb ed="#N" n="78"/>illa, de quibus in praesenti sermo praesto est, perspicue elucescerent. Quemadmodum enim Sol per 
+      <lb ed="#N" n="79"/>suam lucem se, suosque radios, qui ab ipso, tanquam igneae suae substantiae illustres scint illulaesemis 
+      <lb ed="#N" n="80"/>cant, manifestat; ita purissima Dei Substantia per Candorem suae lucis aeternae, se ipsam, suasque 
+      pro<lb ed="#N" n="81" break="no"/>prietates, quae ab ipsa coruscant, expandit lustrandas Sole sine modo illustriores. Ceterum, quia 
+      <lb ed="#N" n="82"/>non in se ipsa coram, nec in sua luce prope, sed in suo Vestigio longinquo, &amp; in Vmbraculof 
+      <lb ed="#N" n="83"/>dei in hac Vita nobis eam datum est perscrutari, idcirco non nisi multiplicatis contemplationibus, 
+      <lb ed="#N" n="84"/>geminatis obtutibus, longisque, ijsque grauibus superingestis laboribus, vt operis pretium augea; 
+      <lb ed="#N" n="85"/>tur, &amp; merces, ad earum intelligentiam permeare conceditur, Itaque sicuti Apellis more 
+      perfe<lb ed="#N" n="86" break="no"/>ctiora sublimiorum creaturarum, quae sunt substantiae spirituales, praedicata collegimus, vt ex illis 
+      <lb ed="#N" n="87"/>Naturae super omnis naturae, omnisque pulchritudinis formam delinearemus excessum; unde lineam 
+      <lb ed="#N" n="88"/>praedicatorum essentialium iam duximus; modo vt ea, quae hanc Altissimam citcunstant Naturamas 
+      <lb ed="#N" n="89"/>quae conmuni nomine a Theologis Attributa dicuntur, aliqualiter exponamus, altera linea, quam 
+      <lb ed="#N" n="90"/>Attributalem diximus, nobis ducenda est. 
+      </p>
+            <p xml:id="ccc7yd-g74971-d1e149">
+               <lb ed="#N" n="91"/>Ratio autem methodi huius Tractatus plana est: nam cum ad quaestionem, An sit, sequatur  
+      <lb ed="#N" n="92"/>quaestio, quid sit, &amp; ad quaestionem, quid sit, quaestio, qualis sit, ideo postquam quaesiuimus, Ansit, &amp; 
+      <lb ed="#N" n="93"/>quid sit Deus, progredimur ad quaerendum, qualis sit; id est ad agendum de illius Attributis, quae a¬ 
+      <!--276.xml-->
+      <pb ed="#N" n="259"/>
+               <cb ed="#N" n="a"/>
+               <lb ed="#N" n="1"/>nobis concipiuntur per modum passionum qualificantium Diuinam Essentiam. Et quoniam a 
+      com<lb ed="#N" n="2" break="no"/>munioribus exordiri debemus, idcirco de Attributisin genere prius est disputandum. 
+      </p>
+            <p xml:id="ccc7yd-g74971-d1e169">
+               <lb ed="#N" n="3"/>Diuiditur autem hic Tractatus in tres principales quaestiones; in quarum 1. de quiditate 
+      At<lb ed="#N" n="4" break="no"/>tributi; quia quiditas est prima in qualibet res in 2. de eorum distinctione, &amp; indistinctione, quae 
+      se<lb ed="#N" n="5" break="no"/>quitur ad quiditatem: in 3. de mutua inclusione, &amp; praedicatione; nam cum praedicatio pertineat:  
+      <lb ed="#N" n="6"/>ad esse intelligibile, &amp; supponat inclusionem praedicati in subjecto, cunque intelligibilitas 
+      sequa<lb ed="#N" n="7" break="no"/>tur ad Vnitatem, a qua sumitur distinctio, &amp; indistinctio, ideo de ea vitimo loco agendum est.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

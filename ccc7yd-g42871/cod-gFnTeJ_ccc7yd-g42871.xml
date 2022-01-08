@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 6</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 6</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="147"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g42871"><!--l1proq6 -->
+            <head xml:id="ccc7yd-g42871-Hd1e99">Quaestio 6</head>
+            <p xml:id="ccc7yd-g42871-d1e101">
+      <!--162.xml-->
+               <cb ed="#N" n="c"/>
+               <lb ed="#N" n="90"/>CVAESTVI. 
+      <lb ed="#N" n="91"/>De Sensibus sacrae Scripturae.
+      </p>
+            <p xml:id="ccc7yd-g42871-d1e112">
+               <lb ed="#N" n="92"/>Dplenam Questionum Proemialium intelligentiam vltimo loco agendum est de sensibus. 
+      <lb ed="#N" n="93"/>sacrae Scripturae; nam cum Theologia ordinetur ad explicanda, &amp; defendenda ea, quae sum 
+      <lb ed="#N" n="94"/>fudes &amp; ea, quae sunt Fidei, contineantur in sacra Scriptura; ideo, vt veram, rectanque habeamus 
+      <lb ed="#N" n="95"/>eorum notitiam, de Sensibus sacrae Scripturae agendum est.
+        </p>
+            <div xml:id="ccc7yd-g42871-Dd1e123">
+               <head xml:id="ccc7yd-g42871-Hd1e125">Articulus 1</head>
+               <p xml:id="ccc7yd-g42871-d1e127">
+      <!--162.xml-->
+                  <cb ed="#N" n="d"/>
+                  <lb ed="#N" n="96"/>ART. 
+      <lb ed="#N" n="97"/>An, quid &amp; quotuplex sit sensus sacrae 
+      <lb ed="#N" n="98"/>Scripturae: 
+        </p>
+               <p xml:id="ccc7yd-g42871-d1e140">
+                  <lb ed="#N" n="99"/>IUm circa sensus sacrae Scripturae multi 
+      <lb ed="#N" n="100"/>errores tum Iudaeorum, tum 
+      Haeretico<lb ed="#N" n="101" break="no"/>rum Recentiorum, &amp; Antiquorum irrepserint, 
+      vt<lb ed="#N" n="102" break="no"/>ca, quae spectant ad Fidem, ab ipsius Inimicis de¬ 
+      <!--162.xml-->
+      <cb ed="#N" n="e"/>
+                  <lb ed="#N" n="103"/>fendamus, de his pertractare opus est; Fidem 
+      <lb ed="#N" n="104"/>enim illibate tueri non possumus, nisi 
+      explican<lb ed="#N" n="105" break="no"/>do propositionum in ea reuclatarum, &amp; in 
+      Scrip<lb ed="#N" n="106" break="no"/>tura contentarum intelligentiam; &amp; cuertendo 
+      <lb ed="#N" n="107"/>peruersas quascunque explicationes, propter  
+      <lb ed="#N" n="108"/>quas tot natae sut haereses, vt docet Beatiss. Doci. 
+      <lb ed="#N" n="109"/>in c. 5. Ioa. tract. 18. dicens; Neque enim nate sunt:  
+      <!--163.xml-->
+      <pb ed="#N" n="148"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>haereses, nisi dum Scripturae bonae intelliguntur 
+      <lb ed="#N" n="2"/>non bene. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e182">
+                  <lb ed="#N" n="3"/>. Quatum ad I; quod quaerimus in 
+      Titulo<lb ed="#N" n="4" break="no"/>scilicet, An detur sensus sacrae Scripturae, aperte 
+      <lb ed="#N" n="5"/>colligitur ex verbis Lucae c. 24. vbi de Christo 
+      <lb ed="#N" n="6"/>Domino, &amp; de duobus Discipulis, qui eum 
+      comi<lb ed="#N" n="7" break="no"/>tabantur in via Emmaus Castellum versus, dicitur:  
+      <lb ed="#N" n="8"/>Aperuit illis sensum, ut intelligerent Scripturas 
+      <lb ed="#N" n="9"/>cui praeluserat dicens: Adhuc modicum lumen in 
+      <lb ed="#N" n="10"/>vobis est; idest adhuc modica intelligentia 
+      Scrip<lb ed="#N" n="11" break="no"/>turarum, quam tamen accepturi erant ab ipso, &amp; 
+      <lb ed="#N" n="12"/>postea a Spirit u Sancto, quem de Celis missurus 
+      <lb ed="#N" n="13"/>erat, &amp; de quo dicebat: Cum venerit Spiritus 
+      Pa<lb ed="#N" n="14" break="no"/>raclytus, quem ego mittam vobis, ille vos docebit. 
+      <lb ed="#N" n="15"/>omnia, idest vobis manifestabit verum sensum. 
+      <lb ed="#N" n="16"/>omnium Scripturarum pertinentium ad Fidem 
+      <lb ed="#N" n="17"/>Catholicam. Ubi notandum, quod verus sensus. 
+      <lb ed="#N" n="18"/>Scripturarum est ille, qui est intentus a Spiritu 
+      Sa<lb ed="#N" n="19" break="no"/>cto; cum enim verba sint intelligenda iuxta 
+      inten<lb ed="#N" n="20" break="no"/>tionem proferentis, &amp; sacra Scriptura dictata sit. 
+      <lb ed="#N" n="21"/>a Spiritu Sancto, ideo verus sensus illius est 
+      <lb ed="#N" n="22"/>ille, qui est intentus a Spiritu Sancto. Propter 
+      <lb ed="#N" n="23"/>rea non licet cuique pro suo libito interpretar 
+      <lb ed="#N" n="24"/>Scripturas, vt impse dixerunt Haeretici, sed 
+      hu<lb ed="#N" n="25" break="no"/>militer inquirendum est; quid per illas intendat 
+      <lb ed="#N" n="26"/>Spiritus Sanctus, qui eas dictauit? Igitur 
+      con<lb ed="#N" n="27" break="no"/>stat dari sensum certum sacrae Scripturae. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e239">
+                  <lb ed="#N" n="28"/>3 Quoad 2. dicimus, quod sensus sacrae 
+      Scri<lb ed="#N" n="29" break="no"/>pturae est vera intellectio eorum, quae scripta sunt 
+      <lb ed="#N" n="30"/>a Scriptoribus Canonicis, de quibus sit mentio in 
+      <lb ed="#N" n="31"/>Conc. Tridi tunc autem habemus veram 
+      intelli<lb ed="#N" n="32" break="no"/>gentiam alicuius Scripturae, quando eam 
+      intel<lb ed="#N" n="33" break="no"/>ligimus iuxta intentionem Auctoris, a quo 
+      pro<lb ed="#N" n="34" break="no"/>lata est; sicuti falsam intelligentiam habemus, 
+      <lb ed="#N" n="35"/>quando dissonanter ab illius mente eam 
+      intel<lb ed="#N" n="36" break="no"/>ligimus: 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e262">
+                  <lb ed="#N" n="37"/>Ex hoc colligitur difficultas exponendi 
+      sa<lb ed="#N" n="38" break="no"/>cram Scripturam contra Haereticos nostri 
+      tem<lb ed="#N" n="39" break="no"/>poris tum Caluinistas, tum Lutheranos, qui  
+      <lb ed="#N" n="40"/>maniter gloriantur se lumine naturali, et propria 
+      <lb ed="#N" n="41"/>virtute posse faciliter interpre tari omnem locum 
+      <lb ed="#N" n="42"/>Scripturae. Qui tamen sic impugnantur. 
+      Inter<lb ed="#N" n="43" break="no"/>pretatio, expositio, &amp; declaratio sacrae Scripturae 
+      <lb ed="#N" n="44"/>est vera intellectio propositionum Fidei in eo 
+      <lb ed="#N" n="45"/>sensu, in quo prolatae sunt a Spiritu Sancto; sed  
+      <lb ed="#N" n="46"/>ista intellectio est maxime difficilis ex 1. Corm. 2. 
+      <lb ed="#N" n="47"/>Quis enim cognouit sensum Domini, aut quis 
+      con<lb ed="#N" n="48" break="no"/>siliarius eius fuit? &amp; de Epist. D. Paul. 2. Petri. 3. 
+      <lb ed="#N" n="49"/>dicitur: In quibus sunt quaedam difficilia 
+      intelle<lb ed="#N" n="50" break="no"/>ctu; propter quod Sapiens Sap. 7. ait: Optaui, &amp; 
+      <lb ed="#N" n="51"/>datus est mihi sensus. Et Psalmista Psal. 118. ait: 
+      <lb ed="#N" n="52"/>Da mihi intellectum, &amp; scrutabor Legem tuam, 
+      <lb ed="#N" n="53"/>fidest rogaui Dominum, qui, vt impleret deside 
+      <lb ed="#N" n="54"/>rium meum, infudit mihi veram intelligentiam 
+      <lb ed="#N" n="55"/>Diuinarum Scripturarum, quod pariter 
+      verifi<lb ed="#N" n="56" break="no"/>catur de Salomone nouae Legis Augustino, de quo 
+      <lb ed="#N" n="57"/>testatur S. Fulgentius accepisse a Domino verae 
+      <lb ed="#N" n="58"/>Spiritum intelligentiae his verbis: Augustinum 
+      <lb ed="#N" n="59"/>legat, qui aeternam salutem desiderat, humiliter 
+      <lb ed="#N" n="60"/>orans, misericordiae Dominum, vt eundem Spiri¬ 
+      <!--163.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>tum intelligentiae legens accipiat, quem ille accepit,  
+      <lb ed="#N" n="62"/>vei scriberet, &amp; eandem illuminationis gratiam 
+      as<lb ed="#N" n="63" break="no"/>sequatur, vt discat, quam ille assecutus est, vt 
+      do<lb ed="#N" n="64" break="no"/>ceret. Tandem hoc probatur expresse ex 1. 
+      Cor<lb ed="#N" n="65" break="no"/>12; vbi inter Dona Spiritus Sancti 
+      connumera<lb ed="#N" n="66" break="no"/>tur Interpretatio sermonum, quae nihil aliud est, 
+      <lb ed="#N" n="67"/>quam assecutio sensus, in quo sermones sancti: 
+      <lb ed="#N" n="68"/>idest sacra Scriptura, prolati sut a Spiritu Sacto; 
+      <lb ed="#N" n="69"/>sed illa, quae sut difficilia intellectu, &amp; quae 
+      signi<lb ed="#N" n="70" break="no"/>ficant sensum Domini, &amp; quae rogantur a 
+      Do<lb ed="#N" n="71" break="no"/>mino, &amp; sunt Dona Spiritus Sancti, non 
+      possu<lb ed="#N" n="72" break="no"/>mus assequi per vires naturales; ergo 
+      interpre<lb ed="#N" n="73" break="no"/>tatio sensus sacrarum Scripturarum non potest. 
+      <lb ed="#N" n="74"/>fieri per lumen naturale, naturalemque virtute 
+      <lb ed="#N" n="75"/>Quod posset confirmari pluribus textibus, quasi 
+      <lb ed="#N" n="76"/>imperceptibilibus, vt Daniel. 9. de septuaginta 
+      <lb ed="#N" n="77"/>Hebdomadibus; &amp; in Apoc fere per totam, 
+      quae<lb ed="#N" n="78" break="no"/>cum agat de Antichristo; &amp; de fine Mundi, 
+      conti<lb ed="#N" n="79" break="no"/>net aenigmata fere inexplicabilia, quae difficulta 
+      <lb ed="#N" n="80"/>tem expositionis sacrarum Literarum 
+      demon<lb ed="#N" n="81" break="no"/>strant. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e366">
+                  <lb ed="#N" n="82"/>Aduertendum tamen; quod sacra 
+      Scriptu<lb ed="#N" n="83" break="no"/>ra non est omni ex parte obscura, sed aliqua ex 
+      <lb ed="#N" n="84"/>parte clara, &amp; aperta: nam ea pars, quae 
+      conti<lb ed="#N" n="85" break="no"/>net praecepta, &amp; mysteria Fidei a nobis 
+      creden<lb ed="#N" n="86" break="no"/>da, debet esse nobis manifesta, aliter scire non 
+      <lb ed="#N" n="87"/>possemus, quae praecepta sint a nobis seruandaoi 
+      <lb ed="#N" n="88"/>&amp; quae propositiones sint firmiter tenendae. 
+      Eac<lb ed="#N" n="89" break="no"/>autem pars, quae continet figurationem Mystes 
+      <lb ed="#N" n="90"/>riorum Fidei, Prophetiarum eorundem, vaticinia 
+      <lb ed="#N" n="91"/>&amp; vniuersaliter sensum mysticum, est nobis 
+      ob<lb ed="#N" n="92" break="no"/>scura nedum propter profunditatem sensus; sed 
+      <lb ed="#N" n="93"/>etiam propter multiplicitatem sensuum, in quis 
+      <lb ed="#N" n="94"/>bus accipi potest. Ratio autem, quare Dominus 
+      <lb ed="#N" n="95"/>voluit sacram Scripturam non esse facilem:i 
+      <lb ed="#N" n="96"/>tellectu, &amp; omnibus manifestam, est, vt docet 
+      <lb ed="#N" n="97"/>Beatiss. P. lib. 2. de Doctr. Christ. c.6, vt contiqua 
+      <lb ed="#N" n="98"/>exerceamur in lectione illius; si enim primo 
+      <lb ed="#N" n="99"/>tuitu plene perciperetur eius sensus, nonesset 
+      <lb ed="#N" n="100"/>immorandum in illa; vnde obscuritas arguita 
+      <lb ed="#N" n="101"/>blimitatem, &amp; altitudinem Diuinorum eloquio 
+      <lb ed="#N" n="102"/>rum, quae non nisi magna mentis illuminatione 
+      <lb ed="#N" n="103"/>possunt penetrari, ad differentiam Eloquiorum 
+      <lb ed="#N" n="104"/>humanorum, quae faciliter percipiuntur. De me 
+      <lb ed="#N" n="105"/>dis exponendi sacram Scripturam dicemus ie 
+      <lb ed="#N" n="106"/>seq. art. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e423">
+                  <lb ed="#N" n="107"/>4. Quantum ad 3. propositum in titulo; see 
+      <lb ed="#N" n="108"/>licet quotuplex sit sensus sacrae Scripturae? 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e430">
+                  <lb ed="#N" n="109"/>Dicendum, quod sensus sacrae Scripture 
+      di<lb ed="#N" n="110" break="no"/>uiditur 1. in literalem, &amp; mysticum. Est contra 
+      <lb ed="#N" n="111"/>Iudaeos putantes in Scriptura esse unicum sensum 
+      <lb ed="#N" n="112"/>literalem, &amp; per consequens negantes sensummy. 
+      <lb ed="#N" n="113"/>sticum. Literalis est ille, qui per ipsas voces 
+      alla<lb ed="#N" n="114" break="no"/>tas ab ipsa Scriptura immediate intenditur, &amp; sia 
+      <lb ed="#N" n="115"/>gnificatur siue proprie, siue metaphorice, siue 
+      pa<lb ed="#N" n="116" break="no"/>rabolice. Mysticus, siue spiritualis est ille, qui 
+      si<lb ed="#N" n="117" break="no"/>gnificatur non per voces immediate, sed per ipsas 
+      <lb ed="#N" n="118"/>res importatas a talibus vocibus, prout res 
+      assu<lb ed="#N" n="119" break="no"/>muntur, &amp; ordinantur a Deo; ad aliud 
+      significa<lb ed="#N" n="120" break="no"/>dum. Istae definitiones afferuntur a Fundatisa. 
+      <!--164.xml-->
+      <pb ed="#N" n="149"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Dost. Quodl. 1. q. 5: vbi ait: Sensum spiritualem 
+      si<lb ed="#N" n="2" break="no"/>gnificant res, sensum literalem significant voces: 
+      <lb ed="#N" n="3"/>Prob. 1. ex sacra Scriptura: nam Sap. 7. habetur:  
+      <lb ed="#N" n="4"/>Spiritus intelligentiae Sanctus, unicus multiplex: 
+      <lb ed="#N" n="5"/>2. ex Apost. Epist. ad Galat. 4. super Genes. 16. 
+      <lb ed="#N" n="6"/>Scriptum est enim, quoniam Abraham duos filios 
+      <lb ed="#N" n="7"/>habuit, unum de Ancilla, &amp; unum de Libera, sed  
+      <lb ed="#N" n="8"/>qui de Ancilla secundum carnem natus est, 
+      qui<lb ed="#N" n="9" break="no"/>autem de Libera per repromissionem, quae sunt 
+      se<lb ed="#N" n="10" break="no"/>cundum allegoriam dicta; sed dictum allegorico 
+      <lb ed="#N" n="11"/>habet sensum mysticum, quia propria allegoria. 
+      <lb ed="#N" n="12"/>est allegoria rei, qua assumitur vna res ad 
+      signi<lb ed="#N" n="13" break="no"/>ficandam aliam, vt in proposito persona 
+      signifi<lb ed="#N" n="14" break="no"/>cata per hoc nomen Ismahel assumitur ad 
+      signi<lb ed="#N" n="15" break="no"/>ficandum Vetus Testamentum; &amp; persona 
+      signi<lb ed="#N" n="16" break="no"/>ficata per hoc nomen Isaac assumitur ad 
+      signifi<lb ed="#N" n="17" break="no"/>candum Testamentum Nouum, &amp; quanuis 
+      alle<lb ed="#N" n="18" break="no"/>goria vocis, prout idem est, ac metaphora, 
+      per<lb ed="#N" n="19" break="no"/>tineat ad sensum literalem, qui significatur 
+      per<lb ed="#N" n="20" break="no"/>voces; attamen allegoria rei, qua per vnam 
+      rem<lb ed="#N" n="21" break="no"/>significatur alia res, &amp; transfertur ad 
+      significan<lb ed="#N" n="22" break="no"/>dam aliam rem, pertinet ad sensum mysticum: 
+      <lb ed="#N" n="23"/>ergo praeter sensum literalem datur sensus 
+      my<lb ed="#N" n="24" break="no"/>sticus, quia data specie necesse est dari genus 
+      <lb ed="#N" n="25"/>eum species constet ex genere, &amp; differentia 
+      <lb ed="#N" n="26"/>vnde ex eo, quod datur sensus allegoricus 
+      alle<lb ed="#N" n="27" break="no"/>goria rei, quae est species sensus mystici, necesset 
+      <lb ed="#N" n="28"/>est dari sensum mysticum, sicuti ex eo, quod de 
+      <lb ed="#N" n="29"/>tur homo, qui est species animalis, necesse est 
+      <lb ed="#N" n="30"/>dari animal. Praeterea prob. ex eodem Apost. Rom. 
+      <lb ed="#N" n="31"/>E2. Circumcisio cordis in spiritu, non in litera. Et  
+      <lb ed="#N" n="32"/>2Corint. 3. Litera occidit, spiritus autem viuificat.  
+      <lb ed="#N" n="33"/>ergo ex Apostolo datur sensus spiritualis, &amp; 
+      li<lb ed="#N" n="34" break="no"/>teralis; sed nomine seusus mystici intelligimus 
+      <lb ed="#N" n="35"/>sensum spiritualem, siue intellectualem, quo, 
+      vt<lb ed="#N" n="36" break="no"/>docet Beatiss. P. Aug. super Psal. 104; aliud 
+      vide<lb ed="#N" n="37" break="no"/>tur sonare in verbis, aliud in intellectu 
+      significa<lb ed="#N" n="38" break="no"/>resergo praeter literalem datur sensus mysticus, 
+      <lb ed="#N" n="39"/>qui appellatur etiam spiritualis, intellectualis 
+      <lb ed="#N" n="40"/>deu figuratiuus, de quo Apostolus loquens 
+      He<lb ed="#N" n="41" break="no"/>hreis ait: Omnia in figura contingeban: illis. Non 
+      <lb ed="#N" n="42"/>quodomnia, quae narrantur in Scriptura, non 
+      <lb ed="#N" n="43"/>sint literaliter accipienda, sed quia vitra sensum 
+      <lb ed="#N" n="44"/>literalem habent etiam sensum mysticum. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e560">
+                  <lb ed="#N" n="45"/>S Praeterea prob. ista conclusio ex Beatiss. 
+      <lb ed="#N" n="46"/>Doct. Aug. Epist. 49. q. vlt. docente: Sicut humana. 
+      <lb ed="#N" n="47"/>consuetudo verbis, ita Diuma potentia loquitur  
+      <lb ed="#N" n="48"/>factis; ex quibus hanc rationem eruit B. Doct 
+      <lb ed="#N" n="49"/>degid. Quodl. 1. 4. 5; quod innuit etiam in 1. dist. 
+      <lb ed="#N" n="50"/>84. princ. 2. q. 1, &amp; 2, vbi probat, quare Deus 
+      vta<lb ed="#N" n="51" break="no"/>tur metaphoris, &amp; dist. 45. princ. 1. Ait autem 
+      ci<lb ed="#N" n="52" break="no"/>tat. Quodlib. Cum ergo homo sit factor vocum, &amp; 
+      <lb ed="#N" n="53"/>non naturalium rerum, Deus autem ipsas res 
+      na<lb ed="#N" n="54" break="no"/>turales in esse produxerit, dignum est, quod in 
+      scie<lb ed="#N" n="55" break="no"/>tia Diuima non solum sumantur voces ad 
+      sigmfi<lb ed="#N" n="56" break="no"/>candum, sed etiam res; in humana vero scientia. 
+      <lb ed="#N" n="57"/>congruum est, vt solum voces adducantur ad 
+      si<lb ed="#N" n="58" break="no"/>gnificandum. Sic autem efformatur 
+      fundamen<lb ed="#N" n="59" break="no"/>tum. In tantum in scientia humana naturali datur 
+      <lb ed="#N" n="60"/>tantum sensus literalis, in quantum homo insti¬ 
+      <!--164.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>tuit solas voces ad significandas res; non enim 
+      in<lb ed="#N" n="62" break="no"/>stituit res, quia res sunt institutae a Deo; sed Deus 
+      <lb ed="#N" n="63"/>nedum est Iustitutor vocum, quia simul cum 
+      Adu<lb ed="#N" n="64" break="no"/>mo vocauit omnia nominibus suis, sed etiam est, 
+      <lb ed="#N" n="65"/>Institutor rerum, quia se solo dedit esse omnibus. 
+      <lb ed="#N" n="66"/>rebus; ergo in Scientia Diuina praeter sensum. 
+      <lb ed="#N" n="67"/>literalem, qui sumitur a vocibus, datur sensus 
+      <lb ed="#N" n="68"/>mysticus, qui sumitur a rebus¬ 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e619">
+                  <lb ed="#N" n="69"/>ConsModus significandi Dei proprius est, 
+      <lb ed="#N" n="70"/>perfectior modo significandi proprio Creature, 
+      <lb ed="#N" n="71"/>quia modus significandi sequitur modum 
+      cogno<lb ed="#N" n="72" break="no"/>scendi, &amp; modus cognoscendi sequitur modum 
+      es<lb ed="#N" n="73" break="no"/>sendi; sed modus significandi proprius 
+      Creatu<lb ed="#N" n="74" break="no"/>rae est per voces, ergo modus significandi 
+      pro<lb ed="#N" n="75" break="no"/>prius Dei est per voces, &amp; res; nullus enim alius 
+      <lb ed="#N" n="76"/>est excogitabilis, vt patet. Et haec est ratio 
+      velu<lb ed="#N" n="77" break="no"/>ti a priori¬ 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e642">
+                  <lb ed="#N" n="78"/>6 Praeterea prob. ex Doct, nostro D. 
+      Fulgen<lb ed="#N" n="79" break="no"/>tio serm. de confess. &amp; dispensat. Domini, vt 
+      habe<lb ed="#N" n="80" break="no"/>tur in Breutar. Ord in Fest. S. Simplic. 13. Augusti, 
+      <lb ed="#N" n="81"/>vbi super illud Lucae 12. Sint lumbi vestri 
+      prae<lb ed="#N" n="82" break="no"/>cincti, &amp;c. habet: Si istum Domini sermonem 
+      se<lb ed="#N" n="83" break="no"/>cundum literam velimus accipere, nihil in eo 
+      com<lb ed="#N" n="84" break="no"/>modi spiritalis possumus inuenire; Quid enim 
+      <lb ed="#N" n="85"/>profuit ad animae salutem, si aliquis cerporaliter 
+      <lb ed="#N" n="86"/>aut lumbos praecingat, aut lucernam accendate 
+      <lb ed="#N" n="87"/>Alia ergo in praecinctis lumbis, &amp; lucernis 
+      arden<lb ed="#N" n="88" break="no"/>tibus quaerenda est intelligentia spiritalis, quae 
+      sci<lb ed="#N" n="89" break="no"/>licet Diumo sit praecepto condigna, quae nostrae 
+      sa<lb ed="#N" n="90" break="no"/>luti congrua reperiatur, &amp; commoda: neque enim 
+      <lb ed="#N" n="91"/>frustra quodam loco ipse Dominus ait: Verba, quae 
+      <lb ed="#N" n="92"/>ego locutus sum vobis, spiritus, &amp; vita sunt, Hac 
+      <lb ed="#N" n="93"/>Auctoritate nihil clarius optari potest, &amp; 
+      subti<lb ed="#N" n="94" break="no"/>lius; sic enim arguit S. Doct. Si sacrae Scripturae 
+      <lb ed="#N" n="95"/>haberent tantum sensum literalem, vt Hebrei 
+      <lb ed="#N" n="96"/>contendunt, multa essent inepta, multa absurda, 
+      <lb ed="#N" n="97"/>multa sine sens, fatua, &amp; ridicula nullo 
+      modo<lb ed="#N" n="98" break="no"/>spectantia ad nostram salutem, vt in textu 
+      alle<lb ed="#N" n="99" break="no"/>gato; sed hoc non est dicendum, quia tota 
+      sacra<lb ed="#N" n="100" break="no"/>Scriptura ordinatur ad nostram salutem; ergo 
+      <lb ed="#N" n="101"/>praeter sensum literalem dandus est spiritalis, 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e697">
+                  <lb ed="#N" n="102"/>γ Prob. insuper duplici ratione 
+      congruen<lb ed="#N" n="103" break="no"/>tiali a posteriori, quae affertur ab eodem B. Docta 
+      <lb ed="#N" n="104"/>cit. dist. 34. Prima est ducta ab Altitudine 
+      Diui<lb ed="#N" n="105" break="no"/>nae Naturae, quae sic efformatur. Noster 
+      intelle<lb ed="#N" n="106" break="no"/>ctus in ordine ad ea, quae sunt manifestissima in 
+      <lb ed="#N" n="107"/>natura, se habet velut oculus Noctuae ad lumen 
+      <lb ed="#N" n="108"/>diei, vt dicitur in 2. Met; sed Natura Diuina est 
+      <lb ed="#N" n="109"/>manifestissima in natura; est enim ipsum esse, 
+      <lb ed="#N" n="110"/>quod a nullo sanae mentis potest negari, &amp; ideo 
+      <lb ed="#N" n="111"/>manifestissimum est; ergo intellectus noster in 
+      <lb ed="#N" n="112"/>ordine ad ea, quae sunt Dei, se habet velut 
+      ocu<lb ed="#N" n="113" break="no"/>lus Noctuae ad lumen dici; sed oculus Noctuae 
+      <lb ed="#N" n="114"/>nequit lucem diei videre per seipsa; sed tantum  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e728">
+                  <lb ed="#N" n="115"/>per vmbras; ergo noster intellectus nequit 
+      co<lb ed="#N" n="116" break="no"/>gnoscere ea, quae sunt Dei, nisi per Creaturas 
+      <lb ed="#N" n="117"/>adaptatas anagogice ad significandum Deum; 
+      <lb ed="#N" n="118"/>Creatura enim respectu Dei se habet sicut 
+      te<lb ed="#N" n="119" break="no"/>nebra respectu lucis; propterea D. Dion. lib. 1. de 
+      <lb ed="#N" n="120"/>Ang. Hierarch. ait: Non est possibile nobis aliter 
+      <!--165.xml-->
+      <pb ed="#N" n="150"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>lucere Diuinum radium, nisi varietate sacrorum 
+      <lb ed="#N" n="2"/>velaminum anagogice circumuallatum. 2. 
+      ratio<lb ed="#N" n="3" break="no"/>est ex parte nostra. Deus tribuit nobis 
+      poten<lb ed="#N" n="4" break="no"/>tiam intellectiuam, &amp; sensitiuam, ergo 
+      conue<lb ed="#N" n="5" break="no"/>niens fuit, vt secundum vtranque potentiam. 
+      <lb ed="#N" n="6"/>manuduceremur in cognitionem Dei, sed per 
+      <lb ed="#N" n="7"/>voces manuducimur tantum in cognitionem 
+      <lb ed="#N" n="8"/>Dei secundum potentiam intellectiuam, 
+      quia<lb ed="#N" n="9" break="no"/>voces significant conceptum intellectus; 
+      ergo<lb ed="#N" n="10" break="no"/>per res manuducimur in cognitionem Dei 
+      se<lb ed="#N" n="11" break="no"/>cundum potentiam seusitiuam; sed a vocibus 
+      <lb ed="#N" n="12"/>habetur sensus literalis; ergo a rebus habetur  
+      <lb ed="#N" n="13"/>sensus mysticus. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e778">
+                  <lb ed="#N" n="14"/>S Dicendum 2; quod sensus literalis 
+      diui<lb ed="#N" n="15" break="no"/>ditur in improprium, &amp; proprium. Haec 
+      conclu<lb ed="#N" n="16" break="no"/>sio est contra Lyranum docentem non dari sensum 
+      <lb ed="#N" n="17"/>li teralem improprium, ostenditur tamen sic. 
+      Sen<lb ed="#N" n="18" break="no"/>sus literalis proprius est ille, quo significatur res 
+      <lb ed="#N" n="19"/>per vocem illi propriam, vt quando per hanc 
+      vo<lb ed="#N" n="20" break="no"/>cem Ignis significatur vnum Elementum, cui in 
+      <lb ed="#N" n="21"/>prima rerum institutione imposita est haec vox. 
+      <lb ed="#N" n="22"/>Sensus literalis improprius est ille, quo 
+      significa<lb ed="#N" n="23" break="no"/>tur aliqua res per vocem, quae illi allegorice alle 
+      <lb ed="#N" n="24"/>goria vocis, prout idem est, ac metaphora, siue per 
+      <lb ed="#N" n="25"/>transtationem ipsius vocis, conuenit;vt cum trasfertur 
+      <lb ed="#N" n="26"/>haec vox Ignis, &amp; Aqua ad significandas 
+      afflictio<lb ed="#N" n="27" break="no"/>nes: &amp; haec vox Refrigerium ad significandam 
+      <lb ed="#N" n="28"/>consolationem, &amp; faelicitatem, iuxta illud, quod 
+      <lb ed="#N" n="29"/>dicitur in Psal. Transiuimus per ignem, &amp; aqua, 
+      <lb ed="#N" n="30"/>&amp; eduxisti nos in refrigerium; vbi notandum 
+      ad<lb ed="#N" n="31" break="no"/>tollendam aequiuocationem, quod allegoria 
+      <lb ed="#N" n="32"/>duplex est, alia rei, alia vocis. Allegoria rei est 
+      <lb ed="#N" n="33"/>illa, qua aliqua res transfertur ad significandam 
+      <lb ed="#N" n="34"/>aliam rem, vt cum dicitur, quod Ismabel 
+      signifi<lb ed="#N" n="35" break="no"/>cet vetus Testamentum, &amp; Isaac nouum; &amp; hic 
+      <lb ed="#N" n="36"/>sensus allegoricus est species sensus mystici, non 
+      <lb ed="#N" n="37"/>literalis, vt infra videbimus. Allegoria vocis est: 
+      <lb ed="#N" n="38"/>illa, qua una vox transfertur ad significandam 
+      <lb ed="#N" n="39"/>aliam rem, cui in prima institutione non est 
+      impo<lb ed="#N" n="40" break="no"/>sita talis vox, vt cum Christus dicitur Agnus; 
+      <lb ed="#N" n="41"/>Leo, Lapis, istae enim voces transferuntur ad 
+      si<lb ed="#N" n="42" break="no"/>gnificandum Christum, cui non fuerunt 
+      imposi<lb ed="#N" n="43" break="no"/>tae. Et hic sensus allegoricus est sensus literalis 
+      <lb ed="#N" n="44"/>improprius, quia sensus literalis fundatur in 
+      vo<lb ed="#N" n="45" break="no"/>cibus, sicut sensus mysticus fundatur in rebus. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e850">
+                  <lb ed="#N" n="46"/>Sensus literalis proprius adhuc subdiuidi. 
+      <lb ed="#N" n="47"/>tur in Historicum, Ethiologicum, &amp; Analogicum; 
+      <lb ed="#N" n="48"/>Ita Beatiss. Doct. Aug. lib. de vtilit. credendi c. 2. 
+      <lb ed="#N" n="49"/>his verbis: Omnis Scriptura, quae Testamentum 
+      <lb ed="#N" n="50"/>vetus vocatur, diligenter eam nosse cupientibus, 
+      <lb ed="#N" n="51"/>quadrifariam traditur, secundum Hiscoriam, 
+      se<lb ed="#N" n="52" break="no"/>cundum Ethiologiam, secundum Analogiam, &amp; 
+      <lb ed="#N" n="53"/>secundum Allegoriam. Historicus est ille, 
+      secun<lb ed="#N" n="54" break="no"/>dum quem res simpliciter narratur, vt sunt gesta. 
+      <lb ed="#N" n="55"/>Regum. Ethiologicus est ille, quo causa alicuius 
+      <lb ed="#N" n="56"/>dicti allegatur, vt cum Christus dixit Iudaeis 
+      <lb ed="#N" n="57"/>Moysen permisisse libellum repudij propter corum 
+      <lb ed="#N" n="58"/>duritiem, Analogicus est ille, quo veritas unius 
+      <lb ed="#N" n="59"/>Scripturae ostenditur concordare veritati alterius 
+      <lb ed="#N" n="60"/>Scripturae, vt cum ostenditur veritas noui testa¬ 
+      <!--165.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>menti per veritatem veteris Testamentia 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e892">
+                  <lb ed="#N" n="62"/>S Aduertendum hic sensum historicum 
+      pos<lb ed="#N" n="63" break="no"/>se habere plures sensus in eadem litera, vt est 
+      <lb ed="#N" n="64"/>illud Psal. 2. Filius meus es tu, ego hodie genui ter 
+      <lb ed="#N" n="65"/>&amp; illud Isaiae 5 3. Generationem eius quis 
+      enarra<lb ed="#N" n="66" break="no"/>hit, quae intelliguntur de generatione aeterna. 
+      <lb ed="#N" n="67"/>&amp; temporali. Et illud Oseae 11. Ex Agypto 
+      voca<lb ed="#N" n="68" break="no"/>qui Filium meum, quod intelligitur de Christo 
+      Fi<lb ed="#N" n="69" break="no"/>lio naturali; &amp; de Populo Israel electo ad 
+      filia<lb ed="#N" n="70" break="no"/>tionem adoptiuam. Quotiescunque enim vnus 
+      <lb ed="#N" n="71"/>sensus alteri non contradicit, &amp; habetur aliunde 
+      <lb ed="#N" n="72"/>in Scriptura, tunc vterque est concedendus. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e919">
+                  <lb ed="#N" n="73"/>IO Sensus literalis improprius diuiditur in 
+      <lb ed="#N" n="74"/>Metaphoricum, Parabolicum, &amp; Aenigmaticum 
+      <lb ed="#N" n="75"/>quibus addi solent Ironicus, Antiphrasticus, &amp; 
+      <lb ed="#N" n="76"/>Hyperbolicus, Metaphoricus est ille, quo 
+      transe<lb ed="#N" n="77" break="no"/>fertur vox ad significandam aliam rem per 
+      simi<lb ed="#N" n="78" break="no"/>litudinem, vt cum Christus dicitur Leo propter 
+      <lb ed="#N" n="79"/>fortitudinem. Parabolicus est translatio vocis: ad 
+      <lb ed="#N" n="80"/>significandam aliquam actionem, in hoc enim 
+      pa<lb ed="#N" n="81" break="no"/>rabola distinguitur a metaphora, quod meta 
+      <lb ed="#N" n="82"/>phora fundatur in re, parabola vero in aliqua 
+      <lb ed="#N" n="83"/>actione, vt cum dicitur. Simile est Regnum 
+      Cola<lb ed="#N" n="84" break="no"/>rum decem Virginibus, quae accipientes Iampade 
+      <lb ed="#N" n="85"/>suas exierunt obuiam, &amp;c. Tria autem sunt 
+      ge<lb ed="#N" n="86" break="no"/>nera Parabolarum. Primum consistit in actiones 
+      <lb ed="#N" n="87"/>quae fit, vel facta est, vt est illud Matt. 13. Simile 
+      <lb ed="#N" n="88"/>est Regnum Caelorum fermento; quod fermentum 
+      <lb ed="#N" n="89"/>factum est, &amp; sit quotidie. Secundum consistit 
+      <lb ed="#N" n="90"/>in actione, quae facta non est, posset tamen fieris 
+      <lb ed="#N" n="91"/>vt est illud Matt. 20. Simile est Regnum Caelorum: 
+      <lb ed="#N" n="92"/>homini patrifamilias, qui exut primo mane condus 
+      <lb ed="#N" n="93"/>cere operarios, &amp;c, quanuis enim nullus 
+      paterfa<lb ed="#N" n="94" break="no"/>milias de facto fecerit hoc, nulla tamen est reν 
+      <lb ed="#N" n="95"/>pugnantia, quod fecerit, vel potuerit facer 
+      <lb ed="#N" n="96"/>Tertium consistit in actione impossibili, vt est 
+      il<lb ed="#N" n="97" break="no"/>lud Iudic. 9. Ierunt ligna, vi ungerent super se 
+      <lb ed="#N" n="98"/>Regem. Aenigmaticus supra parabolicum obscus 
+      <lb ed="#N" n="99"/>ritatem importat, de caetero idem ferme est ade 
+      <lb ed="#N" n="100"/>parabolicus; Beatiss. enim Doct. Aug. lib. 15.dο 
+      <lb ed="#N" n="101"/>Trin. c. 9. ait: Aenigma est autem, vt breutterea 
+      <lb ed="#N" n="102"/>plicem, obscura allegoria; sicut est: Sanguisugaeem 
+      <lb ed="#N" n="103"/>tres filiae. Prou. 3. 6. Ironicus, Antiphrasticus;&amp; 
+      <lb ed="#N" n="104"/>Hyperbolicus, quanuis participent magis de 
+      <lb ed="#N" n="105"/>seu su literali proprio, possunt tamen reduci ad 
+      <lb ed="#N" n="106"/>improprium. De his agit Beatiss. Doct. lib. 3. de 
+      <lb ed="#N" n="107"/>Doctr. Christ. c. 29. Ironicus est ille, secundum 
+      <lb ed="#N" n="108"/>quem dicitur aliquid esse ad signi ficandum opposi 
+      <lb ed="#N" n="109"/>tum, vt est illud Gen. Ecce Adam quasi unus ea 
+      <lb ed="#N" n="110"/>nobis factus est. Antiphrasticus est ille, secundum 
+      <lb ed="#N" n="111"/>quem vox in contrarium vsurpatur, vt cum dici 
+      <lb ed="#N" n="112"/>tur Parca a non parcendo, &amp; Lucus a non 
+      lucen<lb ed="#N" n="113" break="no"/>do: sic Nabot dicitur benedixisse Deum, &amp; 
+      Re<lb ed="#N" n="114" break="no"/>gem eo, quod vtrique maledixerit. Hyperbolis 
+      <lb ed="#N" n="115"/>cus est ille, quo aliquid dicitur cum excessu, Vt 
+      <lb ed="#N" n="116"/>cum Deus dixit Abraham: Multiplicabo 
+      semen<lb ed="#N" n="117" break="no"/>tuum sicut Stellas Coeli, &amp; sicut arenam maris, 
+      <lb ed="#N" n="118"/>quae prae multitudine numerari non potest. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1021">
+                  <lb ed="#N" n="119"/>II Dicendum 3. quod sensus mysticus 
+      di<lb ed="#N" n="120" break="no"/>uiditur in Allegoricum allegoria rei, vt superius 
+      <!--166.xml-->
+      <pb ed="#N" n="151"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>diximus, Tropologicum, seu Moralem, &amp; 
+      Anago<lb ed="#N" n="2" break="no"/>gicum. Ita Beauss. Doct. Aug. lib. 1. super Gen. ad 
+      <lb ed="#N" n="3"/>lit. c. 13 vbi ait: In libris omnibus Sanctis intueru 
+      <lb ed="#N" n="4"/>oportet, quae ibi aeterna intimentur, quae facta 
+      nar<lb ed="#N" n="5" break="no"/>rentur, quae futura praenuncientur, quae agenda 
+      <lb ed="#N" n="6"/>praecipiantur, vel moneantur; vbi vitra sensum 
+      li<lb ed="#N" n="7" break="no"/>teralem, qui significatur per illa verba: Quae 
+      fa<lb ed="#N" n="8" break="no"/>cta narrentur) assignat tres sensus mysticos 
+      <lb ed="#N" n="9"/>nam per illa verba: Quae ibi aeterna intimentur? 
+      <lb ed="#N" n="10"/>assignat sensum Anagogicum, qui est ille, quo 
+      <lb ed="#N" n="11"/>per ea, quae facta sunt in veteri Testamento; 
+      signi<lb ed="#N" n="12" break="no"/>ficantur ea, quae facienda sunt in Coelis; Anagogia 
+      <lb ed="#N" n="13"/>enim idem est, ac sursum eleuatio. Per ea verba: 
+      <lb ed="#N" n="14"/>Quae futura praenuncientur, assignat sensum 
+      alle<lb ed="#N" n="15" break="no"/>goricum, quo per ea, quae facta sunt in veteri 
+      Te<lb ed="#N" n="16" break="no"/>stamento, significantur ea, quae facta sunt in 
+      Testa<lb ed="#N" n="17" break="no"/>mento nouo. Tandem per ea verba. Quae agenda 
+      <lb ed="#N" n="18"/>praecipiantur, vel moneantur, assignat sensum. 
+      <lb ed="#N" n="19"/>Tropologicum, seu moralem, qui est ille, quo per 
+      <lb ed="#N" n="20"/>ea, quae facta sunt in veteri Testamento, instrui¬. 
+      <lb ed="#N" n="21"/>mur de is, quae nos facere debemus in 
+      Lestamen<lb ed="#N" n="22" break="no"/>to nouo. Exemplum quadruplicis huius sensus 
+      <lb ed="#N" n="23"/>sit ista vox, Hierusalem, quae literaliter significat, 
+      <lb ed="#N" n="24"/>Metropolim Iudaeorum; allegorice significat 
+      Ec<lb ed="#N" n="25" break="no"/>clesiam; Tropologice, seu moraliter animam 
+      Iu<lb ed="#N" n="26" break="no"/>sti; &amp; anagogice Caelum Beatorum. Ad 
+      memori<lb ed="#N" n="27" break="no"/>ter tenendos hos quatuor sensus traduntur haec 
+      <lb ed="#N" n="28"/>duo carmina: 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1095">
+                  <lb ed="#N" n="29"/>Litera gesta docet; quid credas, Allegoria; 
+      <lb ed="#N" n="30"/>Moralis, quid agas; quo tendas, Anagogia. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1102">
+                  <lb ed="#N" n="31"/>Notandum tamen, quod licet aliquis 
+      Tex<lb ed="#N" n="32" break="no"/>tus possit continere hos omnes quatuor sensus 
+      <lb ed="#N" n="33"/>simul, non est tamen necesse, quod omnis 
+      Tex<lb ed="#N" n="34" break="no"/>tus illos omnes habeat, sed sufficit, quod alique 
+      <lb ed="#N" n="35"/>habeat; propterea dicitur, quod seusus literalis 
+      <lb ed="#N" n="36"/>in aliquibus Textibus occidit.  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1118">
+                  <lb ed="#N" n="37"/>TE Vtra assignatos sensus allegari solent 
+      <lb ed="#N" n="38"/>etiam sensus figuratiuus, &amp; accomodatitius. 1. est 
+      <lb ed="#N" n="39"/>communis ad omnes sensus improprios, &amp; mystit 
+      <lb ed="#N" n="40"/>reos; qui figuraliter significant res. 2. non est 
+      sen<lb ed="#N" n="41" break="no"/>sus expositiuus, sed potius allusiuus, vt quando 
+      <lb ed="#N" n="42"/>ea, quae continentur in Scriptura, accomodamus 
+      <lb ed="#N" n="43"/>s, de quibus loquimur propter aliquam 
+      similitu<lb ed="#N" n="44" break="no"/>dinem. An autem sensus accomodatitius sit 
+      inten<lb ed="#N" n="45" break="no"/>tus a Scriptoribus Canonicis P Vasquex affirmat 
+      <lb ed="#N" n="46"/>adducendo textum Oseae: Ex Aegypto vocaui 
+      Fi<lb ed="#N" n="47" break="no"/>lium meum. Caeterum iste non est accomodatitius, 
+      <lb ed="#N" n="48"/>sed literalis, vt supra dictum est; quapropter 
+      ob<lb ed="#N" n="49" break="no"/>seruat IoaS. Thochic, quod sensus accomodatis 
+      <lb ed="#N" n="50"/>tius non probat, nec explicat ea, quae dicunt: 
+      <lb ed="#N" n="51"/>sed potius per vnam rem alludit alteri; 
+      Scripto<lb ed="#N" n="52" break="no"/>res autem Canonici, quando afferunt aliquem  
+      <lb ed="#N" n="53"/>locum ex Veteri Testamento, semper intendum 
+      <lb ed="#N" n="54"/>probare, explicare, &amp; confirmare ea, quae dicunt,  
+      <lb ed="#N" n="55"/>&amp; ideo non vsi sunt sensu accomodatitio¬  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1162">
+                  <lb ed="#N" n="56"/>13. Obiicies 1. Etiam homines ytuntur non 
+      <lb ed="#N" n="57"/>solum vocibus, sed rebus ad significandum: nam 
+      <lb ed="#N" n="58"/>ytuntur ramo, vel anphora ad significandum 
+      vi<lb ed="#N" n="59" break="no"/>num venale. Insuper actionibus Theatralibus 
+      <lb ed="#N" n="60"/>significant actiones praeteritas: 
+      <!--166.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>Resp. 1. dist. antecedens. Etiam homines 
+      vtum<lb ed="#N" n="62" break="no"/>tur rebus in sua conditione institutis ad 
+      signi<lb ed="#N" n="63" break="no"/>ficandum, negimere accidentaliter, &amp; arbitrario 
+      <lb ed="#N" n="64"/>sumptis ad significandum, conc; Deus autem 
+      <lb ed="#N" n="65"/>ytitur rebus institutis in sua conditione. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1191">
+                  <lb ed="#N" n="66"/>Resp. 2. Homines assumunt res, quatenus 
+      <lb ed="#N" n="67"/>res formaliter, neg; quatenus signa tantum, 
+      conca<lb ed="#N" n="68" break="no"/>Deus autem assumit res, vt res, quia instituit 
+      ip<lb ed="#N" n="69" break="no"/>sas res ad significandum, cum sit Factor illarum; 
+      <lb ed="#N" n="70"/>at vero Creatura non potest assumere res, vt res 
+      <lb ed="#N" n="71"/>ad significandum, quia non est Factrix illarum? 
+      <lb ed="#N" n="72"/>quauis enim possit ipsas eligere tanqua signa, &amp; 
+      <lb ed="#N" n="73"/>determinate ad aliquid significandum, attamen 
+      <lb ed="#N" n="74"/>ex sua natura non significant; quapropter res 
+      as<lb ed="#N" n="75" break="no"/>sumpia ad significandum a Deo est signum 
+      natu<lb ed="#N" n="76" break="no"/>raliter significatiuum, nascitur enim, vt significans 
+      <lb ed="#N" n="77"/>aliud; at vero res assumpta ab homine ad 
+      signifi<lb ed="#N" n="78" break="no"/>candum mere ad placitum significat, quia non 
+      <lb ed="#N" n="79"/>nascitur, vt significans, sed postquam nata est, 
+      <lb ed="#N" n="80"/>acquirit rationem signi ex determiatione 
+      arbi<lb ed="#N" n="81" break="no"/>tratia hominis. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1228">
+                  <lb ed="#N" n="82"/>14. Obiicies 2. si darentur plures sensus siue 
+      <lb ed="#N" n="83"/>literales, siue mystici, sequeretur aequiuocatio, &amp; 
+      <lb ed="#N" n="84"/>confusio in Scripturis, &amp; sic nihil certi, &amp; 
+      deter<lb ed="#N" n="85" break="no"/>minati haberemus, sed hoc non est dicendum: 
+      <lb ed="#N" n="86"/>ergo neque primum. Prob. maior: Nam si v. 8. 
+      <lb ed="#N" n="87"/>ille Textus: Ex Aegypto vocaut Filium meum: 
+      <lb ed="#N" n="88"/>posset intelligi de Christo Filio naturali, &amp; de 
+      <lb ed="#N" n="89"/>Populo Istrael assumpto ad filiationem adoptiuam; 
+      <lb ed="#N" n="90"/>Et ille Textus Isaiae 5 3. Generationem eius qui-  
+      <lb ed="#N" n="91"/>enarrabit, posset intelligi de generatione 
+      aeter<lb ed="#N" n="92" break="no"/>na, &amp; temporali, posset aliquis in primo Textu 
+      <lb ed="#N" n="93"/>explicare Scripturam, quod loquatur tantum 
+      de<lb ed="#N" n="94" break="no"/>Populo, non Christo, &amp; sic negare aduentum 
+      <lb ed="#N" n="95"/>Messiae cum Iudaeo, vel intelligere tantum de 
+      <lb ed="#N" n="96"/>Christo, non de Populo, &amp; sic negare 
+      Redemp<lb ed="#N" n="97" break="no"/>tionem cum Haeretico; &amp; in 2. Textu posset 
+      tan<lb ed="#N" n="98" break="no"/>tum concedere generationem aeternam, &amp; 
+      nega<lb ed="#N" n="99" break="no"/>re temporalem, &amp; sic negare cum Iudaeis 
+      My<lb ed="#N" n="100" break="no"/>sterium Incarnationis, vel e contra concedere 
+      <lb ed="#N" n="101"/>Natiuitatem temporalem, &amp; negare aeternam, &amp; 
+      <lb ed="#N" n="102"/>sic negare Diuinitatem cum Arrianis, ergo 
+      seque<lb ed="#N" n="103" break="no"/>retur maxima confusio, &amp; aequiuocatio.  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1278">
+                  <lb ed="#N" n="104"/>Resp. neg. maiorem; &amp; ad prob. neg. anter 
+      <lb ed="#N" n="105"/>cedens; cum enim, vt dicemus in seq. ari; 
+      debea<lb ed="#N" n="106" break="no"/>mus exponere Scripturam ita, vt illi 
+      expositioni<lb ed="#N" n="107" break="no"/>caetera consonent, &amp; concordent, &amp; ita vnum 
+      <lb ed="#N" n="108"/>affirmare, vt aliud non negemus, aliter 
+      contradi<lb ed="#N" n="109" break="no"/>ceremus ipsi Scripture, quam expresse patet 
+      ha<lb ed="#N" n="110" break="no"/>bere illos duos sensus, ideo non possumus vnum 
+      <lb ed="#N" n="111"/>concedere, &amp; aliud negare; quia illud, quod 
+      ne<lb ed="#N" n="112" break="no"/>gatur, est expresse contra ipsam Scripturam; sicut  
+      <lb ed="#N" n="113"/>quia homo est animal; &amp; rationale, non 
+      possu<lb ed="#N" n="114" break="no"/>mus concedere, quod sit rationale, &amp; non 
+      ani<lb ed="#N" n="115" break="no"/>mal, vel e contra;ita a pari¬ 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1307">
+                  <lb ed="#N" n="116"/>I5. Obiicies 3. Sensus metapho ricus est 
+      <lb ed="#N" n="117"/>mysticus, sicut dicedum est de sensu allegorico; 
+      <lb ed="#N" n="118"/>ergo falsum est, quod sensus literalis diuidatur  
+      <lb ed="#N" n="119"/>in sensum metaphoricum, &amp; in sensum 
+      impro<lb ed="#N" n="120" break="no"/>prium, qui idem est, ac allegoricus, vt supra di¬ 
+      <!--167.xml-->
+      <pb ed="#N" n="152"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ximus. Prob. antecedens: nam sensus 
+      metapho<lb ed="#N" n="2" break="no"/>ricus est ille, quo assumitur aliqua res ad 
+      signifi<lb ed="#N" n="3" break="no"/>candam aliam, vt quando assumitur haec res, leo 
+      <lb ed="#N" n="4"/>propter suam fortitudinem ad significanda in 
+      for<lb ed="#N" n="5" break="no"/>titudinem Christi Domini: &amp; sensus allegoricus 
+      <lb ed="#N" n="6"/>est species sensus mystici; vt dictum est, sed vna 
+      <lb ed="#N" n="7"/>species nequit subijci duplici generi opposito 
+      <lb ed="#N" n="8"/>vti est sensus literalis, &amp; mysticus; ergo sensus 
+      <lb ed="#N" n="9"/>literalis non potest diuidi in sensum 
+      metapho<lb ed="#N" n="10" break="no"/>ricum, &amp; improprium, seu allegoricum. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1348">
+                  <lb ed="#N" n="11"/>Resp. neg.1, &amp; dist. 2. partem antecedentis. 
+      <lb ed="#N" n="12"/>Allegoricus allegoria vocis, neg; rei, conc. Ad 
+      <lb ed="#N" n="13"/>prob. neg. assumptum: nam sensus metaphoricus. 
+      <lb ed="#N" n="14"/>est ille, quo assumitur res, &amp; non vox ad 
+      signisi<lb ed="#N" n="15" break="no"/>candum, vnde quando Christus dicitur leo, non 
+      <lb ed="#N" n="16"/>intelligitur, quod Christus sit animal rugibile. 
+      <lb ed="#N" n="17"/>quod est res si gnificata per hanc vocem leo, sed  
+      <lb ed="#N" n="18"/>intelligitur, quod haec vox leo, quae primario 
+      si<lb ed="#N" n="19" break="no"/>gnificat animal rugibile, transfertur ad 
+      significa<lb ed="#N" n="20" break="no"/>dam fortitudinem Christi. Idem dicedum de 
+      sen<lb ed="#N" n="21" break="no"/>su allegorico allegoria vocis, qui, cum sit specie 
+      <lb ed="#N" n="22"/>distinctus ab allegorico allegoria rei, potest 
+      su<lb ed="#N" n="23" break="no"/>biici diuerso generi. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g42871-Dd1e1380">
+               <head xml:id="ccc7yd-g42871-Hd1e1382">Articulus 2</head>
+               <p xml:id="ccc7yd-g42871-d1e1384">
+                  <lb ed="#N" n="24"/>ART. II. 
+      <lb ed="#N" n="25"/>Afferuntur, &amp; soluuntur aliquot quaesita. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1391">
+                  <lb ed="#N" n="26"/>QVaeres 1. An omnes isti sensus sint 
+      inten<lb ed="#N" n="27" break="no"/>Pia Spiritu Sancto ? 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1398">
+                  <lb ed="#N" n="28"/>Resp. affirmatiue; &amp; prob. ratione. 
+      <lb ed="#N" n="29"/>Fundatiss. Doct. ubi supra. Illi sensus intendum 
+      <lb ed="#N" n="30"/>tur in aliqua scientia, doctrina, vel Scriptura 
+      <lb ed="#N" n="31"/>qui ab Auctore illius doctrinae, vel Scripturae 
+      <lb ed="#N" n="32"/>sunt instituti ad significandum: vt sup. diximus; 
+      <lb ed="#N" n="33"/>sed omnes isti sensus sunt instituti a Spiritu 
+      Sa<lb ed="#N" n="34" break="no"/>cto, qui dictauit sacram Scripturam, ad 
+      signifi<lb ed="#N" n="35" break="no"/>candum: nam Spiritus Sanctus loqui debuit 
+      no<lb ed="#N" n="36" break="no"/>biliori modo, qui est per res; ergo omnes 
+      isti<lb ed="#N" n="37" break="no"/>sensus sunt intenti a Spiritu Sancto. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1422">
+                  <lb ed="#N" n="38"/>2. Quaeres 2. An etiam Moyses, &amp; alij 
+      Scrip<lb ed="#N" n="39" break="no"/>tores Canonici intenderint omnes istos sensus &amp; 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1430">
+                  <lb ed="#N" n="40"/>Resp. Beatiss. P. August. lib. 12. Confessc. 31. 
+      <lb ed="#N" n="41"/>Religiosius esse dicere, quod Moyses omnes 
+      cogno<lb ed="#N" n="42" break="no"/>uerit. Et subdit: Si quid omnino aliud verum 
+      <lb ed="#N" n="43"/>quispiam in his verbis videt; Cur non illa omnia 
+      <lb ed="#N" n="44"/>vidisse credatur, per quem unus Deus sacras 
+      Li<lb ed="#N" n="45" break="no"/>teras vera, &amp; diuersa visuris multorum sensibus. 
+      <lb ed="#N" n="46"/>temperauit. Et paulo post. Nolo itaque Deus meus 
+      <lb ed="#N" n="47"/>tam praeceps esse, vt hoc illum Virum de te meruis. 
+      <lb ed="#N" n="48"/>se non credam. Ratio ergo illius est; nam 
+      Expo<lb ed="#N" n="49" break="no"/>sitores, vt patet legenti, assequuti sunt plures 
+      <lb ed="#N" n="50"/>sensus; ergo verisimile est, quod Moyses, sicuti 
+      <lb ed="#N" n="51"/>meruit a Deo scribere sacram Scripturam, ita 
+      <lb ed="#N" n="52"/>comprehendere eodem donante omnes sensus 
+      <lb ed="#N" n="53"/>illius. Et quanuis Vasqex hic disp. 17. c. 3. hanc 
+      <lb ed="#N" n="54"/>sententiam difficilem creditu appellet, attamen 
+      si<lb ed="#N" n="55" break="no"/>perpendisset, quod quanuis experiamur 
+      diffi<lb ed="#N" n="56" break="no"/>cultatem in acquirendo proprio labore sensum 
+      <lb ed="#N" n="57"/>alicuius scientiae, nullam tamen difficultatem 
+      <lb ed="#N" n="58"/>inuenimus, si talis scientia a Deo nobis 
+      infun<lb ed="#N" n="59" break="no"/>datur; &amp; tota simul donetur, sicuti infusa est 
+      <!--167.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>Moysi; habet enim S. Pater ibid. c. 30. in fine: 
+      Fa<lb ed="#N" n="61" break="no"/>mulum tuum Scripturae huius dispensatorem 
+      Spi<lb ed="#N" n="62" break="no"/>ritu tuo plenum ita honoremus, vt haec eum, te 
+      <lb ed="#N" n="63"/>reuelante, cum haec scriberet, attendisse, credamus; 
+      <lb ed="#N" n="64"/>difficilem hanc sententiam non reputaret. Idem 
+      <lb ed="#N" n="65"/>dicendum de Alijs Scriptoribus. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1493">
+                  <lb ed="#N" n="66"/>Dices. Dan. 12. ait: Et ego audiui, &amp; non 
+      <lb ed="#N" n="67"/>intellexi; ergo Scriptores Canonici non 
+      intelle<lb ed="#N" n="68" break="no"/>xerunt, quod scribebant  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1502">
+                  <lb ed="#N" n="69"/>Resp? Danielem non intellexisse se ipso, sed  
+      <lb ed="#N" n="70"/>tamen intellexisse a Deo reuelante, vt patet ex 
+      <lb ed="#N" n="71"/>verbis, quae immediate sequuntur.  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1511">
+                  <lb ed="#N" n="72"/>3 Quaeres 2. Cur Deus voluerit, quod 
+      Scri<lb ed="#N" n="73" break="no"/>ptura habeat plures sensus e 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1518">
+                  <lb ed="#N" n="74"/>Resp; quod cum Diuinae locutiones sint 
+      <lb ed="#N" n="75"/>excellentiores, &amp; digniores sermonibus 
+      huma<lb ed="#N" n="76" break="no"/>nis, &amp; locutio eo excellentior; &amp; dignior sit; 
+      <lb ed="#N" n="77"/>quo plura significat; quapropter Verbum 
+      Diui<lb ed="#N" n="78" break="no"/>num omnia vnice dicit, quia est infinite 
+      perfe<lb ed="#N" n="79" break="no"/>ctum; ideo locutiones Dei externae, quae sunt 
+      <lb ed="#N" n="80"/>in sacra Scriptura, debent plura significare, &amp; 
+      <lb ed="#N" n="81"/>plures Sesus habere. Hinc Beatis. P. Aug. c. 31. cit. 
+      <lb ed="#N" n="82"/>ait: quod si vellet scribere aliquod polles 
+      Matesta<lb ed="#N" n="83" break="no"/>te, ita scriberet, vt omnes Interpretes possent plures 
+      <lb ed="#N" n="84"/>sensus deducere, quam unicum tantum. Tum quis 
+      <lb ed="#N" n="85"/>sicut species, quae representant plura, sunt 
+      per<lb ed="#N" n="86" break="no"/>fectiores, ita voces, quae plura significant, sunt  
+      <lb ed="#N" n="87"/>digniores, &amp; excellentiores. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1551">
+                  <lb ed="#N" n="88"/>4. Quaeres 4. An Parabolae, &amp; Metaphorae, 
+      <lb ed="#N" n="89"/>semper sint verae, semperque admittant sensum 
+      <lb ed="#N" n="90"/>literalem ? 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1561">
+                  <lb ed="#N" n="91"/>Resp. Fundatiss. Doct. in 1. dist. 45. cit; 
+      Pa<lb ed="#N" n="92" break="no"/>rabolas, &amp; Metaphoras semper esse veras, &amp; 
+      <lb ed="#N" n="93"/>habere sensum literalem in ordine ad id, 
+      prop<lb ed="#N" n="94" break="no"/>ter quod dicuntur, &amp; quod significant per 
+      transe<lb ed="#N" n="95" break="no"/>lationem; non autem in ordine ad id, quod 
+      si<lb ed="#N" n="96" break="no"/>gnificant per proprietatem; nec tamen propter 
+      <lb ed="#N" n="97"/>hoc est mendacium, quia mentiri, est contra 
+      <lb ed="#N" n="98"/>mentem ire; tunc autem itur contra mentema 
+      <lb ed="#N" n="99"/>quando itur contra id, quod intenditur a 
+      Di<lb ed="#N" n="100" break="no"/>cente. Verum dicens Parabolas, &amp; Metaphoras, 
+      <lb ed="#N" n="101"/>non intendit illud factum, quod exprimitur, sed  
+      <lb ed="#N" n="102"/>aliud, ad quod significandum assumuntur.  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1590">
+                  <lb ed="#N" n="103"/>Quaeres 5. An sensus literalis sit nobilior 
+      <lb ed="#N" n="104"/>mystico: 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1597">
+                  <lb ed="#N" n="105"/>Resp. mysticum esse nobiliorem sensu liter 
+      <lb ed="#N" n="106"/>rali; Tum quia Sesus literalis est proprius 
+      Crea<lb ed="#N" n="107" break="no"/>turae, &amp; mysticus est proprius Dei; Tum quia 
+      <lb ed="#N" n="108"/>mysticus est spiritualis, &amp; literalis sensibilis; 
+      <lb ed="#N" n="109"/>quia exprimitur per voces sensibiles; spirituale 
+      <lb ed="#N" n="110"/>autem est nobilius sensibili; Tum quia mysticus 
+      <lb ed="#N" n="111"/>semper continet vitam, &amp; literalis aliquando 
+      <lb ed="#N" n="112"/>mortem iuxta Apost: Ltera occidit, spiritus 
+      au<lb ed="#N" n="113" break="no"/>tem viuificat. Tandem, quia liter alis ordinatur 
+      <lb ed="#N" n="114"/>ad mysticum tanquam medium ad finem iuxta 
+      <lb ed="#N" n="115"/>illud. Quaecunque scripta sunt, ad nostram 
+      doctri<lb ed="#N" n="116" break="no"/>nam scripta sunt; finis autem est nobilior medijs. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1626">
+                  <lb ed="#N" n="117"/>Quaeres o. Quinam inter sensus mysticos 
+      <lb ed="#N" n="118"/>sit nobiliore 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1633">
+                  <lb ed="#N" n="119"/>Resp. esse Tropologicum, quia hic ordinatur 
+      <!--168.xml-->
+      <pb ed="#N" n="153"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ad mores formatos per Charitatem; Allegoricus 
+      <lb ed="#N" n="2"/>vero ordinatur ad Fidem, &amp; Anagogicus ad Sper 
+      <lb ed="#N" n="3"/>patet autem ex Apostolo, quod mator horum est. 
+      <lb ed="#N" n="4"/>Charitas. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1653">
+                  <lb ed="#N" n="5"/>7. Quaeres 7. An quatuor sensus principale, 
+      <lb ed="#N" n="6"/>reperiantur in Nouo Testamentos 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1661">
+                  <lb ed="#N" n="7"/>Resp. affirmatiue: nam ea, quae literaliter 
+      <lb ed="#N" n="8"/>dicuntur de Christo, possunt intelligi 
+      Allegori<lb ed="#N" n="9" break="no"/>ce de Corpore eius mystico, scilicet de multitudine 
+      <lb ed="#N" n="10"/>Fidelium; &amp; Tropologice illa referendo ad 
+      no<lb ed="#N" n="11" break="no"/>stras actiones, &amp; mores; &amp; tandem Anagogice: 
+      <lb ed="#N" n="12"/>Sanguis enim, qui extuit de eius latere, est 
+      figura<lb ed="#N" n="13" break="no"/>Ecclesiae, &amp; Sacramentorum, quae, vt ait Funda 
+      <lb ed="#N" n="14"/>tiss. Doct; fluxerunt de latere Christi. Magis 
+      pro<lb ed="#N" n="15" break="no"/>prie tamen sensus figuratiuus reperitur in 
+      Ve<lb ed="#N" n="16" break="no"/>teri Testamento, in quo proprie erant figurae, 
+      <lb ed="#N" n="17"/>quam in nono, in quo proprie non sunt figurae; 
+      <lb ed="#N" n="18"/>licet aliqua figur aliter accipi possint.  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1690">
+                  <lb ed="#N" n="19"/>8. Quaeres ultimo. Quomodo Theologi 
+      attri<lb ed="#N" n="20" break="no"/>buant quatuor sensus sacrae Scripturae quatuor 
+      <lb ed="#N" n="21"/>primarus Ecclesiae Doctoribus. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1699">
+                  <lb ed="#N" n="22"/>ltesp; quia Quilibet illorum Sanctorum 
+      <lb ed="#N" n="23"/>Doctorum maxime excelluit in illo sensu, qui eit 
+      <lb ed="#N" n="24"/>tribuitur; Hieronymus enim maxime enituit in 
+      <lb ed="#N" n="25"/>literali; Ambrosius in allegorico; Gregorius in 
+      mo<lb ed="#N" n="26" break="no"/>ralis&amp; Beatiss. Pater in anagogico, qui difficilior  
+      <lb ed="#N" n="27"/>est, vtpote pertinens ad Gloriam, quae magis 
+      re<lb ed="#N" n="28" break="no"/>mota est a nostra cognitione. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g42871-Dd1e1719">
+               <head xml:id="ccc7yd-g42871-Hd1e1721">Articulus 3</head>
+               <p xml:id="ccc7yd-g42871-d1e1723">
+                  <lb ed="#N" n="29"/>ART. III. 
+      <lb ed="#N" n="30"/>Offeruntur Regulae, &amp; alia obseruanda in 
+      Expo<lb ed="#N" n="31" break="no"/>sitione facrarum Scripturarum. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1732">
+                  <lb ed="#N" n="32"/>FUndatiss. Doct. Aeg. in 2. sent. dist. 2. q. 1. 
+      <lb ed="#N" n="33"/>art. 1. S. Cum ergo; quinque assignat 
+      Re<lb ed="#N" n="34" break="no"/>gulas, quas debent seruare Doctores in 
+      exposi<lb ed="#N" n="35" break="no"/>tione Diuinarum Scripturarum; verum in 
+      He<lb ed="#N" n="36" break="no"/>xamip. 2. c. 13. has Regulas extendit vsque ad 
+      <lb ed="#N" n="37"/>septem, quas deducit ex Beatiss. Doct. Aug. lib.  
+      <lb ed="#N" n="38"/>15&amp; 2. super Genad lit. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1750">
+                  <lb ed="#N" n="39"/>IN Prima regula est, quod non debemus ita 
+      <lb ed="#N" n="40"/>exponere sacram Scripturam, vt illa sit sententia 
+      <lb ed="#N" n="41"/>sacrae Scripturae, quae est nostra, sed potius e contra, 
+      <lb ed="#N" n="42"/>vtilla sit senientia nostra, quae est sententia sacrae 
+      <lb ed="#N" n="43"/>Scripturae; sunt enim aliqui sic trahentes sacram 
+      <lb ed="#N" n="44"/>Scripturam, vt potius velint sacram Scripturam 
+      <lb ed="#N" n="45"/>esse expositionem mentis eorum, &amp; suae 
+      senten<lb ed="#N" n="46" break="no"/>tiae; quam suam sententiam esse expositionem. 
+      <lb ed="#N" n="47"/>sacrae Scripture, &amp; potius velint conformare 
+      <lb ed="#N" n="48"/>facram Scripturam suae opinioni, quam sua 
+      opi<lb ed="#N" n="49" break="no"/>nionem sacrae Scripturae, contra quos Beatisi. P. 
+      <lb ed="#N" n="50"/>Auglib. 1. super Gen,ad lit. c. 18. ait: No pro nostra 
+      <lb ed="#N" n="51"/>sententia ita dimicantes, vt eam velimus esse sacrae, 
+      <lb ed="#N" n="52"/>Scripturae, quae nostra est, sed potius ea, quae 
+      scriptu<lb ed="#N" n="53" break="no"/>raeest, nostram esse velle debeamus. Hoc 
+      frequetis<lb ed="#N" n="54" break="no"/>sime praestare videntur aliqui vi trahentes 
+      ver<lb ed="#N" n="55" break="no"/>bamon attendentes, quod licet vnus, vel alter 
+      <lb ed="#N" n="56"/>textus illis fauere videatur, attamen 
+      innumera<lb ed="#N" n="57" break="no"/>biles alij eorum sententiam oppugnant, quodque  
+      <lb ed="#N" n="58"/>etiam praestant in expositione mentis Beatiss. P. 
+      <lb ed="#N" n="59"/>ugi quod tamen est contra 4. Regulam, vt ex 
+      <!--168.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>eodem inferius manifeste ostendemus. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1805">
+                  <lb ed="#N" n="61"/>X. Secuda regula est; quod plus debemus 
+      exi<lb ed="#N" n="62" break="no"/>stimare sacras Scripturas, quam alias quascunque 
+      <lb ed="#N" n="63"/>scientias naturales; intantum enim scientiae 
+      natu<lb ed="#N" n="64" break="no"/>rales in pretio habendae sunt, in quantum 
+      famu<lb ed="#N" n="65" break="no"/>lantur sacrae Scripturae, ubi autem ei 
+      contradi<lb ed="#N" n="66" break="no"/>cunt, non debemus eis assentiri, sed omnino 
+      re<lb ed="#N" n="67" break="no"/>pellere; ideo Beatis. P. Aug. ibid. c. 20. ait: Periculo. 
+      <lb ed="#N" n="68"/>sius autem errat quidam infirmi Fratres, qui cum 
+      <lb ed="#N" n="69"/>istos impios de caelestium corporum numeris, vel de 
+      <lb ed="#N" n="70"/>quibuslibet Elementorum mundi huius quaestionibus. 
+      <lb ed="#N" n="71"/>subtiliter, &amp; copiose disserere audiunt, cuanescut, &amp; 
+      <lb ed="#N" n="72"/>eos sibi cum suspirio praeponentes, &amp; magnos putates, 
+      <lb ed="#N" n="73"/>saluberrimae pietatis libros cum fastidio repetunt. Et  
+      <lb ed="#N" n="74"/>ratio est, quia cum sacra Scriptura habeat 
+      veri<lb ed="#N" n="75" break="no"/>tatem, &amp; certitudinem infallibilem ita, vt illi 
+      er<lb ed="#N" n="76" break="no"/>ror, &amp; falsitas subesse non possit, &amp; scientie 
+      natu<lb ed="#N" n="77" break="no"/>rales habeant veritatem fallibilem, quia 
+      inni<lb ed="#N" n="78" break="no"/>tuntur lumini naturali fallibili, &amp; traduntur 
+      ab<lb ed="#N" n="79" break="no"/>homine, cuius proprium est mentiri, cunque 
+      cer<lb ed="#N" n="80" break="no"/>titudini infallibili teneamur magis assentiri, &amp; 
+      <lb ed="#N" n="81"/>adhaerere, &amp; plus existimare, quam veritatem, &amp; 
+      <lb ed="#N" n="82"/>certituditiem fallibilem, ideo plus debemus 
+      exi<lb ed="#N" n="83" break="no"/>stimare sacras Scripturas, quam alias scientias. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1858">
+                  <lb ed="#N" n="84"/>3 Tertia regula est, quod non solum debemus. 
+      <lb ed="#N" n="85"/>plus existimare sacram Scripturam, quam 
+      opinio<lb ed="#N" n="86" break="no"/>nem nostram, &amp; quam Scripturas, &amp; Scientias. 
+      <lb ed="#N" n="87"/>Gentilium, vt dicebat 15 &amp; 2. Regula, sed 
+      plus<lb ed="#N" n="88" break="no"/>quam totam capacitatem ingenij humantita, vt si 
+      <lb ed="#N" n="89"/>tota capacitas, &amp; tota subtilitas, quae est, vel esse 
+      <lb ed="#N" n="90"/>potest in omnibus hominibus, esset in vno 
+      ho<lb ed="#N" n="91" break="no"/>mine, plus esset existimanda sacra Scriptura 
+      <lb ed="#N" n="92"/>quam tota huiusmodi subtilitas, &amp; capacitas, Ita 
+      <lb ed="#N" n="93"/>Beatiss. Doct. Aug. lib. 2. super Gen. ad lit. c. 9, Hoc.  
+      <lb ed="#N" n="94"/>enim verum est, quod Diuina dicit auctoritas, qua 
+      <lb ed="#N" n="95"/>illud, quod humana infirmitas conijcit. Et II. de. 
+      <lb ed="#N" n="96"/>Ciu. c. 1. ait quod Mator est Scripturae auctoritas, 
+      <lb ed="#N" n="97"/>quam omnis humani ingenij capacitas. Et ratio est? 
+      <lb ed="#N" n="98"/>assignata pro 2. Regula. Praeterea auctoritas 
+      hu<lb ed="#N" n="99" break="no"/>ius hominis habentis omnem scientiam 
+      natura<lb ed="#N" n="100" break="no"/>lem, quam possunt simul habere omnes 
+      homi<lb ed="#N" n="101" break="no"/>nes, esset naturalis, &amp; auctoritas sacrae Scripturae 
+      <lb ed="#N" n="102"/>est supernaturalis, supernaturalia autem, vtpote 
+      <lb ed="#N" n="103"/>peffectiora naturalibus, sunt magis existimanda, 
+      <lb ed="#N" n="104"/>quam naturalia, vtpote imperfectiora, 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1906">
+                  <lb ed="#N" n="105"/>4. Quarta regula est, quando multis modis 
+      <lb ed="#N" n="106"/>sacra Scriptura exponi potest, debemus 
+      atten<lb ed="#N" n="107" break="no"/>dere, cui expositioni cetera consonent, &amp; 
+      con<lb ed="#N" n="108" break="no"/>cordent;, quia non est asserendum in vna parte. 
+      <lb ed="#N" n="109"/>sacrae Scripturae id, cui contradicitur in altera 
+      <lb ed="#N" n="110"/>parte; quapropter docet Beatiss. P. Aug. lib. 1. 
+      su<lb ed="#N" n="111" break="no"/>per Gen. ad lit. c. vlt, vbi ait: Si autem hoc latet, id  
+      <lb ed="#N" n="112"/>certe diligamus, quod circunstantia Scripturae 
+      <lb ed="#N" n="113"/>non impedit; &amp; cum sana Fide concordat, 
+      Hu<lb ed="#N" n="114" break="no"/>ius autem ratio est: nam si admitteremus 
+      con<lb ed="#N" n="115" break="no"/>tradictorium in sacra Scriptura ynecessario in 
+      <lb ed="#N" n="116"/>ipsa admitteremus falsitatem eo, quia oppositio 
+      <lb ed="#N" n="117"/>contradictoria est repugnantia duarum 
+      proposi<lb ed="#N" n="118" break="no"/>tionum, quarum una necessario est vera, altera 
+      <lb ed="#N" n="119"/>falsa, vt dicitur in summulis; &amp; per consequens. 
+      <!--169.xml-->
+      <pb ed="#N" n="154"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>sacra Scriptura nec esset infallibilis, nec esset 
+      <lb ed="#N" n="2"/>reuclata a Spiritu Sancto, qui non potest 
+      men<lb ed="#N" n="3" break="no"/>tiri, nec falli. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1954">
+                  <lb ed="#N" n="4"/>S Quinta regula est, quod non debemus 
+      <lb ed="#N" n="5"/>trahere obscuritates sacrae Scripturae ita 
+      pertinaci<lb ed="#N" n="6" break="no"/>ter in aliquam partem, vt aliqua labes sacrae 
+      <lb ed="#N" n="7"/>Scripturae possit attribui; vt facere solent 
+      Haereti<lb ed="#N" n="8" break="no"/>ci; sacra enim Scriptura est Candor lucis aeternae; 
+      <lb ed="#N" n="9"/>&amp; speculum sine macula Dei Maiestatis, vt 
+      dici<lb ed="#N" n="10" break="no"/>tur Sap. 7. Et ratio est, quia sacra Scriptura est 
+      <lb ed="#N" n="11"/>doctrina tradita a Spiritu Sancto, qui sub 
+      puri<lb ed="#N" n="12" break="no"/>tate Columbe sepius visus est edocere, quia eius 
+      <lb ed="#N" n="13"/>doctrina purissima est, &amp; sine vlla impuritatis 
+      <lb ed="#N" n="14"/>labe. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e1980">
+                  <lb ed="#N" n="15"/>6 Sexta regula est, quod non debemus ita 
+      <lb ed="#N" n="16"/>exponere sacram Scripturam, vt Infidelibus 
+      de<lb ed="#N" n="17" break="no"/>ridendi materia tribuatur; quapropter ait 
+      Bea<lb ed="#N" n="18" break="no"/>tiss. P. ubi sup. Turpe est nimis, &amp; perniciosum 
+      <lb ed="#N" n="19"/>Christianos sic delirare in expositione sacrae 
+      Scrip<lb ed="#N" n="20" break="no"/>turae, quod Infidelis audiens risum tenere vix 
+      pos<lb ed="#N" n="21" break="no"/>sit; &amp; ratio est; nam omnia illa sunt vitanda, que 
+      <lb ed="#N" n="22"/>Auctoritati, &amp; maiestati, ac grauitati Diuinorum 
+      <lb ed="#N" n="23"/>eloquiorum possunt praeiudicare, sed 
+      quoties<lb ed="#N" n="24" break="no"/>cunque ita exponitur sacra Scriptura, vt 
+      Infide<lb ed="#N" n="25" break="no"/>libus eam deridendi materia tribuatur, 
+      praeiu<lb ed="#N" n="26" break="no"/>dicatur illius Auctoritati, maiestati, &amp; grauitatis 
+      <lb ed="#N" n="27"/>ergo non debemus ita exponere; propter quod  
+      <lb ed="#N" n="28"/>omnes expositiones leues, friuolae, &amp; ridiculae, 
+      <lb ed="#N" n="29"/>sunt euitandae. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2015">
+                  <lb ed="#N" n="30"/>P Septima regula est. Cum possumus saluare 
+      <lb ed="#N" n="31"/>facras Scripturas per ea, quae naturaliter 
+      vide<lb ed="#N" n="32" break="no"/>mus, non debemus ad miraculum, vel ad potentiam 
+      <lb ed="#N" n="33"/>Diuinam, quapropter ait Beatiss. P. Nunc enim 
+      <lb ed="#N" n="34"/>quemadmodum Deus instituerit naturas rerum 
+      <lb ed="#N" n="35"/>secundum Scripturas eius, nos conuenit quaerere 
+      <lb ed="#N" n="36"/>non quod in eis, vel ex eis ad miraculum potentia. 
+      <lb ed="#N" n="37"/>suae velit operari: &amp; ratio est, quia Infideles 
+      ma<lb ed="#N" n="38" break="no"/>gis credunt rationi, quam miraculis, quae esse 
+      <lb ed="#N" n="39"/>pura commenta arbitrantur.  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2039">
+                  <lb ed="#N" n="40"/>Pro his regulis videatur Beatiss. P. Aug. loc. 
+      <lb ed="#N" n="41"/>cit, &amp; lib. 1. de Doctr. Christ; &amp; lib. 3. cap. 23 &amp; 
+      <lb ed="#N" n="42"/>26; &amp; lib. 2. de Trin. c. 1; &amp; contra Faust. lib. 9. 
+      <lb ed="#N" n="43"/>1. 6, &amp; 7. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2051">
+                  <lb ed="#N" n="44"/>Vitra istas regulas aliqua alia seruare g 
+      <lb ed="#N" n="45"/>gcgudebent Interpretes sacre Scripture ad hoc,  
+      <lb ed="#N" n="46"/>vt sine errore procedant. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2060">
+                  <lb ed="#N" n="47"/>SPrimum est eos debere seligere versionem 
+      <lb ed="#N" n="48"/>vulgatam, quae omnibus alijs versionibus est, 
+      <lb ed="#N" n="49"/>praeferenda, vt statuit <ref xml:id="ccc7yd-g42871-Rd1e2068">Conc. Trid. sess. 4.</ref> contra 
+      <lb ed="#N" n="50"/>
+                  <name xml:id="ccc7yd-g42871-Nd1e2073">Coluinistas</name>, &amp; <name xml:id="ccc7yd-g42871-Nd1e2075">Lutheranos</name> respuentes versionem 
+      <lb ed="#N" n="51"/>vulgatam conscriptam idiomate latino; Dicitur  
+      <lb ed="#N" n="52"/>autem vulgata, quia fuit antiquitus 
+      communi<lb ed="#N" n="53" break="no"/>ter recepta. Post hanc est versio edita a 
+      septua<lb ed="#N" n="54" break="no"/>ginta Interpretibus de mandato Ptolomaei Regis, 
+      <lb ed="#N" n="55"/>Aegypti ante Incarnationem Verbi annos circiter 
+      <lb ed="#N" n="56"/>3oo; qua vsus fuit Beatiss. Doct; &amp; S. Ambrosius, 
+      <lb ed="#N" n="57"/>quia editio Hieronymi non erat adhuc 
+      publi<lb ed="#N" n="58" break="no"/>ca, &amp; per consequens ea vsi sunt omnes SS.PP. 
+      <!--169.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="59"/>ante Hieronymum; de hac mentionem facit? 
+      <lb ed="#N" n="60"/>Beatiss. P. lib. 8. de Ciuit. Dei c. 11, &amp; lib. 15. c. 23. 
+      <lb ed="#N" n="61"/>ait: Illos Viros septuaginta Hebraeos accepisse 
+      spi<lb ed="#N" n="62" break="no"/>ritom propheticum, quia singuli in diuisis cellis 
+      <lb ed="#N" n="63"/>conclusi eandem omnino interpretationem sine 
+      vl<lb ed="#N" n="64" break="no"/>lius verbi variatione confecerunt. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2112">
+                  <lb ed="#N" n="65"/>P Secundum obseruandum sacram 
+      Scriptu<lb ed="#N" n="66" break="no"/>ram esse da intelligendam ad literam 
+      quoties<lb ed="#N" n="67" break="no"/>cunque nullum sequitur absurdum ex tali 
+      inter<lb ed="#N" n="68" break="no"/>pretatione eo, quia mysteria Fidei firmius 
+      pro<lb ed="#N" n="69" break="no"/>bantur per sensum literalem, &amp; proprium, quam 
+      <lb ed="#N" n="70"/>per sensum figuratiuum, &amp; mysticum. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2128">
+                  <lb ed="#N" n="71"/>IO Tertium obseruandum, quod yi occurrat 
+      <lb ed="#N" n="72"/>ali quod dubium in explicando aliquo Textu;tuno 
+      <lb ed="#N" n="73"/>illud dubium soluendum est per alium Textum, 
+      <lb ed="#N" n="74"/>nam Diuina Scriptura ita disposita est, vt 
+      poste<lb ed="#N" n="75" break="no"/>riora pendeant a prioribus, &amp; per illa expli 
+      <lb ed="#N" n="76"/>centur.  
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2144">
+                  <lb ed="#N" n="77"/>II Quartum est, quod obseruandus est 
+      diligen<lb ed="#N" n="78" break="no"/>ter modus loquendi facrae Scripturae, vi plures 
+      er<lb ed="#N" n="79" break="no"/>rores vitare possimus: nam cum sacra Scriptura 
+      <lb ed="#N" n="80"/>sit accomodata nostrae capacitati, aliquando 
+      lo<lb ed="#N" n="81" break="no"/>quitur de Deo modo humano, vt homines 
+      faci<lb ed="#N" n="82" break="no"/>lius percipere valeant Diuina, vt quando ait 
+      <lb ed="#N" n="83"/>Deum irasci, poeniteri, dolere, &amp;c, quae sunt 
+      pro<lb ed="#N" n="84" break="no"/>pria hominis, &amp; Deo nullo modo conueniunt. 
+      <lb ed="#N" n="85"/>cum sint actus orti ex concupiscentia, &amp; 
+      irasci<lb ed="#N" n="86" break="no"/>bili, quae Deo repugnant, vult enim his verbis 
+      <lb ed="#N" n="87"/>Deum praestare eosdem effectus ad extra, quos 
+      <lb ed="#N" n="88"/>praestat homo iratus, poenitens, dolens, &amp;c. ita 
+      pari<lb ed="#N" n="89" break="no"/>ter dicendum de actibus nesciendi, obliuiscendis 
+      <lb ed="#N" n="90"/>tentandi, &amp;c. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2177">
+                  <lb ed="#N" n="91"/>I2 Vltimum est in Scriptura nullum, quam 
+      <lb ed="#N" n="92"/>uis officiosum, mendacium reperiri, quod refunde 
+      <lb ed="#N" n="93"/>retur in Spiritum Sanctum, cui repugnat menti 
+      <lb ed="#N" n="94"/>ri, vt supra dictum est; aliter corrueret firmitas 
+      <lb ed="#N" n="95"/>Auctoritatis Scripturae, vt testatur Beatiss. Balgi 
+      <lb ed="#N" n="96"/>Aug. epist. 9. ad Hieron. 
+      </p>
+               <p xml:id="ccc7yd-g42871-d1e2194">
+                  <lb ed="#N" n="97"/>Et haec dicta sufficiant pro explicatione 
+      <lb ed="#N" n="98"/>Quaestionum Proemialium, quae, si diffussora 
+      <lb ed="#N" n="99"/>quam vllus Auctor hucusque, quem viderimus; 
+      <lb ed="#N" n="100"/>ediderit, in causa fuere grauissimae difficultates 
+      <lb ed="#N" n="101"/>quas explanare, &amp; soluere operae pretiumsime 
+      <lb ed="#N" n="102"/>pliciter necessarium duximus, ex iis enima quae 
+      <lb ed="#N" n="103"/>hic praemisimus, fere innumerae pendent eone 
+      <lb ed="#N" n="104"/>trouersiae in specialibus Tractatibus infra sube 
+      <lb ed="#N" n="105"/>ciendis examinandae; quibus ignoratis, vepote 
+      <lb ed="#N" n="106"/>principiis, ex quibus pendent, &amp; deducuntum  
+      <lb ed="#N" n="107"/>nonnisi imperfecto, &amp; coeco modo conclusiones 
+      <lb ed="#N" n="108"/>nuius Diuinae Scientiae addisci possunt; quia re 
+      <lb ed="#N" n="109"/>solui nequeunt in sua prima principia, in qua 
+      re<lb ed="#N" n="110" break="no"/>solutione, vt docet Philosophus, consistit 
+      perfe<lb ed="#N" n="111" break="no"/>cta possessio scientiae. Quod praestabimus etiam 
+      <lb ed="#N" n="112"/>in duobus sequentibus Tractatibus, in quibus 
+      <lb ed="#N" n="113"/>plura alia principia, ex quibus Theologia 
+      pro<lb ed="#N" n="114" break="no"/>cedit, exponemus; quae, quia omittuntur ab 
+      Au<lb ed="#N" n="115" break="no"/>ctoribus, maximam pariunt obscuritatem, &amp; 
+      <lb ed="#N" n="116"/>confusionem in Addiscentibus. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="382"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1109x"><!--l1t4prae -->
+            <head xml:id="ccc7yd-g1109x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1109x-d1e101">
+               <lb ed="#N" n="36"/>DEVNITAILDBE4, 
+      </p>
+            <p xml:id="ccc7yd-g1109x-d1e106">
+               <lb ed="#N" n="37"/>TNcipientes agere de Attributis Dei in speciali, de illius Vnitate, quae primum obtinet locum; 
+      <lb ed="#N" n="38"/>prius occurrit discurrere; quam cum primi omnium Gentiles negare ausi sint, idcirco agena 
+      <lb ed="#N" n="39"/>dum est contra eosdem Polytheos vocatos, quia multitudinem Deorum tanta impietate somniati 
+      <lb ed="#N" n="40"/>sunt, vt non solum hominibus Diuinitatem concederent; veluti Ioui, Iunoni, Veneri, Marti, Mercus 
+      <lb ed="#N" n="41"/>rio; Saturno, Florae, Cereri &amp;c, sed etiam brutis, vt Pecoribus, Vitulis, Canibus, Cocodrilis, Auibus 
+      <lb ed="#N" n="42"/>&amp;c, imo etiam rebus vegetabilibus, vt Porris, Allijs, Caepis; quae irridens Satyricus Sat, penult. 
+      excla<lb ed="#N" n="43" break="no"/>mat: O sanctas genies, quibus haec nascuntur in hortis Numina, nec non rebus inanimatis, vt Soli, 
+      Lu<lb ed="#N" n="44" break="no"/>nae, Stellis, Aeri, Telluri &amp;c. De quibus omnibus tanta eruditione discurrit Beatiss. P. Aug. in lib. de 
+      <lb ed="#N" n="45"/>Ciuit. Dei, vt tale, ac tantum opus non nisi a tali, ac tanto ingenio confici potuisse indubiumdit 
+      <lb ed="#N" n="46"/>apud omnes. Nec defuere Haeretici, qui pluralitatem Deorum affirmarunt, vt Manichaei, quos 
+      po<lb ed="#N" n="47" break="no"/>stea secuti sunt Cerdoniani, &amp; Marcionistae; vt testatur idem Beatiss. P. haeresi 21, &amp; 22; qui dupli 
+      <lb ed="#N" n="48"/>cem Deum, vnum malum, &amp; alterum bonum finxerunt. A Manichaeis non longe errauerunt 
+      Va<lb ed="#N" n="49" break="no"/>lentiniani, qui duplex pariter principium, vnum Profundum, aliudque nuncupauerunt Silentium 
+      <lb ed="#N" n="50"/>teste eodem Sanctiss. P. haeres. 11;a quibus duobus principijs exierunt triginta Aeonas, idest saeculam 
+      <lb ed="#N" n="51"/>&amp; Tertull. refert, Tritheitas tres Pertsonas Diuinas tres Deos dixisse. Vt igitur istorum insipientia; 
+      <lb ed="#N" n="52"/>impietasque veritate Catholica exprobretur, praesentem statuimus questionem, quam breniter res 
+      <lb ed="#N" n="53"/>soluemus, quia &amp; si contra Haereticos etiam valide probet, attamen, quia isti in Tract. de 
+      Trin<lb ed="#N" n="54" break="no"/>acrius impugnandi sunt, ideo Gentilismi Polytheismum tantummodo impetemus. 
+      </p>
+            <p xml:id="ccc7yd-g1109x-d1e148">
+               <lb ed="#N" n="55"/>Agimus autem prius de Vnitate, quam de Simplicitate, quia ista, illam supponit; valet enim: 
+      <!--400.xml-->
+      <pb ed="#N" n="383"/>
+               <cb ed="#N" n="a"/>
+               <lb ed="#N" n="1"/>Gmne simplex est unum, non tamen: Omae vnum est simplex; quia compositum est vnum, &amp; non 
+      <lb ed="#N" n="2"/>est simplex; vude Vnitas est quid communius simplicitate, &amp; ideo prius de Vnitate est agendum. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

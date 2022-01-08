@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1527x"><!--l1t9prae -->
+            <head xml:id="ccc7yd-g1527x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1527x-d1e101">
+      <!--543.xml-->
+               <cb ed="#N" n="c"/>
+               <lb ed="#N" n="15"/>OLOVLIVDOLVHHHOR44 
+      </p>
+            <p xml:id="ccc7yd-g1527x-d1e110">
+               <lb ed="#N" n="16"/>Obustissimam Dei Potentiam omnia equali vi producentem ex nihilo, &amp; in nihilum 
+      reduee<lb ed="#N" n="17" break="no"/>Rtem omnia totius Mundi vna vox coneodi armonia decantat. Continuae Caelo periodus 
+      <lb ed="#N" n="18"/>gloriam eius enarrant, &amp; immensa Terrae moles vim illius infatigabilem, a qua substinetur, 
+      graui<lb ed="#N" n="19" break="no"/>ponderatione confirmat. Semper agit, nunquam patitur, &amp; ideo ex passione non lassatur, nec 
+      ex<lb ed="#N" n="20" break="no"/>actione infirmatur. Non monetur; &amp; cuncta monet; omnia mutat, nec mutatur. Per ipsam omnia 
+      <lb ed="#N" n="21"/>sunt, praeter ipsam nihil est. Tot rerum copia, tot specierum pulcrit udo, tot simplicium 
+      ese<lb ed="#N" n="22" break="no"/>gantia, tot Mixtorum diuersitas, &amp; tot effectuum varietas vnius, &amp; omnis Potetiae virtute 
+      depraedi<lb ed="#N" n="23" break="no"/>cat, Ad hanc explicandam progredimur, quam &amp; ipsa inanimata eloquenti proclamant silentio:  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

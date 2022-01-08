@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1466x"><!--l1t8prae -->
+            <head xml:id="ccc7yd-g1466x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1466x-d1e101">
+      <!--522.xml-->
+               <cb ed="#N" n="c"/>
+               <lb ed="#N" n="31"/>ELMINENIIADIA. 
+      </p>
+            <p xml:id="ccc7yd-g1466x-d1e110">
+               <lb ed="#N" n="32"/>EVM eminere super omnes creaturas Regum. 3. testatur Spiritus Sanctus inquiens: Si enim 
+      <lb ed="#N" n="33"/>Caelum, &amp; Coeli Caelorum te capere non possunt &amp;c. Et Iob 11. Excelsior Caelo est, profundior 
+      <lb ed="#N" n="34"/>Inferno, longior Terra mensura eius, &amp; latior Mari. Quod de Eminentia non secundum molem, que 
+      <lb ed="#N" n="35"/>imperfecta est, sed secundum perfectionem, quae non nisi Optimo, &amp; Maximo Enti competere 
+      po<lb ed="#N" n="36" break="no"/>test, intelligi debet. Quamobrem cum ex summa Bonitate, summa arguatur perfectio, &amp; ex 
+      summa<lb ed="#N" n="37" break="no"/>perfectione Eminentia virtutis; idcirco de hac agere haec propria sedes est, quod agemus in seq. 4. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,2579 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="705"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g2050x"><!--l1t14q3 -->
+            <head xml:id="ccc7yd-g2050x-Hd1e99">Quaestio 3</head>
+            <p xml:id="ccc7yd-g2050x-d1e101">
+      <!--722.xml-->
+               <pb ed="#N" n="705"/>
+               <cb ed="#N" n="a"/>
+               <lb ed="#N" n="1"/>QVAEST III. 
+      <lb ed="#N" n="2"/>De Specie. 
+      </p>
+            <p xml:id="ccc7yd-g2050x-d1e114">
+               <lb ed="#N" n="3"/>E Specie, quae est alterum principium productiuum, quo indiget intellectus ad 
+      elicien<lb ed="#N" n="4" break="no"/>dam intellectionem, agere aggredimur. Species autem duplex communiter asseritur, alia 
+      <lb ed="#N" n="5"/>impressa, quae imprimitur intellectui, tanquam pictura in tabula, tabulae etenim rasae intellectui 
+      <lb ed="#N" n="6"/>dedit nomen Phil, illi vnitur, sicut masculus feminae in ordine ad producendum fetum mentis: 
+      <lb ed="#N" n="7"/>alia expressa, quae est Verbum, seu faetus, &amp; partus mentis ex tali vnione per actionem 
+      intellecti<lb ed="#N" n="8" break="no"/>quam productus. De vtraque in praesenti est agendum; &amp; quia impressa, vtpote principium 
+      pro<lb ed="#N" n="9" break="no"/>ductiuum, praecedit expressam, ideo ab illa incipiendum.
+      </p>
+            <div xml:id="ccc7yd-g2050x-Dd1e132">
+               <head xml:id="ccc7yd-g2050x-Hd1e134">Articulus 1</head>
+               <p xml:id="ccc7yd-g2050x-d1e136">
+      <!--722.xml-->
+                  <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="10"/>ART. I. 
+      <lb ed="#N" n="11"/>An possit dari Species creata quiditatiue 
+      reprae<lb ed="#N" n="12" break="no"/>sentans Diuinam Essentiam?
+        </p>
+               <p xml:id="ccc7yd-g2050x-d1e149">
+                  <lb ed="#N" n="13"/>HAnc difficultatem saepe tetigimus 
+      lo<lb ed="#N" n="14" break="no"/>cis: infra citandis, modo exprofesso 
+      <lb ed="#N" n="15"/>examinanda est, vt ratio Fundatiss. Doct. ab 
+      im<lb ed="#N" n="16" break="no"/>pugnationibus Recentiorum vindicetur.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e160">
+                  <lb ed="#N" n="17"/>Igitur supponimus speciem poni in 
+      intel<lb ed="#N" n="18" break="no"/>lectu ad supplendam absentiam objecti, 
+      propte<lb ed="#N" n="19" break="no"/>rea dicitur vicaria obiecti: vnde quotiescunque 
+      <lb ed="#N" n="20"/>objectum per se ipsum est praesens intellectui, 
+      <lb ed="#N" n="21"/>tunc intellectus non indiget specie ad 
+      elicien<lb ed="#N" n="22" break="no"/>dam intellectionem. Quare autem requitatur  
+      <lb ed="#N" n="23"/>praesentia objecti, siue per se ipsum, siue per sua 
+      <lb ed="#N" n="24"/>speciem, in 3. lib. de Anima a Philosophis 
+      inquiri<lb ed="#N" n="25" break="no"/>tur; &amp; a Beatiss. P. Aug. lib. 11, &amp; 12. de Trin. 
+      dif<lb ed="#N" n="26" break="no"/>fuse probatur notitiam, seu cognitionem 
+      tan<lb ed="#N" n="27" break="no"/>tum produci ab intellectu, &amp; objecto vnitis; 
+      qua<lb ed="#N" n="28" break="no"/>propter ait: Ex obiecto, &amp; potentia oritur notitia; 
+      <lb ed="#N" n="29"/>&amp; ratio eius est; quia intellectus se habet 
+      tan<lb ed="#N" n="30" break="no"/>quam femina, quia est pura potentia passiua in 
+      <lb ed="#N" n="31"/>genere intelligibilium, &amp; objectum se habet 
+      ta<lb ed="#N" n="32" break="no"/>quam masculus fecundans ipsum intellectum: 
+      <lb ed="#N" n="33"/>sicut ergo ex coniunctione masculi cum femina 
+      <lb ed="#N" n="34"/>oritur fetus, ita ex coniunctione objecti cum 
+      in<lb ed="#N" n="35" break="no"/>tellectu oritur notitia. Tum quia ad quanlibet 
+      <lb ed="#N" n="36"/>actionem debet concurrere causa efficiens, quia 
+      <lb ed="#N" n="37"/>illa actio, cum non sit a se ipsa, debet esse ab alios 
+      <lb ed="#N" n="38"/>per illam autem particulam ab designatur 
+      causa<lb ed="#N" n="39" break="no"/>efficiens; &amp; causa efficiens nequit agere, nisi 
+      <lb ed="#N" n="40"/>prout coniungitur passo, quia nullum Agens 
+      po<lb ed="#N" n="41" break="no"/>test agere in distans; sed causa efficiens 
+      intelle<lb ed="#N" n="42" break="no"/>ctionis est objectum, vel species, quae est eius 
+      <lb ed="#N" n="43"/>vicaria, non autem est intellectus, aut lumen, 
+      <lb ed="#N" n="44"/>quia lumen, &amp; intellectus concurrunt in genere 
+      <lb ed="#N" n="45"/>cause formalis, vt ostendimus 7. 1. art. 6; ergo 
+      ne<lb ed="#N" n="46" break="no"/>cessario ad intellectionem requiritur vnio 
+      obie<lb ed="#N" n="47" break="no"/>cti per se ipsum, vel per suam speciem cum 
+      po<lb ed="#N" n="48" break="no"/>tentia. Et potest explicari exemplo physicos 
+      <lb ed="#N" n="49"/>nam forma physica non eliceret suas actiones. 
+      <lb ed="#N" n="50"/>in genere causae formalis, nisi coniungeretur cum 
+      <lb ed="#N" n="51"/>supposito physico, quod est causa efficiens 
+      ta<lb ed="#N" n="52" break="no"/>lium actionum, quapropter dicitur, quod 
+      actio<lb ed="#N" n="53" break="no"/>nes sunt suppositorum; ergo intellectus, qui est 
+      <lb ed="#N" n="54"/>causa formalis, non posset elicere suas actiones 
+      <lb ed="#N" n="55"/>in genere causae formalis, nisi coniungeretur  
+      <lb ed="#N" n="56"/>cum objecto, quod sufficienter illas producat 
+      in<lb ed="#N" n="57" break="no"/>genere causae formalis. Vid; quae diximus ubi¬  
+      <!--722.xml-->
+      <cb ed="#N" n="c"/>
+                  <lb ed="#N" n="58"/>sup. Tandem, quia ex Phil. Agens debet esse in 
+      <lb ed="#N" n="59"/>actu secundum illam formam, secundum quam 
+      <lb ed="#N" n="60"/>agit, vt v. 8. ignis nequit agere per formam 
+      calo<lb ed="#N" n="61" break="no"/>ris, nisi actu habeat formam caloris formaliter,  
+      <lb ed="#N" n="62"/>aliter Agens ageret per potentiam(forma enim 
+      <lb ed="#N" n="63"/>est potentia) quam actu non habet; ergo ad hoc, 
+      ve<lb ed="#N" n="64" break="no"/>intellectus tendat in hoc objectum intelli gibile, 
+      <lb ed="#N" n="65"/>determinate, debet habere in se ipso illud 
+      obie<lb ed="#N" n="66" break="no"/>ctum vel per se ipsum, vel per suam speciem. 
+      <lb ed="#N" n="67"/>Addunt Aly: cum intellectus sit Agens 
+      vniuo<lb ed="#N" n="68" break="no"/>cum, debet esse eiusdem naturae, &amp; speciei cum 
+      <lb ed="#N" n="69"/>termino, quem attingit, &amp; ideo debet fieri res, 
+      <lb ed="#N" n="70"/>quam intelligit: non potest autem fieri, nisi 
+      per<lb ed="#N" n="71" break="no"/>ynionem, ergo necessaria est vnio intellectus 
+      <lb ed="#N" n="72"/>cum objecto sine immediate, siue mediante 
+      spe<lb ed="#N" n="73" break="no"/>cie. Tandem suffragatur etiam auctoritas Phil. 
+      <lb ed="#N" n="74"/>asserentis, quod intellectus est omnia fieri; non 
+      <lb ed="#N" n="75"/>potest autem fieri res intellecta, nisi per 
+      vnio<lb ed="#N" n="76" break="no"/>nem cum illae, cum identitas summam 
+      vnio<lb ed="#N" n="77" break="no"/>nem importet. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e299">
+                  <lb ed="#N" n="78"/>Intellectus igitur fecundatus a specie 
+      ne<lb ed="#N" n="79" break="no"/>dum elicit actionem intellectiuam, sed etiam 
+      <lb ed="#N" n="80"/>per illam producit Verbum, quod etiam 
+      voca<lb ed="#N" n="81" break="no"/>tur species expressa, seu idolum mentis, quod  
+      <lb ed="#N" n="82"/>nihil aliud est, quam quaedam imago 
+      repraesen<lb ed="#N" n="83" break="no"/>tans rem intellectam, in qua tanquam in 
+      specu<lb ed="#N" n="84" break="no"/>lo intellectus cernit rem sibi objectam eo 
+      mo<lb ed="#N" n="85" break="no"/>do, quo Artifex ad similitudinem idaeae, quam 
+      <lb ed="#N" n="86"/>habet in mente, sibi format idaeam in pagina. In 
+      <lb ed="#N" n="87"/>praesenti sermo tantum est de specie impressa 
+      <lb ed="#N" n="88"/>non de expressa, de qua inferius. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e326">
+                  <lb ed="#N" n="89"/> Species autem impressa adhuc duplex 
+      <lb ed="#N" n="90"/>est, alia quiditatiue repraesentans objectum 
+      se<lb ed="#N" n="91" break="no"/>cundum omnia praedicata, quae formaliter sunt  
+      <lb ed="#N" n="92"/>in illo, &amp; constituunt quiditatem illius, quanuis 
+      <lb ed="#N" n="93"/>non repraesentet omnia illa, quae sunt 
+      virtuali<lb ed="#N" n="94" break="no"/>ter, &amp; eminenter in illo. Alia est species 
+      abstra<lb ed="#N" n="95" break="no"/>ctiue repraesentans vuum tantum, vel alterum 
+      <lb ed="#N" n="96"/>praedicatum existens formaliter in objecto, non 
+      <lb ed="#N" n="97"/>autem omne id, quod formaliter est in illo. 
+      Dif<lb ed="#N" n="98" break="no"/>ficultas procedit de specie quiditatiue 
+      adaequa<lb ed="#N" n="99" break="no"/>te repraesentante Diuinam Essentiam, non 
+      au<lb ed="#N" n="100" break="no"/>tem de specie abstractiue inadaequate 
+      repraesen<lb ed="#N" n="101" break="no"/>tante; patet enim hanc de facto dari in nobis in 
+      <lb ed="#N" n="102"/>via, licet obscure repraesentet, quia illustratur a 
+      <lb ed="#N" n="103"/>lumine Fidei, quod est obscurum. Quaestio 
+      igi<lb ed="#N" n="104" break="no"/>tur est, an detur de facto, vel saltem possit  
+      <lb ed="#N" n="105"/>dari species adaequate quiditatiue repraesen¬ 
+      <!--723.xml-->
+      <pb ed="#N" n="706"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>tans clare, &amp; euidenter Diuinam Essentiam  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e374">
+                  <lb ed="#N" n="2"/> Prima sententia opinatur de potentia 
+      <lb ed="#N" n="3"/>Dei absoluta posse dari speciem impressam 
+      qui<lb ed="#N" n="4" break="no"/>ditatiue, &amp; clare reprae sentatiuam Diuimae 
+      Es<lb ed="#N" n="5" break="no"/>sentiae. Ita Scot. in 2. dist. 3. φ. 9; &amp; cum eo 
+      com<lb ed="#N" n="6" break="no"/>muniter Scotistae, vt testatur Herrera in 1. dist. 
+      <lb ed="#N" n="7"/>49. q. 4. art. 15Tatar; Lichet, Rada, Vulpes, Gallus 
+      <lb ed="#N" n="8"/>apud Mastrium in 1. disp. 6. q. 1. His adhaerent. 
+      <lb ed="#N" n="9"/>Molina 1.p. q. 12. art. 2. disp. 1. Vasq. disp. 38. Val. 
+      <lb ed="#N" n="10"/>puncto 2,. Suar in Met. disp. 30, sect. 11, &amp; 1. p. lib.  
+      <lb ed="#N" n="11"/>2. de Autr. neg.c.3: Herice tract. 4. disp. 40; Tun 
+      <lb ed="#N" n="12"/>rian, opusc. 1, Becc. 1. p. tract. 1. c. 9. q. 2. Salas p. 2. 
+      <lb ed="#N" n="13"/>q. 3 tract. 2. disp. 5. sect.23 Auersa 1. 9. q. 12. sect. 
+      <lb ed="#N" n="14"/>19: Pesantart. 2. disp. 1; &amp; ex nostris Aegid. Lusit. 
+      <lb ed="#N" n="15"/>de Beat. lib. 8. p. 2. q. 2. art. 2, &amp; quidam in M.S. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e407">
+                  <lb ed="#N" n="16"/>Secunda sententia negat speciem 
+      quidita<lb ed="#N" n="17" break="no"/>tiue, &amp; clare repraesentantem Diuinam 
+      Essen<lb ed="#N" n="18" break="no"/>tiam nedum de facto, sed etiam de possibili. Ita 
+      <lb ed="#N" n="19"/>Fundatiss. Doct. de cog. Angel. q. 4. prima via 
+      <lb ed="#N" n="20"/>S. ex his; &amp; Quodl. 3. q. 15; &amp; lib. de Causis 
+      prop<lb ed="#N" n="21" break="no"/>ro5&amp; in 2. dist. 3. p. 2. q. 2. art. 1. dub. 2. lat; &amp; locis 
+      <lb ed="#N" n="22"/>a nobis cit. q. 1. art. 3. n. 1; &amp; de subst. Dei q. 1. 
+      <lb ed="#N" n="23"/>zart. 1. 8. 2, &amp; in Defens. D. Tho. art. 1. Ipsum se 
+      <lb ed="#N" n="24"/>quuntur Argent; Puteam; Pranc. a Christo q. 2. 
+      <lb ed="#N" n="25"/>Prol; Brunus, Mag. Conson, Gibbon, Lafosse de 
+      Vis<lb ed="#N" n="26" break="no"/>q. 3. c. 1; &amp; omnes Alij eius veri Discipuli, Hanc 
+      <lb ed="#N" n="27"/>sententiam tradidit D. Thomas 1. p. q. 12. art. 21. 
+      <lb ed="#N" n="28"/>&amp;5; &amp; alibi apud Io a 8. Tho: super art. 5; 
+      Ca<lb ed="#N" n="29" break="no"/>preol. in 4. dist. 49. q. 5. art. 15 Ferrar. 1. 
+      contra<lb ed="#N" n="30" break="no"/>Gent. c. 53. Calet. 1. p. q. 12. art. 5: Sot. in 4. dist. 49. 
+      <lb ed="#N" n="31"/>q. 2. art. 3. Cabr. in 4. dist. 49. q. 4. art. 1, Ban; Nax. 
+      <lb ed="#N" n="32"/>Conzal; Nauarret; Zanarde Salmat; Gonet, 
+      Serra<lb ed="#N" n="33" break="no"/>&amp; omnes alij Thomistae communiter, quibus 
+      <lb ed="#N" n="34"/>adhaerent Arrub. disp. 16. c. 4. Granad. de 
+      Vis<lb ed="#N" n="35" break="no"/>tract. 4. disp. 5, sect. 33&amp; alij; pro cuius decisione. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e453">
+                  <lb ed="#N" n="36"/>A Vnica conclusio. Species clare 
+      repraesen<lb ed="#N" n="37" break="no"/>tatiua Dei est simpliciter impossibilis. Prob. 1. 
+      <lb ed="#N" n="38"/>ex illo Apost. 1. Cor. 15. Videmus nunc per 
+      specu<lb ed="#N" n="39" break="no"/>lum in aenigmate, tunc autem facie ad faciem. 
+      <lb ed="#N" n="40"/>vbi per anigma intelligit Apostolus creaturam 
+      <lb ed="#N" n="41"/>iuxta expositionem Beatiss. P. Augi vt vidimus 
+      <lb ed="#N" n="42"/>q. 1. Proem. art. 1. n. 3, ex quo sic. Est impossibilis 
+      <lb ed="#N" n="43"/>simpliciter creatura, quae habeat tantam clarita, 
+      <lb ed="#N" n="44"/>tem, quantam habet Deus, quia impossibilis est 
+      <lb ed="#N" n="45"/>aequalitas creaturae cum Deo secundum quam 
+      <lb ed="#N" n="46"/>cunque rationem; sed illa species esset 
+      creatu<lb ed="#N" n="47" break="no"/>ra, ergo non haberet tantam claritatem, 
+      quan<lb ed="#N" n="48" break="no"/>tam habet Deus, sed species, quae non habet  
+      <lb ed="#N" n="49"/>aequalem claritatem, ac habet objectum, non 
+      <lb ed="#N" n="50"/>potest clare illud repraesentare, aliter repr 
+      aesen<lb ed="#N" n="51" break="no"/>taret clare sine claritate; quomodo enim 
+      pictura<lb ed="#N" n="52" break="no"/>Caesaris potest clare repraesentare Caes arem, 
+      <lb ed="#N" n="53"/>nisi habeat aequalem colorem, qui est lux 
+      exi<lb ed="#N" n="54" break="no"/>stens in corpore opaco, ac habet Caesar; er 
+      go<lb ed="#N" n="55" break="no"/>est simpliciter impossibilis species creata, quae 
+      <lb ed="#N" n="56"/>clare repraesentet Deum quiditatiue. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e501">
+                  <lb ed="#N" n="57"/>Cons. Implicat, quod illud, quod est per 
+      <lb ed="#N" n="58"/>suam essentiam obscurum, repraesentet aliquod  
+      <lb ed="#N" n="59"/>quod per suam essentiam est ipsa lux; sed quae 
+      <lb ed="#N" n="60"/>libet creatura respectu Dei per suam essentiam 
+      <!--723.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>est obscura, &amp; Deus per suam essentiam est ipsa 
+      <lb ed="#N" n="62"/>lux; ergo implicat, quod creatura clare reprae 
+      <lb ed="#N" n="63"/>sentet Deum; sed species creata est creatura; 
+      er<lb ed="#N" n="64" break="no"/>go implicat species creata clare reprae sentatiua. 
+      <lb ed="#N" n="65"/>Dei, Maior patet: nam clare repraesentare est 
+      <lb ed="#N" n="66"/>effectus lucis, vt lux est formaliter, iuxta illud 
+      <lb ed="#N" n="67"/>Apost. Omne, quod manifestat, lumen est; 
+      repraelen<lb ed="#N" n="68" break="no"/>tare autem aliquam tem est illam manifestare. 
+      <lb ed="#N" n="69"/>potentiae videnti, vt videatur, sed implicat, quod  
+      <lb ed="#N" n="70"/>obscurum, vt formaliter obscurum, sit lucidum 
+      <lb ed="#N" n="71"/>formaliter, quia obscurum dicit priuationem 
+      <lb ed="#N" n="72"/>lucis, &amp; implicat, quod priuatio formaliter sit, 
+      <lb ed="#N" n="73"/>forma, cuius est priuatio, aliter non esse esset 
+      <lb ed="#N" n="74"/>ipsum esse, &amp; sic verificarentur de eodem duc 
+      <lb ed="#N" n="75"/>contradictoria; ergo implicat, quod illud, quod 
+      <lb ed="#N" n="76"/>est obscurum per essentiam, repraesentet illud, 
+      <lb ed="#N" n="77"/>quod per essentiam est ipsa lux; aliter tenebrae 
+      <lb ed="#N" n="78"/>posset esse imago repraesentatiua. Solis, quod 
+      <lb ed="#N" n="79"/>est omnino fatuum. Min. traditur ab Apost; 
+      quae<lb ed="#N" n="80" break="no"/>libet enim creatura per essentiam est aenigma 
+      <lb ed="#N" n="81"/>Dei; sed aenigma essentialiter obscuritatem 
+      im<lb ed="#N" n="82" break="no"/>portat, aliter non esset aenigma; ergo quaelibet, 
+      <lb ed="#N" n="83"/>creatura respectu Dei est obscura per essetiam 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e566">
+                  <lb ed="#N" n="84"/>S Hanc rationem prosequitur Fundause 
+      <lb ed="#N" n="85"/>Dost. vbi sup. sic. Implicat, quod detur aliquae 
+      <lb ed="#N" n="86"/>creatura, quae sit immaterialior, purior, &amp; 
+      for<lb ed="#N" n="87" break="no"/>malior ipso Deo: ergo implicat species clare 
+      re<lb ed="#N" n="88" break="no"/>prae sentans Deum quiditatiue. Antecedens 
+      <lb ed="#N" n="89"/>patet, quia cum immaterialitas dicat 
+      perfectio<lb ed="#N" n="90" break="no"/>nem simpliciter simplicem: importat enim 
+      ta<lb ed="#N" n="91" break="no"/>tionem purissimi actus excludentis 
+      omnemma<lb ed="#N" n="92" break="no"/>terialitatem, &amp; potentialitatem passiuam;sida 
+      <lb ed="#N" n="93"/>retur aliqua creatura, quae esset immaterialior, 
+      <lb ed="#N" n="94"/>&amp; purior Deo, daretur aliqua perfectio, quae 
+      <lb ed="#N" n="95"/>esset maior in creatura, quam in Deo, &amp; ideo 
+      <lb ed="#N" n="96"/>Deus non esset id, quo maius excogitari non potest 
+      <lb ed="#N" n="97"/>&amp; per consequens non esset actus purissimus 
+      <lb ed="#N" n="98"/>quia daretur aliquod purius illo; ergo ampli 
+      <lb ed="#N" n="99"/>cat, quod creatura sit immaterialior, purior, &amp; 
+      <lb ed="#N" n="100"/>formalior, idest actualior Deo, hic enim formale 
+      <lb ed="#N" n="101"/>sumitur, prout idem est, ac actuale, quia forma 
+      <lb ed="#N" n="102"/>idem est, ac actus. Prob. conseq. Species repre 
+      <lb ed="#N" n="103"/>sentans aliquod objectum est immaterialiopus 
+      <lb ed="#N" n="104"/>rior, &amp; actualior ipso objecto; nam ratio forma: 
+      <lb ed="#N" n="105"/>lis repraesentandr desumitur &amp; ipsa immateria 
+      <lb ed="#N" n="106"/>litate formaliter; unde corpora omnino mate 
+      <lb ed="#N" n="107"/>rialia nequeunt esse repraesentatiua formalitem 
+      <lb ed="#N" n="108"/>nisi ratione coloris, qui est quaedam luxopaca 
+      <lb ed="#N" n="109"/>ta, &amp; contracta ad subjectum obscurum vεdo 
+      <lb ed="#N" n="110"/>cet Fundatiss. Doct; lux autem minus habetde 
+      <lb ed="#N" n="111"/>materialitate, quam quodlibet aliud accidem 
+      <lb ed="#N" n="112"/>sensibile, &amp; species sensibiles, quia carent mate 
+      <lb ed="#N" n="113"/>ria, habent repraesentare obiecta sensibilias spe 
+      <lb ed="#N" n="114"/>cies autem intelligibiles, quia nedum carent 
+      <lb ed="#N" n="115"/>materia, sed etiam conditionibus materiae; ideo 
+      <lb ed="#N" n="116"/>habent reprae sentare etiam res spirituales&amp; 
+      <lb ed="#N" n="117"/>quo sunt puriores, eo clarius habent repraese 
+      <lb ed="#N" n="118"/>tare; sed illud, propter quod aliud repraesenta. 
+      <lb ed="#N" n="119"/>tur, est magis immateriale: nam propter quod  
+      <lb ed="#N" n="120"/>vnunquodque tale, &amp; illud magis, unde, si propter 
+      <!--724.xml-->
+      <pb ed="#N" n="707"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>speciem repraesentatur immaterialiter obiectum, 
+      <lb ed="#N" n="2"/>rmulto magis immaterialis debet esse ipsa 
+      spe<lb ed="#N" n="3" break="no"/>cies, per quam reprae sentatur; ergo species de 
+      <lb ed="#N" n="4"/>bet esse purior, immaterialior, &amp; actualior obie 
+      <lb ed="#N" n="5"/>cto; sed implicat, quod detur aliqua creaturae 
+      <lb ed="#N" n="6"/>quae sit immaterialior, purior, &amp; actualior Deo; 
+      <lb ed="#N" n="7"/>ergo implicat species clare repraesentatiua Dei. 
+      <lb ed="#N" n="8"/>2. Implicat, quod aliqua creatura contineataeque 
+      <lb ed="#N" n="9"/>immaterialiter omnes perfectiones ipsius Dei. 
+      <lb ed="#N" n="10"/>nam, vel illa species contineret illas 
+      perfectio<lb ed="#N" n="11" break="no"/>nes formaliter secundum propriam formam. 
+      <lb ed="#N" n="12"/>&amp; sic esset formaliter Deus, sicut, si canis 
+      conti<lb ed="#N" n="13" break="no"/>neret formaliter animal rationale; quae est per 
+      <lb ed="#N" n="14"/>fectio specifica hominis, esset formaliter homo, 
+      <lb ed="#N" n="15"/>&amp; sic non esset amplius creatura, sed Deus, quod 
+      <lb ed="#N" n="16"/>repugnat: nulla enim maior repugnantia 
+      reperi<lb ed="#N" n="17" break="no"/>riepotest quam quod creatura sit formaliter 
+      <lb ed="#N" n="18"/>Deus. Vel illas contineret virtualiter, &amp; 
+      emi<lb ed="#N" n="19" break="no"/>nenter, &amp; sic perfectiori, &amp; immaterialiori 
+      modo<lb ed="#N" n="20" break="no"/>illas contineret; ex eo enim, quod homo 
+      conti<lb ed="#N" n="21" break="no"/>neat virtualiter animam vegetatiuam, &amp; 
+      sensi<lb ed="#N" n="22" break="no"/>tiuam, perfectiori modo illam continet, quam 
+      <lb ed="#N" n="23"/>planta, &amp; canis, quae continent illas formaliter  
+      <lb ed="#N" n="24"/>ergo illa species esset immaterialior, purior, &amp; 
+      <lb ed="#N" n="25"/>actualior ipso Deo: immaterialitas enim est 
+      ra<lb ed="#N" n="26" break="no"/>tio, ob quam aliquod objectum continetur 
+      in<lb ed="#N" n="27" break="no"/>specie, vt dictum est. Quod si dicatur illam 
+      spe<lb ed="#N" n="28" break="no"/>ciem non continere perfectiones Dei aeque 
+      im<lb ed="#N" n="29" break="no"/>materialiter, statim redarguitur; ergo illa 
+      spe<lb ed="#N" n="30" break="no"/>cies clare non repraesentat Deum, vt est in 
+      se<lb ed="#N" n="31" break="no"/>ipso, quia, cum illa species non sit aeque 
+      imma<lb ed="#N" n="32" break="no"/>terialis, ac Deus, necessario debet includeret 
+      <lb ed="#N" n="33"/>aliquam materialitatem, a qua desumitur 
+      obscu<lb ed="#N" n="34" break="no"/>ritas, sicuti ab immaterialitate sumitur claritas 
+      <lb ed="#N" n="35"/>sed id, quod est obscurum in se ipso formalitera 
+      <lb ed="#N" n="36"/>nequit clare representare, quia repraesentare est 
+      ef<lb ed="#N" n="37" break="no"/>fectus lucis, qui nequit copetere obscuritati, qua 
+      <lb ed="#N" n="38"/>est prinatio lucis. Si aute rursus dicant illa 
+      spe<lb ed="#N" n="39" break="no"/>ciem continere perfectiones Dei aeque 
+      immateria<lb ed="#N" n="40" break="no"/>liter, ac Deus solum in esse intelligibili, non aut 
+      <lb ed="#N" n="41"/>in esse entitatiuo, statim vrgemus; ergo non est 
+      <lb ed="#N" n="42"/>cur se se inuehant in hanc distinctionem allatam 
+      <lb ed="#N" n="43"/>a Thomistis pro defesione rationis S. Thomae 
+      di<lb ed="#N" n="44" break="no"/>centis speciem debere esse eiusde speciei &amp; 
+      na<lb ed="#N" n="45" break="no"/>turae cum objecto in esse intell igibili, ex quo 
+      <lb ed="#N" n="46"/>infert repugnantiam speciei creatae quiditatius 
+      <lb ed="#N" n="47"/>repraesentantis Diuinam Essentiam. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e758">
+                  <lb ed="#N" n="48"/>Conf. 1. Illud est magis immateriale, quod  
+      <lb ed="#N" n="49"/>habet plura repraesentare; sed species habet res 
+      <lb ed="#N" n="50"/>presentare plura, quia reprae sentat objectum, &amp; 
+      se<lb ed="#N" n="51" break="no"/>ipsa objectum aute repraesentat solum se ipsum; 
+      <lb ed="#N" n="52"/>ergo species essentialiter est immaterialior.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e771">
+                  <lb ed="#N" n="53"/>Conf. 2. Luciditas speciei est illa, per quam 
+      <lb ed="#N" n="54"/>formaliter videtur luciditas objecti, vt est in sex 
+      <lb ed="#N" n="55"/>ergo lux speciei est perfectior luciditate, quae est 
+      <lb ed="#N" n="56"/>in objecto, vt est in seipso, quia causa ineo, quod 
+      <lb ed="#N" n="57"/>causa, est perfectior effectu iuxta illud axioma, 
+      <lb ed="#N" n="58"/>Melior est conditio agentis, quam patientis, &amp; 
+      <lb ed="#N" n="59"/>eo perfectior est color in ipsa albedine secudum 
+      <lb ed="#N" n="60"/>seipsam considerata, quam esse album, quod est in 
+      <!--724.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>pariete, quia albedo est causa formalis esse alb ii 
+      <lb ed="#N" n="62"/>sedmaior perfectio in esse lucidi est maior 
+      im<lb ed="#N" n="63" break="no"/>materialitas, sicut minor perfectio est cum admix  
+      <lb ed="#N" n="64"/>tione materialitatis, a qua sumitur obscuritas 
+      <lb ed="#N" n="65"/>Angeli enim, qui carent materia physica, sunt  
+      <lb ed="#N" n="66"/>magis lucidi, quam quodlibet corpus physicum. 
+      <lb ed="#N" n="67"/>&amp; Deus, qui caret omni materia, &amp; 
+      potentialita<lb ed="#N" n="68" break="no"/>te passiua, est purissima lux per essentiam: ergo 
+      <lb ed="#N" n="69"/>species creata clare repraesentans Deum, vt est 
+      <lb ed="#N" n="70"/>in seipso, cum ea claritate, quam babet in 
+      seipso<lb ed="#N" n="71" break="no"/>esset lucidior, &amp; immaterialior ipso Deo 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e819">
+                  <lb ed="#N" n="72"/>Cons. 3. alia ratione eiusdem ibid. Ex eo 
+      <lb ed="#N" n="73"/>quod esse intelligibile alicuius rei sit receptibis 
+      <lb ed="#N" n="74"/>le in alio subjecto distincto ab illa re, arguitur;  
+      <lb ed="#N" n="75"/>quod esse intelligibile illius rei sit minus 
+      deter<lb ed="#N" n="76" break="no"/>minatum, &amp; per coseques minus materiale, quam 
+      <lb ed="#N" n="77"/>entitas illius rei, quae recipi non potest in alio 
+      <lb ed="#N" n="78"/>subjecto distincto; sed species nihil aliud est 
+      for<lb ed="#N" n="79" break="no"/>maliter, qua esse intelligibile illius rei, quam 
+      re<lb ed="#N" n="80" break="no"/>presentat; ergo essetialiter est immaterialior, &amp; 
+      in<lb ed="#N" n="81" break="no"/>determinatior ipsa re, qua repraesetat; sed 
+      impli<lb ed="#N" n="82" break="no"/>cat dari aliquod immaterialius, &amp; indeter 
+      mina<lb ed="#N" n="83" break="no"/>tius Diuina Essentia; ergo implicat dari speciem. 
+      <lb ed="#N" n="84"/>quiditatiue representatiua Diuinae Essentie. Maior  
+      <lb ed="#N" n="85"/>patet, nam forma finitur, &amp; determinatur per 
+      ma<lb ed="#N" n="86" break="no"/>teria; vnde quo minus est ligata materiae, eo minus 
+      <lb ed="#N" n="87"/>nabet de materialitate, &amp; limitatione, &amp; per 
+      co<lb ed="#N" n="88" break="no"/>sequens magis de immaterialitate, &amp; de 
+      illimi<lb ed="#N" n="89" break="no"/>tatione, ve v. 8. species lapidis, quae est esse 
+      in<lb ed="#N" n="90" break="no"/>telligibile ipsius, quia non determinatur ad esset 
+      <lb ed="#N" n="91"/>in lapide, sed potest recipi in quocunque 
+      intel<lb ed="#N" n="92" break="no"/>lectu humano, in quo nequit recipi entitas 
+      lapi<lb ed="#N" n="93" break="no"/>dis, ideo est magis immaterialis, &amp; magis illimi 
+      <lb ed="#N" n="94"/>tata, quam lapis. Min. constat, quia nomine 
+      <lb ed="#N" n="95"/>speciei nihil aliud intelligimus, nisi esse 
+      intelli<lb ed="#N" n="96" break="no"/>gibile repraesentatiuum rei. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e876">
+                  <lb ed="#N" n="97"/>6 Posset autem ex hoc confirmari ratio D. 
+      <lb ed="#N" n="98"/>Thomae sic. Illa species creata haberet summam 
+      <lb ed="#N" n="99"/>immaterialitatem, aliter si non haberet summam 
+      <lb ed="#N" n="100"/>immaterialitatem, non posset clare re 
+      praesenta<lb ed="#N" n="101" break="no"/>re objectum summe immateriale ea claritate, 
+      <lb ed="#N" n="102"/>qua representatur per se ipsum; sed summa 
+      im<lb ed="#N" n="103" break="no"/>materialitas est ratio summae intellectualitatis: 
+      <lb ed="#N" n="104"/>vt diximus de Substa. Dei q. 2. art. 7. S. 1, &amp; 
+      sum<lb ed="#N" n="105" break="no"/>ma intellectualitas est constitutiuum formale 
+      Na<lb ed="#N" n="106" break="no"/>turae Diuinae, vt ostendimus ibid. art. 5; ergo illa 
+      <lb ed="#N" n="107"/>species esset eiusdem naturae, ac speciei cum Deo. 
+      <lb ed="#N" n="108"/>Tum quia species repraesentatiua hominis 
+      de<lb ed="#N" n="109" break="no"/>bet continere animalitatem, &amp; rationalitatem 
+      <lb ed="#N" n="110"/>aliter illam non repraesentaret: ergo debet esse 
+      <lb ed="#N" n="111"/>eiusdem speciei cum objecto, dummodo tamen 
+      <lb ed="#N" n="112"/>illud adaequate, &amp; quiditatiue repraesentet, 
+      se<lb ed="#N" n="113" break="no"/>cus autem, si repraesentet solum abstractiue 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e915">
+                  <lb ed="#N" n="114"/>7. Neque obstat, quod immaterialitas 
+      con<lb ed="#N" n="115" break="no"/>queniat accidenti, cui tamen non conuenit 
+      in<lb ed="#N" n="116" break="no"/>tellectualitas; &amp; ideo videtur, quod speciei 
+      pos<lb ed="#N" n="117" break="no"/>sit conuenite summa immaterialitas absque eo, 
+      <lb ed="#N" n="118"/>quod ei conueniat summa intellectualitas. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e928">
+                  <lb ed="#N" n="119"/>Nam contra est; quia licet acc: denti possit. 
+      <lb ed="#N" n="120"/>conuenire immaterialitas particigaliter, non ta¬ 
+      <!--725.xml-->
+      <pb ed="#N" n="708"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>men potest conuenire summa immaterialitas, 
+      <lb ed="#N" n="2"/>quae est immaterialitas per essentiam, haec enim 
+      <lb ed="#N" n="3"/>non conuenit, nisi ei, quod est immateri ale per 
+      <lb ed="#N" n="4"/>se, &amp; consequenter soli substantiae, quae solum 
+      <lb ed="#N" n="5"/>est per se; immaterialitas autem substantial is est, 
+      <lb ed="#N" n="6"/>ratio formalis intellectualitatis, ideo nihilofficit.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e955">
+                  <lb ed="#N" n="7"/>SNeque obstat 2, quod species substantiae 
+      <lb ed="#N" n="8"/>creatae sit in genere accidentis, &amp; ideo nequeat  
+      <lb ed="#N" n="9"/>esse eiusde speciei cum illa; &amp; cum dicitur, quod  
+      <lb ed="#N" n="10"/>est in genere accidentis entitatiue, &amp; 
+      materiali<lb ed="#N" n="11" break="no"/>ter, non vero formaliter repraesentatiue, 
+      insur<lb ed="#N" n="12" break="no"/>gunt contra hanc distinctionem, tanqua contra 
+      <lb ed="#N" n="13"/>paradoxum Sinicorum, quia species non 
+      reprae<lb ed="#N" n="14" break="no"/>sentat, nisi secundum suam entitatem; ergo, 
+      si<lb ed="#N" n="15" break="no"/>secundum entitatem est accidens, etiam 
+      secun<lb ed="#N" n="16" break="no"/>dum esse repraesent atiuum eritraccidens, non enim 
+      <lb ed="#N" n="17"/>in specie sunt duo esse, sicut nec duae entitates 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e981">
+                  <lb ed="#N" n="18"/>Nam contra est; non enim est dogma 
+      Stol<lb ed="#N" n="19" break="no"/>corum, sed Philosophorum communiter acceptu, 
+      <lb ed="#N" n="20"/>quod in eadem re creata, siue sit accidens, siue 
+      <lb ed="#N" n="21"/>sit substantia, reperiatur ratio generica, quae se 
+      <lb ed="#N" n="22"/>habet materialiter, quatenus contrahitur per 
+      ra<lb ed="#N" n="23" break="no"/>tione differentialem, &amp; sit ratio specifica 
+      con<lb ed="#N" n="24" break="no"/>trahens ipsa ratio nem generica; constans enim 
+      <lb ed="#N" n="25"/>dogma est in qualibet re creata dari 
+      copositio<lb ed="#N" n="26" break="no"/>nen ex genere, &amp; differetia, quod ratio specifica se 
+      <lb ed="#N" n="27"/>habeat formaliter, generica vero materialiter, sic  
+      <lb ed="#N" n="28"/>homo formaliter est rationalis, materialiter 
+      ve<lb ed="#N" n="29" break="no"/>ro animal. Nec missus manifestum est speciem: 
+      <lb ed="#N" n="30"/>prout dicit inhaerentiam, in qua conueniunt 
+      om<lb ed="#N" n="31" break="no"/>nia accidentia, sumi materialiter secundum 
+      prae<lb ed="#N" n="32" break="no"/>dicatum genericum, non formaliter secundum. 
+      <lb ed="#N" n="33"/>praedicatum formale, &amp; differentiale. Quanuis 
+      er<lb ed="#N" n="34" break="no"/>go esse ent itatiuum materiale, &amp; esse 
+      repraesen<lb ed="#N" n="35" break="no"/>tatiuum formale, quod inportat species, non sint  
+      <lb ed="#N" n="36"/>duo esse realiter distincta, sunt tamen duo esse 
+      <lb ed="#N" n="37"/>virtualiter distincta; quia se habent tanqua 
+      ge<lb ed="#N" n="38" break="no"/>nus, &amp; differentia; ergo sicuti conformiter ad 
+      <lb ed="#N" n="39"/>Philosophos, non ad Storcos distinguimus in eadem 
+      <lb ed="#N" n="40"/>re creata esse genericum, &amp; differentiale, ita 
+      eo<lb ed="#N" n="41" break="no"/>dem modo di stinguimus in eadem specie creata. 
+      <lb ed="#N" n="42"/>esse entitatiuum, quod se habet generice, &amp; esse 
+      <lb ed="#N" n="43"/>repraesentatiuum, quod se habet differentialiter.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1040">
+                  <lb ed="#N" n="44"/>P Species ergo creata, quae est accidens, est 
+      <lb ed="#N" n="45"/>eiusdem speciei cum substantia, quam 
+      repraese<lb ed="#N" n="46" break="no"/>tat in esse intelligibili, &amp; repraesentatiuo, 
+      quate<lb ed="#N" n="47" break="no"/>nus species repraesentat eadem praedicata, quae 
+      <lb ed="#N" n="48"/>repraesentat substantia ita, vt, si substantia per se 
+      <lb ed="#N" n="49"/>ipsam esset praesens intellectui, non 
+      repraesenta<lb ed="#N" n="50" break="no"/>ret aliquid diuersae speciei ab eo, quod raeprae 
+      <lb ed="#N" n="51"/>sentat species, vt v.8. species repraesentans 
+      sub<lb ed="#N" n="52" break="no"/>stantiam hominis repraesentat animal rationale; 
+      <lb ed="#N" n="53"/>quod repraesentaret etiam ipsa substantia 
+      homi<lb ed="#N" n="54" break="no"/>nis, si per se ipsam foret praesens intellectui; 
+      ali<lb ed="#N" n="55" break="no"/>ter si secus repraesentaret, falso repraesentaret. 
+      <lb ed="#N" n="56"/>Hec diximus in gratiam Thomistarum, ad 
+      osten<lb ed="#N" n="57" break="no"/>dendum impugnationes eorum sentetiae esse 
+      fa<lb ed="#N" n="58" break="no"/>cillimae solutionis; vt de singulis discurreremus, 
+      si<lb ed="#N" n="59" break="no"/>repus suppeteret, &amp; necessitas cogeret. Vid. Go¬ 
+      <!--725.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>19. Prob. 2. alia ratione eiusdem Fundatisio 
+      <lb ed="#N" n="61"/>ibid; quam tradidimus q. 1. art. 3. n. 3. Quaelibet  
+      <lb ed="#N" n="62"/>species creata, siue creabilis essentialiter est 
+      co<lb ed="#N" n="63" break="no"/>posita ex genere, &amp; differentia; ergo nequit 
+      re<lb ed="#N" n="64" break="no"/>praesentare intuitine Diuinam Essentiam. 
+      Ante<lb ed="#N" n="65" break="no"/>cedens patet: nam illa species, vel esset 
+      substan<lb ed="#N" n="66" break="no"/>tiasvel accidens? Si substantia; ergo esset in 
+      pre<lb ed="#N" n="67" break="no"/>dicamento substantiae, in quo ponuntur omnes 
+      <lb ed="#N" n="68"/>substantiae creatae. Si accidens; ergo esset in 
+      ali<lb ed="#N" n="69" break="no"/>quo ex alijs nonem praedicamentis; quod autem 
+      <lb ed="#N" n="70"/>est in praedicamento componitur ex genere, &amp; 
+      <lb ed="#N" n="71"/>differentia, loque ndo de ente completo, sicuti 
+      <lb ed="#N" n="72"/>esset illa species; tum quia, si excluderet 
+      coposi<lb ed="#N" n="73" break="no"/>tionem ex genere, &amp; differentia, esset actus 
+      purissi<lb ed="#N" n="74" break="no"/>mus, &amp; simplicissimus, &amp; per cosequensnonesset. 
+      <lb ed="#N" n="75"/>creatura. Prob. 1. conseq. Regequae gomgonitur 
+      <lb ed="#N" n="76"/>ex genere, &amp; differentia, est essetialiter determe 
+      <lb ed="#N" n="77"/>nata ad aliquam specie, quia species nihil aliud 
+      <lb ed="#N" n="78"/>importat formaliter, nisi compositum ex 
+      gene<lb ed="#N" n="79" break="no"/>re, &amp; differetia, sed quod est determinatum ad 
+      ali<lb ed="#N" n="80" break="no"/>quam speciem, non potest repraesetare illud, quod  
+      <lb ed="#N" n="81"/>est extra illam speciem, Vt v.g. natura humana, 
+      <lb ed="#N" n="82"/>quae est determinata ad speciem hominis, 
+      non<lb ed="#N" n="83" break="no"/>potest repraesentare, nisi animalitatem, &amp; 
+      ratio<lb ed="#N" n="84" break="no"/>nalitatem, quae sunt praedicata constitutiua 
+      ho<lb ed="#N" n="85" break="no"/>minis; ergo illa species non posset repraesentare 
+      <lb ed="#N" n="86"/>Diuinam Essentiam, quae est extra omnem 
+      spe<lb ed="#N" n="87" break="no"/>ciem, &amp; extra omne praedicamentum, Hac 
+      ra<lb ed="#N" n="88" break="no"/>tione probat B. Doctor habitum non esse speciem: 
+      <lb ed="#N" n="89"/>intelligibilem, quia habitus est determinatus ad 
+      <lb ed="#N" n="90"/>aliquam speciem praedicamentalem, &amp; ideo nono 
+      <lb ed="#N" n="91"/>potest repraesentare aliud a seipso, cum non 
+      pose<lb ed="#N" n="92" break="no"/>sit continere differentia alterius, quae illi oppo 
+      <lb ed="#N" n="93"/>nitur; species aute directe non est in aliquo 
+      prae<lb ed="#N" n="94" break="no"/>dicamento, sed solum reductiue, scilicet ratione 
+      <lb ed="#N" n="95"/>illius rei, quam repraesentat; in casu autem illa 
+      <lb ed="#N" n="96"/>species esset in praedicamento, &amp; esset creatura; 
+      <lb ed="#N" n="97"/>&amp; non esset in praedicamento, quia Diuina Ele 
+      <lb ed="#N" n="98"/>sentia, quam repraesentaret, non est in 
+      praedica<lb ed="#N" n="99" break="no"/>mento. 2. Quod componitur ex genere, &amp; 
+      dif<lb ed="#N" n="100" break="no"/>ferentia, necessario imoluit materialitatemart 
+      <lb ed="#N" n="101"/>potentialitatem generis, a qua desumitur obscus 
+      <lb ed="#N" n="102"/>ritas formaliter; ergo nequit clare repraesentare 
+      <lb ed="#N" n="103"/>Diuinam Essentiam, quae est purissima luxsin 
+      <lb ed="#N" n="104"/>ylla umbra materialitatis, aut potetialitatis 
+      paf<lb ed="#N" n="105" break="no"/>siuae; id enim, quod est quid essentialiter obicum 
+      <lb ed="#N" n="106"/>nequit clare repraesentare id, quod est simpl 
+      <lb ed="#N" n="107"/>citer elarum, quia in eo, quod obscuruma 
+      <lb ed="#N" n="108"/>habet formaliter occultare, quod opponitus 
+      <lb ed="#N" n="109"/>manifestationi; &amp; sic repraesentaret, &amp; non 
+      <lb ed="#N" n="110"/>reprae sentaret. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1192">
+                  <lb ed="#N" n="111"/>Conf. Per speciem continentem irrationa 
+      <lb ed="#N" n="112"/>litatem nequit formaliter repraesentari rationa: 
+      <lb ed="#N" n="113"/>litas in seipsa eo, quia vnum oppositum nequit 
+      <lb ed="#N" n="114"/>esse imago alterius oppositi: imago enimame 
+      <lb ed="#N" n="115"/>portat similitudinem, &amp; opposita, prout 
+      opposi<lb ed="#N" n="116" break="no"/>ta, sunt dissimilia, non similia; sed materialitas; 
+      <lb ed="#N" n="117"/>quam importaret essentia liter illa speciess prout. 
+      <lb ed="#N" n="118"/>creatasomnis enim creatura essetialiter 
+      impor<lb ed="#N" n="119" break="no"/>tat aliquam materialitatem, in qua distinguitur 
+      <!--726.xml-->
+      <pb ed="#N" n="709"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>a Deo, qui est actus purissimus) opponitur 
+      pu<lb ed="#N" n="2" break="no"/>rissimae actualitati, quam importat Diuina 
+      Esse<lb ed="#N" n="3" break="no"/>tia; ergo implicat, quod per ipsam representetur 
+      <lb ed="#N" n="4"/>actualitas purissima Essentiae Dei, sicut implicat,  
+      <lb ed="#N" n="5"/>quod species hominis repraesentet canem &amp;c. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1231">
+                  <lb ed="#N" n="6"/>II Prob. 3. Species quiditatiue 
+      repraesen<lb ed="#N" n="7" break="no"/>tans aliquam tem est naturalis similitudo illius, 
+      <lb ed="#N" n="8"/>similitudo enim naturalis est illa, quae 
+      reprae<lb ed="#N" n="9" break="no"/>sentat totam naturam, seu quiditatem; vnde 
+      <lb ed="#N" n="10"/>imago omnino similis alicui homini dicitur 
+      na<lb ed="#N" n="11" break="no"/>turaliter illum repraesentare; sed implicat, quod 
+      <lb ed="#N" n="12"/>aliqua creatura sit naturalis similitudo Dei illi 
+      <lb ed="#N" n="13"/>omnino adaequata; aliter per hoc non 
+      probare<lb ed="#N" n="14" break="no"/>tur contra Arrianos Verbum esse Deum ex eo, 
+      <lb ed="#N" n="15"/>quod procedat in similitudimem naturae; 
+      simili<lb ed="#N" n="16" break="no"/>tudo enim naturalis posset competere creatur 
+      <lb ed="#N" n="17"/>raes &amp; per consequens similitudo per naturam: 
+      <lb ed="#N" n="18"/>ergo implicat species quiditatiue 
+      repraesentati<lb ed="#N" n="19" break="no"/>ua Dei, Maior patet, quia species non reprae 
+      <lb ed="#N" n="20"/>sentat ad placitum, sed naturaliter, aliter specles 
+      <lb ed="#N" n="21"/>hominis posset repraesentar e canem &amp;c. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1268">
+                  <lb ed="#N" n="22"/>Ia Obiicies 1. contra 1. rationem. Si 
+      spe<lb ed="#N" n="23" break="no"/>cies essentialiter exigeret esse immaterialior 
+      <lb ed="#N" n="24"/>objecto, sequeretur 1; quod nobilissimus 
+      Ange<lb ed="#N" n="25" break="no"/>lus etiam inter possibiles esset ignobilior 
+      qua<lb ed="#N" n="26" break="no"/>cunque specie sui infusa etiam in 
+      intellectum<lb ed="#N" n="27" break="no"/>insimi Angeli. 2. Angelus infimus perfectius 
+      <lb ed="#N" n="28"/>intelligeret Angelum supremum, quam idem 
+      <lb ed="#N" n="29"/>Angelus supremus cognoscat se ipsum; 
+      quia<lb ed="#N" n="30" break="no"/>Angelus infimus intelligeret Angelum 
+      supre<lb ed="#N" n="31" break="no"/>mum per speciem illius, quae esset principium 
+      <lb ed="#N" n="32"/>formalius, &amp; immaterialius, quam sit ipsa 
+      sub<lb ed="#N" n="33" break="no"/>stantia Angeli supremi, per quam Angelus 
+      su<lb ed="#N" n="34" break="no"/>premus intelligeret se ipsum, principium 
+      au<lb ed="#N" n="35" break="no"/>tem formalius, &amp; immaterialius 
+      cognoscendi<lb ed="#N" n="36" break="no"/>perfectiorem causat cognitionem, sed haec non 
+      <lb ed="#N" n="37"/>sunt admittenda; ergo nec id, ex quo sequuntur.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1306">
+                  <lb ed="#N" n="38"/>Resp. ad 1. dist. sequelam, Species Angeli 
+      <lb ed="#N" n="39"/>supremi esset perfectior in ratione 
+      immateriali<lb ed="#N" n="40" break="no"/>tatis, conci in ratione entitatis, neg; neque 
+      im<lb ed="#N" n="41" break="no"/>plicat aliquam absurditatem, sed muoluit 
+      veri<lb ed="#N" n="42" break="no"/>tatem necessario admittendam: nam species rei 
+      <lb ed="#N" n="43"/>corporalis sine dubio est perfectior in ratione, 
+      <lb ed="#N" n="44"/>immaterialitatis, quam sit res corporalis, cui 
+      ve<lb ed="#N" n="45" break="no"/>nullo modo competit ei immaterialitas, vel si 
+      <lb ed="#N" n="46"/>aliqua competit, omnium minima est, quanuis 
+      <lb ed="#N" n="47"/>res materialis in ratione entis sit perfectior 
+      spe<lb ed="#N" n="48" break="no"/>cie, quia illa est ens per se, ista vero in alio. 
+      Sic<lb ed="#N" n="49" break="no"/>species supremi Angeli in ratione 
+      immateriali<lb ed="#N" n="50" break="no"/>tatis est formalior substantia supremi Angeli; in 
+      <lb ed="#N" n="51"/>ratione autem entis est imperfectior, vt dictum 
+      <lb ed="#N" n="52"/>est. Ad 2. neg. sequela: nam intellectio 
+      com<lb ed="#N" n="53" break="no"/>mensuratur solum cum lumine, quod est 
+      ratio<lb ed="#N" n="54" break="no"/>formalis proxima intelligendi, vt nobiscum 
+      fa<lb ed="#N" n="55" break="no"/>tetur etiam hic Aduersarius, ergo, quanuis 
+      spe<lb ed="#N" n="56" break="no"/>cies sit immaterialior, &amp; formalius repraesentet, 
+      <lb ed="#N" n="57"/>attamen, quia lumen naturale insimi Angeli est: 
+      <lb ed="#N" n="58"/>imperfectius lumine supremi Angeli, sequitur  
+      <lb ed="#N" n="59"/>enim ad essentiam Angeli, sicut passio naturalis 
+      <lb ed="#N" n="60"/>illius; vnde sicuti essentia Angeli insimi est infe¬ 
+      <!--726.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>rior essentia Angeli supremi, ita &amp; lumen; &amp; 
+      <lb ed="#N" n="62"/>ideo nequit perfectius videre, quia habet 
+      im<lb ed="#N" n="63" break="no"/>perfectius lumen, quod est tota ratio videndi, 
+      <lb ed="#N" n="64"/>neque lumen potest esse perfectius essentia, 
+      cu<lb ed="#N" n="65" break="no"/>ius est passio, secus effectus esset maior causa. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1373">
+                  <lb ed="#N" n="66"/>Instabis. Si species Angeli supremi esset; 
+      <lb ed="#N" n="67"/>immaterialior, quam substantia Angeli 
+      supre<lb ed="#N" n="68" break="no"/>mi, non esset naturalis Angelo insimo, nec in 
+      il<lb ed="#N" n="69" break="no"/>lo naturaliter reciperetur; ergo nulla responsio¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1384">
+                  <lb ed="#N" n="70"/>Resp. neg. antecedens; corpus enim, quod  
+      <lb ed="#N" n="71"/>est materiale, recipit naturaliter animam, quae 
+      <lb ed="#N" n="72"/>est immaterialis; ergo, licet species sit 
+      immate<lb ed="#N" n="73" break="no"/>rialior, potest naturaliter recipi in Angelo 
+      mi<lb ed="#N" n="74" break="no"/>nus immateriali: 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1397">
+                  <lb ed="#N" n="75"/>I3. Obiicies 2. Beatiss. P. Aug. lib. 12. de. 
+      <lb ed="#N" n="76"/>Gen. ad lit. c. 13. asserit: Quod praestantior sit 
+      ima<lb ed="#N" n="77" break="no"/>go corporis in spiritu, quam ipsum corpus in 
+      sub<lb ed="#N" n="78" break="no"/>stantia sua, ex quo deducitur, quod species rei 
+      <lb ed="#N" n="79"/>materialis ideo est immaterialior in intellectu, 
+      <lb ed="#N" n="80"/>quam in sua natura, quia ipse intellectus de se 
+      <lb ed="#N" n="81"/>est immaterialis, &amp; non potest recipere, nisi 
+      im<lb ed="#N" n="82" break="no"/>materialia; non autem, quod species debet 
+      esse<lb ed="#N" n="83" break="no"/>mmaterialior eo, quia debet repraesentare, &amp; 
+      <lb ed="#N" n="84"/>per consequens si species recipiatur in 
+      intelle<lb ed="#N" n="85" break="no"/>ctu minus immateriali, vt est infimus Angelus, 
+      <lb ed="#N" n="86"/>illa species erit minus immaterialis. Hinc 
+      do<lb ed="#N" n="87" break="no"/>cet B. Aegidiquod Angeli superiores illuminant, 
+      <lb ed="#N" n="88"/>inferiores per species vniuersaliores, &amp; forma 
+      <lb ed="#N" n="89"/>liores, &amp; ideo immaterialiores; ergo in 
+      Ange<lb ed="#N" n="90" break="no"/>lo insimo nequit esse species immaterialior 
+      sub<lb ed="#N" n="91" break="no"/>stantia supremi Angeli. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1436">
+                  <lb ed="#N" n="92"/>Resp. ex illa auctoritate nihil omnino 
+      con<lb ed="#N" n="93" break="no"/>cludi, sed omnino violenter trahi ad sensum 
+      <lb ed="#N" n="94"/>Aduersaru; ex eo enim, quod imago corporis 
+      <lb ed="#N" n="95"/>possit esse nedum in corpore, sed etiam in 
+      spiri<lb ed="#N" n="96" break="no"/>tu, optime arguitur eius immaterialitas, quia 
+      ar<lb ed="#N" n="97" break="no"/>guitur illimitatio ad vnum, materia enim 
+      essen<lb ed="#N" n="98" break="no"/>tialiter habet limitare ad vnum. Tum quia 
+      ratio<lb ed="#N" n="99" break="no"/>formalis representandi habetur ex 
+      immateriali<lb ed="#N" n="100" break="no"/>tate, vt supra ostesum est; ergo quo maior est vis 
+      <lb ed="#N" n="101"/>repraesentatiua, eo maior erit immaterialitas; 
+      <lb ed="#N" n="102"/>sed species magis repraesentat, quia repraesentat 
+      <lb ed="#N" n="103"/>Jobjectum, &amp; se ipsam, objectum autem 
+      reprae<lb ed="#N" n="104" break="no"/>sentat solum se ipsum; ergo habet maiorem 
+      im<lb ed="#N" n="105" break="no"/>materialitatem. Ad Fundatiss. Doct. dicitur,  
+      <lb ed="#N" n="106"/>quod Angeli superiores habent species 
+      vniuer<lb ed="#N" n="107" break="no"/>saliores, quia eorum species sunt magis 
+      illumi<lb ed="#N" n="108" break="no"/>natae, habent enim maius lumen, &amp; ideo plura 
+      <lb ed="#N" n="109"/>reprae sentant, propter quod possunt edocere 
+      <lb ed="#N" n="110"/>Angelos inferiores illu minando illorum 
+      spe<lb ed="#N" n="111" break="no"/>cies, non autem infundendo species, quae a solo 
+      <lb ed="#N" n="112"/>Deo infunduntur, vt habet B. Doct. in 1. p. 3. Prol. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1484">
+                  <lb ed="#N" n="113"/>14. Obiicies 3. Si ex eo, quod species potest. 
+      <lb ed="#N" n="114"/>esse in alio, argueretur maior immaterialitas, 
+      se<lb ed="#N" n="115" break="no"/>queretur, quod accides esset immaterialius 
+      sub<lb ed="#N" n="116" break="no"/>stantia, &amp; per consequens perfectius, quia 
+      acci<lb ed="#N" n="117" break="no"/>dens habet esse in alio, substantia vero, nequit  
+      <lb ed="#N" n="118"/>esse in alio; sed hoc est contra B. Doct. in 2. dist. 
+      <lb ed="#N" n="119"/>26. q. 1art. 2. ad 2, vbi docet accidens esse 
+      nobi<lb ed="#N" n="120" break="no"/>lius substantia solum secundum quid, substantia 
+      <!--727.xml-->
+      <pb ed="#N" n="710"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>vero esse nobiliore accidente simpliciter: ergo 
+      in<lb ed="#N" n="2" break="no"/>hoc sibi contradicit. 2. Voluntas est in intellecta, 
+      <lb ed="#N" n="3"/>&amp; intellectus in substantia, &amp; ramen intellectus, 
+      <lb ed="#N" n="4"/>&amp; voluntas Angeli insimi non sunt quid 
+      nobi<lb ed="#N" n="5" break="no"/>lius substantia Angeli supremi. 3. Ex hoc, quod  
+      <lb ed="#N" n="6"/>accidens recipiatur in alio, arguitur potius 
+      im<lb ed="#N" n="7" break="no"/>perfectio; ergo ex eo, quod species sit in alio, 
+      <lb ed="#N" n="8"/>arguitur potius imperfectio speciei, quam 
+      per<lb ed="#N" n="9" break="no"/>fectio. 4. Quia Fundatuss. Doct. q. 2. de cog. Angel. 
+      <lb ed="#N" n="10"/>ait, quod Angelus cognoscendo seipsum 
+      cogno<lb ed="#N" n="11" break="no"/>scit species intelligibiles, quae sunt in seipso; sed 
+      <lb ed="#N" n="12"/>si species essent immaterialiores substantia, 
+      se<lb ed="#N" n="13" break="no"/>queretur, quod principium formale 
+      cognoscen<lb ed="#N" n="14" break="no"/>di, quod est substantia, esset minus immateriale 
+      <lb ed="#N" n="15"/>quam objectum cognitum, cuius oppositum hic 
+      <lb ed="#N" n="16"/>docet; ergo non est immaterialior.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1546">
+                  <lb ed="#N" n="17"/>Resp. ad 1. negando sequelam; cum enim 
+      <lb ed="#N" n="18"/>dicimus speciem posse esse in alis, intelligimus 
+      <lb ed="#N" n="19"/>posse esse inalio subjecto distincto a proprio sus 
+      <lb ed="#N" n="20"/>biecto, vt v. 8. hoc esse intelligibile huius 
+      lapi<lb ed="#N" n="21" break="no"/>dis nedum est in hoc lapide, sed etiam est, vel 
+      <lb ed="#N" n="22"/>potest esse in omni intellectu humano, propter 
+      <lb ed="#N" n="23"/>quod arguitur vniuersalitas essedi speciei ipsius 
+      <lb ed="#N" n="24"/>lapidis: accidens vero est tantum in alio, quod 
+      <lb ed="#N" n="25"/>est proprium subjectum, haec enim numero 
+      al<lb ed="#N" n="26" break="no"/>bedo est tantum in hoc pariete numero, &amp; ideo 
+      <lb ed="#N" n="27"/>nulla arguitur vniuersalitas, &amp; immaterialitas 
+      in<lb ed="#N" n="28" break="no"/>accidente; quare haec ratio est merum sophisma 
+      <lb ed="#N" n="29"/>fundatum in aequiuocatione, quam importat 
+      es<lb ed="#N" n="30" break="no"/>se in alio; &amp; per hoc patet ad 2, intellectus enim 
+      <lb ed="#N" n="31"/>est in substantia, tanquam in alio Ente, non 
+      tan<lb ed="#N" n="32" break="no"/>quam in alio subjecto, quia substatia 
+      intellectua<lb ed="#N" n="33" break="no"/>lis non est aliud a subjecto intellectus, sed est 
+      ip<lb ed="#N" n="34" break="no"/>sum subjectum intellectus; &amp; sic dicitur etiam ac 
+      <lb ed="#N" n="35"/>3. quanuis enim existere in alio Ente dicat 
+      im<lb ed="#N" n="36" break="no"/>perfectionem, quia dicit insubsistentiam in 
+      se<lb ed="#N" n="37" break="no"/>pattamen esse in alio subjecto, imo in pluribus 
+      <lb ed="#N" n="38"/>subjectis distinctis a proprio subjecto, quia 
+      <lb ed="#N" n="39"/>dicit vniuersalitatem, &amp; abstractionem 
+      physi<lb ed="#N" n="40" break="no"/>cam a materia, quae abstractio dicit actualitate, a 
+      <lb ed="#N" n="41"/>qua sumitur perfectio, vt diximus q. 1. Proem 
+      <lb ed="#N" n="42"/>art. 6. n. 233 &amp; φ. 3. art. 10. n. 2, &amp; alibi, ideo dicit 
+      <lb ed="#N" n="43"/>malorem immaterialitatem, &amp; perfectionem. Ad 
+      <lb ed="#N" n="44"/>4. dicitur, quod B. Doct docet Angelum 
+      cogno<lb ed="#N" n="45" break="no"/>scere species existentes in se ipso per ipsas 
+      spe<lb ed="#N" n="46" break="no"/>cies, non autem per ipsam substantiam 
+      formali<lb ed="#N" n="47" break="no"/>ter; substantia enim tantum materialiter 
+      con<lb ed="#N" n="48" break="no"/>currit, vt patet legenti¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1618">
+                  <lb ed="#N" n="49"/>I5 Obiicies 4. Quanuis species rei mate 
+      <lb ed="#N" n="50"/>rialis debeat esse immaterialior, quam res 
+      ma<lb ed="#N" n="51" break="no"/>terialis, attamen species Diuinae Essentiae non 
+      <lb ed="#N" n="52"/>posset esse immaterialior, quam Diuina 
+      Essen<lb ed="#N" n="53" break="no"/>tia; quia Diuina Essentia est summe 
+      immateria<lb ed="#N" n="54" break="no"/>lis; tum quia quanuis res materialis non possit 
+      <lb ed="#N" n="55"/>esse in alio, attamen Diuina Essentia potest esse 
+      <lb ed="#N" n="56"/>in alia Essentia, vt patet in Incarnatione; ergo 
+      <lb ed="#N" n="57"/>ex eo, quod species Diuinae Essentiae possit esse 
+      <lb ed="#N" n="58"/>in nostro intellectu, non arguitur maior 
+      imma<lb ed="#N" n="59" break="no"/>terialitas, quia etiam ipsa Diuina Essentia 
+      po<lb ed="#N" n="60" break="no"/>test esse in nostro intellectu, &amp; in natura hu¬ 
+      <!--727.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>mana, in quibus de facto est; ergo haec 
+      ratio<lb ed="#N" n="62" break="no"/>non concludit.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1655">
+                  <lb ed="#N" n="63"/>Resp. neg. antecedens: &amp; ad I. prob. 
+      infer<lb ed="#N" n="64" break="no"/>tam dicitur, quod in hoc consistit implicantia 
+      <lb ed="#N" n="65"/>quia, cum species debeat esse essentialiter 
+      im<lb ed="#N" n="66" break="no"/>materialior objecto, &amp; nihil possit effe 
+      immate<lb ed="#N" n="67" break="no"/>rialius Diuina Essentia, quia est summe immate 
+      <lb ed="#N" n="68"/>rialis, aliter Diuina Essentia esset, &amp; non esset 
+      <lb ed="#N" n="69"/>summe immaterialis, sicut species esset, &amp; non 
+      <lb ed="#N" n="70"/>esset immaterialior obiecto. Ad 2. dicitur, quod  
+      <lb ed="#N" n="71"/>species, est in alio subjecto per separationem 
+      <lb ed="#N" n="72"/>realem a proprio subjecto; Diuina autem 
+      Essen<lb ed="#N" n="73" break="no"/>tia non est in nobis per separationem realem a 
+      <lb ed="#N" n="74"/>seipsa, &amp; ideo proprie non est vniuersalisa sicut  
+      <lb ed="#N" n="75"/>est species, cum viuersalitas fiat tantum vροse 
+      <lb ed="#N" n="76"/>parationem a subjectis particularibus,νedigitus 
+      <lb ed="#N" n="77"/>in Logica, &amp; per consequens species, vtpoterum 
+      <lb ed="#N" n="78"/>quersalior subjecto vniuersalitate physica;quae 
+      <lb ed="#N" n="79"/>dicit separationem a materialitate, vt diximus 
+      <lb ed="#N" n="80"/>locis cit; est magis immaterialior, quam objectum; 
+      <lb ed="#N" n="81"/>quod non dicit talem vniuersalitatemen Etes 
+      <lb ed="#N" n="82"/>his faciliter elui possunt aliae leues objectiones. 
+      <lb ed="#N" n="83"/>quae adducuntur contra rationes Fundatiss. Doc 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1703">
+                  <lb ed="#N" n="84"/>I6. Obijcies 5. Est possibilis species 
+      expref<lb ed="#N" n="85" break="no"/>sa quiditatiue repraesentans Deum, quae secum 
+      <lb ed="#N" n="86"/>dum omnes est perfectior specie impressa 3ergo 
+      <lb ed="#N" n="87"/>possibilis est species expressa: 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1714">
+                  <lb ed="#N" n="88"/>Resp. neg. antecedens, vt infra videbimus; 
+      <lb ed="#N" n="89"/>nam eadem Essentia Diuina, quae habet ratione 
+      <lb ed="#N" n="90"/>speciei impressae, quodammodo exprimitur? a 
+      <lb ed="#N" n="91"/>Beatis, &amp; ideo habet etiam rationem speciei 
+      <lb ed="#N" n="92"/>expressae; eadem enim est implicantia de specie 
+      <lb ed="#N" n="93"/>impressa, &amp; expressa creata. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1730">
+                  <lb ed="#N" n="94"/>17. Obiicies 6. Species producitur abobige 
+      <lb ed="#N" n="95"/>cto; ergo nequit esse immaterialior obiecto; 
+      al<lb ed="#N" n="96" break="no"/>ter effectus esset nobilior sua causa¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1740">
+                  <lb ed="#N" n="97"/>Resp. cum B. Doct; quod species producitur  
+      <lb ed="#N" n="98"/>ab objecto mediate virtute altiori; objecta,: enim 
+      <lb ed="#N" n="99"/>materialia producunt species mediante duce 
+      <lb ed="#N" n="100"/>corporali, quae minus habet de materialitate 
+      <lb ed="#N" n="101"/>quam ipsa objecta corporalia; &amp; in Angelis ape 
+      <lb ed="#N" n="102"/>cies producuntur in virtute Diuinarum Idaeatum; 
+      <lb ed="#N" n="103"/>a quibus descendunt species a Deo in Augelis 
+      <lb ed="#N" n="104"/>concreatae. Cum ergo nulla virtus sitralo 
+      <lb ed="#N" n="105"/>Diuina Essentia, ideo nequit dari species allius 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1762">
+                  <lb ed="#N" n="106"/>IS. Obiicies 7. Accidens, quanuis inferions 
+      <lb ed="#N" n="107"/>ordinis, reprae sentat substantiam, ergospecie 
+      <lb ed="#N" n="108"/>quanuis materialior Diuina Essentia attameu 
+      <lb ed="#N" n="109"/>potest illam quiditatiue repraesentare: spee 
+      <lb ed="#N" n="110"/>debet accommodari potentiae, non objectomam 
+      <lb ed="#N" n="111"/>species est actus informatiuus potentiae antelle 
+      <lb ed="#N" n="112"/>ctiuae, &amp; quicunque actus debet accommoda 
+      <lb ed="#N" n="113"/>suo subjecto; tum quia objectum ipsum: accom 
+      <lb ed="#N" n="114"/>modatur potentiae; nam Diuina Essentia nona 
+      <lb ed="#N" n="115"/>detur a Beatis, nisi modo finito, &amp; ideo seageo 
+      <lb ed="#N" n="116"/>modat porentiae finitae; vnde species, quae estre 
+      <lb ed="#N" n="117"/>caria objecti, debet accommodari potenqua 
+      fle<lb ed="#N" n="118" break="no"/>nitae; ergo poterit per speciem finitam videm 
+      <lb ed="#N" n="119"/>Essentia Diuina, quanuis infinita; 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1795">
+                  <lb ed="#N" n="120"/>stesp. ad 1. dist. antecedens. Accidenstes 
+      <!--728.xml-->
+      <pb ed="#N" n="711"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>praesentat substantiam, prout est inferioris 
+      ordi<lb ed="#N" n="2" break="no"/>nis, idest entitatiue, negi prout est superioris 
+      <lb ed="#N" n="3"/>ordinis, idest formaliter, sic enim est ordinis 
+      im<lb ed="#N" n="4" break="no"/>materialis, qui est superior ordine materialis 
+      <lb ed="#N" n="5"/>conc. Ad 2. neg. antecedens; ad cuius 1. prob. dis 
+      <lb ed="#N" n="6"/>citur, quod species nedum habet munus 
+      infor<lb ed="#N" n="7" break="no"/>mandi potentiam, sed etiam munus 
+      repraesen<lb ed="#N" n="8" break="no"/>tandi obiectum cum hoc discrimine, quod 
+      mu<lb ed="#N" n="9" break="no"/>nus informandi potetiam conuenit speciei 
+      ma<lb ed="#N" n="10" break="no"/>terialiter, quatenus accidens est; munus autem 
+      <lb ed="#N" n="11"/>repraesentandi obiectum ei conuenit formaliter;  
+      <lb ed="#N" n="12"/>vnde species formaliter se tenet ex parte obici 
+      <lb ed="#N" n="13"/>cti, quanuis materialiter possit se tenere ex par 
+      <lb ed="#N" n="14"/>te potentiae; &amp; ideo sicuti, quatenus se tenet ex 
+      <lb ed="#N" n="15"/>parte potentiae, debet commensurari cum 
+      po<lb ed="#N" n="16" break="no"/>tentia, ita quatenus se tenet ex parte objecti, 
+      de<lb ed="#N" n="17" break="no"/>bet commensurari, &amp; proportionari cum 
+      obie<lb ed="#N" n="18" break="no"/>cto. Ad 2. dist. Objectum proportionatur 
+      po<lb ed="#N" n="19" break="no"/>tentiae secundum commensurationem 
+      extrinse<lb ed="#N" n="20" break="no"/>cam obiecto, secundum quam potentia tantum  
+      <lb ed="#N" n="21"/>capit de objecto infinito, quantum capere 
+      po<lb ed="#N" n="22" break="no"/>test, cone; secundum commensurationem 
+      intrin<lb ed="#N" n="23" break="no"/>secam ita, vt obiectum fiat intrinsece finitum. 
+      <lb ed="#N" n="24"/>neg. Sic species, quanuis, prout extrinsece 
+      ac<lb ed="#N" n="25" break="no"/>commodata, esset finita, intrinsece tamen, prout. 
+      <lb ed="#N" n="26"/>commensurata cum Diuina Essentia, quae est 
+      in<lb ed="#N" n="27" break="no"/>finita, esset infinita. Vel dist. antecedens. 
+      Spe<lb ed="#N" n="28" break="no"/>cies debet accommodari potentiae, &amp; esse 
+      im<lb ed="#N" n="29" break="no"/>materialior obiecto, cone; &amp; esse minus 
+      immate<lb ed="#N" n="30" break="no"/>tialis, neg. Si enim esset minus immaterialis, non 
+      <lb ed="#N" n="31"/>repraesentaret, cum immaterialitas sit ratio 
+      re<lb ed="#N" n="32" break="no"/>praesentandi, vt dictum est. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1876">
+                  <lb ed="#N" n="33"/>I9. Obiicies 8. ex Sua. Potest intellectus 
+      <lb ed="#N" n="34"/>creatus videre Deum, potest dari visio creata. 
+      <lb ed="#N" n="35"/>qua videtur Deus, &amp; potest dari lumen 
+      mani<lb ed="#N" n="36" break="no"/>festans clare Deum; ergo poterit dari species. 
+      <lb ed="#N" n="37"/>creata repraesentatiua Dei; eadem enim est 
+      ra<lb ed="#N" n="38" break="no"/>tio de omnibus: 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1892">
+                  <lb ed="#N" n="39"/>Conf. Potest dari species creatae 
+      represen<lb ed="#N" n="40" break="no"/>tatiua Dei, vt est Auctor naturae; ergo poterit 
+      <lb ed="#N" n="41"/>dari species repraesentans Deum, vt est Auctor 
+      <lb ed="#N" n="42"/>gratiae. 2. Potest dari species quiditatiua reprae 
+      <lb ed="#N" n="43"/>sentans visionem beatam, quia visio beata est 
+      <lb ed="#N" n="44"/>creatura; sed per talem speciem cognosceretur 
+      <lb ed="#N" n="45"/>Deus, quia non potest clare videri actus, nisi 
+      <lb ed="#N" n="46"/>clare videatur terminus illius; ergo species 
+      crea<lb ed="#N" n="47" break="no"/>ta potest repraesentare clare Deum. 3. Quia 
+      <lb ed="#N" n="48"/>D. Paulus recordabatur visionis beatae; sed hoc 
+      <lb ed="#N" n="49"/>nequit esse, nisi per specie conseruatam in eius 
+      <lb ed="#N" n="50"/>memoria; ergo datur species repraesetatiua Dei. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1921">
+                  <lb ed="#N" n="51"/>Resp. ad arg. neg. conseq. &amp; disparitas est 
+      <lb ed="#N" n="52"/>nam potentia, actus, &amp; lumen non debent esse. 
+      <lb ed="#N" n="53"/>immaterialiores objecto: species autem de 
+      <lb ed="#N" n="54"/>bet esse immaterialior, &amp; ideo haec repugnat. 
+      <lb ed="#N" n="55"/>in casu. 2. Species habet representare obiectum; 
+      <lb ed="#N" n="56"/>vt est in se, non prout accommodatur potentiae. 
+      <lb ed="#N" n="57"/>finitae; quia species est naturalis similitudo 
+      obie<lb ed="#N" n="58" break="no"/>cti, &amp; ideo debet representare quidquid est 
+      in<lb ed="#N" n="59" break="no"/>obiecto; at vero potentia attingit obiectum non 
+      <lb ed="#N" n="60"/>secundum amplitudinem obiecti, sed secundum 
+      <!--728.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>propriam capacitatem finitam. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1953">
+                  <lb ed="#N" n="62"/>Ad Conf. dist. antecedens. Potest dari 
+      spe<lb ed="#N" n="63" break="no"/>cies creata quiditatiue repraesentans Deum, 
+      ve<lb ed="#N" n="64" break="no"/>est Auctor naturae, neg; abstractiue, inadequate, 
+      <lb ed="#N" n="65"/>&amp; quoad an est, conce &amp; sic dist. conseq. Potest. 
+      <lb ed="#N" n="66"/>dari species inadaequate abstractiue 
+      repraesen<lb ed="#N" n="67" break="no"/>tans Deum, vt est Auctor gratiae, qualem hic 
+      <lb ed="#N" n="68"/>habemus in via, cone; haec enim, vtpote 
+      inadae<lb ed="#N" n="69" break="no"/>quata, non debet commensurari, quiditatiua 
+      <lb ed="#N" n="70"/>adaequata, neg. Ad 2. dist. min. Cognosceretur 
+      <lb ed="#N" n="71"/>Deus quiditatiue intuitiue, neg; abstractiue sub 
+      <lb ed="#N" n="72"/>pura ratione termini, conc; &amp; sic dicitur ada 
+      <lb ed="#N" n="73"/>nam D. Paulus recordabatur per speciem 
+      visio<lb ed="#N" n="74" break="no"/>nis, non per speciem Dei; &amp; per illam speciem. 
+      <lb ed="#N" n="75"/>videbat visionem, non Deum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e1986">
+                  <lb ed="#N" n="76"/>20 Obiicies 9. Non implicat meritum 
+      <lb ed="#N" n="77"/>Christi esse infiniti valoris in genere moris, 
+      li<lb ed="#N" n="78" break="no"/>cent sit finitum in genere physico; ergo non 
+      im<lb ed="#N" n="79" break="no"/>plicat species infinita inesse intelligibili, &amp; 
+      fini<lb ed="#N" n="80" break="no"/>ta in esse physico. 2. Beatus videndo Deum fit, 
+      <lb ed="#N" n="81"/>Deus in esse intelligibili; ergo non implicat,  
+      <lb ed="#N" n="82"/>quod species creata sit eiusdem speciei cum 
+      Di<lb ed="#N" n="83" break="no"/>quina Essentia in esse intelligibili.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2006">
+                  <lb ed="#N" n="84"/>Resp. 1, quod illa species esset infinitior 
+      <lb ed="#N" n="85"/>insi nito, quod implicat: nam esset immater ialior 
+      <lb ed="#N" n="86"/>immaterialitate infinita. 2. neg. paritas: nam valor 
+      <lb ed="#N" n="87"/>operum Christi Domini sumitur a Supposito 
+      <lb ed="#N" n="88"/>Diuino, quod est infinitum, at vero reprae 
+      senta<lb ed="#N" n="89" break="no"/>bilitas infinita speciei sumeretur ab 
+      immateria<lb ed="#N" n="90" break="no"/>litate infinita ipsius speciei, quae repugnat 
+      crea<lb ed="#N" n="91" break="no"/>turae. Ad 2. dist. antecedens. Fit Deus 
+      extrinse<lb ed="#N" n="92" break="no"/>ce, quatenus Deitas extrinsece terminat 
+      intel<lb ed="#N" n="93" break="no"/>lectum illius, conc; intrinsece, negi species aute 
+      <lb ed="#N" n="94"/>esset Deus, imo superior Deo intrinsece, quia 
+      <lb ed="#N" n="95"/>intrinsece haberet immaterialitatem 
+      superio<lb ed="#N" n="96" break="no"/>rem immaterialitate Dei. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2037">
+                  <lb ed="#N" n="97"/>EI Obijcies 10. Species expressa est 
+      clara<lb ed="#N" n="98" break="no"/>Dei vilio, quae exprimitur ab intellectu; ergo 
+      <lb ed="#N" n="99"/>datur species expressa; &amp; per consequens non 
+      <lb ed="#N" n="100"/>repugnat expressa. 2. Species impressa est ipsa 
+      <lb ed="#N" n="101"/>visio, vel lumen gloriae; ergo de facto datur:  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2050">
+                  <lb ed="#N" n="102"/>Resp. ad 1. neg. antecedens; species enim 
+      <lb ed="#N" n="103"/>expressa est terminus per cognitionem 
+      produ<lb ed="#N" n="104" break="no"/>ctus, qui vocatur verbum mentis, vt docet 
+      Bea<lb ed="#N" n="105" break="no"/>tiss. P. Aug. de Trin. lib. 15: in quo, tanquam 
+      in<lb ed="#N" n="106" break="no"/>speculo, intuetur rem cognitam, visio autem 
+      <lb ed="#N" n="107"/>non est terminus, sed via ad terminum, cum sit 
+      <lb ed="#N" n="108"/>actio. Ad 2. neg. antecedens, quoad vtranque. 
+      <lb ed="#N" n="109"/>partem, species enim impressa vnitur 
+      intelle<lb ed="#N" n="110" break="no"/>ctui tanquam comprincipium elicitiuum 
+      visio<lb ed="#N" n="111" break="no"/>nis, &amp; ideo nequit esse ipsa visio, quia idem 
+      ne<lb ed="#N" n="112" break="no"/>quit esse principium sui; lumen autem, cum sit 
+      <lb ed="#N" n="113"/>de genere qualitatis, nequit esse species, quae 
+      re<lb ed="#N" n="114" break="no"/>ducitur ad illud praedicamentum, in quo est 
+      obie<lb ed="#N" n="115" break="no"/>ctum, cuius est species, aliter si species 
+      formali<lb ed="#N" n="116" break="no"/>ter esset qualitas; non posset repraesentare aliud 
+      <lb ed="#N" n="117"/>a qualitate, quia res vnius praedicamenti nequit  
+      <lb ed="#N" n="118"/>esse similitudo rei alterius praedicamenti. Vida 
+      <lb ed="#N" n="119"/>quae diximus q. 2. art. 15 &amp; q. 2. art. 2, &amp; de Subst. 
+      <lb ed="#N" n="120"/>Dei q. 1art. 1. §. 2. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g2050x-Dd1e2095">
+               <head xml:id="ccc7yd-g2050x-Hd1e2097">Articulus 2</head>
+               <p xml:id="ccc7yd-g2050x-d1e2099">
+      <!--729.xml-->
+                  <pb ed="#N" n="712"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ART. II. 
+      <lb ed="#N" n="2"/>An Diuina Essentia uniatur intellectui per 
+      mo<lb ed="#N" n="3" break="no"/>dum formae intelligibilis: 
+        </p>
+               <p xml:id="ccc7yd-g2050x-d1e2115">
+                  <lb ed="#N" n="4"/>EX dictis in sup. art. patet, quid sit 
+      dicen<lb ed="#N" n="5" break="no"/>Cdum ad hanc difficultatem; cum enim 
+      <lb ed="#N" n="6"/>in intellectu beato non detur species impressa 
+      <lb ed="#N" n="7"/>repraesentans Diuinam Essentiam, cunque 
+      obie<lb ed="#N" n="8" break="no"/>ctum debeat uniri cum intellectu vel 
+      immedia<lb ed="#N" n="9" break="no"/>te per se ipsum, vel mediante specie, quae est sui 
+      <lb ed="#N" n="10"/>vicaria, ex obiecto enim, &amp; potentia paritur 
+      noti<lb ed="#N" n="11" break="no"/>tia; ideo remanet, quod Essentia Diuina 
+      imme<lb ed="#N" n="12" break="no"/>diate per se ipsam vniatur intell ectui beato, 
+      ta<lb ed="#N" n="13" break="no"/>quam forma intelligibilis actuans, &amp; 
+      determi<lb ed="#N" n="14" break="no"/>nans intellectum ad talem intellectionem; 
+      pro<lb ed="#N" n="15" break="no"/>pter hoc ab omnibus fere Theologis haec difficula 
+      <lb ed="#N" n="16"/>tas omittitur. Quia tamen multa 
+      explicabun<lb ed="#N" n="17" break="no"/>tur, quae iuuabunt tum ad clariorem 
+      intelligen<lb ed="#N" n="18" break="no"/>tiam aliarum difficultatum, quae agitantur, tum 
+      <lb ed="#N" n="19"/>ad magis percipiendum modum, quo sit ipsa 
+      <lb ed="#N" n="20"/>visio, &amp; quo carum causae concurrunt ad illius 
+      <lb ed="#N" n="21"/>productionem, idcirco eam breuiter 
+      pertra<lb ed="#N" n="22" break="no"/>ctare statuimus. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2159">
+                  <lb ed="#N" n="23"/>2 Prima sententia vult Diuinam Essentiam 
+      <lb ed="#N" n="24"/>non vniri intellectui per modum formae 
+      intelli<lb ed="#N" n="25" break="no"/>gibilis. Cit. Scot. Quodl. 14. 4. 2, Aureolus, Ric. in 
+      <lb ed="#N" n="26"/>3. dist. 14. q. 3. art. 1, &amp; in 4. dist. 49. q. 12art. 33 &amp; 
+      <lb ed="#N" n="27"/>ex nestris Argent. in 4. dist. 49. q. 2. art. 2,. Lusit. 
+      de<lb ed="#N" n="28" break="no"/>Beat. lib. 8. p. 2. q. 4: ex exteris vero Vasq. 1. p. 
+      <lb ed="#N" n="29"/>disp. 433 Mol. 1. p. q. 12. art. 2. disp. 23 Sua: 
+      <lb ed="#N" n="30"/>1. p. lib. 1. c. 12. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2179">
+                  <lb ed="#N" n="31"/>Secunda sententia docet Diuinam 
+      Essen<lb ed="#N" n="32" break="no"/>tiam vniri intellectui beato per modum formae 
+      <lb ed="#N" n="33"/>intelligibilis extrinsece assistentis, &amp; 
+      determi<lb ed="#N" n="34" break="no"/>nantis intellectum, ac efficienter producentis 
+      <lb ed="#N" n="35"/>visionem beatam. Ita B. Doct. in 3. dist. 28. q. 1. 
+      <lb ed="#N" n="36"/>art. 1. 8. Quod autem; Et Quodl. 2. q. 21. Ad argo 
+      <lb ed="#N" n="37"/>in contrarium, Et Quodi. 5. 4. 9. Ipsum sequitur  
+      <lb ed="#N" n="38"/>
+                  <name xml:id="ccc7yd-g2050x-Nd1e2198">Mag. Conson</name>. in M.S; &amp; fere omnes alij eius 
+      Di<lb ed="#N" n="39" break="no"/>scipuli, Hanc sententiam tradit etiam D. Thos 
+      <lb ed="#N" n="40"/>&amp; plerique Thomistarum; Cabr. 3. p. q. 2. art. 13. 
+      <lb ed="#N" n="41"/>Gonet de Vis. disp. 2. art. 33 &amp; reliqui. Refertur. 
+      <lb ed="#N" n="42"/>etiam Fonsec. lib. 5. Met; Salas, &amp; Sua: 3. p aract. 
+      <lb ed="#N" n="43"/>1. q. 2. art. 1, &amp; lib. 2. de Attr. neg. c. 12; &amp; omnes. 
+      <lb ed="#N" n="44"/>Aly communiter; pro cuius decisione. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2215">
+                  <lb ed="#N" n="45"/>Not; quod, vt saepius diximus, noster 
+      in<lb ed="#N" n="46" break="no"/>tellectus se habet, vt materia in genere 
+      intelli<lb ed="#N" n="47" break="no"/>gibilium; sicut ergo materia nequit per se 
+      age<lb ed="#N" n="48" break="no"/>re, nisi recipiat formam substantialem, per quam 
+      <lb ed="#N" n="49"/>recipit esse specificum, &amp; existentiam; actiones 
+      <lb ed="#N" n="50"/>enim ex Phil. sunt existentium; tum quia passiuos 
+      <lb ed="#N" n="51"/>vt passiuum est, repugnat agere, vt diximus φ. 1. 
+      <lb ed="#N" n="52"/>art. 6, &amp; sicuti materia vitra formam 
+      substantia<lb ed="#N" n="53" break="no"/>dem necessario exigit accidentia, quae sunt 
+      vir<lb ed="#N" n="54" break="no"/>tutes proximae ad operandum, quia nulla 
+      sub<lb ed="#N" n="55" break="no"/>stantia est immediate operatiua, vt v. g. materia. 
+      <lb ed="#N" n="56"/>ignis ad hoc, vt calefaciat, necessario exigit 
+      for<lb ed="#N" n="57" break="no"/>mam substantialem ignis, &amp; vitra illa exigit 
+      for<lb ed="#N" n="58" break="no"/>mam caloris, quae est virtus accidentalis proxime 
+      <lb ed="#N" n="59"/>operatiua illi superaddita; ita ad hoc, vt noster 
+      <!--729.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>intellectus actualiter operetur, necessario exigit 
+      <lb ed="#N" n="61"/>formam, per quam determinetur ad talem 
+      ope<lb ed="#N" n="62" break="no"/>rationem specificam, quae forma nihil aliudest, 
+      <lb ed="#N" n="63"/>nisi objectum, vel species eius vicaria, quaese 
+      <lb ed="#N" n="64"/>habet veluti forma substantialis respectu mate 
+      <lb ed="#N" n="65"/>riae; &amp; vltra illam requiritur virtus proxima 
+      ac<lb ed="#N" n="66" break="no"/>cidentalis illi superaddita, quae est lumen 
+      infor<lb ed="#N" n="67" break="no"/>mans intellectum 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2272">
+                  <lb ed="#N" n="68"/>Hic modo difficultas est, quomodo 
+      obie<lb ed="#N" n="69" break="no"/>ctum, vel species possit habere rationem forma 
+      <lb ed="#N" n="70"/>ipsius intellectus, &amp; multo magis, cum objectum 
+      <lb ed="#N" n="71"/>nequeat gerere vicem causae formalis; sicuti 
+      <lb ed="#N" n="72"/>communiter dicitur de Deo, qui, ve diximus de 
+      <lb ed="#N" n="73"/>Simplic. Dei art4. n.5, nequit supplere rationem 
+      <lb ed="#N" n="74"/>causae formalis, quia causa 
+      formalisessentia<lb ed="#N" n="75" break="no"/>liter importat potentialitatem: passiuam, &amp; dicit 
+      <lb ed="#N" n="76"/>inadaequationem, quae duo repugnant Deo cum 
+      <lb ed="#N" n="77"/>essentialiter importent imperfectionem, t 
+      <lb ed="#N" n="78"/>alibi diximus. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2298">
+                  <lb ed="#N" n="79"/>Igitur aduertendum, quod, vt diximus 
+      <lb ed="#N" n="80"/>vbi sup. art. 5. n. 3, forma alia est intrinsece 
+      infor<lb ed="#N" n="81" break="no"/>mans, &amp; constituens vnum per se cum subjes 
+      <lb ed="#N" n="82"/>cto, &amp; haec dicit potentialitatem passiuamο 
+      <lb ed="#N" n="83"/>inadaequationem, ac per consequens nequit a 
+      <lb ed="#N" n="84"/>Deo suppleri; alia est forma completa 
+      extrinse<lb ed="#N" n="85" break="no"/>re assistens, &amp; mere efficienter causans in alio; 
+      <lb ed="#N" n="86"/>cui vnitur, aliquam operationem, vt sunt 
+      Ange<lb ed="#N" n="87" break="no"/>li mouentes Caelos, quibus vniuntur, non qui  
+      <lb ed="#N" n="88"/>dem per intrinsecam informationem, quia, cum 
+      <lb ed="#N" n="89"/>sint formae completae, eis repugnat informare 
+      <lb ed="#N" n="90"/>aliquod subjectum, &amp; cum ipso vnum constitue 
+      <lb ed="#N" n="91"/>re, quod conuenit tantum formae incompleta 
+      <lb ed="#N" n="92"/>sed per extrinsecam assistentiam, per quam tam 
+      <lb ed="#N" n="93"/>gendo Caelos causant in ipsis effectiue motum 
+      <lb ed="#N" n="94"/>circularem, &amp; in hoc sensu Deus vnitur: de 
+      fa<lb ed="#N" n="95" break="no"/>cto intellectui beato per modum formae intellis 
+      <lb ed="#N" n="96"/>gibilis extrinsece efficiendo in ipso intellectus 
+      <lb ed="#N" n="97"/>intellectionem, vt qualitas est, prout diximus 
+      <lb ed="#N" n="98"/>7. 1. art. 6, &amp; quia de ratione causae efficientis est 
+      <lb ed="#N" n="99"/>tantum extrinsece vniri suo passiuo, non tamens 
+      <lb ed="#N" n="100"/>illud intrinsece informare, nec constituere cum 
+      <lb ed="#N" n="101"/>pso aliquod totum per modum partis anadae 
+      <lb ed="#N" n="102"/>quatae, vt patet; se habet enim per modumtos 
+      <lb ed="#N" n="103"/>tius efficientis, ideo Diuina Essentia vnitaantel 
+      <lb ed="#N" n="104"/>lectui beato per modum formae intelligibilis 
+      <lb ed="#N" n="105"/>mere efficienter nec habet supplere rationem 
+      <lb ed="#N" n="106"/>causae formalis, nec habet rationem partisana 
+      <lb ed="#N" n="107"/>daequatae, aut potentialitatis passiuae. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2363">
+                  <lb ed="#N" n="108"/>S Ratio autem, quare forma intelligibili 
+      <lb ed="#N" n="109"/>possit vniri intellectui per modum formae com 
+      <lb ed="#N" n="110"/>pletae extrinsecae in genere tantum causaeeffe 
+      <lb ed="#N" n="111"/>cientis, forma autem naturalis, quae est parsunum 
+      <lb ed="#N" n="112"/>componens cum subjecto, non possit sicutu 
+      <lb ed="#N" n="113"/>est, quia forma intel ligibilis ordinatur tantum 
+      <lb ed="#N" n="114"/>ad aliquam operationem productam in ipsom 
+      <lb ed="#N" n="115"/>tellectu, &amp; ideo potest vtique mere efficienter 
+      <lb ed="#N" n="116"/>se habere ad illum, sicut intelligentia monens 
+      <lb ed="#N" n="117"/>Caelos, quia ordinatur tantummodo ad produs 
+      <lb ed="#N" n="118"/>cendum in illis motum citcularem, potest mem 
+      <lb ed="#N" n="119"/>extrinsece in genere causae efficientis illis unitm 
+      <!--730.xml-->
+      <pb ed="#N" n="713"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>at vero forma naturalis, siue substantialis, siue 
+      <lb ed="#N" n="2"/>accidentalis, quia vnitur suo subiecto passiuo 
+      <lb ed="#N" n="3"/>dando illi esse, quod tantum dat per intrinsecam 
+      <lb ed="#N" n="4"/>exhibitionem sui ipsius, vt forma substantialis 
+      <lb ed="#N" n="5"/>ignis dat esse igneum ligno exhibendo illi 
+      se<lb ed="#N" n="6" break="no"/>ipsam, &amp; albedo dat esse album parieti illi 
+      pari<lb ed="#N" n="7" break="no"/>ter exhibendo suam entitatem, ideo nequit illis 
+      <lb ed="#N" n="8"/>vniri absque intrinseca informatione; 
+      causa<lb ed="#N" n="9" break="no"/>autem efficiens vnitur quidem tangendo 
+      pas<lb ed="#N" n="10" break="no"/>sum, sed non causat illi exhibendo suam, 
+      entita<lb ed="#N" n="11" break="no"/>tem, sed tantum in illo producedo alique moctun¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2422">
+                  <lb ed="#N" n="12"/>6 Et licet species creata, quatenus accides 
+      <lb ed="#N" n="13"/>est, habeat informare intrinsece intellectum, 
+      tan<lb ed="#N" n="14" break="no"/>quam forma natur alis illius, hoc tamen illi non 
+      <lb ed="#N" n="15"/>competit formaliter, quatenus forma 
+      intelligi<lb ed="#N" n="16" break="no"/>bilis est: nam substantia Angeli est vera forma. 
+      <lb ed="#N" n="17"/>intelligibilis respectu intellectus ipsius Angeli, 
+      <lb ed="#N" n="18"/>&amp; tamen, quia non est accidens, ideo non habetr  
+      <lb ed="#N" n="19"/>intrinsece informare intellectum Augeli, aliter 
+      <lb ed="#N" n="20"/>substantia reciperetur in accidente, non vero 
+      <lb ed="#N" n="21"/>accidens in substantia, quod est contra 
+      commu<lb ed="#N" n="22" break="no"/>nem Philosophiam. Neque repugnat, quod 
+      ei<lb ed="#N" n="23" break="no"/>dem entitati virtualiter multiplici possint 
+      com<lb ed="#N" n="24" break="no"/>petere plura munera, quorum vnum competat 
+      <lb ed="#N" n="25"/>ei formaliter, &amp; aliud materialiter, vt v. g. anima 
+      <lb ed="#N" n="26"/>litati, quatenus coniungitur cum rationalitat 
+      e<lb ed="#N" n="27" break="no"/>competit ei esse principium discurrendi, quod 
+      <lb ed="#N" n="28"/>tamen ei non competit, quatenus consungitur 
+      <lb ed="#N" n="29"/>eum irrationalitate; sic formae intelligibili, 
+      qua<lb ed="#N" n="30" break="no"/>tenus coniungitur cum accidente, conuenit 
+      <lb ed="#N" n="31"/>inhaerere, &amp; intrinsece informare, quod 
+      essentia<lb ed="#N" n="32" break="no"/>liter conuenit accidenti, quatenus vero 
+      reperi<lb ed="#N" n="33" break="no"/>tur in substantia, poterit esse sine informatione, 
+      <lb ed="#N" n="34"/>&amp; inhaesione. Igitur forma intelligibilis forma 
+      <lb ed="#N" n="35"/>liter habet tantum repraesentare, quod autem 
+      <lb ed="#N" n="36"/>inhaereat, vel non inhaereat, hoc illi conuenit 
+      <lb ed="#N" n="37"/>tantum accidentaliter, seu materialiter ratione. 
+      <lb ed="#N" n="38"/>subjecti, in quo est. Hoc supposito. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2483">
+                  <lb ed="#N" n="39"/>V. Vnica concl. Essentia Diuina vnitur de 
+      <lb ed="#N" n="40"/>facto intellectui beato per modum formae 
+      intel<lb ed="#N" n="41" break="no"/>ligibilis purissimae in genere causae efficientis 
+      <lb ed="#N" n="42"/>extrinsecae absque vlla informatione, 
+      inhaeren<lb ed="#N" n="43" break="no"/>tia, &amp; compositione &amp;c. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2497">
+                  <lb ed="#N" n="44"/>Prob. 1. Ex 2. Cor. 33 vbi dicitur: Nos vero 
+      <lb ed="#N" n="45"/>omnes reuelata facie gloriam Domini speculantes 
+      <lb ed="#N" n="46"/>in eandem imaginem, transformamur a claritate 
+      <lb ed="#N" n="47"/>su ctaritatem, tanquam a Domini spiritu; super  
+      <lb ed="#N" n="48"/>quod Beatiss. P. Aug. lib. 14. de Trin. c. 17. ait: 
+      <lb ed="#N" n="49"/>In eandem imaginem transformamur de gloria. 
+      <lb ed="#N" n="50"/>in gloriam; &amp; lib. 15. c. 9. super illud: Videmus 
+      <lb ed="#N" n="51"/>nunc per speculum in aenigmate, tunc autem facit 
+      <lb ed="#N" n="52"/>ad faciem, ait: Cum igitur speculi, &amp; aenigmatis 
+      no<lb ed="#N" n="53" break="no"/>mine quaecunque similitudines ab Apostolo 
+      signifi<lb ed="#N" n="54" break="no"/>catae intelligi possunt, quae accomodandae sunt ad 
+      <lb ed="#N" n="55"/>intelligendum Deum eo modo, quo potest, nibil 
+      ta<lb ed="#N" n="56" break="no"/>men est, accomodatius, quam id, quod imago eius. 
+      <lb ed="#N" n="57"/>non frustra dicitur. Ex quibus sic. Si Deus non 
+      <lb ed="#N" n="58"/>esset forma intelligibilis vnita nostro 
+      intelle<lb ed="#N" n="59" break="no"/>ctui, nos non transformaremur, quia implicat,  
+      <lb ed="#N" n="60"/>dari trasformationem sine forma, cum transfor¬ 
+      <!--730.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>matio sit transitus ab una forma ad aliam: 
+      Prae<lb ed="#N" n="62" break="no"/>terea vniri per modum formae intelligibilis est, 
+      <lb ed="#N" n="63"/>uniri per modum imaginis intellectualis, quia 
+      <lb ed="#N" n="64"/>nomine formae intelligibilis nihil aliud 
+      intelli<lb ed="#N" n="65" break="no"/>gimus, nisi imaginem intellectualem 
+      repraesen<lb ed="#N" n="66" break="no"/>tatiuam obiecti, si autem Deus non vniretur  
+      <lb ed="#N" n="67"/>nostro intellectui per modum formae 
+      intelligibi<lb ed="#N" n="68" break="no"/>lis,, non vniretur per modum imaginis, sed  
+      <lb ed="#N" n="69"/>ytrunque est contra Apostolum; ergo Deus 
+      vni<lb ed="#N" n="70" break="no"/>tur nobis per modum formae intelligibilis. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2562">
+                  <lb ed="#N" n="71"/>S Prob. 2. Illud vnitur alteri per modum 
+      <lb ed="#N" n="72"/>formae extrinsece terminantis, quod illi vnitur 
+      <lb ed="#N" n="73"/>per ordinem ad aliquam operationem sine 
+      in<lb ed="#N" n="74" break="no"/>formatione, &amp; compositione; sed Diuina 
+      Essen<lb ed="#N" n="75" break="no"/>tia vnitur intellectui beato per ordinem ad 
+      ali<lb ed="#N" n="76" break="no"/>quam operationem intellectualem sine 
+      infor<lb ed="#N" n="77" break="no"/>matione, &amp; compositione; ergo vnitur per 
+      mo<lb ed="#N" n="78" break="no"/>dum formae intelligibilis extrinsece 
+      terminan<lb ed="#N" n="79" break="no"/>tis. Maior patet, quia forma est principium 
+      <lb ed="#N" n="80"/>operandi, cum illi maxime conueniat ratio 
+      na<lb ed="#N" n="81" break="no"/>turae, vt dicitur in 2. Physiergo illud, quod vnitur 
+      <lb ed="#N" n="82"/>alteri per modum principij alicuius operationis: 
+      <lb ed="#N" n="83"/>absque informatione, &amp; compositione, illi 
+      vni<lb ed="#N" n="84" break="no"/>tur per modum formae extrinsece terminantis, 
+      <lb ed="#N" n="85"/>&amp; completae; sic Angeli motores Orbium 
+      Coe<lb ed="#N" n="86" break="no"/>lestium vniuntur Coelis, tanquam formae 
+      com<lb ed="#N" n="87" break="no"/>pletae sine villa imperfectione informationis, &amp; 
+      <lb ed="#N" n="88"/>compositionis, Min. etiam constat, nam ex 
+      obie<lb ed="#N" n="89" break="no"/>cto, &amp; potentia paritur notitia; ergo Deus, qui est 
+      <lb ed="#N" n="90"/>Jobjectum visionis beatae, vnitur intellectui 
+      bea<lb ed="#N" n="91" break="no"/>to per ordinem ad eliciedam visionem beatam. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2610">
+                  <lb ed="#N" n="92"/>Conf. Intellectus secudum se praecise 
+      sum<lb ed="#N" n="93" break="no"/>ptus est indifferens ad intelligendum quodlibet 
+      <lb ed="#N" n="94"/>objectum, &amp; se habet veluti materia in genere. 
+      <lb ed="#N" n="95"/>intelligibilium, vt docet Phil; &amp; comuniter 
+      om<lb ed="#N" n="96" break="no"/>nes; sed materia nequit progredi in aliquam 
+      <lb ed="#N" n="97"/>operationem, nisi sit actuata, &amp; determinata 
+      ab<lb ed="#N" n="98" break="no"/>aliqua forma: nam secundum se est nullius 
+      acti<lb ed="#N" n="99" break="no"/>quitatis, cum sit pure paffiua; ergo intellectus 
+      ne<lb ed="#N" n="100" break="no"/>quit Deum videre, nisi habeat formam 
+      intelli<lb ed="#N" n="101" break="no"/>gibilem sibi coniunctam, per quam actuetur, &amp; 
+      <lb ed="#N" n="102"/>determinetur ad talem intellectionem, sed talis 
+      <lb ed="#N" n="103"/>forma nequit esse species creata, vt ostendimus 
+      <lb ed="#N" n="104"/>in sup. art, ergo debet esse ipsa Diuina Essentia, 
+      <lb ed="#N" n="105"/>prout habet modum forme intelligibilis absque 
+      <lb ed="#N" n="106"/>vlla informatione, &amp; compositione. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2645">
+                  <lb ed="#N" n="107"/> Prob. 3. Forma intellectualis non 
+      impor<lb ed="#N" n="108" break="no"/>tat essentialiter informationem, &amp; 
+      compositio<lb ed="#N" n="109" break="no"/>nem; ergo Diuina Essentia potest habere 
+      ratio<lb ed="#N" n="110" break="no"/>nem formae intellectualis. Prob. antecedens. 
+      <lb ed="#N" n="111"/>Forma intellectualis formaliter importat 
+      tan<lb ed="#N" n="112" break="no"/>tum esse repraesentatiuum; in hoc enim 
+      distin<lb ed="#N" n="113" break="no"/>guitur a forma naturali; sed esse repraesentatiuum 
+      <lb ed="#N" n="114"/>potest esse sine informatione, vt patet de 
+      sub<lb ed="#N" n="115" break="no"/>stantia Angeli, quae repraesentat seipsam 
+      intelle<lb ed="#N" n="116" break="no"/>ctui eiusdem Angeli, &amp; tamen non informat  
+      <lb ed="#N" n="117"/>ipsum intellectum, aliter substantia reciperetur 
+      <lb ed="#N" n="118"/>in accidente, &amp; esset actus illius; tum quia 
+      intel<lb ed="#N" n="119" break="no"/>lectus est forma accidentalis recepta in 
+      substan<lb ed="#N" n="120" break="no"/>tia ipsius Angeli, &amp; ideo substantia Angeli ne¬ 
+      <!--731.xml-->
+      <pb ed="#N" n="714"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>quit recipi in suo intellectu, sicuti, quia forma 
+      <lb ed="#N" n="2"/>physica recipitur in materia, ideo nequit 
+      mate<lb ed="#N" n="3" break="no"/>ria recipi in sua forma, aliter daretur circulatio 
+      <lb ed="#N" n="4"/>vitiosa communiter rejecta, ex eo autem, quod  
+      <lb ed="#N" n="5"/>substantia Angeli non informet intellectum 
+      <lb ed="#N" n="6"/>ipsius, sequitur, quod non componat cum illo, &amp; 
+      <lb ed="#N" n="7"/>per consequens, quod non sit forma partialis, &amp; 
+      <lb ed="#N" n="8"/>inadaequata, quae est forma partis, sed quod sit, 
+      <lb ed="#N" n="9"/>forma totius; ergo Diuina Essentia potest vniri in 
+      <lb ed="#N" n="10"/>tellectui beato per modum formae intelligibilis 
+      <lb ed="#N" n="11"/>purissimae absque vlla imperfectione 
+      informatio<lb ed="#N" n="12" break="no"/>nis, inhaesionis, compositionis, &amp; limitationis. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2710">
+                  <lb ed="#N" n="13"/> Conf. In hoc distinguitur vnio intellectus 
+      <lb ed="#N" n="14"/>cum objecto, seu cum specie ipsius vicaria ab 
+      <lb ed="#N" n="15"/>vnione materiae cum forma, quod intellectus 
+      <lb ed="#N" n="16"/>in tali vnione sit idem, hinc Phil. ait: Intellectus 
+      <lb ed="#N" n="17"/>est omnia fieri, at vero materia per vnionem, 
+      <lb ed="#N" n="18"/>cum forma non sit forma, sed sit compositum; 
+      <lb ed="#N" n="19"/>ergo species intelligibilis formaliter non 
+      impor<lb ed="#N" n="20" break="no"/>tat compositionem, sed identitatem, &amp; per 
+      con<lb ed="#N" n="21" break="no"/>sequens non importat informationem, 
+      inhaesio<lb ed="#N" n="22" break="no"/>nem, aut rationem partis, quae omnia illi non 
+      <lb ed="#N" n="23"/>competunt, nisi quatenus reperitur in 
+      acciden<lb ed="#N" n="24" break="no"/>te, quod, vt accidens sormaliter, habet esse 
+      for<lb ed="#N" n="25" break="no"/>ma informans subjectum, inhaerens, &amp; constitues. 
+      <lb ed="#N" n="26"/>vnum per accidens cum illo, ergo Diuina 
+      Es<lb ed="#N" n="27" break="no"/>sentia potest habere rationem forme intelligibilis 
+      <lb ed="#N" n="28"/>absque vlla informatione, inhaesione, copositione, 
+      <lb ed="#N" n="29"/>limitatione, &amp; sine omni alia imperfectione. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2749">
+                  <lb ed="#N" n="30"/>Vid. omnes aliae rationes, quibus lib. 3. de 
+      <lb ed="#N" n="31"/>Anima probatur necessitas ponendi speciem 
+      in<lb ed="#N" n="32" break="no"/>telligibilem in intellectu, quas innuimus art. 1. 
+      <lb ed="#N" n="33"/>n.1, &amp; illae, quas attulimus q. 1. art. 6. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2761">
+                  <lb ed="#N" n="34"/>IO Obiicies 1. Forma reduplicatiue, vt 
+      for<lb ed="#N" n="35" break="no"/>ma, est pars cum altero componibilis, cum quo 
+      <lb ed="#N" n="36"/>efficit vnum tertium compositum ex illis; sed  
+      <lb ed="#N" n="37"/>haec omnia repugnant Diuinae Essentiae, quae ob 
+      <lb ed="#N" n="38"/>suam purissimam simplicitatem nequit venire 
+      <lb ed="#N" n="39"/>in compositionem cum alio, vt ostendimus Dei 
+      <lb ed="#N" n="40"/>Simplic. Dei art. 4, &amp; 5, ergo Diuma Essentia 
+      <lb ed="#N" n="41"/>nequit uniri cum intellectu per modum formae 
+      <lb ed="#N" n="42"/>intelligibilis. Prob, maior: nam compositio est: 
+      <lb ed="#N" n="43"/>distinctorum unio, ergo illud, quod vnitur cum 
+      <lb ed="#N" n="44"/>altero per modum formae, vnitur per modum. 
+      <lb ed="#N" n="45"/>partis componibilis cum illo in ordine ad 
+      fa<lb ed="#N" n="46" break="no"/>ciendum vnum compositum. Prob. min: nam 
+      <lb ed="#N" n="47"/>si Deus vniretur cum intellectu creato ad facien 
+      <lb ed="#N" n="48"/>dum vnum tertium compositum ex illis, vel 
+      il<lb ed="#N" n="49" break="no"/>lud tertium esset Deus, vel creatura: Si primum; 
+      <lb ed="#N" n="50"/>ergo Deus componeretur ex Diuina Essentia, 
+      <lb ed="#N" n="51"/>&amp; creatura. Si secundum; ergo esse Diuinum 
+      <lb ed="#N" n="52"/>formaliter conueniret creaturae, forma enim 
+      <lb ed="#N" n="53"/>tribuit suum esse formale rei, cui vnitur 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2807">
+                  <lb ed="#N" n="54"/>Cons. Si Diuina Essentia vniretur 
+      intelle<lb ed="#N" n="55" break="no"/>ctui, tanquam forma intelligibilis, intellectus 
+      <lb ed="#N" n="56"/>creatus posset elicere visionem infinitam; in 
+      tan<lb ed="#N" n="57" break="no"/>tum, enim elicit visionem finitam, in quantum 
+      <lb ed="#N" n="58"/>habet formam finitam, quae est principium 
+      fini<lb ed="#N" n="59" break="no"/>tum operandi, sed consequens est falsum 
+      secun<lb ed="#N" n="60" break="no"/>dum omnes, quia a potentia finita nequit elici 
+      <!--731.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>actio infinita; ergo Essentia Diuina non vnitu 
+      <lb ed="#N" n="62"/>intellectui beato per modum formae intelligibilis. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2833">
+                  <lb ed="#N" n="63"/>Resp. ad arg. dist. maiorem. Forma, qui 
+      <lb ed="#N" n="64"/>unitur cum altero per ordinem ad esse, cona per 
+      <lb ed="#N" n="65"/>ordinem ad operari, neg. Ad prob. dicitur, quid 
+      <lb ed="#N" n="66"/>compositio est vnio distinctorum per ordinem 
+      <lb ed="#N" n="67"/>ad esse, non autem per ordinem ad operan. Vel 
+      <lb ed="#N" n="68"/>aliter dist. Forma, quae vnitur per identitatem, 
+      <lb ed="#N" n="69"/>negiper distinctionem, conceditur.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2851">
+                  <lb ed="#N" n="70"/>Ad conf. neg. sequela; &amp; ad illius prob. 
+      in<lb ed="#N" n="71" break="no"/>sertam dicitur veram esse de forma, quae vnitus 
+      <lb ed="#N" n="72"/>secundum esse reale per intrinsecam receptio 
+      <lb ed="#N" n="73"/>nem illius; ab illa enim desumitur mensum 
+      actui<lb ed="#N" n="74" break="no"/>quitatis potentiae, non vero de forma, quae illi 
+      ta<lb ed="#N" n="75" break="no"/>tum extrinsece vnitur juxta essentialem capaci: 
+      <lb ed="#N" n="76"/>tatem potentiae, cui se accommodageurloqui 
+      <lb ed="#N" n="77"/>tur Beatiss. P. Aug. ubi supra 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2871">
+                  <lb ed="#N" n="78"/>II Obiicies 2. Essentia Diuina nequit ut 
+      <lb ed="#N" n="79"/>ri creaturae, per modum formae in esse realis &amp; 
+      <lb ed="#N" n="80"/>physico, quia nequit supplere vicem causaeson 
+      <lb ed="#N" n="81"/>malis physicae; ergo nequit uniri per modum 
+      <lb ed="#N" n="82"/>formae intelligibilis; esse enim intelligibile ino 
+      <lb ed="#N" n="83"/>Deo est constitutiuum naturae illius, vedidum 
+      <lb ed="#N" n="84"/>est de Subst. Dei q. 2. art, 5: &amp; ideo esse intelligi 
+      <lb ed="#N" n="85"/>bile Dei est esse naturale, &amp; physicum illius;: &amp; 
+      <lb ed="#N" n="86"/>per consequens si Essentia Diuina nequit vnin 
+      <lb ed="#N" n="87"/>in esse physico, &amp; naturali, optime deducitum  
+      <lb ed="#N" n="88"/>quod nequeat uniri per modum formae intelli 
+      <lb ed="#N" n="89"/>gibilis. Tum quia esse intelligibile est esse 
+      rea<lb ed="#N" n="90" break="no"/>le; ergo si nequit vniri in esse reali, nequit em 
+      <lb ed="#N" n="91"/>yniri in esse intelligibili.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2904">
+                  <lb ed="#N" n="92"/>Resp. dist. antecedens. Per modum forma 
+      <lb ed="#N" n="93"/>intrinsece informantis, &amp; componentis;
+      conti<lb ed="#N" n="94" break="no"/>extrinsece actuantis, &amp; efficientis, nege Velper 
+      <lb ed="#N" n="95"/>modum formae in ordine ad esse specificum 
+      <lb ed="#N" n="96"/>quod nequit non esse intrinsece receptum inu 
+      <lb ed="#N" n="97"/>pecificata, conc; per ordinem ad aliquam ope 
+      <lb ed="#N" n="98"/>rationem in genere causae efficientis, vt diximus 
+      <lb ed="#N" n="99"/>de Angelis respectu Orbium, neg. Quanuiset 
+      <lb ed="#N" n="100"/>go nequeat Deus supplere vicem formae intum 
+      <lb ed="#N" n="101"/>secae, potest tamen habere rationem causaeest. 
+      <lb ed="#N" n="102"/>cientis, quae illi essentialiter conuenitae AAda 
+      <lb ed="#N" n="103"/>dicitur eodem modo; dist. enim conse Neaus 
+      <lb ed="#N" n="104"/>uniri in esse reali informando, conc; extrinsece 
+      <lb ed="#N" n="105"/>efficiendo, negatur.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2938">
+                  <lb ed="#N" n="106"/>I2 Obiicies 3. Deus nequit uniri intelle 
+      <lb ed="#N" n="107"/>ctui per modum luminis, vt dictum est insisp 
+      <lb ed="#N" n="108"/>art. 2, ergo nequit ei vniri per modumfomu 
+      <lb ed="#N" n="109"/>inte lligibilis. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2949">
+                  <lb ed="#N" n="110"/>Resp. neg. conseque &amp; disparitas iamestas 
+      <lb ed="#N" n="111"/>signata loco cit; nam lumen essentialiterestaom 
+      <lb ed="#N" n="112"/>ma intrinseca dans formaliter esse illumimum 
+      <lb ed="#N" n="113"/>intellectui, sicut albedo dat formaliteresse 
+      <lb ed="#N" n="114"/>bum parieti; at vero species non est causason 
+      <lb ed="#N" n="115"/>malis intrinseca dans esse formaliter reptaeseum 
+      <lb ed="#N" n="116"/>tatiuum intellectui, quia intellectus non stpet 
+      <lb ed="#N" n="117"/>speciem formaliter repraesentatiuus; sed tantum 
+      <lb ed="#N" n="118"/>extrinsece formaliter concurrit repraesentando 
+      <lb ed="#N" n="119"/>intellectui id, quod debet cognoscere, &amp; efficο 
+      <lb ed="#N" n="120"/>do in ipso actum cognitionis, vt qualitas estst 
+      <!--732.xml-->
+      <pb ed="#N" n="715"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Cut diximus φ. 1. art. 6; ideo potest supplere 
+      spe<lb ed="#N" n="2" break="no"/>ciem, non lumen, quia supplendo speciem, 
+      sup<lb ed="#N" n="3" break="no"/>plet causam efficientem, quod non repugnat: 
+      <lb ed="#N" n="4"/>supplendo tamen lumen suppleret causam 
+      for<lb ed="#N" n="5" break="no"/>malem, quod repugnat: 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e2993">
+                  <lb ed="#N" n="6"/>I3 Obiicies 4. Ex forma intell igibili, &amp; 
+      in<lb ed="#N" n="7" break="no"/>rellectu sit vnum, imo ex Phil. sit magis vnum, 
+      <lb ed="#N" n="8"/>quam ex materia, &amp; forma, sed ex Diuina 
+      Es<lb ed="#N" n="9" break="no"/>sentia, &amp; intellectu creato nequit fieri vnum 
+      <lb ed="#N" n="10"/>quia Diuina Essentia nequit venire in 
+      compo<lb ed="#N" n="11" break="no"/>sitionem cum creatura; ergo Diuina Essentia. 
+      <lb ed="#N" n="12"/>nequit habere rationem formae intelligibilis 
+      re<lb ed="#N" n="13" break="no"/>spectu intellectus beati¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3013">
+                  <lb ed="#N" n="14"/>Resp. dist. maiorem, Fit vnum per 
+      identi<lb ed="#N" n="15" break="no"/>tatem in esse intelligibili, conc; per compositio 
+      <lb ed="#N" n="16"/>nem in esse reali, negi &amp; sic dist. min. Nequit  
+      <lb ed="#N" n="17"/>fieri vnum per identitatem, neg; dicitur enim in 
+      <lb ed="#N" n="18"/>Psal. 6. Ego dixi Diy estis, per compositione, conc¬  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3026">
+                  <lb ed="#N" n="19"/>14. Obiicies 5. Nulla potentia potest 
+      in<lb ed="#N" n="20" break="no"/>trinsece constitui proxime potens operari, nisi 
+      <lb ed="#N" n="21"/>per actum intrinsece receptum informantem 
+      <lb ed="#N" n="22"/>ipsam potentiam, sed intellectus constituitur in 
+      <lb ed="#N" n="23"/>trinsece proxime potens intelligere per specie 
+      <lb ed="#N" n="24"/>ergo Deus nequit vniri intellectui per modum 
+      <lb ed="#N" n="25"/>speciei, seu formae intelligibilis. Prob. maior 
+      <lb ed="#N" n="26"/>nam sicut ignis nequit constitui proxime potens 
+      <lb ed="#N" n="27"/>agere, nisi per calorem intrinsece receptum 
+      in<lb ed="#N" n="28" break="no"/>substantia ignis; ergo a pari. Prob. min; 
+      quia<lb ed="#N" n="29" break="no"/>lumen gloriae supponitur in intellectu aute 
+      re<lb ed="#N" n="30" break="no"/>ceptionem Diuinae Essentiae, &amp; sic lumen natur 
+      <lb ed="#N" n="31"/>rale supponitur in intellectu possibili ante 
+      rece<lb ed="#N" n="32" break="no"/>ptionem speciei, vt diximus q. 2. art. 3: ergo 
+      sper<lb ed="#N" n="33" break="no"/>cies est id, per quod intellectus constituitur 
+      <lb ed="#N" n="34"/>proxime potens videre. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3063">
+                  <lb ed="#N" n="35"/>Resp. neg. mini intellectus enim beatus 
+      con<lb ed="#N" n="36" break="no"/>stituitur in actu primo per illam qualitatem 
+      <lb ed="#N" n="37"/>productam a specie in ipso intellectu, vt dictum 
+      <lb ed="#N" n="38"/>est φ. 1. art, o; &amp; ideo species, vt species, est mere 
+      <lb ed="#N" n="39"/>efficienter concurrit ad visionem. Ad prob. 
+      di<lb ed="#N" n="40" break="no"/>citur, quod lumen gloriae habet plura munera 
+      <lb ed="#N" n="41"/>&amp; licet, prout habet disponere intellectum ad 
+      <lb ed="#N" n="42"/>recipiendam speciem, illam praecedat, attamen, 
+      <lb ed="#N" n="43"/>prout concurrit ad visionem, est posterius 
+      spe<lb ed="#N" n="44" break="no"/>cie; sic calor, prout disponit ad formam ignis, 
+      <lb ed="#N" n="45"/>illam praecedit, prout vero concurrit cum forma 
+      <lb ed="#N" n="46"/>ignis ad calefactionem, est posterior igne, quia 
+      <lb ed="#N" n="47"/>proxime attingit combustibilo; ita a pari¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3095">
+                  <lb ed="#N" n="48"/>15. Obiicies 6. Si Deus vniretur intellectur 
+      <lb ed="#N" n="49"/>in ratione speciei, sequeretur, quod necessario, 
+      <lb ed="#N" n="50"/>non libere concurreret ad visionem, etenim 
+      il<lb ed="#N" n="51" break="no"/>le concursus esset formaliter ab Essentia, quae in 
+      <lb ed="#N" n="52"/>Deo est idem formalissime, ac natura, &amp; illude 
+      <lb ed="#N" n="53"/>quod est a natura, vt natura, est necessarium, non 
+      <lb ed="#N" n="54"/>liberum; sed consequens est falsum; ergo &amp; 
+      an<lb ed="#N" n="55" break="no"/>tecedens . 2. Sequeretur Deum subordinari 
+      in<lb ed="#N" n="56" break="no"/>tellectui creato, vel tanquam accidens, vel 
+      tanm<lb ed="#N" n="57" break="no"/>qua instrumentum illius; quae omnia sunt absurda 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3119">
+                  <lb ed="#N" n="58"/>Resp. dist. antecedens. Si Deus vniretur  
+      <lb ed="#N" n="59"/>intellectui praeciso imperio Voluntatis Diuinae; 
+      <lb ed="#N" n="60"/>cone; sic enim vniretur naturaliter, sicut vnitur 
+      <!--732.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>Intellectui binino: si per imperium Voluntatis 
+      <lb ed="#N" n="62"/>Diuinae, neg. Ad prob. dist, eodem modo. 
+      Con<lb ed="#N" n="63" break="no"/>cursus aqui est ab Essentia Diuina ex imperio, 
+      <lb ed="#N" n="64"/>conei sic autem non concurrit Deus, sed mere 
+      <lb ed="#N" n="65"/>voluntarie vnit suam Essentiam intelle ctui b 
+      ea<lb ed="#N" n="66" break="no"/>to, &amp; ideo libere. Ita substantia Dei com 
+      muni<lb ed="#N" n="67" break="no"/>catur creaturae, &amp; quannis substantia sit i 
+      dem<lb ed="#N" n="68" break="no"/>formalissime, ac Natura Dei, attamen ta lis 
+      con<lb ed="#N" n="69" break="no"/>municatio non est necessaria, sed libera, quia sit, 
+      <lb ed="#N" n="70"/>ex imperio, &amp; libero beneplacito Voluntatis 
+      <lb ed="#N" n="71"/>Dei. Ad 2. neg. pariter seque nam intellectus 
+      po<lb ed="#N" n="72" break="no"/>tius est Dei instrumentum late sumptum, vt 
+      di<lb ed="#N" n="73" break="no"/>ximus q. 2. art. 5. n. 1; quam me contra; concurrit 
+      <lb ed="#N" n="74"/>ergo Diuina Essentia cum intellectu creato, non 
+      <lb ed="#N" n="75"/>vt accidens, aut vt instrumentum, sed ve causa 
+      <lb ed="#N" n="76"/>efficiens principalissima. Et sic soluun tur 
+      om<lb ed="#N" n="77" break="no"/>nes aliae objectiones. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g2050x-Dd1e3171">
+               <head xml:id="ccc7yd-g2050x-Hd1e3173">Articulus 3</head>
+               <p xml:id="ccc7yd-g2050x-d1e3175">
+                  <lb ed="#N" n="78"/>ART III. 
+      <lb ed="#N" n="79"/>An Essentia Diuma, prout habet rationem formae 
+      <lb ed="#N" n="80"/>intelligibilis, actiue influat in visionem: 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3184">
+                  <lb ed="#N" n="81"/>DVpliciter potest considerati visio 
+      bea<lb ed="#N" n="82" break="no"/>Pta. 1. vt est actus primus informans 
+      <lb ed="#N" n="83"/>potentiam intellectiuam, ipsanque constituens 
+      <lb ed="#N" n="84"/>pot entem operati. 2. vt est actus secundus 
+      for<lb ed="#N" n="85" break="no"/>maliter elicitus ab ipsa potentia intellectiua. 
+      <lb ed="#N" n="86"/>Quod visio, vt est actus primus, producatur ab 
+      <lb ed="#N" n="87"/>Essentia Diuina, quatenus habet rationem 
+      for<lb ed="#N" n="88" break="no"/>mae intelligibilis, iam ostendimus . 1. art. 6; 
+      vbi<lb ed="#N" n="89" break="no"/>diximus visionem, prout est qualitas informans 
+      <lb ed="#N" n="90"/>intellectum, quod idem est, ac prout habet 
+      ra<lb ed="#N" n="91" break="no"/>tionem actus primi, sic enim habet rationem 
+      <lb ed="#N" n="92"/>qualitatis informantis, &amp; actuantis intellectum; 
+      <lb ed="#N" n="93"/>esse ab ipsa Essentia Diuinma, Modo remanet in 
+      <lb ed="#N" n="94"/>quirendum, an ipsa eadem visio, prout habet 
+      ra<lb ed="#N" n="95" break="no"/>tionem actus secundi, non quidem sub ratione. 
+      <lb ed="#N" n="96"/>actionis formalis elicitae; sub hac enim 
+      conside<lb ed="#N" n="97" break="no"/>ratione producitur a solo intellectu, qui solus 
+      <lb ed="#N" n="98"/>habet rationem causae formalis vitalis, sed sub 
+      <lb ed="#N" n="99"/>ratione qualitatis efficienter producatur in 
+      ge<lb ed="#N" n="100" break="no"/>nere causae formalis extrinsecae, eo modo, quo 
+      <lb ed="#N" n="101"/>diximus in sup. art. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3232">
+                  <lb ed="#N" n="102"/> Difficultas autem non procedit de 
+      effi<lb ed="#N" n="103" break="no"/>cientia, quae conuenit Deo, vt est causa vniuer 
+      <lb ed="#N" n="104"/>salissima cuiuscunque entis: nam sic certum est 
+      <lb ed="#N" n="105"/>Deum concurrere ad visionem, nec de concursus 
+      <lb ed="#N" n="106"/>Dei simultaneo, quo vniuersaliter concurrit ad 
+      <lb ed="#N" n="107"/>omnes actiones creaturae; nec de concursu 
+      spe<lb ed="#N" n="108" break="no"/>ciali conferente intellectui beato maius 
+      auxi<lb ed="#N" n="109" break="no"/>lium, quam intellectui Viatoris ad eliciendam, 
+      <lb ed="#N" n="110"/>cognitionem Dei, haec enim omnia procedunt. 
+      <lb ed="#N" n="111"/>de Deo, prout habet rationem primae causae, siue 
+      <lb ed="#N" n="112"/>in ordine naturali, siue in ordine supernaturali. 
+      <lb ed="#N" n="113"/>Sensus igitur est, an Diuina Essentia formaliter,  
+      <lb ed="#N" n="114"/>prout habet rationem speciei, seu formae 
+      intel<lb ed="#N" n="115" break="no"/>ligibilis extrinsecae, in genere causae efficientis 
+      <lb ed="#N" n="116"/>producat visionem beatam, prout qualitas est; 
+      <lb ed="#N" n="117"/>certum enim est visionem beatam, nedum prout 
+      <lb ed="#N" n="118"/>habet rationem actus primi, sed etiam, prout 
+      ha<lb ed="#N" n="119" break="no"/>bet rationem actus secundi, esse qualitatem phy¬ 
+      <!--733.xml-->
+      <pb ed="#N" n="716"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>sicam physice afficientem ipsum intellectum: 
+      <lb ed="#N" n="2"/>vnde sicuti ille actus secundus, prout habet 
+      ra<lb ed="#N" n="3" break="no"/>tionem actionis, est formaditer ab intellectu 
+      in<lb ed="#N" n="4" break="no"/>genere causae formalis intrinsecae, ita 
+      inquiri<lb ed="#N" n="5" break="no"/>mus, an prout habet rationem qualitatis 
+      pro<lb ed="#N" n="6" break="no"/>ductae, sit a Diuina Essentia, prout habet 
+      ra<lb ed="#N" n="7" break="no"/>tionem causae formalis extrinsecae ingenere. 
+      <lb ed="#N" n="8"/>causae efficientis  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3297">
+                  <lb ed="#N" n="9"/>S Prima sententia opinatur Diuinam 
+      Es<lb ed="#N" n="10" break="no"/>sentiam, prout habet rationem formae 
+      intelligi<lb ed="#N" n="11" break="no"/>bilis, actiue non influere in visionem beatam 
+      <lb ed="#N" n="12"/>simul cum intellectu beato, sed tantum 
+      termina<lb ed="#N" n="13" break="no"/>tiue se habere, non vero, vt objectum motiuum. 
+      <lb ed="#N" n="14"/>Tribuitur Scoto Quodl. 14. art. 2, &amp; Quodl. 15. 
+      <lb ed="#N" n="15"/>art. 2, vt videre est apud Rad am controu. 6; 
+      Li<lb ed="#N" n="16" break="no"/>chet. in dicto Quodl. 14. Ita etiam Ban; 1. p. 4. 12. 
+      <lb ed="#N" n="17"/>art. 2. dub. 2; &amp; probabilem existimat Zum. ihid. 
+      <lb ed="#N" n="18"/>q. 3. concl. 4. Pesant. disp. 13 Nauarret. 1. p. q. 
+      <lb ed="#N" n="19"/>39: &amp; Alij Scotistae. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3324">
+                  <lb ed="#N" n="20"/>Secunda sententia docet Diuinam 
+      Essen<lb ed="#N" n="21" break="no"/>tiam, prout habet rationem forme intelligibilis, 
+      <lb ed="#N" n="22"/>efficienter producere vilione, vt qualitas, est 
+      in<lb ed="#N" n="23" break="no"/>genere causae formalis extrinsecae, quod est 
+      ge<lb ed="#N" n="24" break="no"/>nus causae efficietis. Ita Fundatiss. Dost. Quodl. 3. 
+      <lb ed="#N" n="25"/>q. 15, &amp; Quodl. 2. q. 21. ad arg. in contrariuma 
+      <lb ed="#N" n="26"/>&amp; Quodl. 5. 4. 9 &amp; in 2. dist. 23. q. 2. art. 1. dub. 13: 
+      <lb ed="#N" n="27"/>&amp; q. 4. de cog. Angel, Mag. Conson. in M.S. hic; 
+      La<lb ed="#N" n="28" break="no"/>fosse de Vis. q. 3. c. 2, &amp; apud ipsam Argenti; &amp; 
+      <lb ed="#N" n="29"/>Gibbon. Ex exteris vero D. Thomas, &amp; omnes. 
+      <lb ed="#N" n="30"/>Thomistae communiter, Cabr. 3. p.q. 2. art. 1. disp. 63 
+      <lb ed="#N" n="31"/>Naz. 1. p. q. 12. art. 2. contr. 33 Sot. in 4. dist. 49. q. 2. 
+      <lb ed="#N" n="32"/>art. 3. Capregl. in 3. dist. 14. q. 1. art. 33 Gonet de 
+      <lb ed="#N" n="33"/>Visdisp. 2. art. 3. 8. 3: &amp; Godoy disp. 17. 8. 2. n. 205 
+      <lb ed="#N" n="34"/>&amp; seqe quanuis n. 24. asserat Diuinam Essentiam 
+      <lb ed="#N" n="35"/>partialiter concurrere, quod nullo modo est 
+      ad<lb ed="#N" n="36" break="no"/>mittendum, quia ipsa sola concurrit in genere 
+      <lb ed="#N" n="37"/>causae efficientis, intellectus vero in genere 
+      cau<lb ed="#N" n="38" break="no"/>sae formalis intrinsecae, &amp; ideo concurrit in 
+      di<lb ed="#N" n="39" break="no"/>uerso genere causae, propter quod non 
+      concur<lb ed="#N" n="40" break="no"/>rit partialiter, vt probat idem Godoy de lumine. 
+      <lb ed="#N" n="41"/>cum intellectu disp. 163 vnde non videtur sibi 
+      <lb ed="#N" n="42"/>constare, Hanc sententiam docet etiam Mol. 1. 
+      <lb ed="#N" n="43"/>p.q. 12. art. 2. disp. 2. Sua: lib. 2. de Attr. neg. c. 12, &amp; 
+      <lb ed="#N" n="44"/>3. p. q. 9. art. 15. disp. 24. fect. 23 Salas 1. 2. q. 3. 
+      <lb ed="#N" n="45"/>tract. 2. disp. 5. sect. 2; &amp; omnes Alij communiter. 
+      <lb ed="#N" n="46"/>Addit noster Lusit. lib. 8. de Beat. p. 2. q. 4. art. 9. 
+      <lb ed="#N" n="47"/>8S. 5: quod in sententia asserente Diuinam 
+      Es<lb ed="#N" n="48" break="no"/>sentiam vniri cum intellectu beato per modum 
+      <lb ed="#N" n="49"/>formae intelligibilis non potest negari ipsam 
+      <lb ed="#N" n="50"/>actiue influere in visionem. Igitur  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3394">
+                  <lb ed="#N" n="51"/>4. Not; quod, vt diximus in sup. art; forma 
+      <lb ed="#N" n="52"/>alia est intrinseca, alia extrinseca, intrinseca 
+      <lb ed="#N" n="53"/>pertinet formaliter ad genus causae formalis, 
+      <lb ed="#N" n="54"/>prout distinguitur a causa efficiente; 
+      extrinseca<lb ed="#N" n="55" break="no"/>vero pertinet ad genus causae efficientis, quia 
+      <lb ed="#N" n="56"/>efficiens in hoc, quod est extrinseca, 
+      distingui<lb ed="#N" n="57" break="no"/>tur a causa formali, quae essentialiter est 
+      intrin<lb ed="#N" n="58" break="no"/>seca: &amp; praeter ea, quae ibid. diximus, scilicet,  
+      <lb ed="#N" n="59"/>quod Angeli sunt formae completae 
+      extrinsece<lb ed="#N" n="60" break="no"/>producentes in Coelis motum, &amp; per motum 
+      <!--733.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>actiue producentes omnia haec sublunaria; 
+      po<lb ed="#N" n="62" break="no"/>test vlterius magis declarari: nam quaelibet 
+      tor<lb ed="#N" n="63" break="no"/>ma naturalis respectu actionum immanentium 
+      <lb ed="#N" n="64"/>est vera causa formalis contradistincta a 
+      causa<lb ed="#N" n="65" break="no"/>efficienti, quia tales actiones intrinsece recipum 
+      <lb ed="#N" n="66"/>ur in insa; respectu vero actionum 
+      transeun<lb ed="#N" n="67" break="no"/>tium est causa formalis extrinseca, quia tales 
+      <lb ed="#N" n="68"/>actiones sunt extra illam, &amp; respectu illarum est; 
+      <lb ed="#N" n="69"/>causa efficiens, non formalis, prout distinguitur  
+      <lb ed="#N" n="70"/>ab efficiente, vt v. g. anima nostra respectu 
+      intel<lb ed="#N" n="71" break="no"/>lectionis, &amp; volitionis, quae recin: antur in ipsa, 
+      <lb ed="#N" n="72"/>est causa formalis intrinseca, respectu vero 
+      <lb ed="#N" n="73"/>actionis generatiuae, qua concurrit 
+      adgeneran<lb ed="#N" n="74" break="no"/>dum aliud sibi simile, est causa formalis 
+      extrin<lb ed="#N" n="75" break="no"/>seca, &amp; reducitur ad efficientem. Quod autemo 
+      <lb ed="#N" n="76"/>forma actiue concurrat ad vtranque-actionem, 
+      <lb ed="#N" n="77"/>scilicet immanentem, &amp; transeuntemundubium 
+      <lb ed="#N" n="78"/>est apud omnes Philosophos, quia forma est pri 
+      <lb ed="#N" n="79"/>cipium omnium operationum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3464">
+                  <lb ed="#N" n="80"/>Igitur ex eo, quod objectum gerat vicem 
+      <lb ed="#N" n="81"/>formae intellectualis extrinsecae, non tollitur,  
+      <lb ed="#N" n="82"/>quin agat extrinsece in genere causae 
+      efficien<lb ed="#N" n="83" break="no"/>tis absque vlla informatione, inhaesione, aut 
+      co<lb ed="#N" n="84" break="no"/>positione. Quod autem objectum, aut species. 
+      <lb ed="#N" n="85"/>eius vicaria habeat munus formae intellectualis 
+      <lb ed="#N" n="86"/>actuantis, &amp; determinantis intellectum ad talem 
+      <lb ed="#N" n="87"/>intellectionem, iam ostensum est in sup. ari; &amp; in 
+      <lb ed="#N" n="88"/>doctrina Phil. asserentis intellectum se habere, 
+      <lb ed="#N" n="89"/>sicut materiam in genere intelligibilium, 
+      obie<lb ed="#N" n="90" break="no"/>ctum vero, vt forma illum determinate, &amp; in 
+      do<lb ed="#N" n="91" break="no"/>ctrina SS. PP, vt infra videbimus ex Beaussp 
+      <lb ed="#N" n="92"/>ug; est innegabile; propter quod opposita 
+      sen<lb ed="#N" n="93" break="no"/>tentia est parum conformis dictis 
+      Philosopho<lb ed="#N" n="94" break="no"/>rum, &amp; SS. PP, vt diffuse ostendit Fundaises 
+      <lb ed="#N" n="95"/>Doct. q. 4. de cog. Angel. 8. Postquam fideliter 
+      <lb ed="#N" n="96"/>Hoc supposito., 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3503">
+                  <lb ed="#N" n="97"/>S Vnica conclusio. Essentia Diuina, prout 
+      <lb ed="#N" n="98"/>vuta intellectui in ratione formae intelligibilis, 
+      <lb ed="#N" n="99"/>producit visionem, beatam in genere 
+      causaeeffi<lb ed="#N" n="100" break="no"/>cientis. Prob. 1. ex Beatiss. P. Aug. lib. 9. derim 
+      <lb ed="#N" n="101"/>c. 12, vbi ait: Dicendum est, quod omnis resxqua 
+      <lb ed="#N" n="102"/>cun que cognoscimus, congenerat in nobis notinam 
+      <lb ed="#N" n="103"/>sui, ab viraque enim paritur notitia, a 
+      cognosten<lb ed="#N" n="104" break="no"/>te, &amp; cognito; quod Inculenter probat librsο 
+      <lb ed="#N" n="105"/>I2; &amp; ex quo sic. Omnis res cognita, proutanm 
+      <lb ed="#N" n="106"/>ta intellectui tanquam forma ipsius, causat anmo: 
+      <lb ed="#N" n="107"/>bis cognitionem sui;, sed Diuina Essentia unitus 
+      <lb ed="#N" n="108"/>intellectui beato, a quo cogno scitur; ergo Quum 
+      <lb ed="#N" n="109"/>na Essentia causat visionem beatam, 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3534">
+                  <lb ed="#N" n="110"/>6 Prob. 2. ratione. Omne illudSquodynm 
+      <lb ed="#N" n="111"/>tur alteri, tanquam forma in ordine ad aliquam  
+      <lb ed="#N" n="112"/>operationem receptam extra illud, concurtitin 
+      <lb ed="#N" n="113"/>genere cause efficientis ad illam operationemi 
+      <lb ed="#N" n="114"/>sed Diuina Essentia vnitur intellectui beato; 
+      tan<lb ed="#N" n="115" break="no"/>quam forma inte lligibilis in ordine ad 
+      produ<lb ed="#N" n="116" break="no"/>cendam visionem beatam, quae non recipitur am 
+      <lb ed="#N" n="117"/>psa Diuina Essent ia, sed in intellectu beato; cuit 
+      <lb ed="#N" n="118"/>gnitur; ergo Diuima Essentia concurrit actiue ad 
+      <lb ed="#N" n="119"/>visionem beatam in genere causae efficientis: 
+      <lb ed="#N" n="120"/>Maior patet: nam ex Phil. forma, cui, mauime 
+      <!--734.xml-->
+      <pb ed="#N" n="717"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>competit ratio naturae, est 
+      principiumoperatio<lb ed="#N" n="2" break="no"/>nis immanentis concurres ad illam in genere. 
+      <lb ed="#N" n="3"/>c ausae formalis intrinsecae. Min, etiam constat; 
+      <lb ed="#N" n="4"/>nam intellectus secundum suam entitatem se 
+      <lb ed="#N" n="5"/>habet, tanquam potentia pure passiua in genere. 
+      <lb ed="#N" n="6"/>intelligibilium, objectum autem, seu species 
+      <lb ed="#N" n="7"/>eius vicatia se habet, tanquam forma, illum 
+      <lb ed="#N" n="8"/>actuans, &amp; determinans ad talem 
+      intellectio<lb ed="#N" n="9" break="no"/>nem, vt superius dictum est, 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3586">
+                  <lb ed="#N" n="10"/>Conf. Illud, quod est determinatiuum, 
+      po<lb ed="#N" n="11" break="no"/>tentiae in ordine ad aliquam operationem, se 
+      ha<lb ed="#N" n="12" break="no"/>bet, tanquam forma ipsius actiue concurrens ad 
+      <lb ed="#N" n="13"/>illam operationem, sed Diuina Essentia se habet,  
+      <lb ed="#N" n="14"/>vt determinatiua intellectus beati inordine ad 
+      <lb ed="#N" n="15"/>visionem sui ipsius; ergo actiue concurrit ad 
+      vi<lb ed="#N" n="16" break="no"/>sionem beatam. Maior patet, quia determinati 
+      <lb ed="#N" n="17"/>uum potentiae in ordine ad aliquam 
+      operatio<lb ed="#N" n="18" break="no"/>nem est actus ipsius potentiae; actus enim ex 
+      <lb ed="#N" n="19"/>Phil. est, qui determinat, &amp; actus, prout actus 
+      ali<lb ed="#N" n="20" break="no"/>cuius operationis, actiue se habet ad illam, sicut  
+      <lb ed="#N" n="21"/>receptio. alicuius operationis se habet passiue; 
+      <lb ed="#N" n="22"/>hinc actio dicitur ab actu, seu a concursu actus 
+      <lb ed="#N" n="23"/>ad actionem. Prob.min. Intellectus secundum 
+      <lb ed="#N" n="24"/>se est indifferens ad intelligendum quodlibet 
+      <lb ed="#N" n="25"/>objectum;: ergo non determinatur ad 
+      intelligen<lb ed="#N" n="26" break="no"/>dum hoc obiectum, nisi ex eo, quod vniatur cum 
+      <lb ed="#N" n="27"/>hoc objecto, non cum alio, ex quo deducitur 
+      <lb ed="#N" n="28"/>conmuniter, quod species intelligibilis, fiue 
+      obie<lb ed="#N" n="29" break="no"/>ejctum vnitum intellectui actiue concurrit ad 
+      in<lb ed="#N" n="30" break="no"/>tellectionem illius; quidquid dicat noster Toles 
+      <lb ed="#N" n="31"/>tan. 3. de An ima q. 2art. 3: &amp; Iauell. ibid; sed 
+      Di<lb ed="#N" n="32" break="no"/>quina Essentia cognoscitur ab intellectu beato; 
+      <lb ed="#N" n="33"/>ergo illi vnitur in ratione cognoscibilis, &amp; per 
+      <lb ed="#N" n="34"/>conseques cum illo concurrit actiue ad 
+      produ<lb ed="#N" n="35" break="no"/>cendam visionem beatam. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3646">
+                  <lb ed="#N" n="36"/>T Prob. 2. Ita se habet forma naturalis 
+      re<lb ed="#N" n="37" break="no"/>spectu potentiae passiuae in ordine ad 
+      operatio<lb ed="#N" n="38" break="no"/>nem naturalem physicam, sicut se habet forma 
+      <lb ed="#N" n="39"/>intelligibilis respectu potentiae intellectiuae 
+      in<lb ed="#N" n="40" break="no"/>ordine ad operationem ordinis intelligibilis: 
+      <lb ed="#N" n="41"/>sed forma naturalis vnitur potentiae physicae ita, 
+      <lb ed="#N" n="42"/>vr actiue concurrat ad operationem naturalem 
+      <lb ed="#N" n="43"/>in esse physico; ergo forma intelligibilis vnitur? 
+      <lb ed="#N" n="44"/>potentiae intellectiuae ita, vt actiue concurrat ad 
+      <lb ed="#N" n="45"/>operationem in esse intelligibili. Mator patet,  
+      <lb ed="#N" n="46"/>quia forma naturalis materialis v. g. vnitur 
+      ma<lb ed="#N" n="47" break="no"/>teriae, quae est potentia passiua physica, &amp; 
+      secun<lb ed="#N" n="48" break="no"/>dum se nullius est actiuitatis, &amp; ideo tota 
+      ratio<lb ed="#N" n="49" break="no"/>actiue agendi sumitur ab ipsa forma materiali, 
+      <lb ed="#N" n="50"/>quae est actus, &amp; per consequens forma 
+      natura<lb ed="#N" n="51" break="no"/>lis actiue concurrit simul cum materia, quam 
+      <lb ed="#N" n="52"/>actuat ad operationem in esse naturali. Mine 
+      <lb ed="#N" n="53"/>sufficienter probata est in sup. art. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3688">
+                  <lb ed="#N" n="54"/>S Obiicies 1. Principium formale quo 
+      es<lb ed="#N" n="55" break="no"/>sentialiter subordinatur, &amp; dependet a 
+      princi<lb ed="#N" n="56" break="no"/>pio quod, &amp; est minus principale illo; sed Dius 
+      <lb ed="#N" n="57"/>na Essentia nequit subordinari, aut dependere 
+      <lb ed="#N" n="58"/>ab intellectu creato, quia subordinatio, &amp; 
+      de<lb ed="#N" n="59" break="no"/>pendentia importat essentialiter imperfectionem, 
+      <lb ed="#N" n="60"/>quae repugnat Diuinae Essentiae; &amp; esse minus 
+      <!--734.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>principale dicit defectum respectu magis 
+      prin<lb ed="#N" n="62" break="no"/>cipalis, ergo Diuina Essentia nequit habere 
+      ra<lb ed="#N" n="63" break="no"/>tionem, principij formalis quo respectu 
+      intelle<lb ed="#N" n="64" break="no"/>ctusgreati, &amp; per consequens nequit actiue 
+      in<lb ed="#N" n="65" break="no"/>fluere in visionem beatam, tanquam forma 
+      in<lb ed="#N" n="66" break="no"/>tefsigibilis intellectus creati, quae essentialiter 
+      <lb ed="#N" n="67"/>est principium formale quo, 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3725">
+                  <lb ed="#N" n="68"/>Resp. dist. maiorem. Principium formale 
+      <lb ed="#N" n="69"/>quo intrinsece informans principium quod, conci  
+      <lb ed="#N" n="70"/>extrinsece actuans, &amp; determinans, vt est 
+      An<lb ed="#N" n="71" break="no"/>gelus respectu Coeli, &amp; substantia Angelica 
+      re<lb ed="#N" n="72" break="no"/>spectu sui intellectus, negatur:  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3738">
+                  <lb ed="#N" n="73"/>9. Obiicies 2. Ptincipium formale debet 
+      es<lb ed="#N" n="74" break="no"/>se intrinsecum potentiae, cuius est forma; debet 
+      <lb ed="#N" n="75"/>enim illi tribuere esse formale ex Phil. 2. de. 
+      <lb ed="#N" n="76"/>Anima text4i sed Diuina Essetia nequit 
+      tribue<lb ed="#N" n="77" break="no"/>re intellectui creato esse formale intrinsecum. 
+      <lb ed="#N" n="78"/>aliter suppleret vicem causae formalis 
+      intrinse<lb ed="#N" n="79" break="no"/>cae; ergo nequit esse principium formale quo 
+      <lb ed="#N" n="80"/>productiuum visionis beatae. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3758">
+                  <lb ed="#N" n="81"/>Resp. dist. maiorem. Principium formale. 
+      <lb ed="#N" n="82"/>debet esse intrinsecum, si ly intrinsecum dicat, 
+      <lb ed="#N" n="83"/>indistatiam localem, coneisi dicat informationem; 
+      <lb ed="#N" n="84"/>subdist. Principium formale tribuens esse 
+      for<lb ed="#N" n="85" break="no"/>male potentiae, vt v.g. lumen, quod dat 
+      intelle<lb ed="#N" n="86" break="no"/>ctui esse lucidum, conc, quod non dat esse 
+      intrin<lb ed="#N" n="87" break="no"/>secum formaliter, vt species, quae non tribuit 
+      <lb ed="#N" n="88"/>intellectui esse repraesentatiuum, sed tantum 
+      <lb ed="#N" n="89"/>extrinsece reprae sentat intellectui objectum 
+      <lb ed="#N" n="90"/>nege Phil. autem loquitur de principio formali 
+      <lb ed="#N" n="91"/>dante esse formale intrinsecum, quod est virtus 
+      <lb ed="#N" n="92"/>formalis ipsius potentiae, &amp; ideo debet esse 
+      in<lb ed="#N" n="93" break="no"/>trinsecum per informationem, vt diximus q. 2. 
+      <lb ed="#N" n="94"/>art. 2. non aute de principio extrinseco, quod non 
+      <lb ed="#N" n="95"/>est virtus potentiae, sed est tantum 
+      determinati<lb ed="#N" n="96" break="no"/>quum illius, vt est species, seu objectum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3795">
+                  <lb ed="#N" n="97"/>Instabis. Virtus proxima, quae est lumeno 
+      <lb ed="#N" n="98"/>debet esse intrinseca per informationem; ergo 
+      <lb ed="#N" n="99"/>multo magis principium remotum, quod est, 
+      <lb ed="#N" n="100"/>forma, debet esse intrinsecum per informationens 
+      <lb ed="#N" n="101"/>sed species se habet, veluti forma ipsius 
+      intelle<lb ed="#N" n="102" break="no"/>ctus; ergo Diuina Essentia nequit gerere vicem 
+      <lb ed="#N" n="103"/>speciei, &amp; per consequens non est principium 
+      <lb ed="#N" n="104"/>productiuum visionis beatae. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3816">
+                  <lb ed="#N" n="105"/>Rtesp. neg. conseque &amp; disparitas est, 
+      quia<lb ed="#N" n="106" break="no"/>virtus proxima, cum essentialiter sit qualitas, 
+      <lb ed="#N" n="107"/>quae petit esse in subjecto per informationem: 
+      <lb ed="#N" n="108"/>nulla enim substantia est immediate operatiua, 
+      <lb ed="#N" n="109"/>ideo petit intrinsece recipi in potentia per 
+      in<lb ed="#N" n="110" break="no"/>formationem; at vero forma, quae est principie 
+      <lb ed="#N" n="111"/>remotum, cum possit esse substantia completa, 
+      <lb ed="#N" n="112"/>quae essentialiter existit in se, &amp; per se, &amp; nequit 
+      <lb ed="#N" n="113"/>aliud informare, tanquam pars, ideo nequit 
+      re<lb ed="#N" n="114" break="no"/>cipi in alio per informationem. Forma ergos 
+      <lb ed="#N" n="115"/>quae est principium remotum, tunc est in alios 
+      <lb ed="#N" n="116"/>per informationem, quando est forma 
+      incom<lb ed="#N" n="117" break="no"/>pleta, &amp; componibilis cum altero; secus autem 
+      <lb ed="#N" n="118"/>de forma completa, &amp; incomponibili cum 
+      al<lb ed="#N" n="119" break="no"/>tero, quae existit in se, &amp; per se independenter 
+      <lb ed="#N" n="120"/>ab alio, tanquam a subjecto substentante, vt est 
+      <lb ed="#N" n="121"/>Diuina Essentia. 
+      <!--735.xml-->
+      <pb ed="#N" n="718"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>IO. Obiicies 3. Lumen gloriae dat 
+      sufficien<lb ed="#N" n="2" break="no"/>tem virtutem intellectui ad videndum Deum 
+      <lb ed="#N" n="3"/>ergo Essentia Diuina nullo modo est ratio agen 
+      <lb ed="#N" n="4"/>di ipsi intellectui, &amp; per conseques non est 
+      pro<lb ed="#N" n="5" break="no"/>ductiua visionis. Prob. antecedens; lume 
+      niglo<lb ed="#N" n="6" break="no"/>riae est tota virtus ipsius intellectus; ergo dat 
+      <lb ed="#N" n="7"/>sufficientem virtutem ad videndum Deum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3877">
+                  <lb ed="#N" n="8"/>Cons. Si Diuina Essentia in ratione 
+      spe<lb ed="#N" n="9" break="no"/>ciei produceret actiue visionem, sequeretur,  
+      <lb ed="#N" n="10"/>quod Deus haberet duplicem efficaciam in 
+      vi<lb ed="#N" n="11" break="no"/>sionem beatam, alteram, qua concurreret, vi 
+      <lb ed="#N" n="12"/>causa vniuersalis, per quam concurrit cum 
+      om<lb ed="#N" n="13" break="no"/>nibus causis secudis ad earum effectus, &amp; aliam, 
+      <lb ed="#N" n="14"/>qua concurreret in ratione speciei, sed 
+      conse<lb ed="#N" n="15" break="no"/>quens est falsum, quia efficacia Der vbicunque 
+      <lb ed="#N" n="16"/>operatur semper est vnica; ergo, &amp; antecedens. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3899">
+                  <lb ed="#N" n="17"/>Resp. dist. antecedens; lumen gloriae tribuit. 
+      <lb ed="#N" n="18"/>totam efficaciam proximam intel lectui 
+      relin<lb ed="#N" n="19" break="no"/>quendo ipsum in sua indifferentia in ordine ad 
+      <lb ed="#N" n="20"/>omnia objecta supernaturalia, concitotam 
+      effi<lb ed="#N" n="21" break="no"/>caciam remotam, determ inando intellectum ad 
+      <lb ed="#N" n="22"/>talem intellectionem, neg: per quod patet ad 
+      <lb ed="#N" n="23"/>probi sicut enim, quanuis calor sit tota virtus 
+      <lb ed="#N" n="24"/>proxima ignis, attamen non tollit, quod forma 
+      <lb ed="#N" n="25"/>substantialis ignis, quae dat ipsi tale esse 
+      specifi<lb ed="#N" n="26" break="no"/>tum, non habeat suam efficaciam, ita a pari¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3923">
+                  <lb ed="#N" n="27"/>Ad confneg. sequela: nam Deus ad 
+      visio<lb ed="#N" n="28" break="no"/>nem beatam non concurrit, vt auctor naturae, &amp; 
+      <lb ed="#N" n="29"/>ideo non concurrit per auxilium ordinarium 
+      <lb ed="#N" n="30"/>&amp; naturale, sed tantum, vt auctor gratiae, &amp; ideo 
+      <lb ed="#N" n="31"/>per vnicam tantum efficaciam. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3936">
+                  <lb ed="#N" n="32"/>II Obiicies 4. Principium operationis 
+      im<lb ed="#N" n="33" break="no"/>manentis debet esse susceptiuum actionis: nam 
+      <lb ed="#N" n="34"/>actio immanens recipitur in eodem principio, a 
+      <lb ed="#N" n="35"/>quo producitur; sed Diuina Essentia non potest. 
+      <lb ed="#N" n="36"/>re cipere visionem beatam, aliter esset subjectum 
+      <lb ed="#N" n="37"/>passiuum, quod repugnat; ergo Diuina Essentia. 
+      <lb ed="#N" n="38"/>quatenus habet rationem speciei, non est 
+      prin<lb ed="#N" n="39" break="no"/>cipium productiuum visionis: 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3956">
+                  <lb ed="#N" n="40"/>Resp. dist. maiorem. Principium quod 
+      ma<lb ed="#N" n="41" break="no"/>teriale, quod se habet veluti materia, vt in casu 
+      <lb ed="#N" n="42"/>est intellectus, conce principium formale, siue 
+      <lb ed="#N" n="43"/>intrinsecum, siue extrinsecum, negi sic lumen, 
+      <lb ed="#N" n="44"/>quanuis sit principium formale productiuum 
+      <lb ed="#N" n="45"/>visionis, attamen non est receptiuum illius, 
+      vt<lb ed="#N" n="46" break="no"/>diximus q. 2. art. 3. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3975">
+                  <lb ed="#N" n="47"/>I2. Obiicies 5. Si Diuina Essetia esset 
+      prin<lb ed="#N" n="48" break="no"/>eipium productiuum visionis, se teneret ex 
+      par<lb ed="#N" n="49" break="no"/>te intellectus, quia esset principium, mediante. 
+      <lb ed="#N" n="50"/>quo intellectus produceret visionem, sed 
+      con<lb ed="#N" n="51" break="no"/>sequens est falsum, quia species se tenet ex 
+      par<lb ed="#N" n="52" break="no"/>te objecti; ergo, &amp; antecedens. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e3991">
+                  <lb ed="#N" n="53"/>Resp. neg. sequelam, illud enim se tenet 
+      ex<lb ed="#N" n="54" break="no"/>parte intellectus, quod principaliter requititur,  
+      <lb ed="#N" n="55"/>tanquam virtus illius simpliciter necessaria ad 
+      <lb ed="#N" n="56"/>agendum; species autem non requititur 
+      tan<lb ed="#N" n="57" break="no"/>quam virtus necessaria intellectui ad agendum 
+      <lb ed="#N" n="58"/>sed tanquam naturalis similitudo objecti, &amp; 
+      ta<lb ed="#N" n="59" break="no"/>quam principium extrinsecum, efficienter 
+      pro<lb ed="#N" n="60" break="no"/>ducens. ipsam visionem, &amp; ideo se tenet 
+      ex<lb ed="#N" n="61" break="no"/>parte obiecti. 
+      <!--735.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="62"/>I3 Obijcies 6. Substantia Angeli est 
+      spe<lb ed="#N" n="63" break="no"/>cies respectu cognitionis sui ipsius, &amp; tamen, 
+      <lb ed="#N" n="64"/>non potest producere ipsam visionem, quia nul 
+      <lb ed="#N" n="65"/>la substantia est immediate operatiua; ergo de 
+      <lb ed="#N" n="66"/>ratione speciei non est actiue pro ducere visione 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4028">
+                  <lb ed="#N" n="67"/>Resp. Gonet; substantiam non esse immedia. 
+      <lb ed="#N" n="68"/>te operatiuam in esse entitatiuo, bene 
+      tamen<lb ed="#N" n="69" break="no"/>in esse intellectiuo. Sed haec responsio gratis 
+      <lb ed="#N" n="70"/>iaffertur, neque assignat rationem disparitatis, 
+      <lb ed="#N" n="71"/>nam si substantiae potest competere immediate 
+      <lb ed="#N" n="72"/>clare operationem intellectiuam, quae est 
+      nobi<lb ed="#N" n="73" break="no"/>lior, non videtur, cur ei denegandum sit 
+      esse<lb ed="#N" n="74" break="no"/>immeniate elicitiuam operationis naturalis, que 
+      <lb ed="#N" n="75"/>est ignobilior; ideo omissa hac responsione. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4050">
+                  <lb ed="#N" n="76"/>Resp. neg. 2. partem antecedentis: ad 
+      <lb ed="#N" n="77"/>cuius prob. insertam dicitur, quod substantia 
+      <lb ed="#N" n="78"/>Angeli non producit visionem, nisi sitlucida; &amp; 
+      <lb ed="#N" n="79"/>illustrata a lumine; non enim producit visione 
+      <lb ed="#N" n="80"/>nisi quatenus repraesentat; sed non repraesentat. 
+      <lb ed="#N" n="81"/>nisi quatenus est lucida, vt patet de speculos 
+      <lb ed="#N" n="82"/>quod, nisi sit lucidum, non repraesentat; erge 
+      <lb ed="#N" n="83"/>substantia Angeli non producit visionem, nisi 
+      <lb ed="#N" n="84"/>mediante lumines &amp; sic non est immediate 
+      ope<lb ed="#N" n="85" break="no"/>ratiua, nec etiam in esse intelligibili. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4074">
+                  <lb ed="#N" n="86"/>I4 Colligitur ex dictis in tract. de Simplic. 
+      <lb ed="#N" n="87"/>Dei, &amp; in hac q. quod vnio, qua Diuina 
+      Essen<lb ed="#N" n="88" break="no"/>tia vnitur intellectui beato, non fundatur 
+      passi<lb ed="#N" n="89" break="no"/>ue in ipsa Essentia Diuina, sed in intellectu 
+      bea<lb ed="#N" n="90" break="no"/>to tantum, sicut vnio formae cum materia funda 
+      <lb ed="#N" n="91"/>tur in sola materia: nam vnio in illo passiue 
+      re<lb ed="#N" n="92" break="no"/>cipitur, quod participat perfectionem 
+      resultan<lb ed="#N" n="93" break="no"/>tem ex illa vnione, &amp; quod mutatur ad illam 
+      <lb ed="#N" n="94"/>perfectionem; sed solus intellectus beatus 
+      recis<lb ed="#N" n="95" break="no"/>pit perfectionem a Diuina Essentia, &amp; ad illam 
+      <lb ed="#N" n="96"/>mutatur; ergo talis vnio passiue recipitur inso 
+      <lb ed="#N" n="97"/>lo intellectu; tum quia vnio passiue recipitur in 
+      <lb ed="#N" n="98"/>illo, quod passiue vnitur, non autem in illo 
+      <lb ed="#N" n="99"/>quod actiue sibi vnit alterum sicut actio 
+      recipi<lb ed="#N" n="100" break="no"/>tur in passo, non in Agente, quia solum passum 
+      <lb ed="#N" n="101"/>habet recipere, &amp; pati; ergo vnio recipitur 
+      so<lb ed="#N" n="102" break="no"/>lum in subjecto passiuo, quod est intellectus; ne 
+      <lb ed="#N" n="103"/>autem in Diuina Effentia, quae se habet mete 
+      <lb ed="#N" n="104"/>efficienter extrinfece. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g2050x-Dd1e4119">
+               <head xml:id="ccc7yd-g2050x-Hd1e4121">Articulus 4</head>
+               <p xml:id="ccc7yd-g2050x-d1e4123">
+                  <lb ed="#N" n="105"/>ARI. IV 
+      <lb ed="#N" n="106"/>An Beati videndo Deum forment Verbuma 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4130">
+                  <lb ed="#N" n="107"/>Vplicem Verbi ethimologiam tradit 
+      <lb ed="#N" n="108"/>Beatiss. P. dug. lib. de Principijs Diale 
+      <lb ed="#N" n="109"/>cticae c. 6; &amp; ex illo B. Doct. in 1. dist. 27. 
+      princa<lb ed="#N" n="110" break="no"/>q. 1. S. His duabus, primo enim dicitur a verbe 
+      <lb ed="#N" n="111"/>rare aerem: &amp; iste modus ethimologizandiaeon 
+      <lb ed="#N" n="112"/>quenit solum verbo vocali, non mentali; Secum 
+      <lb ed="#N" n="113"/>do dicitur verbum, quasi verum boans5&amp; siti 
+      <lb ed="#N" n="114"/>proprie dicitur de verbo mentis, in qua proprie 
+      <lb ed="#N" n="115"/>est veritas; hic loquimur solum de verbo metis 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4152">
+                  <lb ed="#N" n="116"/>Verbum mentis adhuc duplici ter sumitum 
+      <lb ed="#N" n="117"/>vt notat idem Fundatiss. Doct. Quodl. 5. qoιse 
+      <lb ed="#N" n="118"/>licet proprie, &amp; improprie. Verbum propriese 
+      <lb ed="#N" n="119"/>gnificat ipsam definitionem, seu essentiam rerm 
+      <lb ed="#N" n="120"/>mente acceptam, vt docet Beatiss. P, Augalibm 
+      <!--736.xml-->
+      <pb ed="#N" n="719"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>de. Trin, c. 161vbi ait: De finio, quid sit 
+      intemperan<lb ed="#N" n="2" break="no"/>tia, &amp; hoc est verbum eius: &amp; rationem huius 
+      tra<lb ed="#N" n="3" break="no"/>dit lib. 15. de Trin.c. 11, vbi recapitulans, &amp; 
+      ex<lb ed="#N" n="4" break="no"/>piicans ea, quae dixerat in omnibus superioribus. 
+      <lb ed="#N" n="5"/>libris docet, quod verbum mentis proprie 
+      sum<lb ed="#N" n="6" break="no"/>ptum est illud, quod proprie significatur 
+      per<lb ed="#N" n="7" break="no"/>verbum externum; ait enim: Verbum, quod foris 
+      <lb ed="#N" n="8"/>fonat, signum est verbi, quod intus latet, &amp; quia 
+      <lb ed="#N" n="9"/>definirio habet notificare essentiam rei, nam, 
+      <lb ed="#N" n="10"/>vtpote notior definito, illam explicat, ideo 
+      pau<lb ed="#N" n="11" break="no"/>lo post vocat verbum cum amore notitia; ex 
+      qui<lb ed="#N" n="12" break="no"/>bus apparet, quod Sanctiss. P. non sumit 
+      noti<lb ed="#N" n="13" break="no"/>tiam pro ipsa intellectione formali, vt male 
+      ar<lb ed="#N" n="14" break="no"/>bitrantur Aliqui, qui propter hoc ab actu 
+      in<lb ed="#N" n="15" break="no"/>tellectus non distinguunt verbum, sed sumit 
+      noti<lb ed="#N" n="16" break="no"/>tiam pro ipsa re cognita, &amp; explicata, quae 
+      ha<lb ed="#N" n="17" break="no"/>betrnotificare rem, quam in animo habemus; 
+      <lb ed="#N" n="18"/>propter quod subiungit: Et quemadmodum cum 
+      <lb ed="#N" n="19"/>persensum discimus corpora, fit eorum aliqua 
+      si<lb ed="#N" n="20" break="no"/>militudo in animo nostro, quae phantasia memoriae, 
+      <lb ed="#N" n="21"/>est; non enim omnino ipsa corpora in anima sunt,  
+      <lb ed="#N" n="22"/>cum ea cogitamus, sed eorum similitudines. Et  
+      <lb ed="#N" n="23"/>c. 11: concludit. Ideoque &amp; imago, &amp; verbum. 
+      <lb ed="#N" n="24"/>est, quodde illa exprimitur. Tandem de 
+      Princi<lb ed="#N" n="25" break="no"/>pis Dialecticae c. 5. explicuerat, quid proprie sit, 
+      <lb ed="#N" n="26"/>verbum dicens: Sed ipsa res verbum vocatur;  
+      <lb ed="#N" n="27"/>patet autem, quod ipsa definitio rei, seu essentia 
+      <lb ed="#N" n="28"/>rei in animo concepta non est formaliter ipsa. 
+      <lb ed="#N" n="29"/>intellectio, sed objectum intellectionis; &amp; verbum, 
+      <lb ed="#N" n="30"/>quod foris sonat, non significat formaliter ipsa 
+      <lb ed="#N" n="31"/>intellectionem, sed rem intellectam, vt cum 
+      di<lb ed="#N" n="32" break="no"/>citur leo, lapis, non significat ipsam actionem 
+      in<lb ed="#N" n="33" break="no"/>tellectus directe, sed naturam leoninam, vel 
+      ina<lb ed="#N" n="34" break="no"/>nimatam, quanuis consignificetur etiam ipsa 
+      <lb ed="#N" n="35"/>cognitio, quia significat ipsam tem in animo 
+      con<lb ed="#N" n="36" break="no"/>ceptam, tadem similitudines, &amp; imagines rerum, 
+      <lb ed="#N" n="37"/>seu ipsae res cognitae non sunt ipsa cognitio, sed  
+      <lb ed="#N" n="38"/>sunt esse obiectiuum ipsarum rerum, prout 
+      ter<lb ed="#N" n="39" break="no"/>minat actum intellectus. Haec notauimus ad 
+      <lb ed="#N" n="40"/>diruendum principale fundamentum 
+      Aduersa<lb ed="#N" n="41" break="no"/>riorum opinantium in doctrina Sanctiss. P. 
+      ver<lb ed="#N" n="42" break="no"/>bum, seu speciem expressam esse idem 
+      formali<lb ed="#N" n="43" break="no"/>ter, ac ipsam intellectionem, ac propter hoc 
+      as<lb ed="#N" n="44" break="no"/>serentium Beatos per visionem beatam 
+      produ<lb ed="#N" n="45" break="no"/>cere verbum creatum, quia producunt 
+      visio<lb ed="#N" n="46" break="no"/>nem beatam, quae est idem formaliter; ac 
+      ver<lb ed="#N" n="47" break="no"/>bum, quod, quam falsum sit, ex hucusque 
+      di<lb ed="#N" n="48" break="no"/>ctis, &amp; multo clarius, si dicta Sanctiss. P. attentius 
+      <lb ed="#N" n="49"/>legerint, patere potest. Verbum improprie est? 
+      <lb ed="#N" n="50"/>ipse actus intelligendi, per quem formatur 
+      ver<lb ed="#N" n="51" break="no"/>bum; quando enim aliquod nomen est terminus 
+      <lb ed="#N" n="52"/>connotatiuus significans vnum principaliter, &amp; 
+      <lb ed="#N" n="53"/>aliud ex consequenti, vt cena, prandium, tunc 
+      <lb ed="#N" n="54"/>potest pro vtroque vsurpari, sed magis proprie 
+      <lb ed="#N" n="55"/>pro principaliter significato, quam pro minus 
+      <lb ed="#N" n="56"/>principali; cum igitur verbum significet ipsam 
+      <lb ed="#N" n="57"/>rem in animo conceptam, ideo significat 
+      rem<lb ed="#N" n="58" break="no"/>&amp; cognitionem intellectus, sed tem principalis 
+      <lb ed="#N" n="59"/>ter, &amp; ideo magis proprie, cognitionem, vero 
+      <lb ed="#N" n="60"/>minus principaliter; &amp; ideo minus proprie. Sup¬ 
+      <!--736.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>posito igitur, quid proprie significet verbum, &amp; 
+      <lb ed="#N" n="62"/>quomodo proprie sumatur a Beatiss. P. 
+      inquiri<lb ed="#N" n="63" break="no"/>musaan Beati per visionem beatam forment. 
+      <lb ed="#N" n="64"/>verbum, quod sit similitudo expressa Diuinae 
+      <lb ed="#N" n="65"/>Essentiae, non autem, an possint formare verba 
+      <lb ed="#N" n="66"/>de creaturis per cognitionem naturalem? 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4319">
+                  <lb ed="#N" n="67"/>S Prima sententia opinatur Beatos per 
+      vi<lb ed="#N" n="68" break="no"/>sionem beatam producere verbum. Ita Mol. 1. p. 
+      <lb ed="#N" n="69"/>q. 12. disp. 1; Sua: lib. 2. de Aur. c. 13 Vasq. 1. p. 
+      <lb ed="#N" n="70"/>disp. 38. c. 2. Conimb. lib. 3. de anima c. 8. q. 2. art. 4i 
+      <lb ed="#N" n="71"/>Mayron in 1. dist. 27. q. 1, Bassol. ibidem q. 2.art. 
+      <lb ed="#N" n="72"/>3: &amp; noster Lusit. de Beat. lib. 8. p. 2. q. 2. art. 2. 
+      <lb ed="#N" n="73"/>S. 3: &amp; lib. 11. 4. 7. art. 3: &amp; omnes alij 
+      substinen<lb ed="#N" n="74" break="no"/>tes possibilitatem speciei impressae; quibus 
+      ad<lb ed="#N" n="75" break="no"/>duntur Capreol. in 4. dist. 49. q. 5: Sot. ibid. q. 2. art. 
+      <lb ed="#N" n="76"/>3. Ferrar. Econtra Gent. e. 53: Zanard; Arrub. disp. 
+      <lb ed="#N" n="77"/>17. c. 2. Granad. iract. 5. de Visdisp. 1. sect. 2. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4346">
+                  <lb ed="#N" n="78"/>Secunda sententia vult Beatos posse 
+      for<lb ed="#N" n="79" break="no"/>mare. verbum inadaequatum alicuius Attributi, 
+      <lb ed="#N" n="80"/>non vero adaequatum. Ita Tum. 1. p. 7. 27. art. 1, 
+      <lb ed="#N" n="81"/>disp. 13 &amp; apud illum Calet; &amp; Capreol. in 1. 
+      <lb ed="#N" n="82"/>dist. 27. q. 2. ad 8. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4359">
+                  <lb ed="#N" n="83"/>Tertia sententia docet Beatos nec de 
+      fa<lb ed="#N" n="84" break="no"/>cto, nec de possibili formare verbum. Ita B. Doct, 
+      <lb ed="#N" n="85"/>Quodl. 5. q. 9, Argent. in 4. dist. 49. art. 2. Gibbons 
+      <lb ed="#N" n="86"/>Lafosse de Vis.q. 3. art. 2, Mag. Conson. in M.S; ex 
+      <lb ed="#N" n="87"/>exteris vero. Henr. Quodl. 3. q. 1; Caiet. 1. p. q. 12. 
+      <lb ed="#N" n="88"/>art. 4. Cabr. 3. p. q. 11. art. 1. disp. 5. 8. 9: Nax; Sala 
+      <lb ed="#N" n="89"/>mat; Ioc aSTho; Godoy de Visc tract. 2. disp. 123. 
+      <lb ed="#N" n="90"/>Gonet, Ferrus, &amp; omnes alij Thomistae communir. 
+      <lb ed="#N" n="91"/>ter. Pro cuius decisione. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4381">
+                  <lb ed="#N" n="92"/>3 Not; quod hic non quaerimus, an Beati 
+      <lb ed="#N" n="93"/>possint formare verbum repraesentans ipsam 
+      vi<lb ed="#N" n="94" break="no"/>sionem beatam, vt opinantur Sone; &amp; Nazar, 
+      <lb ed="#N" n="95"/>de D. Paulo e raptu regresso, sed quaerimus, 
+      an<lb ed="#N" n="96" break="no"/>possint formare verbum clare, &amp; intuitiue 
+      re<lb ed="#N" n="97" break="no"/>praesentans Diuinam Essentiam, prout est 
+      obie<lb ed="#N" n="98" break="no"/>ctum beatificum: in qua re Aduersaruj duplici 
+      <lb ed="#N" n="99"/>medio procedunt, scilicet auctoritate SS.PP, &amp; 
+      <lb ed="#N" n="100"/>ratione fundata in identitate intellectionis cum 
+      <lb ed="#N" n="101"/>ipso verbo; volunt enim verbum non 
+      distin<lb ed="#N" n="102" break="no"/>gui realiter ab intellectione, sed tantum vel 
+      <lb ed="#N" n="103"/>modaliter, vel formaliter ex natura rei, vel vira 
+      <lb ed="#N" n="104"/>tualiter, vnusquisque pro sua sententia. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4412">
+                  <lb ed="#N" n="105"/>Quantum ad auctoritatem SS. PP, &amp; 
+      prae<lb ed="#N" n="106" break="no"/>cipue Beatiss. Ecclesiae Magisiri, in quofirmius 
+      <lb ed="#N" n="107"/>se substinere conantur, iam supra explicatum 
+      <lb ed="#N" n="108"/>est manifeste, quantum a recta eius mentis 
+      in<lb ed="#N" n="109" break="no"/>telligentia aberrent, &amp; infra ad auctoritates 
+      <lb ed="#N" n="110"/>aliorum PP. respondebimus. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4428">
+                  <lb ed="#N" n="111"/>Quantum vero ad indistinctionem 
+      intel<lb ed="#N" n="112" break="no"/>lectus a verbo, quanuis lib. 3. de Anima 
+      suffi<lb ed="#N" n="113" break="no"/>cienter satisfiat, artamen hic breuiter aliqua 
+      re<lb ed="#N" n="114" break="no"/>colenda sunt. Et 1. verbum est ipsa res 
+      cogni<lb ed="#N" n="115" break="no"/>ta, siue species repraesentans ipsam tem, in quar 
+      <lb ed="#N" n="116"/>tanquam in speculo, intellectus rem intuetur, 
+      ve<lb ed="#N" n="117" break="no"/>docet Beatiss. P. vbi sup; sed intellectio non est? 
+      <lb ed="#N" n="118"/>res intellecta, sicut visio ocularis non est res 
+      vi<lb ed="#N" n="119" break="no"/>sa; ergo verbum non est idem, ac intellectio. 
+      <lb ed="#N" n="120"/>2. Verbum, seu species expressa durat inmes 
+      <!--737.xml-->
+      <pb ed="#N" n="720"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>moria, in qua conseruatur etiam pro eo tunc, 
+      <lb ed="#N" n="2"/>quo non durat, nec conseruatur intellectio; 
+      me<lb ed="#N" n="3" break="no"/>moria enim dicitur thesaurus specierum; quia est, 
+      <lb ed="#N" n="4"/>veluti arca, se u depositum, in quo reponuntur, &amp; 
+      <lb ed="#N" n="5"/>conseruantur species; non semper autem manet 
+      <lb ed="#N" n="6"/>intellectio, quae secundum se fluens, &amp; volubilis 
+      <lb ed="#N" n="7"/>est, aliter si quandiu manent species in memo, 
+      <lb ed="#N" n="8"/>ria, manerent intellectiones productiuae earum 
+      <lb ed="#N" n="9"/>dem, sequeretur, quod intellectus actualiter Se 
+      <lb ed="#N" n="10"/>per intelligeret illas res repraesentatas per illas 
+      <lb ed="#N" n="11"/>species, quia intellectus denominatur actu im 
+      <lb ed="#N" n="12"/>telligens ab actuali intellectione, &amp; tandiu 
+      dici<lb ed="#N" n="13" break="no"/>tur actu intelligere, quandiu in ipso manet 
+      <lb ed="#N" n="14"/>actualis intellectio; sicut paries tandiu dicitur  
+      <lb ed="#N" n="15"/>esse albus, quandiu in illo durat, &amp; conseruatur 
+      <lb ed="#N" n="16"/>albedo: experimur autem, quod non 
+      semper<lb ed="#N" n="17" break="no"/>actu intelligimus illas res, quarum species 
+      ex<lb ed="#N" n="18" break="no"/>pressas habemus in memoria; ergo 
+      intellectio<lb ed="#N" n="19" break="no"/>&amp; verbum, quod est idem formaliter, ac species 
+      <lb ed="#N" n="20"/>expressa realiter distinguuntur; separatio enim 
+      <lb ed="#N" n="21"/>duarum entitatum est signum manifeste indicas 
+      <lb ed="#N" n="22"/>distinctionem realem. 3. Quia licet actio 
+      tran<lb ed="#N" n="23" break="no"/>siens non distinguatur realiter ab effectu, qui  
+      <lb ed="#N" n="24"/>est terminus per illam productus eo, quia 
+      actio<lb ed="#N" n="25" break="no"/>transiens subjectatur in passo, &amp; non 
+      distingui<lb ed="#N" n="26" break="no"/>tur, nisi virtualiter a passione; propter quoo 
+      <lb ed="#N" n="27"/>actio transiens nihil aliud est, quam ipse effectus 
+      <lb ed="#N" n="28"/>in fieri, seu ipsum fieri effectus, vt ratiocinatur. 
+      <lb ed="#N" n="29"/>verior Philosophia, attamen actio immanens 
+      es<lb ed="#N" n="30" break="no"/>sentialiter distinguitur a suo termino 
+      propter<lb ed="#N" n="31" break="no"/>oppositam rationem: nam in tantum actio 
+      tran<lb ed="#N" n="32" break="no"/>siens non distinguitur realiter ab effectu, 
+      in<lb ed="#N" n="33" break="no"/>quantum recipitur, &amp; subjectatur in illo, vt 
+      di<lb ed="#N" n="34" break="no"/>ctum est; sed actio immanens non subjectatur in 
+      <lb ed="#N" n="35"/>suo termino, sed in suo principio productiuo 
+      <lb ed="#N" n="36"/>ipsius termini: in hoc enim formaliter distingui. 
+      <lb ed="#N" n="37"/>tur actio immanens ab actione transeunte, vt 
+      te<lb ed="#N" n="38" break="no"/>nent communiter omnes; ergo intellectio, qua 
+      <lb ed="#N" n="39"/>essentialiter est actio immanens, distinguitur 
+      <lb ed="#N" n="40"/>realiter a specie expressa, seua verbo, quod est, 
+      <lb ed="#N" n="41"/>terminus per illam productus, &amp; per hoc eui  
+      <lb ed="#N" n="42"/>denter conuincitur etiam falsitas rationis 
+      Ad<lb ed="#N" n="43" break="no"/>uersariorum. His declaratis. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4552">
+                  <lb ed="#N" n="44"/>4 Vnica concl. Beati nec de facto, nec de 
+      <lb ed="#N" n="45"/>possibili possunt formare verbum, creatum 
+      re<lb ed="#N" n="46" break="no"/>praesestans Diuinam Essentiam, quanuis alique 
+      <lb ed="#N" n="47"/>modo possit dici formare Verbum Diuinum 
+      <lb ed="#N" n="48"/>quatenus exprimunt Diuinam Essentiam; unde 
+      <lb ed="#N" n="49"/>Diuina Essentia nedum habet rationem species 
+      <lb ed="#N" n="50"/>impressae in intellectu Beatorum, sed etiam 
+      ra<lb ed="#N" n="51" break="no"/>tionem speciei expressae, &amp; sicuti implicat 
+      <lb ed="#N" n="52"/>quod detur species creata impressa illam 
+      intui<lb ed="#N" n="53" break="no"/>tiue repraesentans, ita dicendum de specie 
+      ex<lb ed="#N" n="54" break="no"/>pressa, seu de verbo. Prob. 1. ex illo Apost. 
+      Vide<lb ed="#N" n="55" break="no"/>bimus facierad faciem. Ex quo sic. Beati 
+      essentia<lb ed="#N" n="56" break="no"/>liter, vt docet Scriptura, nequeunt esse Beati, 
+      <lb ed="#N" n="57"/>nisi per cognitionem: intuitiuam, &amp; immedia; 
+      <lb ed="#N" n="58"/>tam Diuinae Essentiae in seipsa, hoc enim 
+      signifi<lb ed="#N" n="59" break="no"/>cat ad faciem; ergo nequeunt de illa formare 
+      <lb ed="#N" n="60"/>verbum, quod est speculum, in quo videtur res; 
+      <!--737.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>visio enim specularis nequit esse formaliter in 
+      <lb ed="#N" n="62"/>tuitiua, &amp; per consequens nequit esse visio 
+      bea<lb ed="#N" n="63" break="no"/>ta, quae essentialiter est intuitiua. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4603">
+                  <lb ed="#N" n="64"/>S Prob. 2. ex Beatiss. P. Augaep. 112. ad 
+      Pau<lb ed="#N" n="65" break="no"/>linam c. 8. vbi ait: Deus ad populum suum, &amp; 
+      he<lb ed="#N" n="66" break="no"/>reditatem pertinentibus nulla specie se demonstrat.  
+      <lb ed="#N" n="67"/>&amp; dein: Proinde narrante Unigenito, quiest in 
+      <lb ed="#N" n="68"/>sinu patris, narratione ineffabili creatura ratio: 
+      <lb ed="#N" n="69"/>nalis munda, &amp; sancta impletur visione Dei 
+      inef<lb ed="#N" n="70" break="no"/>fabili. Ex quibus sic. Verbum Diuinum narrat 
+      <lb ed="#N" n="71"/>creature narratione ineffabili simpliciter a 
+      crea<lb ed="#N" n="72" break="no"/>tura, &amp; creatura impletur visione simpliciter 
+      <lb ed="#N" n="73"/>inc ffabili; sed creatura, quae non potesteffari 
+      <lb ed="#N" n="74"/>Jobiectum cognitum, nequit de illo formare ver 
+      <lb ed="#N" n="75"/>bum, cum verbum tantum formetur per ipsum. 
+      <lb ed="#N" n="76"/>effari, quod idem est, ac loquis &amp; vissoreutre 
+      <lb ed="#N" n="77"/>pugnat effari, &amp; loqui, nequit verbumformare 
+      <lb ed="#N" n="78"/>sicuti implicat, quod homo priuatus loquela; 
+      <lb ed="#N" n="79"/>prout priuatus, formet verbum; ergo Beati 
+      vi<lb ed="#N" n="80" break="no"/>dentes obiectum inenarrabile, &amp; ineffabile 
+      sim<lb ed="#N" n="81" break="no"/>pliciter per visionem, cui nequit 
+      competere<lb ed="#N" n="82" break="no"/>narrare, aut effari, nequeunt de illo verbum 
+      <lb ed="#N" n="83"/>formare, aliter illud esset narrabile, &amp; effabile, 
+      <lb ed="#N" n="84"/>quia illud, de quo formatur verbum, essentialis 
+      <lb ed="#N" n="85"/>ter narratur, &amp; effatur; ex quibus patet Beatisi. 
+      <lb ed="#N" n="86"/>Patrem nedum docere nostram sententiam, sed 
+      <lb ed="#N" n="87"/>etiam tradere efficacissimam rationem. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4658">
+                  <lb ed="#N" n="88"/>6 Prob. 3. omnibus illis auctoritatibus, &amp; 
+      <lb ed="#N" n="89"/>rationibus, quibus probauimus implicare 
+      spe<lb ed="#N" n="90" break="no"/>ciem impressam creatam; eadem enim ratio est 
+      <lb ed="#N" n="91"/>de vtraque, cum vtraque se teneat ex parte 
+      obie<lb ed="#N" n="92" break="no"/>cti, tanquam naturalis similitudo illius. Imo sic. 
+      <lb ed="#N" n="93"/>ad hominem arguitur. Species expressa 
+      secun<lb ed="#N" n="94" break="no"/>dum Aduersarios est perfectior specie expressa; 
+      <lb ed="#N" n="95"/>habet enim rationem vitimi termini ipsius 
+      visio<lb ed="#N" n="96" break="no"/>nis, &amp; ab Ultimo desumitur complementum 
+      <lb ed="#N" n="97"/>perfectionis ipsius rei; ergo species expressaest. 
+      <lb ed="#N" n="98"/>immaterialior specie impressa; perfectio enim 
+      <lb ed="#N" n="99"/>speciei consistit in repraesentares, &amp; immateria 
+      <lb ed="#N" n="100"/>ditas est ratio repraesentandi, sed in tantum 
+      re<lb ed="#N" n="101" break="no"/>pugnat species impressa, quia esset immateria 
+      <lb ed="#N" n="102"/>lior Diuina Essentia; ergo multo magis repus 
+      <lb ed="#N" n="103"/>gnat species expressa, quia esset superimmate 
+      <lb ed="#N" n="104"/>rialior Diuina Essentia, esset enim immateria 
+      <lb ed="#N" n="105"/>lior specie impressa, quae esset immaterialios 
+      <lb ed="#N" n="106"/>Diuina Essentia. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4702">
+                  <lb ed="#N" n="107"/>V. Probatur 4. Visio beata immediate 
+      ter<lb ed="#N" n="108" break="no"/>minatur essentialiter ad obiectum formalite 
+      <lb ed="#N" n="109"/>beatificans; ergo visio beata nequit formate 
+      <lb ed="#N" n="110"/>speciem expressam. Prob. maior: nam quicum 
+      <lb ed="#N" n="111"/>que actus specificatur ab obiecto primario; ses 
+      <lb ed="#N" n="112"/>objectum primarium est illud, in quod tendit 
+      <lb ed="#N" n="113"/>immediate, quia illud, in quod tendit mediante 
+      <lb ed="#N" n="114"/>alio, non est primarium, sed secundarium zegge 
+      <lb ed="#N" n="115"/>quilibet actus cuiuscunque potentiae immediam 
+      <lb ed="#N" n="116"/>re tendit in objectum, a quo specificatur; sed  
+      <lb ed="#N" n="117"/>visio beata, prout beata, specificatur ab obiecte 
+      <lb ed="#N" n="118"/>formaliter beatificante; ergo visio beata 
+      imme<lb ed="#N" n="119" break="no"/>diate terminatur cssentialiter ad objectum for 
+      <lb ed="#N" n="120"/>maliter beatificans. Probi min. Nulla creatis 
+      <!--738.xml-->
+      <pb ed="#N" n="721"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ra, quantuncunque perfecta, potest objectiue 
+      <lb ed="#N" n="2"/>beatificare intellectum creatum, quia nulla 
+      <lb ed="#N" n="3"/>creatura potest esse summum bonum, &amp; vltimus 
+      <lb ed="#N" n="4"/>finis simpliciter, cui solum conuenit objectiue 
+      <lb ed="#N" n="5"/>beatificare, &amp; perfecte satiare appetitum 
+      crea<lb ed="#N" n="6" break="no"/>turae rationalis, sed illa species creata esset 
+      <lb ed="#N" n="7"/>creatura, quia esset actus creaturae rationalis, 
+      <lb ed="#N" n="8"/>ergo non esset obiectum formaliter beatificans. 
+      <lb ed="#N" n="9"/>Prob. conseque nam si visiobeata formaret specie 
+      <lb ed="#N" n="10"/>expressam, immediate tenderet in illam, in qua 
+      <lb ed="#N" n="11"/>videret Diuinam Essentiam, tanquam in speculo 
+      <lb ed="#N" n="12"/>illam repraesentante, ergo non esset formaliter 
+      <lb ed="#N" n="13"/>vsio beata. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4770">
+                  <lb ed="#N" n="14"/>S Prob. 3. pars concl. ex Fundatiss. Doct. 
+      <lb ed="#N" n="15"/>Verbum est conceptus mentis, &amp; partus, seu quid 
+      <lb ed="#N" n="16"/>formatum in mente; sed Diuina Essentia, prout 
+      <lb ed="#N" n="17"/>visa a Beatis, est quodammodo concepta, &amp; 
+      for<lb ed="#N" n="18" break="no"/>mata in illorum mente; ergo habet quodammo, 
+      <lb ed="#N" n="19"/>do rationem verbi Beatorum, Maior patet, haec 
+      <lb ed="#N" n="20"/>enim est notio propria ipsius verbi. Prob. min. 
+      <lb ed="#N" n="21"/>Concipere idem sonat, ac simul capere, &amp; 
+      ap<lb ed="#N" n="22" break="no"/>prehendere; &amp; partus mentis idem significat, ac 
+      <lb ed="#N" n="23"/>in mente repertum, vt habet Beatiss. P. lib. 7. de. 
+      <lb ed="#N" n="24"/>Trin. c. 9, sed Essentia Dinina capitur, 
+      apprehen<lb ed="#N" n="25" break="no"/>ditur, &amp; reperitur in mente Beatorum; ergo est 
+      <lb ed="#N" n="26"/>quodamodo concepta, &amp; formata in illorum mente¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4801">
+                  <lb ed="#N" n="27"/>Conf. 1. Diuina Essentia se habet, vt quio  
+      <lb ed="#N" n="28"/>formatum in intellectu Beatorum iuxta illud 
+      <lb ed="#N" n="29"/>Apost, ad Galat. 4. Filioli mei, quos iterum 
+      partu<lb ed="#N" n="30" break="no"/>rio, donec formetur Christus in nobis, idest doneo 
+      <lb ed="#N" n="31"/>in nobis formosus appareat, ergo ex eo, quod  
+      <lb ed="#N" n="32"/>Diuina Essentia appareat formosa in mentibus. 
+      <lb ed="#N" n="33"/>Beatorum, dicitur quodammodo in illis 
+      forma<lb ed="#N" n="34" break="no"/>ri, &amp; per consequens in hoc sensu Beati possunt. 
+      <lb ed="#N" n="35"/>dici quodammodo formare verbum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4823">
+                  <lb ed="#N" n="36"/>Iisdem rationibus impugnatur secunda. 
+      <lb ed="#N" n="37"/>sententia, si enim posset dari species expressa 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4831">
+                  <lb ed="#N" n="38"/>partialiter repraesentans vnum tantum, vel alte 
+      <lb ed="#N" n="39"/>rum Dei Attributum, iam illa species esset 
+      im<lb ed="#N" n="40" break="no"/>materialior, &amp; actualior illo Attributo; sed 
+      im<lb ed="#N" n="41" break="no"/>plicat dari aliquid purius, immaterialius, &amp; 
+      <lb ed="#N" n="42"/>actualius quocunque Dei Att ributo, quod est 
+      <lb ed="#N" n="43"/>sentialiter est actus purissimus excludens omne 
+      <lb ed="#N" n="44"/>materialitatem, ergo implicat dari species 
+      ex<lb ed="#N" n="45" break="no"/>pressa partialiter illud repraesentans. Tum. 
+      <lb ed="#N" n="46"/>quia implicat vnum Attributum videri sine 
+      <lb ed="#N" n="47"/>alio, vt infra videbimus; ergo implicat 
+      spe<lb ed="#N" n="48" break="no"/>ties repraesentans vnum, vel alterum 
+      Attribu<lb ed="#N" n="49" break="no"/>tum tantum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4860">
+                  <lb ed="#N" n="50"/>9 Obiicies 1. D. P. Aug. lib. 9. De Trin. c. 9. 
+      <lb ed="#N" n="51"/>ait: Conceptam rerum notitiam, tanquam verbum. 
+      <lb ed="#N" n="52"/>apud nos habemus, &amp; c. 11. Ex quo colligitur,  
+      <lb ed="#N" n="53"/>quod, cum mens seipsam nouit, atque approbat; 
+      <lb ed="#N" n="54"/>sic est: eadem notitia verbum eius; &amp; c. 22. Est 
+      <lb ed="#N" n="55"/>quaedam imago Trinitatis ipsa mens, &amp; notitia 
+      <lb ed="#N" n="56"/>eius, quae est proles eius, ac de seipsa verbum eius; 
+      <lb ed="#N" n="57"/>&amp; lib. 15. de Trin. c. 10. Formata quippe 
+      cogita<lb ed="#N" n="58" break="no"/>tio ab ea re, quam scimus, verbum est, quod in 
+      <lb ed="#N" n="59"/>corde dicimus; &amp; c. 27. Ex illo, quod nouimus 
+      co<lb ed="#N" n="60" break="no"/>gitationem nostram formari, fierique in acie co¬ 
+      <!--738.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>gitantis imaginem simillimam cogitationis eius, 
+      <lb ed="#N" n="62"/>quam memoria continebat ista duo, veluti 
+      paren<lb ed="#N" n="63" break="no"/>tem, &amp; prolem tertia uoluntate, siue dilectione. 
+      <lb ed="#N" n="64"/>iungelite, quam quidem uoluntatem de 
+      cogitatio<lb ed="#N" n="65" break="no"/>nedescendere, non tamen esse cogitationis 
+      imagi<lb ed="#N" n="66" break="no"/>iem; quibus auctoritatibus manifeste docet 
+      no<lb ed="#N" n="67" break="no"/>stram cogitationem esse imaginem, seu speciem. 
+      <lb ed="#N" n="68"/>expressam, &amp; verbum rei cogitatae; sed cogita 
+      <lb ed="#N" n="69"/>tio est intellectio formaliter; ergo intellectio est 
+      <lb ed="#N" n="70"/>formaliter verbum; &amp; per consequens Beati 
+      <lb ed="#N" n="71"/>producentes intellectione bea ta formant verbum, 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4914">
+                  <lb ed="#N" n="72"/>conf. ex eodem lib. 9. de Iun. cap. 10. 
+      do<lb ed="#N" n="73" break="no"/>cente: In quantum ergo Deum nouimus, similes 
+      <lb ed="#N" n="74"/>sumus, sed non ad aequalitatem similes, quia non 
+      <lb ed="#N" n="75"/>tantam ipsum nouimus, quantum ipse est Deinde: 
+      <lb ed="#N" n="76"/>Illud quoque fatendum est, quod etiam tunc 
+      simi<lb ed="#N" n="77" break="no"/>les ei erimus, quando videbimus eum, sicuti est; 
+      <lb ed="#N" n="78"/>tunc quidem verbum nostrum non erit falsumi 
+      <lb ed="#N" n="79"/>quod repetit etiam lib. 15. de Trin. c. 16, &amp; c. 11. 
+      <lb ed="#N" n="80"/>Que madmodum cum per sensum corporis 
+      disci<lb ed="#N" n="81" break="no"/>mus corpora, fit eorum aliqua similitudo in anime 
+      <lb ed="#N" n="82"/>nostro, ita cum Deum nouimus, illa notitia 
+      ver<lb ed="#N" n="83" break="no"/>bum est, &amp; sit aliqua Dei similitudo, tamen 
+      infe<lb ed="#N" n="84" break="no"/>rior, quia in infertore natura est, sed notitia ide 
+      <lb ed="#N" n="85"/>est, ac visio; ergo visio beata est idem, ac verbum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4947">
+                  <lb ed="#N" n="86"/>Resp. omissis responsionibus Recentiorum 
+      <lb ed="#N" n="87"/>luxta ea, quae diximus n. 1, vbi explicuimus ide 
+      <lb ed="#N" n="88"/>quod vere intendit Sanctiss. P. Dicitur ergo, 
+      <lb ed="#N" n="89"/>quod nomine notitiae intelligit definitionem, 
+      <lb ed="#N" n="90"/>rei, vt ex eius verbis superius ostendimus; 
+      defi<lb ed="#N" n="91" break="no"/>nitio enim, cum sit notior definito, vocatur 
+      no<lb ed="#N" n="92" break="no"/>titia illius; sic dicitur de cogitatione; 
+      cogitatio<lb ed="#N" n="93" break="no"/>enim sumitur pro re cogitata, sicuti amor 
+      sumi<lb ed="#N" n="94" break="no"/>tur aliquado pro re amata, qua phrasi saepe 
+      vti<lb ed="#N" n="95" break="no"/>tur Beatiss. P. conformiter ad Scripturas, loquens 
+      <lb ed="#N" n="96"/>enim cum Deo saepissime ait: Amor meus, spes 
+      <lb ed="#N" n="97"/>mea, vita mea, &amp;c. sumens amorem, &amp; spem. 
+      <lb ed="#N" n="98"/>pro re amata, &amp; sperata: 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e4978">
+                  <lb ed="#N" n="99"/>Ad conf dicimus, quod prima auctoritas 
+      <lb ed="#N" n="100"/>nihil concludit, quia possumus esse Deo similes 
+      <lb ed="#N" n="101"/>in eo, quod videamus ipsum clare, &amp; euidenter, 
+      <lb ed="#N" n="102"/>sicut ipse videt seipsum absque eo, quod 
+      produ<lb ed="#N" n="103" break="no"/>camus per visionem beatam, sicut ipse producit,  
+      <lb ed="#N" n="104"/>verbum. Ad 2. dicitur, quod verbum nostrum 
+      <lb ed="#N" n="105"/>non erit falsum, quia erit ipsa Dinina Essentia, 
+      <lb ed="#N" n="106"/>quae est prima Veritas; non tamen ex hoc 
+      argui<lb ed="#N" n="107" break="no"/>tur, quod nos producemus verbum creatum, sed  
+      <lb ed="#N" n="108"/>tantum, quod exprimemus Diuinam Essentiam, 
+      <lb ed="#N" n="109"/>quae erit verbum nostrum. Ad 3. dicitur, quod 
+      <lb ed="#N" n="110"/>manifeste loquitur de cognitione, quam 
+      habe<lb ed="#N" n="111" break="no"/>mus de Deo in via, de qua non est dubium 
+      <lb ed="#N" n="112"/>quod a nobis formetur verbum, &amp; de hac 
+      co<lb ed="#N" n="113" break="no"/>gnitione saepissime loquitur in lib. cit. de Trin¬ 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5013">
+                  <lb ed="#N" n="114"/>IO Obiicies 2. D. Ansel. Monolog. c. 21. ait;  
+      <lb ed="#N" n="115"/>Nulla ratione negari potest, cum mens rationalis 
+      <lb ed="#N" n="116"/>seipsam cogitando intelligit, imaginem ipsius 
+      nasci<lb ed="#N" n="117" break="no"/>in sua cogitatione; imo ipsam cogitationem sui esse 
+      <lb ed="#N" n="118"/>imaginem ad sui similitudinem, tanquam ex eius 
+      <lb ed="#N" n="119"/>impressione formatam, idem penitus habet D.¬ 
+      <lb ed="#N" n="120"/>Damasc. lib. 1. de Fide Orihod. c. 18; ergo cogita¬ 
+      <!--739.xml-->
+      <pb ed="#N" n="722"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>tio, quae est idem ac cognitio, idem est ac verbum, 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5040">
+                  <lb ed="#N" n="2"/>Resp; quod D. Ansel in Monologie, 38. 
+      expli<lb ed="#N" n="3" break="no"/>cat seipsum dicens: Nulli dubium est creatas 
+      sub<lb ed="#N" n="4" break="no"/>stantias multo aliter esse in seipsis, quam in nostra 
+      <lb ed="#N" n="5"/>scientia, in seipsis nanque sunt per ipsam suam 
+      es<lb ed="#N" n="6" break="no"/>sentiam, in nostra vero scientia non sunt carum 
+      <lb ed="#N" n="7"/>essentiae, sed similitudines. Vult igitur, quod ex 
+      <lb ed="#N" n="8"/>nostra cogitatione oriatur verbum; &amp; quando 
+      <lb ed="#N" n="9"/>ait nostram cogitationem esse ipsum verbuma 
+      <lb ed="#N" n="10"/>tunc sumit cogitationem pro ipsa re cogitata. 
+      <lb ed="#N" n="11"/>Idem dicitur ad D. Damasc. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5064">
+                  <lb ed="#N" n="12"/>II Obiicies 3. Si Beati non possent 
+      forma<lb ed="#N" n="13" break="no"/>re verbum de Deo clare viso, non possent ad 
+      inui<lb ed="#N" n="14" break="no"/>cem loqui de Deo; nihil enim aliud est loqui,  
+      <lb ed="#N" n="15"/>quam formare expressiones, siue verba vel 
+      sen<lb ed="#N" n="16" break="no"/>sibilia, vel spiritualia iuxta genus locutionis; sed  
+      <lb ed="#N" n="17"/>consequens est falsum, quia Beati semper 
+      lo<lb ed="#N" n="18" break="no"/>quuntur de Deo eum laudando, eique gratias 
+      <lb ed="#N" n="19"/>agendo; ergo &amp; antecedens. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5084">
+                  <lb ed="#N" n="20"/>Resp. neg. maiorem: Beati enim 
+      exprimen<lb ed="#N" n="21" break="no"/>tes Diuinam Essentiam, quae est veluti verbum 
+      <lb ed="#N" n="22"/>ipsorum dicens omnia, loquuntur; non autem 
+      <lb ed="#N" n="23"/>formando verbum creatum, vt supra dictum est; 
+      <lb ed="#N" n="24"/>&amp; ratio huius est, quia verbum institutum est 
+      <lb ed="#N" n="25"/>ad manifestandos proprios animi conceptus, sed  
+      <lb ed="#N" n="26"/>Diuina Essentia, vtpote purissimum speculum 
+      <lb ed="#N" n="27"/>omnia clarissime representat: ergo per Diuinam 
+      <lb ed="#N" n="28"/>Essentiam insitam in intellectu Beatorum, veluti 
+      <lb ed="#N" n="29"/>per proprium verbum loquuntur.  
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5108">
+                  <lb ed="#N" n="30"/>12. Obijcies 4. Ex Beatiss. P. Aug. lib. 15. 
+      de<lb ed="#N" n="31" break="no"/>Trin. c. 7: &amp; 10ν &amp; apud D. Thomam. q. 27. 
+      <lb ed="#N" n="32"/>art. 1. docentem, quod Omne intelligens ex eo, 
+      <lb ed="#N" n="33"/>quod intelligit, format verbum, ex quo infert 
+      An<lb ed="#N" n="34" break="no"/>gelicus Doct. Patrem aeternum producere 
+      Ver<lb ed="#N" n="35" break="no"/>bum Diuinum eo, quia intelligens est; sed 
+      Bea<lb ed="#N" n="36" break="no"/>ti intelligunt Deum; ergo producunt verbum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5126">
+                  <lb ed="#N" n="37"/>Resp. Beatiss. P. tali loco docere Verhum 
+      <lb ed="#N" n="38"/>gigni ex memoria faecunda Patris, non autem 
+      <lb ed="#N" n="39"/>quod producatur per quancunque 
+      intellectio<lb ed="#N" n="40" break="no"/>nem, quia Verbum intelligit seipsum, &amp; Patrem: 
+      <lb ed="#N" n="41"/>&amp; Spiritus S. intelligit tres Personas Diuinas, &amp; 
+      <lb ed="#N" n="42"/>tamen Verbum, &amp; Spiritus S. non producunt  
+      <lb ed="#N" n="43"/>Verbum. Solum ergo intelligens fecundum. 
+      <lb ed="#N" n="44"/>producit Verbum; faecunditas autem dicit duo, 
+      <lb ed="#N" n="45"/>scilicet virtutem adaequatam termino 
+      produci<lb ed="#N" n="46" break="no"/>bili, &amp; possibilitatem termini producibilis 
+      <lb ed="#N" n="47"/>cum autem nec Beati habeant virtutem 
+      produ<lb ed="#N" n="48" break="no"/>cendi verbum immaterialius Diuina 
+      Essen<lb ed="#N" n="49" break="no"/>tia, nec hoc verbum sit possibile, ideo 
+      re<lb ed="#N" n="50" break="no"/>pugnat Beatos formare verbum. Sed de hoc 
+      <lb ed="#N" n="51"/>de Trin. q. 2. art. 1. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5161">
+                  <lb ed="#N" n="52"/>I3. Obiicies 5. Cognoscere nihil aliud est, 
+      <lb ed="#N" n="53"/>quam potentiam vitalem exprimere in 
+      seipsa<lb ed="#N" n="54" break="no"/>imaginem rei cognitae; ergo in qualibet 
+      cogni<lb ed="#N" n="55" break="no"/>tione datur verbum. 2. Intellectio comparatur  
+      <lb ed="#N" n="56"/>ad verbum, sicut via ad terminum, vel sicut actio 
+      <lb ed="#N" n="57"/>ad effectum; sed implicat dari viam sine 
+      termi<lb ed="#N" n="58" break="no"/>no, &amp; actionem sine effectu, aliter illa via, &amp; 
+      <lb ed="#N" n="59"/>actio esset infinita, quia terminum non haberet; 
+      <!--739.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>ergo in omni intel lectione datur verbum. 
+      <lb ed="#N" n="61"/>3. Non potest aliquod cognosci, nisi per 
+      ali<lb ed="#N" n="62" break="no"/>quem conceptum, sed iste conceptus est. 
+      ver<lb ed="#N" n="63" break="no"/>bum; ergo in omni cognitione datur verbum. 
+      <lb ed="#N" n="64"/>4. Ideo beatus nequit producere verbum, quia 
+      <lb ed="#N" n="65"/>obiectum est praesens; sed Pater aeternus habet  
+      <lb ed="#N" n="66"/>objectum praesens, &amp; tamen producit Verbum; 
+      <lb ed="#N" n="67"/>ergo illa ratio nulla est. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5204">
+                  <lb ed="#N" n="68"/>Resp. ad 1. neg. antecedens; nam 
+      cognosce<lb ed="#N" n="69" break="no"/>re est simpliciter tendere in verum. Ad 2. dist. 
+      <lb ed="#N" n="70"/>maior. Intellectio comparatur ad verbum, sicut  
+      <lb ed="#N" n="71"/>via ad terminum vel productum per ilsam 
+      co<lb ed="#N" n="72" break="no"/>gnitionem, vel suppositum, conc; simpliciter 
+      pro<lb ed="#N" n="73" break="no"/>ductum, neg: &amp; ad alteram partem dicitur; quod  
+      <lb ed="#N" n="74"/>intellectio est, actio grammaticalissimpliciter 
+      <lb ed="#N" n="75"/>tactiua, non productiua fui teminir alitersnom 
+      <lb ed="#N" n="76"/>nis intellectio esset productiua verbinon poset 
+      <lb ed="#N" n="77"/>saluari, quin Filius, &amp; Spiritus S. producerest 
+      <lb ed="#N" n="78"/>Verbum; &amp; nos quando cognoscimus nostrum 
+      <lb ed="#N" n="79"/>verbum, formatemus aliud verbum; &amp; sic in 
+      <lb ed="#N" n="80"/>infinitum. Ad min. dist. eodem modo: Ad dist 
+      <lb ed="#N" n="81"/>maior. Per aliquem conceptum formalem; qui  
+      <lb ed="#N" n="82"/>est idem, ac intellectio, conc; objectiuum, qui est 
+      <lb ed="#N" n="83"/>idem, ac verbum, neg. Ad min. dicitur; quod 
+      so<lb ed="#N" n="84" break="no"/>lus conceptus objectiuus est verbum. Ad 4 negi 
+      <lb ed="#N" n="85"/>maior: nam licet praesentia objecti sit ratio oste 
+      <lb ed="#N" n="86"/>dens superfluitatem, non tamen ostendit 
+      impli<lb ed="#N" n="87" break="no"/>cantiam; multa enim sunt superflua, quae non 
+      <lb ed="#N" n="88"/>implicant; ratio ergo implicantiae estammate 
+      <lb ed="#N" n="89"/>rialitas maior immaterialitate Diuina. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5254">
+                  <lb ed="#N" n="90"/>14. Obiicies 6. Si Beati non producetent 
+      <lb ed="#N" n="91"/>verbum, Diuina Essentia bis vniretur intelles 
+      <lb ed="#N" n="92"/>ctui beato, semel in ratione speciei impressae &amp; 
+      <lb ed="#N" n="93"/>emel in ratione verbi, videtur autem absurdum 
+      <lb ed="#N" n="94"/>multiplicare vniones. 2. Potest Beatus reflecde 
+      <lb ed="#N" n="95"/>re supra visionem Beatam: ergo per talem reflex 
+      <lb ed="#N" n="96"/>tionem potest formare verbum. 3. Intellectus 
+      <lb ed="#N" n="97"/>nequit apprehendere obiectum, nisi sit praesens 
+      <lb ed="#N" n="98"/>sed non sit praesens, nisi per verbum, aneχρο 
+      <lb ed="#N" n="99"/>semper format verbum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5278">
+                  <lb ed="#N" n="100"/>Resp. ad 1. neg. assumptum, quanuis, enime 
+      <lb ed="#N" n="101"/>Essentia Diuina vniatur in ratione specteram 
+      <lb ed="#N" n="102"/>pressae, &amp; expressae, attamen est vnica vnios sicut 
+      <lb ed="#N" n="103"/>icet anima nostra sit vnita corpori, vt sensiua, 
+      <lb ed="#N" n="104"/>&amp; vt rationalis, attamen est vnica yniQeisid 
+      <lb ed="#N" n="105"/>2. dist. conseq. Potest formare verbum visig 
+      <lb ed="#N" n="106"/>nis, transeat; Diuinae Essentiae, negAdigue 
+      <lb ed="#N" n="107"/>neg. min: nam sit praesens per seipsam, &amp; adeo 
+      <lb ed="#N" n="108"/>visio est intuitiua 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5300">
+                  <lb ed="#N" n="109"/>I5 Obijcies 7. Terminus productus debet 
+      <lb ed="#N" n="110"/>commensurari cum principio quo producendi 
+      <lb ed="#N" n="111"/>sed principium quo producendi verbum infme 
+      <lb ed="#N" n="112"/>tellectu beato est Essentia Diuina, quae est sim 
+      <lb ed="#N" n="113"/>pliciter infinita; ergo poterit producere. ven 
+      <lb ed="#N" n="114"/>bum simpliciter infinitum. 
+      </p>
+               <p xml:id="ccc7yd-g2050x-d1e5316">
+                  <lb ed="#N" n="115"/>Resp. dist. maiorem. Cum principioquo 
+      <lb ed="#N" n="116"/>proximo, conc; sed in hoc sensu neg. mmmeum 
+      <lb ed="#N" n="117"/>principio quo remoto, neg; &amp; in hoc densi 
+      <lb ed="#N" n="118"/>conc. minor.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

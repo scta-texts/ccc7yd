@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="155"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g45016"><!--l1t2prae -->
+            <head xml:id="ccc7yd-g45016-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g45016-d1e101">
+      <!--170.xml-->
+               <pb ed="#N" n="155"/>
+               <cb ed="#N" n="a"/>
+               <lb ed="#N" n="1"/>DE SVBSTANTIA DEI. 
+    </p>
+            <p xml:id="ccc7yd-g45016-d1e112">
+               <lb ed="#N" n="2"/>DXplanatis, quae ad Theologiam praeambulant, ad agendum de partibus Theologiae 
+      descendi<lb ed="#N" n="3" break="no"/>mus, vt ab vniuersalibus ad specialia gradientes, rectam scribendi viam percurramus, 
+      vbi<lb ed="#N" n="4" break="no"/>enim vera seruatur methodus, &amp; rectus doctrinae ordo, ibi sicuti vitatur confusio, quae ordinem 
+      <lb ed="#N" n="5"/>tollit, ita declinantur obliquitates, quae deuiant a veritate. Porro cum Theologia in 1. lib. sent. 
+      <lb ed="#N" n="6"/>agat de Deo, eiusque Attributis, &amp; proprietatibus relatiuis, hinc a Tractatu de Subsiantia Dei, 
+      <lb ed="#N" n="7"/>exordimur: nam cum Theologia nostra imitetur Theologiam Dei, vt saepe diximus in 
+      Proemia<lb ed="#N" n="8" break="no"/>libus, sicuti Deus intelligendo suam substantiam, intelligit omnia illa, quae emanant ad intra, &amp; 
+      <lb ed="#N" n="9"/>ad extra ita, vt Substantia, seu Natura Dei sit id, ad quod primo terminatur Diuina cognitio, 
+      <lb ed="#N" n="10"/>cum sit ratio, per quam cognoscuntur cetera, ideo Theologia nostra debet prius inquirere de 
+      <lb ed="#N" n="11"/>Subsiantia Dei, &amp; postea ad alia inuestiganda descendere. Et in hoc discriminatur Theologi 
+      a<lb ed="#N" n="12" break="no"/>a scientia naturali, quod Theologia ab Altissima Causa, quae est Diuina Natura, ad inferiora, que 
+      <lb ed="#N" n="13"/>sunt Entia creata, descendit; scientia vero naturalis ex inferioribus ad Dei Altissimi cognitionem, 
+      <lb ed="#N" n="14"/>quasi ex tenebris in visionem lucis exurgens, ascendit.  
+      </p>
+            <p xml:id="ccc7yd-g45016-d1e143">
+               <lb ed="#N" n="15"/>Inscripsimus autem hunc Tractatum de Substantia Dei, non vero de Natura, Essentia, aut 
+      Qui<lb ed="#N" n="16" break="no"/>ditate, quanuis enim Substantia, Natura, Essentia, &amp; Quiditas idem formalissime significent in¬ 
+      </p>
+            <p xml:id="ccc7yd-g45016-d1e150">
+               <lb ed="#N" n="17"/>Deo, vt docet Fundatiss. Doct. 7. Met. q. q; quia sunt idem etiam virtualiter, attamen iltae voces 
+      im<lb ed="#N" n="18" break="no"/>positae sunt ad plura munera significanda, quae eidem simplicissimae rei sine eiusdem scissione etiam 
+      <lb ed="#N" n="19"/>virtuali conueniunt; Natura enim dicitur, prout est principium operandi, vt habetur in Met: nam 
+      <lb ed="#N" n="20"/>dicitur natura, quasi nascitura, idest a qua alia nascuntur; Essentia vero dicitur per ordinem ad 
+      <lb ed="#N" n="21"/>existentiam, quae est eius terminus; Quiditas autem per ordinem ad intellectum cognoscentem 
+      <lb ed="#N" n="22"/>Quid est res; Subsiantia tandem, prout substat alijs, &amp; illa substentat. Haec autem est differentia 
+      <lb ed="#N" n="23"/>inter modum significandi harum vocum; quod Substantia significat aliquod communissimum 
+      om<lb ed="#N" n="24" break="no"/>nibus; quae sunt in Deo, &amp; extra Deum; haec enim omnia substentantur in esse a Diuina 
+      Substan<lb ed="#N" n="25" break="no"/>tia; Essentia vero dicit ordinem solum ad existentiam; Natura ad operationem; &amp; Quiditas ad 
+      in<lb ed="#N" n="26" break="no"/>tellectionem. Quamobrem cum Theologia agat de Deitate, prout est prima radix generalissima, 
+      <lb ed="#N" n="27"/>per quam probantur omnia, quae tractantur in Theologia, ratio enim formalis objectiua 
+      cuiuscun<lb ed="#N" n="28" break="no"/>que scientiae debet esse communis omnibus conclusionibus, quae deducuntur in tali scientia, al iter 
+      <lb ed="#N" n="29"/>scientia suo non adaequaretur objecto, ideo hunc Tractatum De Substantia Dei proprie debuit 
+      in<lb ed="#N" n="30" break="no"/>scribi. 
+      </p>
+            <p xml:id="ccc7yd-g45016-d1e184">
+               <lb ed="#N" n="31"/>fotam autem huius Instituti summam secabimus in duas principales quaestiones, in quarum 
+      <lb ed="#N" n="32"/>et discurremus de modo, quo in hac vita Deus potest cognosci a scientia naturali per lumen 
+      na<lb ed="#N" n="33" break="no"/>turalescum enim Theologia debeat corrigere scientias naturales, vt diximus in 7. 1. Proem. art. 3: 
+      <lb ed="#N" n="34"/>ideo debet examinare modum, quo Deus ab illis cognoscitur. In 2. agemus de praedicatis 
+      for<lb ed="#N" n="35" break="no"/>malibus essentialibus per nostrum modum concipiendi constitutiuis Diuinae Essentiae reuocantes 
+      <lb ed="#N" n="36"/>impropriam sedem, quae in diuersis Tractatibus sparsim tractant Auctores adeo, vt omnia suis 
+      lo<lb ed="#N" n="37" break="no"/>eiggoaptando suam huic scientiae formam, elegantiaeque speciem tribuamus.
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

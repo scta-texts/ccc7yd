@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="484"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1404x"><!--l1t7prae -->
+            <head xml:id="ccc7yd-g1404x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1404x-d1e101">
+      <!--501.xml-->
+               <pb ed="#N" n="484"/>
+               <cb ed="#N" n="a"/>
+               <lb ed="#N" n="1"/>DE BONITATE DEE, 
+    </p>
+            <p xml:id="ccc7yd-g1404x-d1e112">
+               <lb ed="#N" n="2"/>Vmma Bonitas, qua aliquid superius non est, Deus est. Absque vacuitate diffundit se extra sex 
+      <lb ed="#N" n="3"/>Ssuperefluit sine superfluitate, se communicat sine decremento; semper plena, &amp; semper fluens; 
+      <lb ed="#N" n="4"/>nunquam indiga, nunquam vana, omnia ditat, omnia creat; omnia recreat, omnia perficit. Per 
+      fectio<lb ed="#N" n="5" break="no"/>num cumulus sine sui dissolutione omnia aedificat; immensum pelagus, sed redudans, nec minuitur; 
+      <lb ed="#N" n="6"/>nonissima omnium meta omnia terminat, nec augescit. Quidquid est, illius est; &amp; quidquid non est? 
+      <lb ed="#N" n="7"/>per illam est. Quod est, ab illa est, non de illa est; quod enim de illa est, hoc est, quod ipsa; quia illis 
+      <lb ed="#N" n="8"/>consubstantiale est; quod autem ab illa est, quod ipsa non est, quia ipsius substantia non est; 
+      quan<lb ed="#N" n="9" break="no"/>quis ab illius substantia sit (inquit Beatiss. Ecclesiae Doct. Aug. de Nat. honi) No decedit tempore, quia 
+      <lb ed="#N" n="10"/>aeterna, non finitur termino, quia intermina, non circunscribitur, quia immensa; non diuiditur, quia 
+      <lb ed="#N" n="11"/>smplicissima non frustratur; quia omnipotens; non mutatur, quia perfecta; non desinit, quia 
+      sempi<lb ed="#N" n="12" break="no"/>terna. Ubique est, &amp; ubi non est, nihil est; cuncta replet, &amp; non capitur; cuncta capit, &amp; non repletur;  
+      <lb ed="#N" n="13"/>si se participat: non partitur, si se communicat, praesens est; si se subtrahit, absens non est. Eam 
+      spera<lb ed="#N" n="14" break="no"/>tibus praemium est,eam videntibus corona est, possidentibus beatitudo est, acquirentibus 
+      inamissi<lb ed="#N" n="15" break="no"/>bilis est: Hoc tenemus de illo bono incommutabili, cuius participatione boni tantum esse 
+      possu<lb ed="#N" n="16" break="no"/>mus. De hac Bonitate quidquid digne dici potest, dici debet, quannis teste Beatiss, nihil digne de 
+      <lb ed="#N" n="17"/>illa possit effari 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

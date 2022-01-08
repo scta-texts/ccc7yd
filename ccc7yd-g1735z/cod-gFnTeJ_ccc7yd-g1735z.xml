@@ -1,0 +1,780 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="595"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1735z"><!--l1t12q1 -->
+            <head xml:id="ccc7yd-g1735z-Hd1e99">Quaestio 1</head>
+            <p xml:id="ccc7yd-g1735z-d1e101">
+               <lb ed="#N" n="30"/>QVAEST VNICA 
+      <lb ed="#N" n="31"/>De Attributo Immutabilitatis Dei.
+      </p>
+            <p xml:id="ccc7yd-g1735z-d1e108">
+               <lb ed="#N" n="32"/>Hdo doctrinae postulat, vt postquam egimus de Immensitate, Dei agamus de illius 
+      Immu<lb ed="#N" n="33" break="no"/>Rbtabilitate; cum enim Immutabilitas Dei sit simpliciter simplex in omni genere exclusiua. 
+      <lb ed="#N" n="34"/>cuinscunque motus, &amp; mutationis, cunque Immensitas sit ratio a priori exclusiua motus localis, 
+      <lb ed="#N" n="35"/>quia quod est immensum, occupat omnem locum, &amp; ideo nequit moneri de loco ad locum: namo 
+      <lb ed="#N" n="36"/>quod monetur, non est in illo loco, ad quem mouetur, sed est in potentia ad illum, motus enim est, 
+      <lb ed="#N" n="37"/>actus entis in potentia, ideo Immensitas est radix Immutabilitatis; &amp; per consequens prius agedum 
+      <lb ed="#N" n="38"/>erat de Immensitate, quam de Immutabilitate.
+    </p>
+            <div xml:id="ccc7yd-g1735z-Dd1e126">
+               <head xml:id="ccc7yd-g1735z-Hd1e128">Articulus 1</head>
+               <p xml:id="ccc7yd-g1735z-d1e130">
+      <!--612.xml-->
+                  <cb ed="#N" n="d"/>
+                  <lb ed="#N" n="39"/>ART. I. 
+      <lb ed="#N" n="40"/>An Deus sit immutabilis, &amp; quibus 
+      ratio<lb ed="#N" n="41" break="no"/>nibus probetur? 
+    </p>
+               <p xml:id="ccc7yd-g1735z-d1e143">
+                  <lb ed="#N" n="42"/>Ei Immutabilitatem ledere primi 
+      om<lb ed="#N" n="43" break="no"/>Udnium ausi sunt Manichaei; quapropter  
+      <lb ed="#N" n="44"/>Beatiss. P. in lib. editis contra ipsos, &amp; praesertim. 
+      <lb ed="#N" n="45"/>lib. de Nat. Boni c. 1. 10, &amp; 19, &amp; lib. 2. de Moribus 
+      <lb ed="#N" n="46"/>Manich. c. 1; &amp; Serm: de Rubo Moys. c. 3. ex 
+      pro<lb ed="#N" n="47" break="no"/>fesso hanc veritatem probat, quod etiam prestat 
+      <lb ed="#N" n="48"/>psal. 101. p. 2. Arriani pariter; qui Verbum Dei 
+      <lb ed="#N" n="49"/>creaturam mutabilem dixerunt, Diuinam 
+      Im<lb ed="#N" n="50" break="no"/>mutabilitatem lacerate conari sunt; contra quos 
+      <lb ed="#N" n="51"/>idem Sanctis. P. lib. 3. contra Maximin. c. 12. 
+      stre<lb ed="#N" n="52" break="no"/>nue dimicauit usque ad eorum confusionem. His 
+      <lb ed="#N" n="53"/>addi possunt Macedoniani, qui dixerunt Spiritum 
+      <lb ed="#N" n="54"/>Sanctum esse creaturam; &amp; tandem Eutychius, 
+      <lb ed="#N" n="55"/>qui voluit Naturam Diuinam commixtam 
+      fuis<lb ed="#N" n="56" break="no"/>se in Incarnatione. Contra hos omnes egit S. 
+      <lb ed="#N" n="57"/>Protodoct, in lib. de Trin; praesertim lib. 5. c. 2; &amp; 
+      <lb ed="#N" n="58"/>seque vbi super illud Exodi. 3. Ego sum, qui sum, &amp; 
+      <lb ed="#N" n="59"/>dices Filijs Israel, qui est, misit meiad vas; in 
+      fine<lb ed="#N" n="60" break="no"/>cap. ait: Quod enim mutatur, non seruat ipsum esse; 
+      <!--612.xml-->
+      <cb ed="#N" n="e"/>
+                  <lb ed="#N" n="61"/>&amp; quod mutari potest, etiam si nonmutetur, potest, 
+      <lb ed="#N" n="62"/>quod fuerat, non esse; ac per hoc illud solum, quod  
+      <lb ed="#N" n="63"/>non tantum non mutatur, verum etiam 
+      mutari<lb ed="#N" n="64" break="no"/>omnino non potest, sine scrupulo occurrit, quod 
+      ve<lb ed="#N" n="65" break="no"/>rissime dicatur esse; &amp; lib.de Nat. Boni c. 19. 
+      Vere<lb ed="#N" n="66" break="no"/>enim ipse est, quia incommutabilis est; omnis enim 
+      <lb ed="#N" n="67"/>mutatio facit non esse, quod erat; vere ergo ille est, 
+      <lb ed="#N" n="68"/>qui incommutabilis est. Quod repetit de 
+      Rubo<lb ed="#N" n="69" break="no"/>Moyssex quibus auctoritatibus patet 
+      Immutabi<lb ed="#N" n="70" break="no"/>litatem probari ex ipso esse suum esse. 
+      Propte<lb ed="#N" n="71" break="no"/>rea lib. 3. contra Maximin. c. 12. ex 
+      immortalita<lb ed="#N" n="72" break="no"/>te probat immutabilitatem sic: In omni enim 
+      mu<lb ed="#N" n="73" break="no"/>tabili natura nouella mors est ipsa mutatio; quia 
+      <lb ed="#N" n="74"/>facit aliquid in ea non esse, quod erat. Mortalitas 
+      <lb ed="#N" n="75"/>autem habetur ex amissione ipsius esse; ergo 
+      im<lb ed="#N" n="76" break="no"/>mortalitas ex ipso esse indefectibili, &amp; per 
+      con<lb ed="#N" n="77" break="no"/>sequens sicut ex mortalitate deducitur 
+      muta<lb ed="#N" n="78" break="no"/>bilitas, ita ex immortalitate Immutabilitas. Igit.  
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e230">
+                  <lb ed="#N" n="79"/>2. Prima sententia, quanuis fateatur Deum. 
+      <lb ed="#N" n="80"/>esse immutabilem simpliciter, attamen 
+      arbitra<lb ed="#N" n="81" break="no"/>tur, quod ratio essendi a se non sit immediata, 
+      <lb ed="#N" n="82"/>sed mediata. Ita <ref xml:id="ccc7yd-g1735z-Rd1e240">
+                     <name xml:id="ccc7yd-g1735z-Nd1e242">Fasol.</name> 1. p. q. 9. art. 1. dubit. 1. n. 33</ref>
+                  <lb ed="#N" n="83"/>&amp; aliqui ex noseris in M. S¬ 
+      <!--613.xml-->
+      <pb ed="#N" n="596"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Secunda sententia docet Immutabilitatem 
+      <lb ed="#N" n="2"/>immediate probari a priori per esse suum esse 
+      <lb ed="#N" n="3"/>simpliciter independens ab alio, quanuis etiam 
+      <lb ed="#N" n="4"/>per alias rationes immediatas passit probari. Ita
+      <lb ed="#N" n="5"/>Fundatiss. Doct. in 1. dist. 8. p. 1. princ. 3. q. 1; &amp; S. 
+      <lb ed="#N" n="6"/>Physt. 85: D. Tho; &amp; cum eo fere omnes 
+      Thomi<lb ed="#N" n="7" break="no"/>stae, qui substinent rationem assignatam a 
+      Ma<lb ed="#N" n="8" break="no"/>gno P. Aug. esse omnino immediatam, pro cuius 
+      <lb ed="#N" n="9"/>declaratione. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e275">
+                  <lb ed="#N" n="10"/>PNot. 1. quod Immutabilitas, seu 
+      immobili<lb ed="#N" n="11" break="no"/>tas Dei dupliciter potest probari. 1. a priori. 2. 4. 
+      <lb ed="#N" n="12"/>posteriori. Probari a priori est per causam, a 
+      po<lb ed="#N" n="13" break="no"/>steriori vero per effectus. Probationes a poste 
+      <lb ed="#N" n="14"/>riori iam allatae sunt q. 1. de Subst. Dei art. 5, &amp; 
+      <lb ed="#N" n="15"/>7. 2. art. 3. Superest modo discurrere de 
+      rationi<lb ed="#N" n="16" break="no"/>bus a priori, de quibus in praesenti est 
+      contro<lb ed="#N" n="17" break="no"/>quersia. Rationes autem apriori aliae Sunt per 
+      cau<lb ed="#N" n="18" break="no"/>sam immediatam, &amp; proximam, aliae vero per 
+      <lb ed="#N" n="19"/>causam remotam, &amp; mediatam, vt cum per 
+      Vni<lb ed="#N" n="20" break="no"/>tatem, quae est prima passio Entis, probatur 
+      Veri<lb ed="#N" n="21" break="no"/>tas, quae est secunda passio, talis probatio est 
+      per<lb ed="#N" n="22" break="no"/>causam immediatam; &amp; proxima, quia inter 
+      Ve<lb ed="#N" n="23" break="no"/>ritatem, &amp; Unitatem nulla alia passio mediat: 
+      <lb ed="#N" n="24"/>Cum vero per Vnitatem probatur Bonitas, tunt 
+      <lb ed="#N" n="25"/>est per causam mediatam, quia inter Bonitatem, 
+      <lb ed="#N" n="26"/>&amp; Vnitatem mediat Veritas. Querimus ergo 
+      in<lb ed="#N" n="27" break="no"/>praesenti, an esse suum esse subsistens sit ratio, &amp; 
+      <lb ed="#N" n="28"/>radix formalis proxima, &amp; immediata ipsius 
+      <lb ed="#N" n="29"/>Immutabilitatis: 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e322">
+                  <lb ed="#N" n="30"/>Circa quod Fasol. loc. cit. ait rationem 
+      for<lb ed="#N" n="31" break="no"/>malem proximam Immutabilitatis esse 
+      ratio<lb ed="#N" n="32" break="no"/>nem necessarij, ex eo enim, quod Deus 
+      necessa<lb ed="#N" n="33" break="no"/>rio est, immutabilis est; Mayr. vero ait, quod 
+      ra<lb ed="#N" n="34" break="no"/>tio actus purissimi non bene probat, ad quo- 
+      <lb ed="#N" n="35"/>rum dissolutionem. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e338">
+                  <lb ed="#N" n="36"/>A Not. 2. quod quotiescunque aliquis 
+      effe<lb ed="#N" n="37" break="no"/>ctus, vel veluti effectus inuoluit plures rationes 
+      <lb ed="#N" n="38"/>diuersas formaliter, quae immediate 
+      attingun<lb ed="#N" n="39" break="no"/>tur, &amp; oriuntur a diuersis causis, tunc ille 
+      effe<lb ed="#N" n="40" break="no"/>ctus potest immediate probari a priori per 
+      plu<lb ed="#N" n="41" break="no"/>res rationes immediatas; vt v. 8. quia flos 
+      imme<lb ed="#N" n="42" break="no"/>diate producitur a Sole, &amp; a planta; &amp; statua 
+      im<lb ed="#N" n="43" break="no"/>mediate producitur ab Idaeis in genere causa 
+      <lb ed="#N" n="44"/>exemplaris, &amp; ab intellectu, &amp; voluntate in 
+      ge<lb ed="#N" n="45" break="no"/>nere causae efficientis, non enim intellectus 
+      co<lb ed="#N" n="46" break="no"/>gnoscit solum statuam in suis Idaeis, vel in 
+      vo<lb ed="#N" n="47" break="no"/>luntate ipsius Artificis, sed immediate illam 
+      co<lb ed="#N" n="48" break="no"/>gnoscit in se ipsa, cum illa actu formet; propter 
+      <lb ed="#N" n="49"/>quod dicitur cognoscendo illam facere, &amp; 
+      fa<lb ed="#N" n="50" break="no"/>ciendo cognoscere; istae tamen causae secundum 
+      <lb ed="#N" n="51"/>diuersas rationes attingunt suos effectus, &amp; 
+      <lb ed="#N" n="52"/>fideo quaelibet immediate illos attingit: nam Sol 
+      <lb ed="#N" n="53"/>attingit florem in ratione viuentis, planta vero 
+      <lb ed="#N" n="54"/>in ratione talis entis; &amp; Idaea attingit statuam in 
+      <lb ed="#N" n="55"/>ratione exemplati, intellectus in ratione scibi 
+      <lb ed="#N" n="56"/>lis, voluntas vero in ratione voliti. In hoc 
+      au<lb ed="#N" n="57" break="no"/>tem distinguuntur causae diuersi generis a causis 
+      <lb ed="#N" n="58"/>ciusdem generis; quod illae immediate totum 
+      <lb ed="#N" n="59"/>producunt effectum, licet non totaliter; istae 
+      ve<lb ed="#N" n="60" break="no"/>ro vel attingunt partialiter, si immediate attin¬ 
+      <!--613.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>gant, vt duo equi trahentes currum: vel 
+      media<lb ed="#N" n="62" break="no"/>te, vt Pater mediate generat Nepotem, &amp; 
+      rai<lb ed="#N" n="63" break="no"/>est, quia tunc causa agit mediante alia, quande 
+      <lb ed="#N" n="64"/>agit per virtutem acceptam ab alia; sed causa 
+      <lb ed="#N" n="65"/>diuersi generis non agit per virtutem acceptam, 
+      <lb ed="#N" n="66"/>ab alia, nam si ageret per virtutem alterius, 
+      at<lb ed="#N" n="67" break="no"/>tingeret effectum sub eadem ratione formali, 
+      se<lb ed="#N" n="68" break="no"/>cundum quam attingitur ab altera, vt vnus 
+      ho<lb ed="#N" n="69" break="no"/>mo dicitur producere alium hominem mediate, 
+      <lb ed="#N" n="70"/>quia communicat alteri virtutem productiuam 
+      <lb ed="#N" n="71"/>illius; &amp; uterque homo producens attingit 
+      pro<lb ed="#N" n="72" break="no"/>ductum sub eadem ratione talis hominis, patet 
+      <lb ed="#N" n="73"/>autem, quod planta non producit florem sub 
+      <lb ed="#N" n="74"/>eadem ratione, sub qua illum producit Sol; quia 
+      <lb ed="#N" n="75"/>planta, vrpote causa particularis producit, sub 
+      <lb ed="#N" n="76"/>ratione particularis, Sol vero, vtpote causa 
+      vni<lb ed="#N" n="77" break="no"/>quersalis, producit sub ratione vniuersali; aliter 
+      <lb ed="#N" n="78"/>ytrunque esset causa vniuersalis, vel 
+      particula<lb ed="#N" n="79" break="no"/>ris; &amp; sic intellectus producit statuam in ratione 
+      <lb ed="#N" n="80"/>cognoscibilis, voluntas in ratione voliti, &amp; Idaea 
+      <lb ed="#N" n="81"/>in ratione exemplati; aliter confunderentur istae 
+      <lb ed="#N" n="82"/>potentiae, quia vna, &amp; eadem formaliter esset 
+      ra<lb ed="#N" n="83" break="no"/>tio objectiua illarum; ergo causa diuersi generis. 
+      <lb ed="#N" n="84"/>non agit mediate, sed immediate. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e451">
+                  <lb ed="#N" n="85"/>Ex hac doctrina, quae philosophica est, &amp; 
+      <lb ed="#N" n="86"/>communior inter Philosophos, deducitur, quod 
+      <lb ed="#N" n="87"/>cum Immutabilitas Dei inuoluat plures 
+      ratio<lb ed="#N" n="88" break="no"/>nes diuersas, ideo potest habere plures causas; 
+      <lb ed="#N" n="89"/>seu radices, a quibus immediate oriatur, &amp; 
+      per<lb ed="#N" n="90" break="no"/>consequens a priori immediate probari posse. 
+      <lb ed="#N" n="91"/>Quod autem Immutabilitas inuoluat plures 
+      ra<lb ed="#N" n="92" break="no"/>tiones, ostenditur sic. Immutabilitas est negatio 
+      <lb ed="#N" n="93"/>motus, sed motus large sumptus, prout 
+      compre<lb ed="#N" n="94" break="no"/>hendit omnes mutationes, quas negat Immuta: 
+      <lb ed="#N" n="95"/>bilitas simpliciter, est diuersi generis: nam alius 
+      <lb ed="#N" n="96"/>est motus substantialis, per quem substantia dis 
+      <lb ed="#N" n="97"/>citur transire ab esse ad non esse substantiale 
+      <lb ed="#N" n="98"/>&amp; e contra; alius est motus accidentalis, per que 
+      <lb ed="#N" n="99"/>res dicitur acquirere, vel deperdere aliquodae 
+      <lb ed="#N" n="100"/>cidens; &amp; alius est motus localis, per quem dicie 
+      <lb ed="#N" n="101"/>tur transire de loco ad locum; ergo Immutabilis 
+      <lb ed="#N" n="102"/>tas inuoluit plures rationes negantes diuersitae 
+      <lb ed="#N" n="103"/>tem motuum, &amp; mutationum. Igitur, prout Ime 
+      <lb ed="#N" n="104"/>mutabilitas negat motum passiuum in genere 
+      <lb ed="#N" n="105"/>substantis; oritur ab esse suum esse subsistens prie 
+      <lb ed="#N" n="106"/>mum, &amp; independens; ex eo nanque, quod ali¬s 
+      <lb ed="#N" n="107"/>quod est suum esse subsistens simpliciter 
+      irre<lb ed="#N" n="108" break="no"/>ceptum, sequitur, quod sit substantialiter 
+      immu<lb ed="#N" n="109" break="no"/>tabile secundum esse; mutatio enim secundum. 
+      <lb ed="#N" n="110"/>esse dicit transitum de non esse ad esse; &amp; tram 
+      <lb ed="#N" n="111"/>situs dicit receptionem esse post non esse. Prout 
+      <lb ed="#N" n="112"/>vero. Immutabilitas negat motum in generes 
+      <lb ed="#N" n="113"/>causae formalis; oritur a ratione actus purissimij 
+      <lb ed="#N" n="114"/>quia ratio actus purissimi opponitur causae 
+      fora<lb ed="#N" n="115" break="no"/>mali intrinsece inhaerenti: nam causa formalis 
+      <lb ed="#N" n="116"/>non est actus purus, sed mixtus potentialitatis &amp; 
+      <lb ed="#N" n="117"/>ideo ratio actus purissimi opponitur motui, qui  
+      <lb ed="#N" n="118"/>sit secundum potentiam passiuam, &amp; formalem, 
+      <lb ed="#N" n="119"/>quae duplex est, vel accidentalis, vel 
+      substantia<lb ed="#N" n="120" break="no"/>lis, &amp; per consequens importat negationem il¬ 
+      <!--614.xml-->
+      <pb ed="#N" n="597"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>lius formaliter; &amp; ideo Immutabilitas, prout 
+      ne<lb ed="#N" n="2" break="no"/>gat motum in genere causae formalis, siue 
+      sub<lb ed="#N" n="3" break="no"/>stantialis, siue accidentalis, oritur a ratione actus 
+      <lb ed="#N" n="4"/>purissimi. Ratio autem actus purissimi, &amp; 
+      ratio<lb ed="#N" n="5" break="no"/>ipsius esse subsistentis simpliciter irrecepti non 
+      <lb ed="#N" n="6"/>sunt duae rationes virtualiter distinctae, quia sunt,  
+      <lb ed="#N" n="7"/>praedicata essentialia constitutiua Dei, vt alibi 
+      <lb ed="#N" n="8"/>diximus. Prout autem Immutabilitas negat 
+      mo<lb ed="#N" n="9" break="no"/>tum localem, qui sit secundum quantitatem 
+      ve<lb ed="#N" n="10" break="no"/>virtutis, vel molis, oritur ab Immensitate 
+      pro<lb ed="#N" n="11" break="no"/>pter eandem rationem. Quamobrem secundum 
+      <lb ed="#N" n="12"/>has tres radices, &amp; rationes formales a priore 
+      <lb ed="#N" n="13"/>potest probari Immutabilitas Dei immediate: 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e566">
+                  <lb ed="#N" n="14"/>Verum tamen est, quod sicuti primus, &amp; 
+      <lb ed="#N" n="15"/>principalis motus est substantialis, 
+      quemadmo<lb ed="#N" n="16" break="no"/>dum prior, &amp; principalis est substantia, quam 
+      <lb ed="#N" n="17"/>accidens; ideo ratio ducta ab ipso esse purissimo, 
+      <lb ed="#N" n="18"/>actus enim, &amp; esse sunt formalissime idem, est 
+      <lb ed="#N" n="19"/>principalior, &amp; prior.  
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e582">
+                  <lb ed="#N" n="20"/>SNot. 33 quod ratio necessarij non est 
+      in<lb ed="#N" n="21" break="no"/>Deo aliqua ratio Attributalis, sicuti 
+      contingen<lb ed="#N" n="22" break="no"/>tia non est in creatura passio illius, &amp; ratio est; 
+      <lb ed="#N" n="23"/>quia necessitas, &amp; contingentia sumuntur ab 
+      es<lb ed="#N" n="24" break="no"/>se formaliter, nam ex eo, quod aliquod sit suum 
+      <lb ed="#N" n="25"/>esse simpliciter, est necessarium; &amp; ex eo, quod 
+      <lb ed="#N" n="26"/>habet esse receptum ab alio, est simpliciter 
+      con<lb ed="#N" n="27" break="no"/>tingens etiam praeciso quocunque alio. Igitur  
+      <lb ed="#N" n="28"/>male imaginantur praedicti Recentiores, illam 
+      <lb ed="#N" n="29"/>rationem non esse immediatam, quia mediat 
+      ra<lb ed="#N" n="30" break="no"/>tio necessarij: nam ratio necessarij non est 
+      ali<lb ed="#N" n="31" break="no"/>quod virtualiter distinctum ab esse Dei, sed est 
+      <lb ed="#N" n="32"/>formalissime ipsum esse, &amp; ad summum nequit  
+      <lb ed="#N" n="33"/>importate nisi modum superadditum ipsi esse 
+      <lb ed="#N" n="34"/>indistinctum etiam virtualiter a Deo: modus 
+      <lb ed="#N" n="35"/>autem non est ratio, seu radix, &amp; per conseques 
+      <lb ed="#N" n="36"/>nullam potest facere mediationem, v. 8. ex eo, 
+      <lb ed="#N" n="37"/>quod intellectus Diuinus in Patre habeat 
+      mo<lb ed="#N" n="38" break="no"/>dum incommunicati, non sequitur, quod Filius 
+      <lb ed="#N" n="39"/>sit mediate ab intellectu Diuino, &amp; immediate 
+      <lb ed="#N" n="40"/>ab incommunicatione, quia talis 
+      incommunica<lb ed="#N" n="41" break="no"/>tio non est aliqua ratio Diuina, sed modus 
+      ra<lb ed="#N" n="42" break="no"/>tionis; ergo a pari dicendum de ratione necessa. 
+      <lb ed="#N" n="43"/>rij respectu esse, seu actus purissimi. His notatis 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e637">
+                  <lb ed="#N" n="44"/>6 Vnica concl. Deus est per Essentiam 
+      Im<lb ed="#N" n="45" break="no"/>mutabilis, &amp; immediate, &amp; recte probatur a 
+      <lb ed="#N" n="46"/>priori per rationem primi Entis, subsistentis, 
+      in<lb ed="#N" n="47" break="no"/>dependentis simpliciter, &amp; per ratione actus 
+      pu<lb ed="#N" n="48" break="no"/>rissimi, ac per rationem Immensitatis in 
+      diuerso<lb ed="#N" n="49" break="no"/>tamen genere causae. 1. pars concl. est de Fide. 
+      <lb ed="#N" n="50"/>Et prob. ex illis locis Scripturae, quos affert 
+      cun<lb ed="#N" n="51" break="no"/>tra Manichaeos Beatiss. P. Aug. lib. de Nat. Don. 
+      <lb ed="#N" n="52"/>c. 24. Nam psal. 101. dicitur: Mutabis ea, &amp; 
+      muta<lb ed="#N" n="53" break="no"/>buntur, tu autem idem ipse es, &amp; anni tut non 
+      <lb ed="#N" n="54"/>deficient; Et Sap. 7. In se ipsa manens innouat 
+      om<lb ed="#N" n="55" break="no"/>ma; &amp; 1. Tim. 1. Inuisibili, &amp; incorruptibili solis 
+      <lb ed="#N" n="56"/>Deo: &amp; lac. 1. Apud quem non est transmutatio; 
+      <lb ed="#N" n="57"/>nec momenti obumbratio. Quibus additur Num. 
+      <lb ed="#N" n="58"/>23. Non est Deus, quasi homo, vt mutetur. Et 
+      Ma<lb ed="#N" n="59" break="no"/>lach. 3. Ego Deus, &amp; non mutor. Quam veritatem 
+      <lb ed="#N" n="60"/>declarauit Conc. Lat. sub Innoc. III. relat inc. Fir¬ 
+      <!--614.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>miter de suma Trin; &amp; B. P. Aug. docet hanc 
+      veri<lb ed="#N" n="62" break="no"/>tatem Tract. 1. in Ioc. 1. dicens: Absit, vt ego vel 
+      <lb ed="#N" n="63"/>credam, vel sentiam commutabilem Deum, 
+      incom<lb ed="#N" n="64" break="no"/>mutabilis ergo est Deus. Et lib. 8. de Gen. ad lit. 
+      <lb ed="#N" n="65"/>c. 22, &amp; 23. Substantiam vero Dei nisi credat, nec 
+      <lb ed="#N" n="66"/>per tempus, nec per locum moueri, nondum perfecte 
+      <lb ed="#N" n="67"/>incommutabilem credit. Vid. loca superius allata. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e697">
+                  <lb ed="#N" n="68"/>7 Formatur autem ratio Magni Patris sic. 
+      <lb ed="#N" n="69"/>Omne illud, quod est suum esse subsistens 
+      sim<lb ed="#N" n="70" break="no"/>pliciter irreceptum, est immutabile simpliciter;  
+      <lb ed="#N" n="71"/>sed Deus est suum esse subsistens simpliciter 
+      in<lb ed="#N" n="72" break="no"/>receptu; ergo est simpliciter immutabilis. Proba 
+      <lb ed="#N" n="73"/>maior. Illud, quod nunquam potest acquirere, 
+      <lb ed="#N" n="74"/>vel deperdere esse, est immutabile simplicitera 
+      <lb ed="#N" n="75"/>nam mutabilitas est transitus de non esse ad 
+      es<lb ed="#N" n="76" break="no"/>se, aut e contra, sed illud, quod est suum esse 
+      sub<lb ed="#N" n="77" break="no"/>sistens essentialiter irreceptu, non potest 
+      acqui<lb ed="#N" n="78" break="no"/>rere, vel deperdere esse, quia si acquireret, sam 
+      <lb ed="#N" n="79"/>non esset illud, quod acquireret, sed reciperet. 
+      <lb ed="#N" n="80"/>illud; &amp; si deperderet, iam non esset illud, quod  
+      <lb ed="#N" n="81"/>deperderet, aliter deperderet seipsum, &amp; seipsum 
+      <lb ed="#N" n="82"/>acquireret; ergo omne illud, quod ess suum esse 
+      <lb ed="#N" n="83"/>subsistens simpliciter irreceptum, est 
+      immutabi<lb ed="#N" n="84" break="no"/>le simpliciter. Prob. minor. Deus est primum 
+      <lb ed="#N" n="85"/>Ens simpliciter independens, a quo omnia 
+      reci<lb ed="#N" n="86" break="no"/>piunt esse, ergo est suum esse subsistens 
+      simpli<lb ed="#N" n="87" break="no"/>citer irreceptum; aliter si Deus reciperet 
+      esse<lb ed="#N" n="88" break="no"/>ab alio, iam non esset id, a quo omnia recipiunt 
+      <lb ed="#N" n="89"/>esse, quia etiam ipse acciperet esse ab alio; &amp; 
+      sic<lb ed="#N" n="90" break="no"/>illud aliud, a quo reciperet esse, si haberet esse 
+      <lb ed="#N" n="91"/>urreceptum, esset Deus. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e752">
+                  <lb ed="#N" n="92"/>Conf. ex eodem Tract. 23. in Iodocentem. 
+      <lb ed="#N" n="93"/>Quidquid mutatur, vel transit ab imper fectione 
+      <lb ed="#N" n="94"/>ad perfectionem, vel a perfectione ad 
+      imperfe<lb ed="#N" n="95" break="no"/>ctionem, quia mutatio est transitus de non esse. 
+      <lb ed="#N" n="96"/>ad esse, &amp; e contra; non esse autem est 
+      imperfe<lb ed="#N" n="97" break="no"/>ctio, sicut esse est perfectio; sed Deus nequit 
+      tra<lb ed="#N" n="98" break="no"/>sire de imperfectione ad perfectionem, aut &amp; 
+      <lb ed="#N" n="99"/>contra; quia Deus nec habet imperfectionem 
+      <lb ed="#N" n="100"/>in se, nec illam potest acquirere, cum sit actus 
+      <lb ed="#N" n="101"/>purissimus; ergo Deus nequit mutari, &amp; 
+      per<lb ed="#N" n="102" break="no"/>consequens est simpliciter immutabilis. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e778">
+                  <lb ed="#N" n="103"/>SProb. 2. pars concl. Actus purissimus 
+      ex<lb ed="#N" n="104" break="no"/>cludit quancunque potentialitatem passiua, sed 
+      <lb ed="#N" n="105"/>exclusio cuiuscunque potentialitatis passiuae est, 
+      <lb ed="#N" n="106"/>ratio formalis Immutabilitatis simpliciter; ergo 
+      <lb ed="#N" n="107"/>ratio actus purissimi est radix Immutabilitatis 
+      <lb ed="#N" n="108"/>Dei, &amp; per consequens per rationem actus 
+      pu<lb ed="#N" n="109" break="no"/>rissimi probatur a priori Immutabilitas Dei, 
+      Ma<lb ed="#N" n="110" break="no"/>ior patet; quia actus, &amp; potentia opponuntur;  
+      <lb ed="#N" n="111"/>sed opposita se ad inuicem excludunt; ergo actus 
+      <lb ed="#N" n="112"/>purissimus excludit quancunque potentialita 
+      <lb ed="#N" n="113"/>tem passiuam. Prob. minor, Motus est actus 
+      en<lb ed="#N" n="114" break="no"/>tis in potentia, prout in potetia ad moneri, vt 
+      defi<lb ed="#N" n="115" break="no"/>nitur in Physs ergo exclusio potentialitatis est: 
+      <lb ed="#N" n="116"/>exclusio motus: nam illud in potentia vel se 
+      ha<lb ed="#N" n="117" break="no"/>bet, vtgenus, vel vt differentia in definitione 
+      <lb ed="#N" n="118"/>motus; sed exclusio vel genere, vel differentia 
+      <lb ed="#N" n="119"/>excluditur definitum, vt patet; ideo exclusio 
+      po<lb ed="#N" n="120" break="no"/>tentialitatis est exclusio motus, atqui exclusio 
+      <!--615.xml-->
+      <pb ed="#N" n="598"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>motus est Immutabilitas; ergo exclusio 
+      cuius<lb ed="#N" n="2" break="no"/>cunque potentialitatis est ratio formalis 
+      Im<lb ed="#N" n="3" break="no"/>mutabilitatis. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e833">
+                  <lb ed="#N" n="4"/>9. Prob. 3. pars concl. Immutabilitas, prout 
+      <lb ed="#N" n="5"/>excludit motum localem, habetur formaliter  
+      <lb ed="#N" n="6"/>per Immensitatem, ergo per ipsam formaliter  
+      <lb ed="#N" n="7"/>probatur a priori. Prob. antecedens: Mutabi 
+      li<lb ed="#N" n="8" break="no"/>tas secundum locum habetur formaliter 
+      secun<lb ed="#N" n="9" break="no"/>dum mensurabilitatem finitam, qua aliquod 
+      de<lb ed="#N" n="10" break="no"/>finitur ab vno loco; in tantum enim aliquod 
+      po<lb ed="#N" n="11" break="no"/>test mutare locum, in quantum formaliter est in 
+      <lb ed="#N" n="12"/>potentia ad illum; &amp; in tantum est in potentia 
+      <lb ed="#N" n="13"/>ad illum acquirendum, in quantum non est 
+      in<lb ed="#N" n="14" break="no"/>loco illo, potentia enim dicit non esse, vt 
+      dixi<lb ed="#N" n="15" break="no"/>mus q. 2. de Subst. Dei art. 3. 8.1: &amp; in tantum non 
+      <lb ed="#N" n="16"/>est in illo loco, in quantum ita mensuratur, &amp; 
+      <lb ed="#N" n="17"/>finitur ab hoc loco, vt non sit extra hunc locum; 
+      <lb ed="#N" n="18"/>ergo Immutabilitas, prout excludit motum 
+      lo<lb ed="#N" n="19" break="no"/>calem, habetur formaliter per Immensitatem¬ 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e870">
+                  <lb ed="#N" n="20"/>Conf nam ratio, cur aliquod corpus 
+      pos<lb ed="#N" n="21" break="no"/>sit moueri de vno loco ad alium, est, quia ita est in 
+      <lb ed="#N" n="22"/>vno loco, vt non sit in alio; motus enim est actus 
+      <lb ed="#N" n="23"/>imperfectus, &amp; ideo debet esse in actu secudum. 
+      <lb ed="#N" n="24"/>aliquod, &amp; esse in potentia secundum aliud, &amp; 
+      <lb ed="#N" n="25"/>ideo secundum aliquod debet esse actu, &amp; 
+      se<lb ed="#N" n="26" break="no"/>cundum aliud debor non esse, ergo ratio, cur  
+      <lb ed="#N" n="27"/>aliquod non possit moueri de vno loco ad 
+      <lb ed="#N" n="28"/>aliud, est, quia reperitur in vtroque loco; sed  
+      <lb ed="#N" n="29"/>Immensitas est ratio, cur Deus sit in omni loco, 
+      <lb ed="#N" n="30"/>&amp; actu repleat omnia loca; ergo Immensitas est: 
+      <lb ed="#N" n="31"/>ratio Immutabilitatis, prout Immutabilitas 
+      ex<lb ed="#N" n="32" break="no"/>cludit motum localem. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e901">
+                  <lb ed="#N" n="33"/>IO Tandem probari solet Immutabilitas 
+      <lb ed="#N" n="34"/>Dei ex summa Simplicitate; quia enim motus. 
+      <lb ed="#N" n="35"/>est actus imperfectus, &amp; ideo mixtus, &amp; 
+      com<lb ed="#N" n="36" break="no"/>positus ex actu, &amp; potentia; ideo Simplicitas 
+      Su<lb ed="#N" n="37" break="no"/>ma, quae excludit omnem compositionem, &amp; 
+      <lb ed="#N" n="38"/>mixtionem, excludit omnem motum. Sed haec- 
+      <lb ed="#N" n="39"/>probatio est mediata; nam Simplicitas excludit. 
+      <lb ed="#N" n="40"/>omnem compositionem, in quantum est actus 
+      <lb ed="#N" n="41"/>purissimus, &amp; in quantum est suum esse, &amp; 
+      <lb ed="#N" n="42"/>ideo haec ratio reducitur ad assignatas. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e926">
+                  <lb ed="#N" n="43"/>II Prob. etiam per Infinitatem; quia omne, 
+      <lb ed="#N" n="44"/>quod monetur, habet terminum: nam motus est, 
+      <lb ed="#N" n="45"/>a termino a quo ad terminum ad quem, sed 
+      nul<lb ed="#N" n="46" break="no"/>lum infinitum habet terminum, quia non 
+      haber<lb ed="#N" n="47" break="no"/>finem; ergo nullum infinitum monetur. Sed haec 
+      <lb ed="#N" n="48"/>etiam ratio optima est, sicut superior, attamen 
+      <lb ed="#N" n="49"/>est mediata, quia infinitum non habet terminum 
+      <lb ed="#N" n="50"/>co, quia est actus purissimus excludens genus, &amp; 
+      <lb ed="#N" n="51"/>differentiam, qui sunt termini rei. Tum quia 
+      <lb ed="#N" n="52"/>per Infinitate immediate probatur Immensitas, 
+      <lb ed="#N" n="53"/>vt dictum est in sup. Tract; &amp; per Immensitatem 
+      <lb ed="#N" n="54"/>Immutabilitas; ergo Infinitas mequit esse 
+      ra<lb ed="#N" n="55" break="no"/>tio immediata. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e957">
+                  <lb ed="#N" n="56"/>I2 Si dicatur 1. cum Fasol. Praecisa 
+      necessi<lb ed="#N" n="57" break="no"/>tate ad essendum non habetur Immutabilitas 
+      <lb ed="#N" n="58"/>Dei; sicut praecisa contingentia ad esse non 
+      <lb ed="#N" n="59"/>habetur mutabilitas creaturae; in tantum enim 
+      <lb ed="#N" n="60"/>creaturae sunt mutabiles ad esse, in quantum 
+      <!--615.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>sunt contingentes; ergo praedictae rationes 
+      non<lb ed="#N" n="62" break="no"/>sunt immediate, sed sola necessitas advesseam 
+      <lb ed="#N" n="63"/>mediate concludit.  
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e981">
+                  <lb ed="#N" n="64"/>Resp. neg. suppositum antecedentis 
+      Ssup<lb ed="#N" n="65" break="no"/>ponit enim, quod necessitas, &amp; contingeatia 
+      <lb ed="#N" n="66"/>sint formalitates, seu rationes formales Ipsarum 
+      <lb ed="#N" n="67"/>rerum, quod tamen falsum est, vt supra diximus; 
+      <lb ed="#N" n="68"/>nam vel nihil aliud sunt formaliter, quam ipsum 
+      <lb ed="#N" n="69"/>esse, vel ad summum sunt modi ipsius 
+      esse<lb ed="#N" n="70" break="no"/>modus autem non tollit immediationem  
+      <lb ed="#N" n="71"/>vt diximus. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1001">
+                  <lb ed="#N" n="72"/>I3 Si dicatur 2. cum Mayr. Essentia Diui 
+      <lb ed="#N" n="73"/>na est actus purissimus, &amp; tamen recipit 
+      relatio<lb ed="#N" n="74" break="no"/>nes ad intra, nec mutatur; ergo &amp; si reciperet, 
+      <lb ed="#N" n="75"/>relationes ad extra, non mutaretur; &amp; ideo 
+      ra<lb ed="#N" n="76" break="no"/>tio actus purissimi non probat 
+      Immutabilita<lb ed="#N" n="77" break="no"/>tem Dei, 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1017">
+                  <lb ed="#N" n="78"/>Resp. neg. antecedens; Essentia enim non 
+      <lb ed="#N" n="79"/>recipit relationes ad intra, quia identificatur 
+      for<lb ed="#N" n="80" break="no"/>maliter cum illis; &amp; ideo illas nequit reciperes 
+      <lb ed="#N" n="81"/>aliter reciperet seipsam; &amp; si reciperet, vere, &amp; 
+      <lb ed="#N" n="82"/>realiter mutaretur:  
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1030">
+                  <lb ed="#N" n="83"/>14. Si dicatur 3. Ex eo, quod Deus sit 
+      im<lb ed="#N" n="84" break="no"/>mensus, arguitur quod sit in nobis; sed ex eo) 
+      <lb ed="#N" n="85"/>quod est in nobis, deducitur; quod moneatur  
+      <lb ed="#N" n="86"/>ad motum, quo monemur nos: sicut anima 
+      no<lb ed="#N" n="87" break="no"/>stra ex eo, quod sit in corpore, mouetur per 
+      ac<lb ed="#N" n="88" break="no"/>cidens ad motum corporis, ergo Immensitas 
+      <lb ed="#N" n="89"/>est potius ratio motus, quam Immutabilitatis: 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1049">
+                  <lb ed="#N" n="90"/>Resp. neg. min; ad cuius prob. insertam 
+      <lb ed="#N" n="91"/>neg. paritas: nam anima ideo monetur per 
+      ac<lb ed="#N" n="92" break="no"/>cidens ad motum corporis, quia inhaeret 
+      cor<lb ed="#N" n="93" break="no"/>pori, &amp; est fixa inhaereter in illo, at vero Deus 
+      <lb ed="#N" n="94"/>non est inhaerenter in nobis, nec est fixus anhae 
+      <lb ed="#N" n="95"/>siue, sed repletiue, ideo non monetur. Ita 
+      Eun<lb ed="#N" n="96" break="no"/>datiss. Doct. hic. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1067">
+                  <lb ed="#N" n="97"/>15. Obiicies Sap. 7. de Sapientia Diuina diei: 
+      <lb ed="#N" n="98"/>tur: Omnibus mobilibus mobilior est Sapientia xο 
+      <lb ed="#N" n="99"/>Gen. 6. Paenitet me fecisse hominem; &amp; 223. Nunc 
+      <lb ed="#N" n="100"/>cognoui, quod timeas Dominum: &amp; plura aliado 
+      <lb ed="#N" n="101"/>ca, in quibus Deus dicitur odio habere, tristaris 
+      <lb ed="#N" n="102"/>trasci, descendere de Caelo, &amp; caetera huiusmodia 
+      <lb ed="#N" n="103"/>quae sonant aliquam mutationem, ergo Deus 
+      <lb ed="#N" n="104"/>non est immutabilis. 
+      <lb ed="#N" n="105"/>Deus producit ad extra effectus diuersos;
+      ai<lb ed="#N" n="106" break="no"/>quibus apparet extrinsece mutatus, non tamen 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1091">
+                  <lb ed="#N" n="107"/>sesp. hos, &amp; similes textus intelligi, quod 
+      <lb ed="#N" n="108"/>intrinsece habet aliquem ex his actibus5 quia 
+      <lb ed="#N" n="109"/>essentialiter important imperfectionem, vesuis 
+      <lb ed="#N" n="110"/>locis probabimus. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1102">
+                  <lb ed="#N" n="111"/>16 Obiicies 2. Deus in tempore factus est 
+      <lb ed="#N" n="112"/>homo in Incarnatione Verbi; ergo fuit mutatus; 
+      <lb ed="#N" n="113"/>quia in tempore acquisiuit esse humanum 
+      for<lb ed="#N" n="114" break="no"/>maliter, quod ab aeterno non habebat.  
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1113">
+                  <lb ed="#N" n="115"/>Resp. hoc arg. dissoluendum esse in 3 senti 
+      <lb ed="#N" n="116"/>interim neg. conseq. Ad prob. insertam negis 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1120">
+                  <lb ed="#N" n="117"/>quod Deus acquisierit esse humanum formalis 
+      <lb ed="#N" n="118"/>ter intrinsece; sicut corpus acquitit animama, 
+      <lb ed="#N" n="119"/>Deus enim simpliciter terminauit actine 
+      extrin<lb ed="#N" n="120" break="no"/>sece humanitatem; &amp; ideo nullo modo fuit mu¬ 
+      <!--616.xml-->
+      <pb ed="#N" n="599"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>tatus, quia mutari dicit passiue recipere aliquod  
+      <lb ed="#N" n="2"/>esse, sicut actiue mutare dicit alteri actiue 
+      com<lb ed="#N" n="3" break="no"/>municare esse: Deus ergo in Incarnatione 
+      acti<lb ed="#N" n="4" break="no"/>ue communicauit esse Diuinum naturae 
+      huma<lb ed="#N" n="5" break="no"/>nae; &amp; ideo actiue illam mutauit; non autem 
+      pas<lb ed="#N" n="6" break="no"/>siue ille mutatus est, quia passiue non recipit 
+      ali<lb ed="#N" n="7" break="no"/>quod esse, cum esse humanum tantum actiue sit 
+      <lb ed="#N" n="8"/>ibi communicauerit: 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1156">
+                  <lb ed="#N" n="9"/>I7. Obijcies 3. Omne, quod habet esse 
+      con<lb ed="#N" n="10" break="no"/>tingens, est mutabile, sed Deus habet aliquod 
+      es<lb ed="#N" n="11" break="no"/>se contingens, quia habet actum liberum, qui 
+      po<lb ed="#N" n="12" break="no"/>test adesse, &amp; abesse a Deo: ergo est mutabilis. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1167">
+                  <lb ed="#N" n="13"/>Resp. Hoc arg. dissoluendum esse q. 2. de 
+      <lb ed="#N" n="14"/>Volit. De1. Interim neg. minor. Ad prob. dicitur:  
+      <lb ed="#N" n="15"/>quod actus liber dicit duo, scilicet esse Diuinum: 
+      <lb ed="#N" n="16"/>seu entit atem Diuinam, &amp; obliquitatem ipsius 
+      <lb ed="#N" n="17"/>esse, seu entitatis. Itaque dist. Actus liber est 
+      con<lb ed="#N" n="18" break="no"/>tingens quantum ad esse, &amp; entitatem, neg; 
+      qua<lb ed="#N" n="19" break="no"/>tum ad obliquitatem, conc; nec tamen sequitur  
+      <lb ed="#N" n="20"/>ex hoc, quod mutetur, quia illa obliquitas non 
+      <lb ed="#N" n="21"/>est nisi modus ipsius entitatis, qui modus, cum 
+      <lb ed="#N" n="22"/>non sit aliquod esse, non mutat Deum, si adsit. 
+      <lb ed="#N" n="23"/>vel absit: nam mutatio est transitus de non esse 
+      <lb ed="#N" n="24"/>ad esse, aut e contra, scilicet de non entitate ad 
+      <lb ed="#N" n="25"/>entitatem, modus autem non est entitas, sed 
+      ob<lb ed="#N" n="26" break="no"/>liquitas entis, &amp; ideo transitus de modo ad 
+      mo<lb ed="#N" n="27" break="no"/>dum non est mutatio, quanuis contingentiam 
+      <lb ed="#N" n="28"/>importet. Sed de hoc loc. cit. Vid. de Atr. in com.4. 
+      <lb ed="#N" n="29"/>2. art. 2, &amp; 6. n. 12. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1735z-Dd1e1207">
+               <head xml:id="ccc7yd-g1735z-Hd1e1209">Articulus 2</head>
+               <p xml:id="ccc7yd-g1735z-d1e1211">
+                  <lb ed="#N" n="30"/>ART II. 
+      <lb ed="#N" n="31"/>An Immutabilitas sit Attributum 
+      pro<lb ed="#N" n="32" break="no"/>prium solius Dei  
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1220">
+                  <lb ed="#N" n="33"/>TOn loquimur hic de Immutabilitate, 
+      <lb ed="#N" n="34"/>X secundum quid, scilicet in vno genere, 
+      <lb ed="#N" n="35"/>sed de Immutabilitate simpliciter in omni ge¬ 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1229">
+                  <lb ed="#N" n="36"/>nere, vt supra diximus; haec enim sola dicit 
+      per<lb ed="#N" n="37" break="no"/>fectionem simplice formaliter in Deo existente 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1236">
+                  <lb ed="#N" n="38"/>Duplici autem ex capite potest probari 
+      <lb ed="#N" n="39"/>Immutabilitatem non esse Attributum Dei. 1. 
+      <lb ed="#N" n="40"/>ostendendo, quod est praedicatum essentiale, vel 
+      <lb ed="#N" n="41"/>quod non habet omnes conditiones requisitas 
+      <lb ed="#N" n="42"/>ad rationem formalem Attributi, quas q. 1. de. 
+      <lb ed="#N" n="43"/>Attr. in com. art. 3. recensuimus. 2. ostendendo 
+      <lb ed="#N" n="44"/>Immutabilitatem simpliciter posse etiam 
+      con<lb ed="#N" n="45" break="no"/>uenire creaturae. Circa secundum nulla est 
+      con<lb ed="#N" n="46" break="no"/>trouersia inter Theologos, quanuis possit esse 
+      <lb ed="#N" n="47"/>aliquod dissidium circa primum; quare. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1261">
+                  <lb ed="#N" n="48"/>2. Vnica concl. Immutabilitas simpliciter  
+      <lb ed="#N" n="49"/>est propria solius Dei, nec potest conuenire 
+      crea<lb ed="#N" n="50" break="no"/>turae, &amp; est Attributum illius. 1. pars concl. est de 
+      <lb ed="#N" n="51"/>Fide, habetur enim psal. 101. Ipsi peribunt, &amp; 
+      <lb ed="#N" n="52"/>mutabuntur, &amp; velut opertorium mutabis eos, 
+      tu<lb ed="#N" n="53" break="no"/>autem idem ipse es &amp;c; &amp; 1. ad Tim. 6. dicitur: 
+      <lb ed="#N" n="54"/>quod solus Deus habet immortalitatem, ex quo 
+      <lb ed="#N" n="55"/>Beatiss. P. Aug. lib. 3. contra Maximin. c. 12. arguit,  
+      <lb ed="#N" n="56"/>solum Deum esse im mutabile, quia omnis 
+      mu<lb ed="#N" n="57" break="no"/>tatio est quaedam mors; cum enim res incipit 
+      es<lb ed="#N" n="58" break="no"/>se, quod non erat, tunc desinit esse illud, quod 
+      <lb ed="#N" n="59"/>perat; desitio autem esse mors est, Hanc Conclu¬ 
+      <!--616.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>sionem ex professo tractat etiam lib. 8. super 
+      Gen<lb ed="#N" n="61" break="no"/>ad lit. c. 22, &amp; 23. vbi ait, quod Deus creauit 
+      du<lb ed="#N" n="62" break="no"/>plicem creaturam, aliam corporalem, spirituale 
+      <lb ed="#N" n="63"/>alteram; &amp; corporalem voluit moneri per 
+      tem<lb ed="#N" n="64" break="no"/>pora, &amp; per loca, quatenns circunscriptiue est in 
+      <lb ed="#N" n="65"/>loco, &amp; tranfertur de vna circunscriptione ad 
+      <lb ed="#N" n="66"/>alteram; spiritualem vero voluit moneri tantum 
+      <lb ed="#N" n="67"/>per tempora, non per loca, quod intelligendum 
+      <lb ed="#N" n="68"/>est de motu physico, qui sit de vna 
+      circunscrip<lb ed="#N" n="69" break="no"/>tione ad alteram, non vero de motu 
+      Metaphysi<lb ed="#N" n="70" break="no"/>co, qui conuenit etiam Angelis, vt pote 
+      definiti<lb ed="#N" n="71" break="no"/>ue existentibus in loco, &amp; limitatis ad locum. 
+      <lb ed="#N" n="72"/>Concludit autem, quod solus Deus simpliciter 
+      <lb ed="#N" n="73"/>immutabilis est, quia nec monetur per tempora; 
+      <lb ed="#N" n="74"/>nec per loca. Vid. alias auctoritates, quas 
+      addu<lb ed="#N" n="75" break="no"/>ximus in sup. art. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1329">
+                  <lb ed="#N" n="76"/> Prob. 1. pars concl. ratione. Solus Deus. 
+      <lb ed="#N" n="77"/>essentialiter est suum esse subsistens, &amp; 
+      omnino<lb ed="#N" n="78" break="no"/>inacceptum: &amp; est actus purissimus, ac immensus; 
+      <lb ed="#N" n="79"/>creatura vero essentialiter habet esse receptum 
+      <lb ed="#N" n="80"/>ab alio, importat potetialitate passiuam ad esse, 
+      <lb ed="#N" n="81"/>&amp; est finita nedum secundum entitatem, sed etiam 
+      <lb ed="#N" n="82"/>secundum locum; ergo Immutabilitas simplicitem 
+      <lb ed="#N" n="83"/>est propria solius Dei ita, vt nequeat conuenire 
+      <lb ed="#N" n="84"/>creaturae, quia ei nequit conuenite ratio 
+      subsi<lb ed="#N" n="85" break="no"/>stentis a se; ratio actus purissimi, &amp; immensi. 
+      To<lb ed="#N" n="86" break="no"/>tum hoc patet ex dictis in sup. art. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1355">
+                  <lb ed="#N" n="87"/>A Dices. Aeternitas potest communicar 
+      <lb ed="#N" n="88"/>creaturae, quia nulla est repugnantia, quod Deus 
+      <lb ed="#N" n="89"/>potuisset condere creaturam ab aeterno, &amp; ipsa 
+      <lb ed="#N" n="90"/>conseruare in aeternum a parte post; ergo potest. 
+      <lb ed="#N" n="91"/>creaturae communicari Immutabilitas 
+      simplici<lb ed="#N" n="92" break="no"/>ter. Antecedens admittitur a Fundatiss. Doct 
+      <lb ed="#N" n="93"/>Aegid. Prob. conseque quia Immutabilitas est 
+      ratio<lb ed="#N" n="94" break="no"/>Aeternitatis, vt videbimus in seq. Tract; ergo non 
+      <lb ed="#N" n="95"/>est ratio, cur possit vnum conmunicari, &amp; non 
+      al<lb ed="#N" n="96" break="no"/>terum: sicuti si posset communicari creature 
+      <lb ed="#N" n="97"/>Omnipotentia, non esset ratio, cur eidem non 
+      <lb ed="#N" n="98"/>posset comunicari Eminentia, quae est ratio 
+      for<lb ed="#N" n="99" break="no"/>malis Omnipotentiae, vt supra dictum est; tum 
+      <lb ed="#N" n="100"/>quia creatura producta ab aeterno, &amp; durans 
+      per<lb ed="#N" n="101" break="no"/>totam Aeternitatem nunquam transiret de esse 
+      <lb ed="#N" n="102"/>ad non esse, aut e contra; ergo esset 
+      immutabi<lb ed="#N" n="103" break="no"/>lis simpliciter  
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1394">
+                  <lb ed="#N" n="104"/>Resp. dist. Antecedens. Potest Aeternitas 
+      <lb ed="#N" n="105"/>communicari craturae, vi quo, &amp; accidentaliter,  
+      <lb ed="#N" n="106"/>conc; vt quod, &amp; substantialiter, neg; Aeternitas 
+      <lb ed="#N" n="107"/>enim, vt quod, &amp; substatialiter est propria solius 
+      <lb ed="#N" n="108"/>Dei; &amp; eodem modo dist. consequens. Ergo 
+      po<lb ed="#N" n="109" break="no"/>terit ei comunicari Immutabilitas per Essentia. 
+      <lb ed="#N" n="110"/>quae est Immutabil itas, vt quod; &amp; substantialis 
+      <lb ed="#N" n="111"/>ter, nege accidentaliter, &amp; vi quo, conc. Ad 1. 
+      <lb ed="#N" n="112"/>prob. dicitur, quod sicut creaturae comunicatur  
+      <lb ed="#N" n="113"/>Aeternitas mere extrinsece, &amp; vi quo, quatenus 
+      <lb ed="#N" n="114"/>a Deo producitur in esse, &amp; conseruatur 
+      pro<lb ed="#N" n="115" break="no"/>quocunque signo Aeternitatis, ita potest ei 
+      con<lb ed="#N" n="116" break="no"/>municari Immutabilitas eodem modo 
+      extrinse<lb ed="#N" n="117" break="no"/>ce, &amp; accidentaliter, quatenus a Deo 
+      conserua<lb ed="#N" n="118" break="no"/>tur in eodem esse, quod ab ipso recepit, &amp; 
+      nun<lb ed="#N" n="119" break="no"/>quam mutatur, non vero ab intrinseco, &amp; sub¬ 
+      <!--617.xml-->
+      <pb ed="#N" n="600"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>stantialiter, quia secundum suam essentiam dicit 
+      <lb ed="#N" n="2"/>posse esse, &amp; non esse, &amp; ideo nequit recipere 
+      <lb ed="#N" n="3"/>aliquod essentialiter, quod esset contradictorium 
+      <lb ed="#N" n="4"/>suae essentiae. Ad 2. dicitur, quod licet illa 
+      creatu<lb ed="#N" n="5" break="no"/>ta de facto nunquam mutaretur, attamen de 
+      <lb ed="#N" n="6"/>possibili posset mutari, quia Seper a Deo posset 
+      <lb ed="#N" n="7"/>destrui, &amp; per consequens non esset 
+      Immutabi<lb ed="#N" n="8" break="no"/>litas simpliciter, de qua in praesenti loquimur: 
+      <lb ed="#N" n="9"/>quia non esset Immutabilitas secundum omnem 
+      <lb ed="#N" n="10"/>rationem: non enim esset Immutabilitas secundum 
+      <lb ed="#N" n="11"/>actualitatem, &amp; possibilitatem. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1462">
+                  <lb ed="#N" n="12"/>Instabis. Si creatura esset ab aeterno, non 
+      <lb ed="#N" n="13"/>haberet esse post non esse, ergo esset 
+      intrinsece<lb ed="#N" n="14" break="no"/>immutabilis. Prob. antecedens. Si haberet esse. 
+      <lb ed="#N" n="15"/>post non esse, iam non esset aeterna, quia posset 
+      <lb ed="#N" n="16"/>assignari initium suae durationis, posset enim 
+      di<lb ed="#N" n="17" break="no"/>ci, quod illud instans immediate sequens post 
+      <lb ed="#N" n="18"/>non esse esset initium suae durationis. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1480">
+                  <lb ed="#N" n="19"/>Resp. dist. antecedens. Si ly post non esse 
+      di<lb ed="#N" n="20" break="no"/>cat aliquam durationem iam transactam in 
+      prae<lb ed="#N" n="21" break="no"/>teritum, conc; sic enim non esset aeterna, 
+      quia<lb ed="#N" n="22" break="no"/>aeternitas nullam supponit ante se durationem, si 
+      <lb ed="#N" n="23"/>est Aeternitas a parte ante. Si dicat tantum 
+      re<lb ed="#N" n="24" break="no"/>ceptionem esse ab alio; &amp; dependentiam in esse, 
+      <lb ed="#N" n="25"/>negi sic enim creatura, quanuis aeterna, haberet 
+      <lb ed="#N" n="26"/>esse dependens a Deo; per quod patet ad prob. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1501">
+                  <lb ed="#N" n="27"/>SProb. 2. pars concl. Mobilitas, &amp; 
+      Immo<lb ed="#N" n="28" break="no"/>bilitas sunt contraria; sed mobilitas est 
+      passio<lb ed="#N" n="29" break="no"/>corporis, &amp; verum Attributum illius, vt dicitur  
+      <lb ed="#N" n="30"/>in Physica; ergo Immobilitas est vera passio, &amp; 
+      <lb ed="#N" n="31"/>Attributum ipsius Dei, Maior patet: nam opposi¬ 
+      <!--617.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="32"/>torum est eadem ratio; vnde si vnum illorum est 
+      <lb ed="#N" n="33"/>Attributum, etiam alterum erit Attributum. 
+      <lb ed="#N" n="34"/>Hinc videmus, quod quia calor, &amp; frigus sunt 
+      <lb ed="#N" n="35"/>opposita contrarie, ideo sicut calor est proprig 
+      <lb ed="#N" n="36"/>tas ignis, ita frigiditas est proprietas aquaerquod  
+      <lb ed="#N" n="37"/>tamen est intelligendum de oppositis contrarie 
+      <lb ed="#N" n="38"/>vt sunt mobilitas, &amp; immobilitas; nam licet 
+      Im<lb ed="#N" n="39" break="no"/>mobilitas explicetur negatiue, attamen quantum; 
+      <lb ed="#N" n="40"/>ad rem significatam est aliquod positiuum, 
+      sicu<lb ed="#N" n="41" break="no"/>ti Aeternitas, quanuis negatiue explicetur, est 
+      <lb ed="#N" n="42"/>tamen aliquod positiuum, quia est mensura 
+      ip<lb ed="#N" n="43" break="no"/>sius Dei eodem modo, quo tempus est mensus. 
+      <lb ed="#N" n="44"/>ra creaturae sublunaris: nam Immobilitas est 
+      ra<lb ed="#N" n="45" break="no"/>tio ipsius Aeternitatis, &amp; ideo eodem modo se 
+      ha<lb ed="#N" n="46" break="no"/>bet. Vid; quae diximus de Immens&amp; Infinit. Prob. 
+      <lb ed="#N" n="47"/>min: nam mobilitas est virtus accidentalis 
+      super<lb ed="#N" n="48" break="no"/>addita corpori, per quam corpus potest 
+      mone<lb ed="#N" n="49" break="no"/>ri, vel ad locum, &amp; sic dicitur virtus 
+      locomoti<lb ed="#N" n="50" break="no"/>ua; vel ad formam, &amp; sic est qualitas dispositiua. 
+      <lb ed="#N" n="51"/>&amp;c, sicuti risibilitas est qualitas accidentalis 
+      fu<lb ed="#N" n="52" break="no"/>peraddita homini, per quam homo potest ridere. 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1564">
+                  <lb ed="#N" n="53"/>6 Prob. 2. Immutabilitas sequitur ad 
+      <lb ed="#N" n="54"/>Immensitatem tanquam ad propriam radicem; 
+      <lb ed="#N" n="55"/>sed Immensitas est Attributum Dei, ergo &amp; 
+      <lb ed="#N" n="56"/>Immutabilitas 
+      </p>
+               <p xml:id="ccc7yd-g1735z-d1e1575">
+                  <lb ed="#N" n="57"/>Obiectiones, quae fieri possunt contra hanc 
+      <lb ed="#N" n="58"/>2. partem concli iam solutae sunt in Tract. de 
+      <lb ed="#N" n="59"/>Immensit. art. 1, &amp; de Infinitart. 2, propterea 
+      <lb ed="#N" n="60"/>hic omittuntur. Vidiquae ibidem dicta sunt, ubi  
+      <lb ed="#N" n="61"/>alias rationes, quibus haec 2. pars potest 
+      pro<lb ed="#N" n="62" break="no"/>bari, assignauimus. 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

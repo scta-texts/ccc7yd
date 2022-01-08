@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Prooemium</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Prooemium</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="1"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1e4xx"><!--l1proprae -->
+            <head xml:id="ccc7yd-g1e4xx-Hd1e99">Prooemium</head>
+            <p xml:id="ccc7yd-g1e4xx-d1e101">
+      <!--16.xml-->
+               <pb ed="#N" n="1"/>
+               <cb ed="#N" n="a"/>
+               <lb ed="#N" n="1"/>PROEMTALTA 
+      <lb ed="#N" n="2"/>INVNIVERSAM THEOLOGIAM. 
+      </p>
+            <p xml:id="ccc7yd-g1e4xx-d1e114">
+               <lb ed="#N" n="3"/>CAndor est enim lucis aeternae, &amp; speculum sine macula Dei Maiestatis, &amp; imago 
+      <lb ed="#N" n="4"/>bonitatis illius; &amp; cum sit una, omnia potest; &amp; permanens in se omnia innouat; &amp; 
+      <lb ed="#N" n="5"/>per nationes in animas sanctas se transfert: amicos Dei, &amp; Prophetas constituit. 
+      <lb ed="#N" n="6"/>Sap. 7. Vna haec SAPIENTIAE mysteriosa periodus vniuersam 
+      Theologi<lb ed="#N" n="7" break="no"/>carum rerum continet seriem: vt acutissime exponit Fundatissimus Doctor. 
+      <lb ed="#N" n="8"/>Aegidius; Qui, vt ostenderet, se nihil docere, quod obscuritatem praeseferat,  
+      <lb ed="#N" n="9"/>a Candore suam inchoauit doctrinam; Quodue falsitatum, aut sophismatum 
+      <lb ed="#N" n="10"/>vmbris obuolutum sit, lucem suarum disputationum fixit initium. Porro Candor Lucis aeternae est 
+      <lb ed="#N" n="11"/>aeterna Dei Sapientia e fecunda Patris mente, ceu Candor a luce, dimanans, quae licet Io: 1. de se 
+      <lb ed="#N" n="12"/>asserat: Ego sum lux vera; Hic tamen Candor Lucis, non lux lucis inscribitur; ne obscurior (inquit  
+      <lb ed="#N" n="13"/>Magnus Doctor, &amp; P. Aug. lib. 4. de Trin. cap. 20) putaretur lux, quae manat, quam illa, de qua 
+      ma<lb ed="#N" n="14" break="no"/>nat; quemadmodum lux micans a Sole tanta non fulget in se, quanta nitet in illo, claritate. Ex  
+      <lb ed="#N" n="15"/>hoc Candore de eterna Patris mente consubstantialiter emicante participata exit lux; creata 
+      nem<lb ed="#N" n="16" break="no"/>pe Sapientia; Verbum etenim Diuinam nobis in Scripturis Sanctis reuelat doctrinam; Quae 
+      Diui<lb ed="#N" n="17" break="no"/>na Lux, sed creata subobscuro Fidei velamine circumsepta nuncupatur. Hanc lucem clarius 
+      in<lb ed="#N" n="18" break="no"/>spexit Doctorum Aquila Augustinus; cuius ductu quotquot Veritatis radijs perlustrantur 
+      Do<lb ed="#N" n="19" break="no"/>ctores; sine quo omnium conniuent oculi; quantulacumque caligant ingenia errorum tenebris, si 
+      <lb ed="#N" n="20"/>non obnoxia, saltem sus pecta. Sub huius Aquilae Regula viuens, &amp; videns bis filius B. Doctor 
+      Ae<lb ed="#N" n="21" break="no"/>gidius fundatissime, altissimeque inter alios hoc Diuinum Lumen vidit, docuit, scripsit, nostrorum 
+      <lb ed="#N" n="22"/>captui oculorum, quod noster non capit obtutus, dilucide admonens. Cum igitur Verbum 
+      infini<lb ed="#N" n="23" break="no"/>tam Patris mentem plenissime absorbeat; Augustinus iuxta modum creaturae mentem Verbi; &amp; 
+      <lb ed="#N" n="24"/>Aegidius Augustini; vt mirabilem hunc ordinem pro viribus prosequamur, Nobis Aegidij 
+      men<lb ed="#N" n="25" break="no"/>tem exhaurire studij labor erit totus; vt in Aegidio Augustini, &amp; in Augustino Dei, quantum fas 
+      <lb ed="#N" n="26"/>est, potiamur sapientia; sic enim ab huius via Lucis, extra huius eclipticam luminis, a qua, qui 
+      re<lb ed="#N" n="27" break="no"/>cedunt, exorbitant, errabundi per falsitatum salebras, &amp; per inospitas errorum vias mendacibus 
+      <lb ed="#N" n="28"/>placitis non abducemur. 
+      </p>
+            <p xml:id="ccc7yd-g1e4xx-d1e173">
+               <lb ed="#N" n="29"/>Antequam tamen ad speciales difficultates, quae suis exponentur in sedibus, accedamus, 
+      ali<lb ed="#N" n="30" break="no"/>quae Proemiales Quaestiones sunt praemittendae; cuius rationem affert Fundatiss. Doct. hic in Prol. 
+      <lb ed="#N" n="31"/>ex Magno P. Aug lib. 10. de Trin. c. 1; vbi ait: Nisi impressam cuiusque doctrinae haberemus in 
+      ani<lb ed="#N" n="32" break="no"/>mo notionem, nullo ad eam discendam studio flagraremus; Quo fit, vt nullus possit appetere nosse in 
+      <lb ed="#N" n="33"/>singula specie res, nisi prius in genere illarum habeat notitiam; Incognita enim amari non posse, 
+      <lb ed="#N" n="34"/>testatur Philosophus. 
+      </p>
+            <p xml:id="ccc7yd-g1e4xx-d1e189">
+               <lb ed="#N" n="35"/>In sex autem Quaestiones principales hanc Proemialium tractationem partiemur: in quarum 
+      <lb ed="#N" n="36"/>I. de existentia, &amp; essentia Theologiae; in 2. de objecto; in 3. de illius proprietatibus; in 4. de 
+      dura<lb ed="#N" n="37" break="no"/>tiones in 5. de locis, ex quibus arguit; in 6. de sensibus Sacrae Scripturae, &amp; de regulis illam 
+      inter<lb ed="#N" n="38" break="no"/>pretandi agemus. Quae omnia clariori stylo, aptiorique methodo, omissis insufficientibus, 
+      va<lb ed="#N" n="39" break="no"/>nisque dicendi modis, quod continuo praestabimus in omnibus, declarare, &amp; resoluere, accurate 
+      <lb ed="#N" n="40"/>conabimur.  
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

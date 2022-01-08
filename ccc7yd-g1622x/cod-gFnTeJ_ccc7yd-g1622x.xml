@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1622x"><!--l1t11prae -->
+            <head xml:id="ccc7yd-g1622x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1622x-d1e101">
+      <!--575.xml-->
+               <cb ed="#N" n="c"/>
+               <lb ed="#N" n="70"/>DEIMMENOLAAILDEla¬
+    </p>
+            <p xml:id="ccc7yd-g1622x-d1e110">
+               <lb ed="#N" n="71"/>TMmensitatem Dei capere, sicut Infinitatem illius definire, eadem diffi cultas, &amp; labor insupe 
+      <lb ed="#N" n="72"/>tabilis est; Immensus enim Deus non esset, si humano metiri posset eloquio: Sicut nec uo 
+      <lb ed="#N" n="73"/>nitus, Si finita posset oratione comprehendi. Quomodo (inquit Beatiss. P. lib. 5. de Trinegs 
+      <lb ed="#N" n="74"/>intellectu Deum capit homo, qui ipsum intellectum suum, quo eum vult capere, nondum capitQuad 
+      <lb ed="#N" n="75"/>Si intellectus hominis, vtpote finitus, est a nobis mensurabi lis, &amp; tamen eum metiri non possu 
+      <lb ed="#N" n="76"/>mus, quanto magis Deum immensum, qui, vtpote infinitus, immensur abilis est, metiri frustra 
+      <lb ed="#N" n="77"/>conabimur : Quamobrem quoniam perfectiones Dei negatiuae, quantum ad id, quod non sunta 
+      <lb ed="#N" n="78"/>non vero quoad id, quod sunt, cognoscere possumus, quid non sit Immensitas, inuestigabimus, 
+      <lb ed="#N" n="79"/>omittentes inuestigare, quid sit; quia, quod est, ininuestigabile est: Cape re possumus id, quod ue 
+      <lb ed="#N" n="80"/>gat, quia immensum non est; id autem, quod asserit, quia a non immenso imperceptibileest 
+      <lb ed="#N" n="81"/>non valemus percipere. Attamen percipiendo id, quod non est, capiemus id, quod de imper 
+      <lb ed="#N" n="82"/>ceptibili percipere possumus, id, quod de immenso valemus metiri. 
+      </p>
+            <p xml:id="ccc7yd-g1622x-d1e139">
+               <lb ed="#N" n="83"/>Recta autem methodo post tractatum de Infinitate inquisitionem Immensitatis subnectimus 
+      <lb ed="#N" n="84"/>quia prius est rem esse sine terminis in ordine ad se, per quod explicatur In finitas, quam in oedime 
+      <lb ed="#N" n="85"/>ad locum, per quod explicatur Immensitas. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

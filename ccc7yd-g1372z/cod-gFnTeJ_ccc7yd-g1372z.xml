@@ -1,0 +1,1689 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 1</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 1</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="472"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1372z"><!--l1t6q1 -->
+            <head xml:id="ccc7yd-g1372z-Hd1e99">Quaestio 1</head>
+            <p xml:id="ccc7yd-g1372z-d1e101">
+               <lb ed="#N" n="73"/>QVAEST. VNICA 
+      <lb ed="#N" n="74"/>De Veritate Dei:
+      </p>
+            <p xml:id="ccc7yd-g1372z-d1e108">
+               <lb ed="#N" n="75"/>QVoniam in his Tractatibus Metaphysica continuum famulatum praestat Theologiae, ideo 
+      <lb ed="#N" n="76"/>ex illa aliquas quaestiones assumemus, breviori stylo inuoluentes ea, quae ibidem fussori
+      <lb ed="#N" n="77"/>calamo pertractantur, &amp; relinquentes ea, quae ad tem praesentem non faciunt, ne nimis 
+      <lb ed="#N" n="78"/>onerosa grassatione scientias ancillas expoliantes vana repetitione surripiamus.
+        </p>
+            <div xml:id="ccc7yd-g1372z-Dd1e119">
+               <head xml:id="ccc7yd-g1372z-Hd1e121">Articulus 1</head>
+               <p xml:id="ccc7yd-g1372z-d1e123">
+      <!--489.xml-->
+                  <cb ed="#N" n="d"/>
+                  <lb ed="#N" n="79"/>ART. 
+      <lb ed="#N" n="80"/>An, &amp; quotuplex sit Veritas ?
+        </p>
+               <p xml:id="ccc7yd-g1372z-d1e134">
+                  <lb ed="#N" n="81"/>Ari Veritatem in rerum natura 
+      Emi<lb ed="#N" n="82" break="no"/>nentiss. Doct. 2. Met. q. 1. tripliciter 
+      pro<lb ed="#N" n="83" break="no"/>bat. 1. Datur manifestatio in rebus, quia cogni¬ 
+      <!--489.xml-->
+      <cb ed="#N" n="e"/>
+                  <lb ed="#N" n="84"/>tio nequit fieri sine manifestatione ipsius rei, 
+      <lb ed="#N" n="85"/>quandiu enim res non est manifesta, est 
+      abscon<lb ed="#N" n="86" break="no"/>dita, &amp; ideo ignota, sicuti apparet in visione 
+      cor<lb ed="#N" n="87" break="no"/>porali; quandiu enim obiectum coloratum non 
+      <lb ed="#N" n="88"/>est manifestatum per lumen corporeum, sempe 
+      <!--490.xml-->
+      <pb ed="#N" n="473"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>est ignotum, non visum, nec vnquam potest 
+      da<lb ed="#N" n="2" break="no"/>ri visio corporalis; ita autem se habet oculus 
+      re<lb ed="#N" n="3" break="no"/>spectu objecti sensibilis, sicut objectum respectu 
+      <lb ed="#N" n="4"/>intellectus, quemadmodum enim potentia 
+      visi<lb ed="#N" n="5" break="no"/>ua est oculus corporis, ita intellectus est oculus 
+      <lb ed="#N" n="6"/>Animae; sed Veritas est manifestatio rei; tunc 
+      <lb ed="#N" n="7"/>enim veritatem dicimus circa aliquam rem, 
+      quan<lb ed="#N" n="8" break="no"/>do nobis manifestatur res, sicuti est; ergo datur 
+      <lb ed="#N" n="9"/>Veritas in rebus. 2. Vel haec propositio, nulla 
+      <lb ed="#N" n="10"/>Veritas est, est vera, vel falsa? Si falsa; ergo eius 
+      <lb ed="#N" n="11"/>opposita, scilicet aliqua Veritas est, erit vera 
+      <lb ed="#N" n="12"/>nam ex contradictoriis vna necessario est vera, 
+      alte<lb ed="#N" n="13" break="no"/>ta falsa. Si vera; ergo datur Veritas in rebus 
+      <lb ed="#N" n="14"/>3. Si non daretur Veritas, tollerentur 
+      contradi<lb ed="#N" n="15" break="no"/>ctoria; de quolibet enim posset quodlibet 
+      affir<lb ed="#N" n="16" break="no"/>mari, &amp; negari; sed hoc est absurdum, 
+      ergo<lb ed="#N" n="17" break="no"/>datur Veritas 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e202">
+                  <lb ed="#N" n="18"/>Conf. ex eodem. Datur finis scientiarum. 
+      <lb ed="#N" n="19"/>speculatiuarum; cum enim scientiae speculatiuae 
+      <lb ed="#N" n="20"/>resideant in intentione, &amp; Agens ex intentione 
+      <lb ed="#N" n="21"/>agat propter fine, ideo debet dari finis scientiaru 
+      <lb ed="#N" n="22"/>speculatiuarum; sed finis scietiarum speculatiuarum est 
+      <lb ed="#N" n="23"/>Veritas, vt habet Phil. 2. Met, ergo datur Veritas 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e218">
+                  <lb ed="#N" n="24"/> Dices. 1. Veritas est adaequatio rerum. 
+      <lb ed="#N" n="25"/>ad intellectum, vt infra videb; sed implicat 
+      in<lb ed="#N" n="26" break="no"/>tellectum, vtpote immaterialem, adaequari a 
+      re<lb ed="#N" n="27" break="no"/>bus materialibus; ergo implicat dari Veritatem 
+      <lb ed="#N" n="28"/>2. Phil. de Caelo, &amp; Mundo ait, quod si unum 
+      <lb ed="#N" n="29"/>contrariorum fuerit in rerum natura, reperitur.  
+      <lb ed="#N" n="30"/>&amp; aliud; sed falsitas, quae contrariatur Veritati, 
+      <lb ed="#N" n="31"/>non est in rerum natura; dicitur enim 1. Post. 
+      <lb ed="#N" n="32"/>Falsum non scitur, quia falsum non est; ergo 
+      ne<lb ed="#N" n="33" break="no"/>que Veritas. 3. Veritas est in intellectus sed 
+      ex<lb ed="#N" n="34" break="no"/>quae sunt in intellectu, potius non sunt, 
+      quam<lb ed="#N" n="35" break="no"/>sint, quia sunt magis non entia, quam entia 
+      <lb ed="#N" n="36"/>ergo Veritas non est. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e250">
+                  <lb ed="#N" n="37"/>Resp. B. Doctor ad 1. dist. minore. Implicat,  
+      <lb ed="#N" n="38"/>intellectum adaequari a rebus materialibus 
+      per<lb ed="#N" n="39" break="no"/>commensurationem entitatiuam, conciper 
+      simi<lb ed="#N" n="40" break="no"/>litudinem, &amp; conformitatem ita, vt res 
+      intelli<lb ed="#N" n="41" break="no"/>gatur, sicuti est in se, negi &amp; in hoc sensu 
+      Veri<lb ed="#N" n="42" break="no"/>tas est adaequatio rerum ad intellectum. Ad 2. 
+      <lb ed="#N" n="43"/>ait Phil. loqui de contrarijs positiuis, vt de 
+      al<lb ed="#N" n="44" break="no"/>bedine, &amp; nigredine, non autem de contrariis 
+      <lb ed="#N" n="45"/>negatiuis, aut priuatiuis, nihil enim 
+      contraria<lb ed="#N" n="46" break="no"/>tur Enti negatiue, &amp; tamen nihil non est in rerum 
+      na<lb ed="#N" n="47" break="no"/>tura; Falsitas autem opponitur Veritati 
+      priuati<lb ed="#N" n="48" break="no"/>ue, &amp; ideo non est, idest non est aliquod Ens 
+      po<lb ed="#N" n="49" break="no"/>sitiuum. Ad 3. dist. mai. Veritas formalis, 
+      conc<lb ed="#N" n="50" break="no"/>transcendentalis, neg. Vt autem istae duae 
+      veri<lb ed="#N" n="51" break="no"/>tates explicentur quarum explicatio 
+      proponi<lb ed="#N" n="52" break="no"/>tur in titulo. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e287">
+                  <lb ed="#N" n="53"/>13. Veritas duplex est, alia transcendentalis, 
+      <lb ed="#N" n="54"/>quae dicitur etiam in essendo, quia inest entitati 
+      <lb ed="#N" n="55"/>cuiussibet rei; &amp; alia formalis, quae dicitur etiam 
+      <lb ed="#N" n="56"/>in cognoscendo, quia reperitur tantum in 
+      co<lb ed="#N" n="57" break="no"/>gnitione. Ita Fundatiss. Doct. 2. Met. q. 33 &amp; 22. 
+      <lb ed="#N" n="58"/>Fundamentum eius est. Veritas est 
+      adaequatio<lb ed="#N" n="59" break="no"/>rei, vt infra videb, sed duplex est adaequatio rei, 
+      <lb ed="#N" n="60"/>scilicet alia, qua res adaequatur suis principijs 
+      <!--490.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>essentialibus, vt in tantum Petrus dicitur verus 
+      <lb ed="#N" n="62"/>homo, in quantum adaequatur animalitati, &amp; 
+      ra<lb ed="#N" n="63" break="no"/>tionalitati, quae sunt principia essentialia 
+      con<lb ed="#N" n="64" break="no"/>stitutiua essentiae hominis: &amp; alia est 
+      adaequatio<lb ed="#N" n="65" break="no"/>intellectus ad res, qua intellectus intelligit ipsas, 
+      <lb ed="#N" n="66"/>sicut sunt in se ipsis; ergo duplex est Veritas; sed  
+      <lb ed="#N" n="67"/>adaequatio rei ad sua principia dicitur 
+      transcen<lb ed="#N" n="68" break="no"/>dentalis, siue in essendo, quia transcendit, &amp; 
+      im<lb ed="#N" n="69" break="no"/>bibitur in omni entitate; &amp; adaequatio 
+      intelle<lb ed="#N" n="70" break="no"/>ctus ad res dicitur formalis, siue in cognoscendo, 
+      <lb ed="#N" n="71"/>quia per hanc formaliter scitur adaequatio reit 
+      <lb ed="#N" n="72"/>ergo datur Veritas transcendentalis, &amp; formalis. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e337">
+                  <lb ed="#N" n="73"/>4. Notat tamen B. Doct. in 1. dist. 19. princ. 2. 
+      <lb ed="#N" n="74"/>7. 1. S. Propter hoc; quod Veritas 
+      transcendenta<lb ed="#N" n="75" break="no"/>lis, &amp; formalis dicuntur analogice, sicut cibus, 
+      <lb ed="#N" n="76"/>&amp; animal dicuntur sana; sanitas enim dicitur  
+      <lb ed="#N" n="77"/>formaliter de animali, quia est forma, per quam 
+      <lb ed="#N" n="78"/>animal est formaliter sanum; cibus autem 
+      dici<lb ed="#N" n="79" break="no"/>tur sanus causaliter, quatenus causat sanitatem 
+      <lb ed="#N" n="80"/>in animali; ita Veritas dicitur formaliter de 
+      in<lb ed="#N" n="81" break="no"/>tellectu, quia est forma, per quam intellectus 
+      est<lb ed="#N" n="82" break="no"/>formaliter verus; de rebus autem dicitur tatum 
+      <lb ed="#N" n="83"/>causaliter, quatenus causant Veritatem in 
+      intel<lb ed="#N" n="84" break="no"/>lectu; cum enim intellectus sit pura potentia 
+      <lb ed="#N" n="85"/>passiua, quae actuatur a rebus cognitis, ideo 
+      ne<lb ed="#N" n="86" break="no"/>quit esse actu formaliter verus; nisi Veritas 
+      for<lb ed="#N" n="87" break="no"/>malis a rebus causetur in ipso. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1372z-Dd1e373">
+               <head xml:id="ccc7yd-g1372z-Hd1e375">Articulus 2</head>
+               <p xml:id="ccc7yd-g1372z-d1e377">
+                  <lb ed="#N" n="88"/>ART. II. 
+      <lb ed="#N" n="89"/>Quid importet formaliter Veritas 
+      <lb ed="#N" n="90"/>transcendentalis: 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e386">
+                  <lb ed="#N" n="91"/>Vae diximus de Vnitate 
+      transcendenta<lb ed="#N" n="92" break="no"/>Pli art. 13 &amp; 23 dicenda pariter sunt de 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e393">
+                  <lb ed="#N" n="93"/>Veritate; aeque enim est passio Entis 
+      <lb ed="#N" n="94"/>Vnitas, ac Veritas, &amp; quod competit vni, prout 
+      <lb ed="#N" n="95"/>est passio, necessario competit etiam alteri. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e402">
+                  <lb ed="#N" n="96"/>Igitur Veritatem trascendentalem 
+      impor<lb ed="#N" n="97" break="no"/>tare ipsum Ens de materiali nullum est dubium; 
+      <lb ed="#N" n="98"/>quia Ens est subjectum, in quo recipitur passio, &amp; 
+      <lb ed="#N" n="99"/>subjectum semper materialiter importatur. 
+      Quae<lb ed="#N" n="100" break="no"/>rimus in praesenti, quid importet Veritas 
+      tran<lb ed="#N" n="101" break="no"/>scendentalis, &amp; formalis, non in sensu materiali, 
+      <lb ed="#N" n="102"/>sed in sensu formali. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e421">
+                  <lb ed="#N" n="103"/>Insuper aduertendum, quod Ens potest 
+      su<lb ed="#N" n="104" break="no"/>mi vel absolute, &amp; simpliciter; vel modificate, 
+      <lb ed="#N" n="105"/>vt diximus locis cit. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e430">
+                  <lb ed="#N" n="106"/>2 Prinia sententia vult Veritatem 
+      transcen<lb ed="#N" n="107" break="no"/>dentalem importare formaliter solam 
+      negatio<lb ed="#N" n="108" break="no"/>nem, quia in tantum Ens dicitur verum, in 
+      qua<lb ed="#N" n="109" break="no"/>tum non est falsum, aut fictum. Ita Aureol. in 
+      <lb ed="#N" n="110"/>1. dist. 13. q. 3. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e443">
+                  <lb ed="#N" n="111"/>Secunda sentetia vult Veritatem 
+      transcen<lb ed="#N" n="112" break="no"/>dentalem importare formaliter solam 
+      denomi<lb ed="#N" n="113" break="no"/>nationem extrinsecam pronenientem ab 
+      intel<lb ed="#N" n="114" break="no"/>lectu creato, vel Diumo speculatiue, vel 
+      practi<lb ed="#N" n="115" break="no"/>ce eam cognoscente. Ita Vasque 1. p. 4. 77. c. 3. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e456">
+                  <lb ed="#N" n="116"/>Tertia sententia tenet Veritatem 
+      transcen<lb ed="#N" n="117" break="no"/>dentalem importare solam relationem rationis 
+      <lb ed="#N" n="118"/>praecise. Ita Fons.4. Met. c. 2. . 16 &amp; alij¬ 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e465">
+                  <lb ed="#N" n="119"/>Vtima tandem sentetia docet Veritatem 
+      <!--491.xml-->
+      <pb ed="#N" n="474"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>trascendentalem, sicuti omnem aliam passionem. 
+      <lb ed="#N" n="2"/>Entis, importate formaliter entitatem 
+      modifica<lb ed="#N" n="3" break="no"/>tam a relatione secundum dici ad intellectum 
+      <lb ed="#N" n="4"/>creatum, &amp; a relatione reali ad intellectum 
+      Di<lb ed="#N" n="5" break="no"/>uinum. Ita B. Doct. 2. Met. q. 2. 3. 4. &amp; in 1. dist. 
+      <lb ed="#N" n="6"/>19. princ. 2. q. 1. 8. Sciendum, pro cuius decisione. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e489">
+                  <lb ed="#N" n="7"/>3. Unica conclusio. Veritas transcedentalis 
+      <lb ed="#N" n="8"/>supra entitatem absolutam importat formaliter 
+      <lb ed="#N" n="9"/>entitatem modificatam virtualiter distinctam, &amp; 
+      <lb ed="#N" n="10"/>ex consequenti relationem secundum dici ad 
+      <lb ed="#N" n="11"/>intellectum creatum, &amp; relationem realem ad 
+      <lb ed="#N" n="12"/>intellectum Diuinum. Prob. iisdem rationibus. 
+      <lb ed="#N" n="13"/>proportionali modo, quibus probauimus 
+      Vnita<lb ed="#N" n="14" break="no"/>tem importare primario, &amp; principaliter 
+      Entita<lb ed="#N" n="15" break="no"/>tem modificatam virtualiter distinctam ab 
+      Enti<lb ed="#N" n="16" break="no"/>tate absoluta, &amp; ex consequenti negationem: nam 
+      <lb ed="#N" n="17"/>si non importaret formaliter Entitatem, 
+      formali<lb ed="#N" n="18" break="no"/>ter, esset nihil, quia quod formaliter non est Ens, 
+      <lb ed="#N" n="19"/>formaliter est nihil, cum nihil sit negatio Entis. 
+      <lb ed="#N" n="20"/>Praeterea Veritas transcendentalis est passio 
+      En<lb ed="#N" n="21" break="no"/>tis, vt communiter dicitur in Met; sed passio 
+      ha<lb ed="#N" n="22" break="no"/>bet rationem qualitatis aduenientis essentiae, &amp; 
+      <lb ed="#N" n="23"/>qualitas est Ens modificatum diuidens Ens, 
+      vi<lb ed="#N" n="24" break="no"/>sic; omnia enim praedicamenta sunt modi Entis: 
+      <lb ed="#N" n="25"/>ergo Veritas transcendentalis importat 
+      forma<lb ed="#N" n="26" break="no"/>liter principaliter entitatem modificatam 
+      vir<lb ed="#N" n="27" break="no"/>tualiter distincta ab Ente, vt sic absolute supto¬ 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e538">
+                  <lb ed="#N" n="28"/>Conf. Negatio non est passio alicuius rei, 
+      <lb ed="#N" n="29"/>quia passio est de genere qualitatis, quae est 
+      ali<lb ed="#N" n="30" break="no"/>quod positiuum; neque denominatio 
+      extrinseca<lb ed="#N" n="31" break="no"/>potest esse passio, quia passio est forma 
+      acciden<lb ed="#N" n="32" break="no"/>talis intrinsece informans, &amp; afficiens subjectum; 
+      <lb ed="#N" n="33"/>denominatio autem extrinseca non est aliqua 
+      <lb ed="#N" n="34"/>forma intrinsece afficiens subjectum 
+      denomina<lb ed="#N" n="35" break="no"/>tum, aliter non denominaret extrinsece, sed 
+      in<lb ed="#N" n="36" break="no"/>trinsece, tandem relatio rationis non potest esse. 
+      <lb ed="#N" n="37"/>passio, quia passio dicit rem, &amp; est species 
+      diui<lb ed="#N" n="38" break="no"/>dens Ens reale; ergo Veritas transcendentalis 
+      <lb ed="#N" n="39"/>primario, &amp; formaliter non importat negationem, 
+      <lb ed="#N" n="40"/>vel denominationem extrinsecam, aut 
+      relatio<lb ed="#N" n="41" break="no"/>nem rationis; vt vid de Unit. Dei ubi sup. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e571">
+                  <lb ed="#N" n="42"/> Prob. 2. pars concl. Veritas 
+      transcenden<lb ed="#N" n="43" break="no"/>talis est causa, &amp; mensura Veritatis formalis 
+      exi<lb ed="#N" n="44" break="no"/>stentis in intellectu humano, &amp; effectus 
+      Verita<lb ed="#N" n="45" break="no"/>tis formalis existentis in intellectu Diuino, 
+      in<lb ed="#N" n="46" break="no"/>hoc enim distinguitur intellectus humanus ab 
+      <lb ed="#N" n="47"/>int ellectu Diuino, quod intellectus humanus, 
+      <lb ed="#N" n="48"/>quia nascitur, vt pura potentia passiua in genere 
+      <lb ed="#N" n="49"/>intelligibilium, actuatur ab ipsis rebus; quas 
+      in<lb ed="#N" n="50" break="no"/>telligit, &amp; ideo a rebus causatur in ipso 
+      intelle<lb ed="#N" n="51" break="no"/>ctu humano actus cognitionis, prout qualitas 
+      <lb ed="#N" n="52"/>estvt dictum est φ. 1. Proem. art. 6. n. 43 in quo actu 
+      <lb ed="#N" n="53"/>consistit formaliter Veritas formalis, vt patebit 
+      ex<lb ed="#N" n="54" break="no"/>infra dicendis, at vero intellectus Diuinus, 
+      quia<lb ed="#N" n="55" break="no"/>est purissimus actus simpliciter infinite actjuus, 
+      <lb ed="#N" n="56"/>&amp; causatiuus, habet producere omnem entitate 
+      <lb ed="#N" n="57"/>creatam, &amp; per consequens Veritas formalis 
+      in<lb ed="#N" n="58" break="no"/>tellectus Diuini habet mensurare omnem 
+      Veri<lb ed="#N" n="59" break="no"/>tatem transcendentalem, quia causa est mensura. 
+      <lb ed="#N" n="60"/>sui effectus; effectus enim habet tantum de esse. 
+      <!--491.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>quantum sibi communicatur a sua causa; quod 
+      <lb ed="#N" n="62"/>tamen intelligendum est de mensura per 
+      exces<lb ed="#N" n="63" break="no"/>sum, non per adaequationem; sed mensura dicit 
+      <lb ed="#N" n="64"/>telationem secundum dici ad mensuratum, 
+      men<lb ed="#N" n="65" break="no"/>suratum vero dicit relationem realem ad 
+      men<lb ed="#N" n="66" break="no"/>suram ex Phil; ergo Veritas transcendentalis 
+      di<lb ed="#N" n="67" break="no"/>cit relationem secundum dici ad intellectum 
+      crea<lb ed="#N" n="68" break="no"/>tum, &amp; relationem realem ad Diuinum 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e636">
+                  <lb ed="#N" n="69"/>Conf. Veritas transcendentalis vitra 
+      entita<lb ed="#N" n="70" break="no"/>tem modificatam importat conformitatem rei ad 
+      <lb ed="#N" n="71"/>intellectum, sicuti Veritas formalis importat, 
+      con<lb ed="#N" n="72" break="no"/>formitatem intellectus ad res; sed conformitas 
+      <lb ed="#N" n="73"/>est relatio, &amp; haec relatio per ordinem ad 
+      intel<lb ed="#N" n="74" break="no"/>lectum creatum est relatio mensurae; &amp; per 
+      or<lb ed="#N" n="75" break="no"/>dinem ad intellectum Diuinum est relagio 
+      men<lb ed="#N" n="76" break="no"/>sutati, vt dictum est; ergo Veritas 
+      tranicenden<lb ed="#N" n="77" break="no"/>talis improtat ex consequenti, &amp; minus 
+      princi<lb ed="#N" n="78" break="no"/>paliter relationen secundum dici ad intellectum 
+      <lb ed="#N" n="79"/>creatum, &amp; secudum esse ad intellectum Dininum 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e662">
+                  <lb ed="#N" n="80"/>Not. tamen B. Doct. vbi sup; quod hislo 
+      <lb ed="#N" n="81"/>quimur de intellectu speculatiuo tantum: nam 
+      <lb ed="#N" n="82"/>cum intellectus practicus causet res, vt patet de 
+      <lb ed="#N" n="83"/>Artifice efformante statuam, ideo est mensura 
+      <lb ed="#N" n="84"/>illarum, &amp; per consequens res causata ab 
+      intel<lb ed="#N" n="85" break="no"/>lectu creato dicit relationem realem ad illum 
+      <lb ed="#N" n="86"/>quanuis postea, vt speculatiue cognita, sit 
+      mensu<lb ed="#N" n="87" break="no"/>tra illius, &amp; dicat relationem secundum dici. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e682">
+                  <lb ed="#N" n="88"/>Obiectiones, quae fieri possunt, iam solutae 
+      <lb ed="#N" n="89"/>sunt de Unit. Dei ubi sup.¬ 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1372z-Dd1e691">
+               <head xml:id="ccc7yd-g1372z-Hd1e693">Articulus 3</head>
+               <p xml:id="ccc7yd-g1372z-d1e695">
+                  <lb ed="#N" n="90"/>ART. III. 
+      <lb ed="#N" n="91"/>In quo consistat Veritas formalise
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e702">
+                  <lb ed="#N" n="92"/>Duertit Fundatiss. Doct. 2. Met. 4. tτ.. 
+      <lb ed="#N" n="93"/>adaequationem intellectus cum re 
+      tri<lb ed="#N" n="94" break="no"/>plicem esse. 1. est, qua intellectus adequatur ret 
+      <lb ed="#N" n="95"/>secundum illud esse objectiuum, quod habet res 
+      <lb ed="#N" n="96"/>in intellectu. 2. qua intellectus adaequatur rei 
+      se<lb ed="#N" n="97" break="no"/>cundum esse physicum, quod habet res 
+      extra<lb ed="#N" n="98" break="no"/>intellectum; quotiescunque enim intellectus 
+      eo<lb ed="#N" n="99" break="no"/>gnoscit rem, sicut repraesentatur in intellectustune 
+      <lb ed="#N" n="100"/>dicitur adaequari rei secundum illud esse, quod  
+      <lb ed="#N" n="101"/>habet in intellectu; &amp; quoties cognoscit remo; 
+      <lb ed="#N" n="102"/>sicuti est in se ipsa, tunc adaequatur rei secundum 
+      <lb ed="#N" n="103"/>illud esse, quod habet in seipsa. 3. est, qua 
+      esse<lb ed="#N" n="104" break="no"/>obiectiuum, quod habet res in intellectu, 
+      adae<lb ed="#N" n="105" break="no"/>quatur esse reali, quod habet res in seipsa. 
+      Quae<lb ed="#N" n="106" break="no"/>ritur in praesenti, in quanam ex his tribus 
+      adae<lb ed="#N" n="107" break="no"/>quationibus consistat Veritas formalis: 
+      <lb ed="#N" n="108"/>2 Prima sententia vult Veritatem formale 
+      <lb ed="#N" n="109"/>consistere in adaequatione, seu conformitate 
+      il<lb ed="#N" n="110" break="no"/>lius esse objectiui, quod habet res in intellectu 
+      <lb ed="#N" n="111"/>cum esse reali physico, quod habet res a parte 
+      <lb ed="#N" n="112"/>rei in seipsa. Ita Dur: in 1. dist. 19. q. 5; que 
+      sequi<lb ed="#N" n="113" break="no"/>tur <name xml:id="ccc7yd-g1372z-Nd1e751">Vasq.</name> 1. p. disp. 76. c. 1. 
+      <lb ed="#N" n="114"/> Secunda sententia putat Veritatem 
+      forma<lb ed="#N" n="115" break="no"/>lem consistere in conformitate, seu adaequatione 
+      <lb ed="#N" n="116"/>cognitionis cum esse reali, quod habet res 
+      extra<lb ed="#N" n="117" break="no"/>inte llectum. Ita <name xml:id="ccc7yd-g1372z-Nd1e762">Fasol.</name> 1. p. q. 16. art. 1. dub. Iιnι6. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e765">
+                  <lb ed="#N" n="118"/>Tertia tandem sententia docet Veritatem 
+      <lb ed="#N" n="119"/>formalem consistere primario in adaequatione, 
+      <!--492.xml-->
+      <pb ed="#N" n="475"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>seu conformitate intellectus cum re secundum 
+      <lb ed="#N" n="2"/>iliud esse, quod res habet intra intellectum, 
+      con<lb ed="#N" n="3" break="no"/>comitanter vero, &amp; secundario importare 
+      con<lb ed="#N" n="4" break="no"/>formitatem cum esse physico, quod habet res 
+      <lb ed="#N" n="5"/>extra intellectum. Ita Fundatiss. Doct. in 1. dist. 
+      <lb ed="#N" n="6"/>19. princi2. 4. 1, &amp; Quodl. 4. q. 7. quam sentetiam 
+      <lb ed="#N" n="7"/>censemus esse Philipro cuius decisione. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e794">
+                  <lb ed="#N" n="8"/> Vnica concl. Veritas sormalis consistit 
+      <lb ed="#N" n="9"/>primario in adaequatione intellectus cum re 
+      in<lb ed="#N" n="10" break="no"/>tellecta secundum illud esse objectiuum, quod 
+      <lb ed="#N" n="11"/>est in intellectu; ex consequenti vero, &amp; 
+      secun<lb ed="#N" n="12" break="no"/>dario consistit in adaequatione cum esse reali, 
+      <lb ed="#N" n="13"/>quod habet res a parte rei. Haec conclusio 
+      col<lb ed="#N" n="14" break="no"/>ligitur ex definitione Veritatis tradita a Beatiss. 
+      <lb ed="#N" n="15"/>P. Aug. apud Fasol. ubi sup. docente: Veritas est, 
+      <lb ed="#N" n="16"/>qua ostenditur id, quod est; cum enim res non 
+      <lb ed="#N" n="17"/>ostendatur intellectui nisi secundum illud esse, 
+      <lb ed="#N" n="18"/>quod est in intellectu; quandiu nanque res non 
+      <lb ed="#N" n="19"/>habet esse objectiue in intellectu, non est 
+      osten<lb ed="#N" n="20" break="no"/>sa, aut manifestata intellectui, quia non est 
+      co<lb ed="#N" n="21" break="no"/>gnita: &amp; ideo Veritas primario consistit in illa 
+      <lb ed="#N" n="22"/>ostensione, siue in illo esse objectiuo, &amp; quo- 
+      <lb ed="#N" n="23"/>niam debet ostendi illud, quod est a parte rei, 
+      <lb ed="#N" n="24"/>id eo ex consequenti, &amp; secundario consistit 
+      in<lb ed="#N" n="25" break="no"/>esse reali, quod habet res in se ipsa. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e837">
+                  <lb ed="#N" n="26"/>Prob. 1. pars conc. Veritas formalis 
+      prima<lb ed="#N" n="27" break="no"/>rio consistit in adaequatione illius, quod imme 
+      <lb ed="#N" n="28"/>diate coniungitur cum ipsa cognitione, a 
+      qua<lb ed="#N" n="29" break="no"/>intellectus dicitur verus formaliter; primarium 
+      <lb ed="#N" n="30"/>enim, &amp; immediatum, ac specificatiuum ipsius 
+      <lb ed="#N" n="31"/>actus idem sunt; sed objectum actus intellectus 
+      <lb ed="#N" n="32"/>immediatum, in quod immediate tendit 
+      cogni<lb ed="#N" n="33" break="no"/>tio, est res secundum illud esse, quod habet res 
+      <lb ed="#N" n="34"/>in intellectu, non secundum esse reale, quod 
+      ha<lb ed="#N" n="35" break="no"/>bet res in seipsa, patet enim, quod quando 
+      in<lb ed="#N" n="36" break="no"/>tellectus intelligit lapidem v. g, lapis vnitur 
+      in<lb ed="#N" n="37" break="no"/>tellectui, non secundum esse reale materiale. 
+      <lb ed="#N" n="38"/>quod habet a parte rei, sed secundum esse 
+      obie<lb ed="#N" n="39" break="no"/>ctiuum, &amp; intellectuale, siue secundum speciem. 
+      <lb ed="#N" n="40"/>sui, ex qua vnione resultat cognitio iuxta 
+      do<lb ed="#N" n="41" break="no"/>ctrinam Beatiss. P. asserentis: Ex obiecto, &amp; 
+      po<lb ed="#N" n="42" break="no"/>tentia paritur notitia; ergo Veritas formalis, qua 
+      <lb ed="#N" n="43"/>actus cognitionis dicitur formaliter verus, 
+      pri<lb ed="#N" n="44" break="no"/>mario consistit in adaequatione ipsius 
+      cognitio<lb ed="#N" n="45" break="no"/>nis cum re secundum illud esse objectiuum 
+      <lb ed="#N" n="46"/>quod habet res in intellectu. Major patet: nam 
+      <lb ed="#N" n="47"/>quilibet actus trahit specificationem ab objecto 
+      <lb ed="#N" n="48"/>primario, &amp; immediato, quod primario respicit; 
+      <lb ed="#N" n="49"/>non autem ab objecto mediato, quod respicit 
+      <lb ed="#N" n="50"/>secundario, &amp; ex consequenti. Minor etiam 
+      con<lb ed="#N" n="51" break="no"/>stat: nam res secundum esse reale physicum 
+      re<lb ed="#N" n="52" break="no"/>spicit solum potentiam physicam, per quam res 
+      <lb ed="#N" n="53"/>ponitur in seipsa; &amp; ideo nequit respicere 
+      po<lb ed="#N" n="54" break="no"/>tentiam intellectiuam immediate, per quam res 
+      <lb ed="#N" n="55"/>ponitur in intellectu; idem enim nequit 
+      respi<lb ed="#N" n="56" break="no"/>cere duplicem potentiam diuersam aeque 
+      pri<lb ed="#N" n="57" break="no"/>mo immediate, aliter poneretur in duplici 
+      spe<lb ed="#N" n="58" break="no"/>cie, quod implicat. Praeterea constat, quod 
+      <lb ed="#N" n="59"/>res nequit uniri cum intellectu, nisi in eo 
+      ordi<lb ed="#N" n="60" break="no"/>ne, in quo est intellectus; sed intellectus est in¬ 
+      <!--492.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>ordine intellectuali, &amp; repraesentatiuo; ergo res 
+      <lb ed="#N" n="62"/>nequit immediate vniri cum intellectu, nisi 
+      se<lb ed="#N" n="63" break="no"/>cundum esse objectiuum, &amp; repraesentatiuum. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e926">
+                  <lb ed="#N" n="64"/> Prob. 2. Oppositorum est eadem ratio, sed  
+      <lb ed="#N" n="65"/>mendacium, quod opponitur Veritati formali, 
+      <lb ed="#N" n="66"/>consistit in difformitate intellectus cum re 
+      se<lb ed="#N" n="67" break="no"/>cundum illud esse objectiuum, quod habet res 
+      <lb ed="#N" n="68"/>in intellectu; ergo Veritas formalis consistit 
+      in<lb ed="#N" n="69" break="no"/>conformitate, &amp; adaequationecsumitur enim hic: 
+      <lb ed="#N" n="70"/>adaequatio, prout idem est, ac conformitas) cum 
+      <lb ed="#N" n="71"/>eodem esse objectiuo, Maior patet. Prob, min. 
+      <lb ed="#N" n="72"/>ex Fundatiss. Doct. in 2. sent; vbi habet: Menuri 
+      <lb ed="#N" n="73"/>est, quasi extra mentem ire; quod nihil aliud 
+      so<lb ed="#N" n="74" break="no"/>nat, nisi quod mentiri est enunciare rem aliter,  
+      <lb ed="#N" n="75"/>ac habet esse in intellectu: nam quando aliquis 
+      <lb ed="#N" n="76"/>habet esse objectiuum in intellectu alicuius rei 
+      <lb ed="#N" n="77"/>aliter, ac est ipsa res in se ipsa, tunc intellectus 
+      <lb ed="#N" n="78"/>non mentitur formaliter, sed tantum 
+      materiali<lb ed="#N" n="79" break="no"/>ter, vt infra magis patebit; ergo tunc intellectus 
+      <lb ed="#N" n="80"/>est verus formaliter, quando conformatur cum 
+      <lb ed="#N" n="81"/>re secundum illud esse objectiuum, quod habet  
+      <lb ed="#N" n="82"/>res in intellectu. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e970">
+                  <lb ed="#N" n="83"/>S Prob. 2. pars. Ex eo, quod intellectus 
+      con<lb ed="#N" n="84" break="no"/>formatur rei secundum illud esse, quod habet in 
+      <lb ed="#N" n="85"/>intellectu, conformatur etiam ipsi secundum 
+      il<lb ed="#N" n="86" break="no"/>lud esse, quod habet in seipsa, quia res in 
+      intel<lb ed="#N" n="87" break="no"/>lectu debet repraesentari, sicut est in seipsa; &amp; 
+      <lb ed="#N" n="88"/>ideo illud esse objectiuum debet esse 
+      conforme<lb ed="#N" n="89" break="no"/>esse reali, quod habet res in seipsa ad hoc, vt 
+      in<lb ed="#N" n="90" break="no"/>tellectus sit formaliter verus; ergo Veritas 
+      for<lb ed="#N" n="91" break="no"/>malis secundario, &amp; concomitanter importat 
+      <lb ed="#N" n="92"/>conformitatem cognitionis cum esse reali, quod  
+      <lb ed="#N" n="93"/>habet res extra intellectum. Prob. antecedens. 
+      <lb ed="#N" n="94"/>Quae adaequantur vni tertio, adaequantur inter 
+      <lb ed="#N" n="95"/>se, sicuti quae vniuntur vni tertio, vniuntur 
+      inter<lb ed="#N" n="96" break="no"/>se, sed intellectus adaequatur cum esse 
+      objecti<lb ed="#N" n="97" break="no"/>quo, quod habet res in intellectu; &amp; esse reale, 
+      <lb ed="#N" n="98"/>quod habet res in seipsa, adaequatur cum esse 
+      <lb ed="#N" n="99"/>objectiuo, quod habet res in intellectu, 
+      quia<lb ed="#N" n="100" break="no"/>debet repraesentari intellectui, sicuti est in 
+      se<lb ed="#N" n="101" break="no"/>ipsa; ergo intellectus adaequatur primario cum 
+      <lb ed="#N" n="102"/>esse obiectiuo, quod habet res in intellectu, &amp; 
+      <lb ed="#N" n="103"/>concomitanter, seu secundario adaequatur cum 
+      <lb ed="#N" n="104"/>esse reali, quod habet res in seipsa. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1020">
+                  <lb ed="#N" n="105"/>Cons. Si Veritas formalis non importaret. 
+      <lb ed="#N" n="106"/>concomitanter, &amp; consequenter adaequationem: 
+      <lb ed="#N" n="107"/>intellectus cum esse reali, quod habet res a 
+      par<lb ed="#N" n="108" break="no"/>te rei, sequeretur, quod posset dari Veritas 
+      in<lb ed="#N" n="109" break="no"/>intellectu, etiam si apprehenderet rem aliter, ac 
+      <lb ed="#N" n="110"/>est in se ipsa, vt v. 8. si quis apprehenderet 
+      homi<lb ed="#N" n="111" break="no"/>nem esse animal irrationale, enunciando 
+      homi<lb ed="#N" n="112" break="no"/>nem esse irrationalem, esset veridicus, quia 
+      <lb ed="#N" n="113"/>enunciaret iuxta illud esse objectiuum, quod 
+      ha<lb ed="#N" n="114" break="no"/>bet in intellectu; sed consequens est falsum 
+      <lb ed="#N" n="115"/>ergo &amp; antecedens. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1046">
+                  <lb ed="#N" n="116"/>6 Aduertendum tamen ex Fundatiss. Doct. 
+      <lb ed="#N" n="117"/>vbi sup. vnam tantum esse adaequationem, 
+      per<lb ed="#N" n="118" break="no"/>quam intellectus adaequatur rei secundum 
+      <lb ed="#N" n="119"/>esse objectiuum, &amp; secundum esse reale, &amp; 
+      per<lb ed="#N" n="120" break="no"/>quam res adaequatur esse objectiuo, quod habet  
+      <!--493.xml-->
+      <pb ed="#N" n="476"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>in intellectu, ac ipsi intellectui; sicut enim vna 
+      <lb ed="#N" n="2"/>tantum est relatio realis, qua mensuratum 
+      refer<lb ed="#N" n="3" break="no"/>tur ad mensuram, &amp; qua mensura refertur ad 
+      <lb ed="#N" n="4"/>mensuratum: non enim reperitur duplex 
+      rela<lb ed="#N" n="5" break="no"/>tio, quia non est relatio mutua, ita vna est 
+      con<lb ed="#N" n="6" break="no"/>formitas, seu adaequatio intellectus ad rem, &amp; 
+      <lb ed="#N" n="7"/>rei ad intellectum, quae conformitas, seu 
+      adae<lb ed="#N" n="8" break="no"/>quatio est relatio mensurae, &amp; mensurati, vi 
+      <lb ed="#N" n="9"/>infra videbimus. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1085">
+                  <lb ed="#N" n="10"/>7. Obiicies. Si Veritas formalis primario; 
+      <lb ed="#N" n="11"/>&amp; essentialiter consisteret in conformitate, 
+      seu<lb ed="#N" n="12" break="no"/>adaequatione intellectus cum esse objectiuo, 
+      se<lb ed="#N" n="13" break="no"/>queretur, quod intellectus apprehendens, v. 8. 
+      <lb ed="#N" n="14"/>equum esse plantam, &amp; assenties huic 
+      apprehen<lb ed="#N" n="15" break="no"/>Sioni, esset verus formaliter; sed consequens est, 
+      <lb ed="#N" n="16"/>falsum; ergo &amp; antecedens. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1104">
+                  <lb ed="#N" n="17"/>Resp. neg. maiorem. Ad hoc enim, vt intel 
+      <lb ed="#N" n="18"/>ectus Sit formaliter verus, debet esse 
+      confor<lb ed="#N" n="19" break="no"/>mis nedum cum illo esse objectiuo, quod 
+      pri<lb ed="#N" n="20" break="no"/>mario respicit, sed etiam cum illo esse reali, 
+      <lb ed="#N" n="21"/>quod est a parte rei: nam illud esse objectiuum, 
+      <lb ed="#N" n="22"/>quod est in intellectu ad hoc, vt causet 
+      Verita<lb ed="#N" n="23" break="no"/>tem formalem in intellectu, debet esse 
+      confor<lb ed="#N" n="24" break="no"/>me esse reali, quod est a parte rei, quia illud esse 
+      <lb ed="#N" n="25"/>Jobjectiuum debet repraesentare intellectui 
+      ipsa<lb ed="#N" n="26" break="no"/>rem, Sicuti est in seipsa; vnde non dicimus 
+      Veri<lb ed="#N" n="27" break="no"/>tatem forinalem consistere in conformitate 
+      cum<lb ed="#N" n="28" break="no"/>quocunque esse objectiuo, sed in conformitate 
+      <lb ed="#N" n="29"/>cum illo esse objectiuo, quod est conforme 
+      <lb ed="#N" n="30"/>esse reali: ipsius rei; malum enim est ex 
+      quo<lb ed="#N" n="31" break="no"/>cunque defectu. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1139">
+                  <lb ed="#N" n="32"/>Instabis. Quia homo secundario importat 
+      <lb ed="#N" n="33"/>risibilitatem, ideo si concipiatur homo absque. 
+      <lb ed="#N" n="34"/>risibilitate, concipitur verus homo; ergo si 
+      Veri<lb ed="#N" n="35" break="no"/>tas formalis importaret primario 
+      conformita<lb ed="#N" n="36" break="no"/>tem ad esse objectiuum, &amp; secundario ad esse 
+      <lb ed="#N" n="37"/>realer, adhuc esset verus sine conformitate 
+      <lb ed="#N" n="38"/>ad esse reale¬ 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1157">
+                  <lb ed="#N" n="39"/>Resp. neg. conseque &amp; disparitas est, quia 
+      ri<lb ed="#N" n="40" break="no"/>sibilitas importatur ab homine tantum 
+      acciden<lb ed="#N" n="41" break="no"/>tal iter tanquam accidens superadditum essentie. 
+      <lb ed="#N" n="42"/>hominis illam supponens adaequate 
+      constitu<lb ed="#N" n="43" break="no"/>tam; at vero conformitas cum esse reali, licet 
+      <lb ed="#N" n="44"/>importetur secundario, attamen importatur 
+      es<lb ed="#N" n="45" break="no"/>sentialiter, &amp; ideo sine ipsa non potest dari 
+      Veri<lb ed="#N" n="46" break="no"/>tas sormalis. Sicuti dicimus, quod specificatiur 
+      <lb ed="#N" n="47"/>formale primarium hominis est rationalitas, 
+      secu<lb ed="#N" n="48" break="no"/>darium vero animalitas, quae oritur ex 
+      rationalita<lb ed="#N" n="49" break="no"/>te tanquam ex radice primaria, &amp; per illam 
+      <lb ed="#N" n="50"/>probatur a priori, vtraque tamen est de 
+      essen<lb ed="#N" n="51" break="no"/>tia hominis, &amp; sine qualibet ex ipsis nequit esse 
+      <lb ed="#N" n="52"/>homo, neque intelligi adaequate constitutus. 
+      Ita<lb ed="#N" n="53" break="no"/>a pari. Tum quia risibilitas, &amp; rationalitas non 
+      <lb ed="#N" n="54"/>sunt relatiua, sed absoluta; neque risibilitas est 
+      <lb ed="#N" n="55"/>specificatiua rationalitatis, per quam constitui 
+      <lb ed="#N" n="56"/>tur homo formaliter; est enim aliquod 
+      praedica<lb ed="#N" n="57" break="no"/>tum mere accident aliter illi adueniens; at vero 
+      <lb ed="#N" n="58"/>conformitas est quid relatiuum relatione 
+      men<lb ed="#N" n="59" break="no"/>surae, quo intellectus mensuratur a rebus 
+      secun<lb ed="#N" n="60" break="no"/>dum illud esse, quod habent in se ipsis, &amp; in ipso¬ 
+      <!--493.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>intellectu, &amp; quia relatiua sunt simul natura, &amp; 
+      <lb ed="#N" n="62"/>cognitione, ideo nequit esse Vvnum sine alio; &amp; 
+      <lb ed="#N" n="63"/>cum esse reale, quod habet res in seipsa, sit 
+      spe<lb ed="#N" n="64" break="no"/>cificatiuum esse objectiui, quod est in intellectus 
+      <lb ed="#N" n="65"/>ideo nequit dari conformitas cum esse 
+      obiecti<lb ed="#N" n="66" break="no"/>uo sine conformitate cum esse reali, quanis illud 
+      <lb ed="#N" n="67"/>importetur primario, istud vero secundario. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1227">
+                  <lb ed="#N" n="68"/>S Obiicies 2. Visio Beata est formaliter 
+      ve<lb ed="#N" n="69" break="no"/>ra; &amp; tamen non dicit conformitatem cum esse, 
+      <lb ed="#N" n="70"/>objectiuo, quia hoc esse objectiuum nihil aliud 
+      <lb ed="#N" n="71"/>est, quam species, &amp; in Beatis non datur species 
+      <lb ed="#N" n="72"/>de facto, vt videb. in Tract. de Vis. Idem dicitur  
+      <lb ed="#N" n="73"/>de Angelo respectu cognitionis sui ipsius. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1243">
+                  <lb ed="#N" n="74"/>Resp. neg. antecedens. Ad prob. insertam. 
+      <lb ed="#N" n="75"/>dicitur, quod licet in Beatis, &amp; in Angelis non 
+      <lb ed="#N" n="76"/>detur species, attamen in ipsorum intellectu est, 
+      <lb ed="#N" n="77"/>Jobjectum secundum esse repraesentatiuum 
+      <lb ed="#N" n="78"/>quod conformatur esse reali, &amp; illud 
+      repraesen<lb ed="#N" n="79" break="no"/>tat, sicuti est in seipso; vnde esse objectiuum est 
+      <lb ed="#N" n="80"/>species, quando objectum est absens, cum vero 
+      <lb ed="#N" n="81"/>est praesens, est ipsum objectum. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1263">
+                  <lb ed="#N" n="82"/>P Obiicies 3. Intellectus Dei est magis 
+      ve<lb ed="#N" n="83" break="no"/>rus, quam intellectus creatus, &amp; tamen non est 
+      <lb ed="#N" n="84"/>verus per adaequationem ad res secundum esse 
+      <lb ed="#N" n="85"/>reale; aliter res esset mensura intellectus 
+      Diui<lb ed="#N" n="86" break="no"/>ni; ergo Veritas formalis non importat 
+      necessa<lb ed="#N" n="87" break="no"/>rio conformitatem ad res secundum esse reale 
+      <lb ed="#N" n="88"/>quod habent in se ipsis. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1282">
+                  <lb ed="#N" n="89"/>Resp. Deum cognoscere res, prout 
+      conti<lb ed="#N" n="90" break="no"/>nentur in sua Essentia, &amp; res in se ipsis esse 
+      ve<lb ed="#N" n="91" break="no"/>ras, prout causantur ab intellectu Diuino; unde 
+      <lb ed="#N" n="92"/>in intellectu Diuino e contra se habet, vt 
+      dixi<lb ed="#N" n="93" break="no"/>mus in sup. art. Neg. igitur conseque  
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1295">
+                  <lb ed="#N" n="94"/>IO Obijcies 4. Intellectus est formaliter 
+      <lb ed="#N" n="95"/>verus etiam, quando cognoscit Entia rationis, &amp; 
+      <lb ed="#N" n="96"/>tamen nullum datur esse reale, cui 
+      conforme<lb ed="#N" n="97" break="no"/>tur talis cognitio; ergo Veritas non importat  
+      <lb ed="#N" n="98"/>adaequationem cum esse reali. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1308">
+                  <lb ed="#N" n="99"/>Resp quod ab intellectu cognoscitur 
+      Ens<lb ed="#N" n="100" break="no"/>rationis per speciem Entis realis, vt dicitur in 
+      <lb ed="#N" n="101"/>Logica, cognoscitur enim per cognitionem 
+      re<lb ed="#N" n="102" break="no"/>flexiuam; &amp; ideo datur esse reale, cui 
+      refle<lb ed="#N" n="103" break="no"/>xiue conformatur.  
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1321">
+                  <lb ed="#N" n="104"/>II Colligitur 1. ex dictis in sup. art; 
+      Veri<lb ed="#N" n="105" break="no"/>tatem formalem non conuerti cum Ente, vt sici 
+      <lb ed="#N" n="106"/>quia Veritas formalis non reperitur in rebus, 
+      <lb ed="#N" n="107"/>ned solum in intellectu, vt dictum est, illa autem 
+      <lb ed="#N" n="108"/>quae se non imbibunt, non dicuntur ad 
+      conuer<lb ed="#N" n="109" break="no"/>tentiam; vt si Ens non reperiretur in omnires 
+      <lb ed="#N" n="110"/>non diceretur ad conuertentiam cum re, vtsice 
+      <lb ed="#N" n="111"/>Veritas autem transcendentalis dicitur ad 
+      con<lb ed="#N" n="112" break="no"/>quertentiam cum Ente, quia reperitur in 
+      omni<lb ed="#N" n="113" break="no"/>re, cum in omni re sit conformitas ad sua 
+      prin<lb ed="#N" n="114" break="no"/>cipia, &amp; ad intellectum; &amp; dicitur ad 
+      conuerten<lb ed="#N" n="115" break="no"/>tiam quantum ad rem significatam, non autem 
+      <lb ed="#N" n="116"/>quantum ad modum significandi eo modo, quo 
+      <lb ed="#N" n="117"/>diximus de Vnit. Dei art. 3. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1354">
+                  <lb ed="#N" n="118"/>I2 Colligitur 2. Veritatem superaddere 
+      <lb ed="#N" n="119"/>Entitati, vt sic absolute sumptae; &amp; Entitati 
+      mo<lb ed="#N" n="120" break="no"/>dificate acceptae relationem secundum dici in 
+      <!--494.xml-->
+      <pb ed="#N" n="477"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ordine ad intellectum creatum, supra quam 
+      no<lb ed="#N" n="2" break="no"/>ster intellectus necessitatur ad formandam 
+      rela<lb ed="#N" n="3" break="no"/>tionem rationis; &amp; relationem realem ad 
+      intel<lb ed="#N" n="4" break="no"/>lectum Dininum; quia Veritas supra Entitatem 
+      <lb ed="#N" n="5"/>dicit conformitatem, seu adaequationem, quam 
+      <lb ed="#N" n="6"/>patet esse relationem mensurae, &amp; mensurati, 
+      <lb ed="#N" n="7"/>quae in mensurato est realis secundum esse, 
+      in<lb ed="#N" n="8" break="no"/>mensura vero est realis secundum dici: vnde cum 
+      <lb ed="#N" n="9"/>res respectu nostri intellectus sit mensura, quia 
+      <lb ed="#N" n="10"/>Veritas formalis in nostro intellectu causatur 
+      a<lb ed="#N" n="11" break="no"/>rebus; &amp; cum respectu intellectus Diuini sit 
+      <lb ed="#N" n="12"/>mensurata, ideo respectu huius dicit relationem 
+      <lb ed="#N" n="13"/>secundum esse, &amp; respectu illius relationem 
+      se<lb ed="#N" n="14" break="no"/>cundum dici. Quomodo autem intelligenda 
+      <lb ed="#N" n="15"/>sit relatio secundum esse, &amp; secundum dici, 
+      vi<lb ed="#N" n="16" break="no"/>deatur q. 2. de Aur. in comart. 16. n. 6 &amp; art. 
+      <lb ed="#N" n="17"/>2, &amp; o &amp; alibi. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1372z-Dd1e1407">
+               <head xml:id="ccc7yd-g1372z-Hd1e1409">Articulus 4</head>
+               <p xml:id="ccc7yd-g1372z-d1e1411">
+                  <lb ed="#N" n="18"/>ART. IV. 
+      <lb ed="#N" n="19"/>An Veritas formalis sit tantum in intellectu 
+      com<lb ed="#N" n="20" break="no"/>ponente, &amp; diuidente 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1420">
+                  <lb ed="#N" n="21"/>e Iximus superius Veritatem formalem 
+      <lb ed="#N" n="22"/>esse in intellectu tanquam in subjecto; 
+      <lb ed="#N" n="23"/>quod probat Fundatiss. Doct. Quodl. 4. q. 7, &amp; 2. 
+      <lb ed="#N" n="24"/>Met. q. 2. ex Arist. docente: Verum, &amp; falsum. 
+      <lb ed="#N" n="25"/>sunt in intellectu; honitas autem in rebus: Tum 
+      <lb ed="#N" n="26"/>quia Veritas formalis est finis scientiarum 
+      spe<lb ed="#N" n="27" break="no"/>culatinarum; scientiae etenim nihil aliud 
+      inten<lb ed="#N" n="28" break="no"/>dunt, quam assequi Veritatem; sed finis 
+      scientia<lb ed="#N" n="29" break="no"/>rum speculatiuarum est intra, non extra 
+      intelle<lb ed="#N" n="30" break="no"/>ctum: nam scientiae speculatiuae in hoc 
+      secernun<lb ed="#N" n="31" break="no"/>tur a facultat ibus practicis, quod practicae non 
+      <lb ed="#N" n="32"/>sistunt in ipsa contemplatione intellectus; sed  
+      <lb ed="#N" n="33"/>progrediuntur ad aliquod opus extra 
+      intelle<lb ed="#N" n="34" break="no"/>ctum; speculatiuae vero sistunt intra intellectum 
+      <lb ed="#N" n="35"/>in sola contemplatione Veritatis, ergo Veritas 
+      <lb ed="#N" n="36"/>formalis est tantum in intellectu. Tum quia 
+      Ve<lb ed="#N" n="37" break="no"/>ritas formalis importat relationem 
+      adaequatio<lb ed="#N" n="38" break="no"/>nis intellectus cum rebus; a quibus adaequatur, &amp; 
+      <lb ed="#N" n="39"/>mensuratur, sed relatio adaequationis est in 
+      me<lb ed="#N" n="40" break="no"/>surato, non in mensura, vt dicitur 5. Met; ergo 
+      <lb ed="#N" n="41"/>Veritas formalis est in intellectu. Tum quia ita 
+      <lb ed="#N" n="42"/>se habet Veritas formalis ad Veritatem 
+      obiecti<lb ed="#N" n="43" break="no"/>uam, sicut cognitio formalis ad objectum 
+      cogni<lb ed="#N" n="44" break="no"/>tum; quemadmodum enim cognitio formalis est 
+      <lb ed="#N" n="45"/>actus, quo intellectus tendit in objectum 
+      cogni<lb ed="#N" n="46" break="no"/>tum, ita Veritas formalis est actus, quo 
+      intelle<lb ed="#N" n="47" break="no"/>ctus tendit in objectum verum, sed cognitio 
+      for<lb ed="#N" n="48" break="no"/>malis est tantum formaliter in intellectu, 
+      quia<lb ed="#N" n="49" break="no"/>est actus vitalis elicitus ab intellectu, de 
+      cu<lb ed="#N" n="50" break="no"/>ius ratione est recipi in eodem principio, a 
+      <lb ed="#N" n="51"/>quo elicitur; ergo Veritas formalis est tantum 
+      <lb ed="#N" n="52"/>in intellectu: 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1492">
+                  <lb ed="#N" n="53"/>Hinc ait Doct in 1. dist.19, quod res non 
+      <lb ed="#N" n="54"/>dicitur vera, nisi per analogiam ad Veritatem 
+      <lb ed="#N" n="55"/>formalem existentem in intellectu, v. 8. dicitur  
+      <lb ed="#N" n="56"/>verum autum, quia intellectus potest de auto 
+      <lb ed="#N" n="57"/>veras efformare propositiones. Hoc igitur supp¬ 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1505">
+                  <lb ed="#N" n="58"/>Difficultas est, in quanam ex tribus 
+      opera<lb ed="#N" n="59" break="no"/>tionibus nostri intellectus Veritas formalis pro¬ 
+      <!--494.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>prie, &amp; formaliter resideat? Et occasionem 
+      hu<lb ed="#N" n="61" break="no"/>ius difficultatis dedit Arist. 1. Periher. c. 13 &amp; 3. 
+      <lb ed="#N" n="62"/>de An. c. 213 &amp; 22, &amp; 6. Met. c. 8. docens 
+      Veri<lb ed="#N" n="63" break="no"/>tatem esse solum in intellectu componente, &amp; 
+      di<lb ed="#N" n="64" break="no"/>quidente, &amp; per consequens in sola secunda 
+      ope<lb ed="#N" n="65" break="no"/>ratione, quae est enunciatio, seu iudicium, non 
+      <lb ed="#N" n="66"/>autem in prima operatione, quae est simplex 
+      ap<lb ed="#N" n="67" break="no"/>prehensio; neque in tertia, quae est discursus; nam 
+      <lb ed="#N" n="68"/>in discursu non est Veritas formalis, nisi 
+      quate<lb ed="#N" n="69" break="no"/>nus continet enunciationem, seu propositiones. 
+      <lb ed="#N" n="70"/>ex quibus componitur; quapropter enunciatio 
+      <lb ed="#N" n="71"/>definiri solet: Oratio verum, vel falsum significans. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1543">
+                  <lb ed="#N" n="72"/>Prima sententia substinet Veritatem 
+      for<lb ed="#N" n="73" break="no"/>malem proprie esse tantum in intellectu 
+      compo<lb ed="#N" n="74" break="no"/>nente, &amp; diuidente, seu iudicante, &amp; per 
+      conse<lb ed="#N" n="75" break="no"/>quens esse solum in secunda operatione, in 
+      pri<lb ed="#N" n="76" break="no"/>ma autem operatione esse tantum inchoate, &amp; 
+      <lb ed="#N" n="77"/>quasi in semine; in secunda vero complete, &amp; 
+      <lb ed="#N" n="78"/>perfecte. Ita Gahr. excale. 1. p. q. 16; cui 
+      addun<lb ed="#N" n="79" break="no"/>tur aliqui Thomistae, &amp; alij Recentiores. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1563">
+                  <lb ed="#N" n="80"/>Secunda sententia docet Veritatem 
+      forma<lb ed="#N" n="81" break="no"/>lem vere; &amp; proprie non reperiri solum in 
+      secun<lb ed="#N" n="82" break="no"/>da operatione, sed etiam in prima, seu in 
+      simpli<lb ed="#N" n="83" break="no"/>ci intuitu absolute loquendo de omni intellectu 
+      <lb ed="#N" n="84"/>Diuino, &amp; humano; facta tamen comparatione 
+      <lb ed="#N" n="85"/>inter operationes intellectus humani magis 
+      <lb ed="#N" n="86"/>proprie reperitur in secunda operatione, quam 
+      <lb ed="#N" n="87"/>in prima, licet proprie etiam reperiatur in 
+      pri<lb ed="#N" n="88" break="no"/>ma. Ita Fundaiss. Doct. Quodl. 4. 4. 7. quem 
+      se<lb ed="#N" n="89" break="no"/>quuntur fere omnes eius Discipuli, vt videre, 
+      <lb ed="#N" n="90"/>est apud <name xml:id="ccc7yd-g1372z-Nd1e1589">Mag. Conson.</name> in M. Si pro cuius declar¬ 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1592">
+                  <lb ed="#N" n="91"/>Not, ex B. Doct. ubi sup;quod Veritas 
+      for<lb ed="#N" n="92" break="no"/>malis duplex est; alia, quae opponitur falsitatis 
+      <lb ed="#N" n="93"/>contrarie, seu priuatiue, &amp; est illa, quae residet in 
+      <lb ed="#N" n="94"/>in illo intellectu, qui potest esse subjectum 
+      Ve<lb ed="#N" n="95" break="no"/>ritatis, &amp; falsitatis oppositae, quia potest in 
+      se<lb ed="#N" n="96" break="no"/>ipso recipere Veritatem, &amp; falsitatem, vt est 
+      no<lb ed="#N" n="97" break="no"/>ster intellectus, qui nedum potest substerni 
+      Ve<lb ed="#N" n="98" break="no"/>ritati, sed etiam propter suam potentialitatem. 
+      <lb ed="#N" n="99"/>passiuam potest substerni falsitati. Alia est 
+      <lb ed="#N" n="100"/>Veritas, quae oppomtur falsitati negatiue, &amp; est 
+      <lb ed="#N" n="101"/>illa, quae est in intellectu; qui nunquam potest. 
+      <lb ed="#N" n="102"/>subijci falsitati, vt est intellectus Dei. Veritas 
+      <lb ed="#N" n="103"/>primo modo sumpta magis proprie reperitur in 
+      <lb ed="#N" n="104"/>intellectu componente, &amp; diuidente, quam in 
+      <lb ed="#N" n="105"/>simplici operatione, &amp; ideo facta comparatione 
+      <lb ed="#N" n="106"/>inter operationes intellectus nostri Veritas 
+      ma<lb ed="#N" n="107" break="no"/>gis proprie reperitur in secunda, quam in prima; 
+      <lb ed="#N" n="108"/>attamen proprie, &amp; formaliter reperitur etiam 
+      <lb ed="#N" n="109"/>in prima, quia prima operatio est propria 
+      ope<lb ed="#N" n="110" break="no"/>ratio intellectus; aliter si non esset propria 
+      intel<lb ed="#N" n="111" break="no"/>lectus, non esset operatio ipsius, sed alterius 
+      po<lb ed="#N" n="112" break="no"/>tentiae; sed operatio propria intellectus est 
+      pro<lb ed="#N" n="113" break="no"/>prie, &amp; formaliter vera, quia habet pro objecto 
+      <lb ed="#N" n="114"/>Veritatem transcendentalem, quae est objectum 
+      <lb ed="#N" n="115"/>adaequatum omnium operationum intellectus, 
+      <lb ed="#N" n="116"/>a qua Veritate transcendentali, seu objectiua 
+      <lb ed="#N" n="117"/>sumitur Veritas formalis, ergo in prima 
+      opera<lb ed="#N" n="118" break="no"/>tione vere, &amp; proprie reperitur Veritas 
+      forma<lb ed="#N" n="119" break="no"/>lis, quanuis magis proprie reperiatur in secun¬ 
+      <!--495.xml-->
+      <pb ed="#N" n="478"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>da, &amp; in hoc sensu intelligendus est Phil; nam 
+      <lb ed="#N" n="2"/>9. Me t. c. 223 &amp; 3. de An. c. 26. ait Veritatem 
+      <lb ed="#N" n="3"/>esse etiam in prima operatione, quod non est 
+      in<lb ed="#N" n="4" break="no"/>telligendum de Veritate transcendentali, quae 
+      <lb ed="#N" n="5"/>reperitur in operationibus intellectus, quatenus 
+      <lb ed="#N" n="6"/>entia sunt; cum reperiatur in omnibus entibus: 
+      <lb ed="#N" n="7"/>vt dictum est, sed de Veritate formali, de qua 
+      <lb ed="#N" n="8"/>expresse ibidem loquitur. Veritas secundo 
+      mo<lb ed="#N" n="9" break="no"/>do accepta magis proprie residet formaliter, &amp; 
+      <lb ed="#N" n="10"/>complete in simplici intuitu, quam in secunda 
+      <lb ed="#N" n="11"/>operatione; quia intellectus Dei, qui est summa; 
+      <lb ed="#N" n="12"/>&amp; perfectissima Veritas formalis, omnia vnico 
+      <lb ed="#N" n="13"/>intuitu simplicissimo vere apprehendit; &amp; 
+      An<lb ed="#N" n="14" break="no"/>geli magis perfecte habent Veritatem formale; 
+      <lb ed="#N" n="15"/>quam homo, quanuis non enunciet, componant,  
+      <lb ed="#N" n="16"/>aut dividant. Ex quo patet, quam fapienter 
+      ex<lb ed="#N" n="17" break="no"/>ponat Fundatiss. Doctor mentem Arist. Hoc supp. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1701">
+                  <lb ed="#N" n="18"/> Vnica conclusio. Veritas formalis 
+      pro<lb ed="#N" n="19" break="no"/>prie loquendo reperitur etiam in prima 
+      opera<lb ed="#N" n="20" break="no"/>tione, &amp; si loquamur de intellectu Diuino, &amp; 
+      <lb ed="#N" n="21"/>Angelico, est maxima Veritas; facta tamen 
+      com<lb ed="#N" n="22" break="no"/>paratione inter operationes nostri intellectus 
+      <lb ed="#N" n="23"/>magis proprie reperitur in secunda operatione. 
+      <lb ed="#N" n="24"/>1. pars concl. colligitur ex Beatiss. P. Aug. tract. 
+      <lb ed="#N" n="25"/>5. in lo; vbi ait; quod Deus est ipsa Veritas, a 
+      <lb ed="#N" n="26"/>qua verax dicitur creatura, sed implicat dicere, 
+      <lb ed="#N" n="27"/>quod in Deo sit Veritas inchoate, &amp; 
+      incomple<lb ed="#N" n="28" break="no"/>te, quia Veritas incompleta est imperfecta, quae 
+      <lb ed="#N" n="29"/>nequit esse in Deo; &amp; Veritas, quae est in Deo 
+      <lb ed="#N" n="30"/>est Veritas, quae copetit primae operationi, quia 
+      <lb ed="#N" n="31"/>Deus omnia cognoscit vnico simplicissimo 
+      in<lb ed="#N" n="32" break="no"/>tuitu; &amp; implicat dicere, quod Veritas, quae est 
+      <lb ed="#N" n="33"/>in Deo, non sit Veritas formaliter, sed tantum 
+      <lb ed="#N" n="34"/>Metaphorice; quia Veritas in suo conceptu 
+      for<lb ed="#N" n="35" break="no"/>mali nullam dicit imperfectionem, sicut nullam 
+      <lb ed="#N" n="36"/>dicit imperfectionem intellectus, cuius est actus; 
+      <lb ed="#N" n="37"/>ergo Veritas formalis, quae deriuat in creaturas a 
+      <lb ed="#N" n="38"/>Deo, potest vere, &amp; proprie competere 
+      sim<lb ed="#N" n="39" break="no"/>plici operationi. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1751">
+                  <lb ed="#N" n="40"/>Conf. haec ratio. Si Veritas formalis 
+      essen<lb ed="#N" n="41" break="no"/>tialiter vere, &amp; proprie repugnaret simplici, &amp; 
+      <lb ed="#N" n="42"/>incomplexae apprehensioni, &amp; ei non 
+      compete<lb ed="#N" n="43" break="no"/>ret nisi inchoa te, &amp; incoplete, sequeretur, quod  
+      <lb ed="#N" n="44"/>repugnaret cuicunque apprehesioni simplici, &amp; 
+      in<lb ed="#N" n="45" break="no"/>coplexae, imo quo magis esset simplex 
+      apprehe<lb ed="#N" n="46" break="no"/>sio, eo minus proprie ei copeteret Veritas 
+      forma<lb ed="#N" n="47" break="no"/>lis; sed consequens est absurdum; ergo &amp; 
+      ante<lb ed="#N" n="48" break="no"/>cedens. Prob. maior. Quia intellectui essentialiter  
+      <lb ed="#N" n="49"/>re pugnat amare, &amp; voluntati intelligeretamare 
+      <lb ed="#N" n="50"/>enim, &amp; intel ligere sunt actiones impermixtae: 
+      <lb ed="#N" n="51"/>quae nequeunt competere promiscue diuersis 
+      <lb ed="#N" n="52"/>potentiis, cum Essentiae rerum sint impermixtae, 
+      <lb ed="#N" n="53"/>ideo amare repugnat cuicunque intellectui siue 
+      <lb ed="#N" n="54"/>Diuino, siue creato, &amp; intelligere cuicunque 
+      vo<lb ed="#N" n="55" break="no"/>luntati; ergo si Veritas fomalis essentialiter re. 
+      <lb ed="#N" n="56"/>pugnaret vere, &amp; proprie simplici 
+      apprehensio<lb ed="#N" n="57" break="no"/>ni, &amp; ei non competeret nisi Veritas inchoate, &amp; 
+      <lb ed="#N" n="58"/>incomplete, sequeretur, quod repugnaret 
+      cuicu<lb ed="#N" n="59" break="no"/>que apprchensioni simplici siue Diuinae, siue 
+      <lb ed="#N" n="60"/>creatae: imo quo magis esset simplex apprehen¬ 
+      <!--495.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>sio, eo minus proprie ei competeret Veritas 
+      for<lb ed="#N" n="62" break="no"/>malis. Quod si Veritas formalis non repugnat. 
+      <lb ed="#N" n="63"/>essentialiter apprehensioni simplici, vt sici ergo 
+      <lb ed="#N" n="64"/>illi essentialiter competit; non enim datur 
+      me<lb ed="#N" n="65" break="no"/>dium inter contradictoria essentialia; sicut est 
+      <lb ed="#N" n="66"/>Veritas formalis, quae essentialiter competit  
+      <lb ed="#N" n="67"/>actibus intellectus conformibus cum rebus 
+      in<lb ed="#N" n="68" break="no"/>tellectis; de difformibus enim, &amp; falsis in prae 
+      senti<lb ed="#N" n="69" break="no"/>non loquimur, sed de conformibus, &amp; adaequatis, 
+      <lb ed="#N" n="70"/>in qua conformitate, &amp; adaequatione consistit 
+      <lb ed="#N" n="71"/>essentialiter Veritas formalis, vt supra dictum 
+      <lb ed="#N" n="72"/>est. Prob,. min. 1. Ubi perfectior est cognitio, 
+      ibi<lb ed="#N" n="73" break="no"/>perfectior est Veritas formalis, quia Veritas 
+      for<lb ed="#N" n="74" break="no"/>malis fundatur in cognitione, vel est ipsa 
+      cogni<lb ed="#N" n="75" break="no"/>tio, prout conformis rebus cognitis; sed absurdum 
+      <lb ed="#N" n="76"/>est dicere, quod in Deo non sit perfectissima 
+      co<lb ed="#N" n="77" break="no"/>gnitio, &amp; in Angelis perfectior, quam in 
+      homi<lb ed="#N" n="78" break="no"/>ne, &amp; tamen in Deo, &amp; in Angelis non est hisi 
+      <lb ed="#N" n="79"/>simplex apprehesio; ergo absurdum est dicere, 
+      <lb ed="#N" n="80"/>quod Veritas formalis essentialiter repugnet 
+      <lb ed="#N" n="81"/>simplici apprehensioni. 2. Quaeuis ratio 
+      analoga<lb ed="#N" n="82" break="no"/>magis proprie reperitur in principali analogato; 
+      <lb ed="#N" n="83"/>quam in analogatis minus principalibus, Vt 
+      sani<lb ed="#N" n="84" break="no"/>tas magis proprie est in animali, quam in aere 
+      <lb ed="#N" n="85"/>cibo &amp;c; sed Veritas formalis analogice dicitur 
+      <lb ed="#N" n="86"/>de Deo, &amp; creaturis; ergo magis proprie est 
+      in<lb ed="#N" n="87" break="no"/>Deo, quam in creaturis, &amp; Angelus est 
+      analoga<lb ed="#N" n="88" break="no"/>tum magis perfectum, quam homo; ergo magis 
+      <lb ed="#N" n="89"/>proprie est in Deo, &amp; in Angelis, quam in 
+      homi<lb ed="#N" n="90" break="no"/>ne, sed in Deo, &amp; in Angelis non est nisir simplex 
+      <lb ed="#N" n="91"/>apprehensio; ergo magis proprie competit 
+      pri<lb ed="#N" n="92" break="no"/>mae apprenhensioni. 3. Quaelibet forma magis 
+      <lb ed="#N" n="93"/>proprie reperitur in eo, in quo est per essetiam, 
+      <lb ed="#N" n="94"/>quam in eo, in quo est per participationem a 
+      <lb ed="#N" n="95"/>vt calor magis proprie est in igne, quam in 
+      ligno<lb ed="#N" n="96" break="no"/>calefacto; sed Veritas est in Deo per Essentiam? 
+      <lb ed="#N" n="97"/>dixit enim Christus Dominus: Ego sum Veritas; 
+      <lb ed="#N" n="98"/>&amp; in creaturis per participationem, quia omnes 
+      <lb ed="#N" n="99"/>quod habet creatura, est participatum a Deo, 
+      <lb ed="#N" n="100"/>ergo in Deo magis proprie est Veritas 
+      forma<lb ed="#N" n="101" break="no"/>lis; sed in Deo non est nisi simplex 
+      apprehensio<lb ed="#N" n="102" break="no"/>quia Deus enunciabilia inenunctabiliter cognoscit; 
+      <lb ed="#N" n="103"/>vr docet Fundatiss. Doct; ergo Veritas formalis 
+      <lb ed="#N" n="104"/>absolute loquendo magis proprie conuenit sim: 
+      <lb ed="#N" n="105"/>plici apprehensioni, quam secundae operationi 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1901">
+                  <lb ed="#N" n="106"/>S Prob. 2. eadem pars. Intellectus in 
+      prima<lb ed="#N" n="107" break="no"/>operatione est conformis rei intellectae; ergo 
+      ve<lb ed="#N" n="108" break="no"/>re, &amp; proprie est formaliter verus, &amp; ideo 
+      Veri<lb ed="#N" n="109" break="no"/>tas formalis proprie conuenit primae apprehen: 
+      <lb ed="#N" n="110"/>sioni, quae non nisi per Veritatem formalem 
+      <lb ed="#N" n="111"/>potest denominari formaliter vera. Prob. anter 
+      <lb ed="#N" n="112"/>cedens. Intellectus in prima operatione intellis 
+      <lb ed="#N" n="113"/>gens animal rationale intelligit aliquod, quod 
+      <lb ed="#N" n="114"/>est a parte rei, &amp; sicut est a parte rei; ergo est 
+      con<lb ed="#N" n="115" break="no"/>formis rei intellectae. Coseque. patet; quia Veritas 
+      <lb ed="#N" n="116"/>formalis consistit in conformitate cum re 
+      intel<lb ed="#N" n="117" break="no"/>lecta, vt supra diximus. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1931">
+                  <lb ed="#N" n="118"/>6 Prob. 3. Obiectum formale primae 
+      opera<lb ed="#N" n="119" break="no"/>tionis est Ens, quatenus Verum, aliter Verum. 
+      <lb ed="#N" n="120"/>non esset obiectum adaequatum intellectus, quia 
+      <!--496.xml-->
+      <pb ed="#N" n="479"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>intellectus haberet aliquam operationem, 
+      quae<lb ed="#N" n="2" break="no"/>non tenderet formaliter in Verum; ergo prima. 
+      <lb ed="#N" n="3"/>operatio est formaliter vera; operationes enim. 
+      <lb ed="#N" n="4"/>denominantur formaliter tales a suis obiectis: 
+      <lb ed="#N" n="5"/>vnde sicuti visio corporalis denominatur 
+      for<lb ed="#N" n="6" break="no"/>maliter sensatio a seunsibili, quod est eius 
+      obie<lb ed="#N" n="7" break="no"/>ctum; ita intellectio denominatur formaliter 
+      ve<lb ed="#N" n="8" break="no"/>ra ab objecto, quod est Verum. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e1964">
+                  <lb ed="#N" n="9"/>7. Prob. 2. pars concl. Facta comparatione. 
+      <lb ed="#N" n="10"/>in ter operationes intellectus, in illa operatione 
+      <lb ed="#N" n="11"/>est magis proprie Veritas formalis, in qua est, 
+      <lb ed="#N" n="12"/>falsitas, quae est prinatio opposita Veritati; 
+      oppo<lb ed="#N" n="13" break="no"/>sita enim priuattue habent fieri cirea idem 
+      subie<lb ed="#N" n="14" break="no"/>ctum, vt patet de luce, &amp; tenebris, quae fiunt 
+      <lb ed="#N" n="15"/>circa Ae rem &amp;c; sed falsitas est in secunda 
+      <lb ed="#N" n="16"/>operatione, ergo in illa magis proprie est 
+      <lb ed="#N" n="17"/>Veritas formalis, prout Veritas opponitur 
+      falsi<lb ed="#N" n="18" break="no"/>tati priuatiue, vt supra diximus. Prob. min. Falsis 
+      <lb ed="#N" n="19"/>tas est illa, qua aliquod attribuimus alicui, quod  
+      <lb ed="#N" n="20"/>illi non conuenit, vel aliquod separamus ab 
+      illo<lb ed="#N" n="21" break="no"/>quod illi conuenit, sed hoc sit tantum per 
+      iudi<lb ed="#N" n="22" break="no"/>cium compositiuum, vel diuisiuum, quod est 
+      se<lb ed="#N" n="23" break="no"/>cunda operatio, vt patet; ergo falsitas est in 
+      se<lb ed="#N" n="24" break="no"/>cunda operatione. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2001">
+                  <lb ed="#N" n="25"/>S Affert hic lepidam similitudinem 
+      Fundae<lb ed="#N" n="26" break="no"/>tis. Doct. de animali, quod finxit Empedocles, qui  
+      <lb ed="#N" n="27"/>voluit omnia membra animalis a Discordia fuis. 
+      <lb ed="#N" n="28"/>se diuisa inter se; superuenisse aute Amicitiam, 
+      <lb ed="#N" n="29"/>&amp; coniunxisse omnia membra in vnum corpus, 
+      <lb ed="#N" n="30"/>quaedam a utem recte adaptauit, &amp; quaedam non 
+      <lb ed="#N" n="31"/>recte, &amp; sic adaptando propria membra inter se, 
+      <lb ed="#N" n="32"/>fecit verum animal; adaptando vero non recte, 
+      <lb ed="#N" n="33"/>idest ventri Leonis caput Vrsi, vel Bouis, fecit, 
+      <lb ed="#N" n="34"/>Monstra, quae sunt animalia mentientia suam, 
+      <lb ed="#N" n="35"/>speciem. Ita facit intellectus, qui cum coniungit  
+      <lb ed="#N" n="36"/>ea, quae sunt proprie coniungenda, &amp; cum 
+      sepa<lb ed="#N" n="37" break="no"/>rat ea, quae sunt separanda, producit Veritatem. 
+      <lb ed="#N" n="38"/>cum autem coniungit, vel diuidit ea, que non Sut 
+      <lb ed="#N" n="39"/>coniungenda, vel diuidenda, producit mendacium, 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2036">
+                  <lb ed="#N" n="40"/>9. Obiicies 1. Intellectus in sua prima 
+      ope<lb ed="#N" n="41" break="no"/>ratione potest errate: nam, vt docet Fundatiss. 
+      <lb ed="#N" n="42"/>Doct; si non posset errare, frustra daretur 
+      primi<lb ed="#N" n="43" break="no"/>Instrumentum Logicale dirigens primam 
+      oper<lb ed="#N" n="44" break="no"/>rationem, quod est Definitio, quia id, quod 
+      diri<lb ed="#N" n="45" break="no"/>gitur, ne erret, frustra dirigitur, si non potest 
+      erra<lb ed="#N" n="46" break="no"/>re; ideo enim dirigitur, ne erret, quia potest 
+      erra<lb ed="#N" n="47" break="no"/>re; ergo in prima operatione potest esse falsitas. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2056">
+                  <lb ed="#N" n="48"/>Resp. B. Doctor hic; quod intellectus 
+      in<lb ed="#N" n="49" break="no"/>simplici operatione potest: errate dupliciter. 1. 
+      <lb ed="#N" n="50"/>quia partes definitionis, quae sunt genus, &amp; 
+      dif<lb ed="#N" n="51" break="no"/>ferentia non recte, &amp; indebite coniungit, vt cum 
+      <lb ed="#N" n="52"/>debito generi coaptat differentiam indebitam. 
+      <lb ed="#N" n="53"/>2. quia a definito separat definitionem debitam; 
+      <lb ed="#N" n="54"/>vtroque modo autem est aliquis modus proprius. 
+      <lb ed="#N" n="55"/>compositionis, &amp; diuisionis, qui est modus 
+      pro<lb ed="#N" n="56" break="no"/>prius secundae operationis: &amp; ideo ibi datur er 
+      <lb ed="#N" n="57"/>ror ratione secundae operationis, quam 
+      virtua<lb ed="#N" n="58" break="no"/>diter continet. Dist: ergo antecedens. Intellectus 
+      <lb ed="#N" n="59"/>in prima operatione potest errate per se, &amp; 
+      ra<lb ed="#N" n="60" break="no"/>tione ipsius primae operationis, negi, per aliud, 
+      <!--496.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>&amp; ratione secundae operationis, quam 
+      virtuali<lb ed="#N" n="62" break="no"/>ter continet, conc; &amp; propter hoc datur 
+      Instru<lb ed="#N" n="63" break="no"/>mentum diriges, quod dari debet ad euitandum 
+      <lb ed="#N" n="64"/>quenlibet errorem, siue contingat per se, 
+      siue<lb ed="#N" n="65" break="no"/>per aliud; &amp; ideo error per se non contingit, nisi 
+      <lb ed="#N" n="66"/>in secunda operatione. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2104">
+                  <lb ed="#N" n="67"/>10 Obiicies 2. In intellectu Diuino, &amp; 
+      An<lb ed="#N" n="68" break="no"/>gelico est magis proprie Veritas formalis, sed in 
+      <lb ed="#N" n="69"/>illis est tantum prima operatio: ergo Veritas 
+      <lb ed="#N" n="70"/>formalis magis proprie est in prima operatione, 
+      <lb ed="#N" n="71"/>quam in secunda. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2118">
+                  <lb ed="#N" n="72"/>Resp. dist, maiorem. Est magis proprie 
+      Ve<lb ed="#N" n="73" break="no"/>ritas formalis opposita falsitati negatiue, conca 
+      <lb ed="#N" n="74"/>priuatiue, aut veluti contrarie, neg. Vel, resp. 
+      <lb ed="#N" n="75"/>neg. suppositum; supponit enim argumentum 
+      <lb ed="#N" n="76"/>nos loqui de omni intellectu absolute, prout 
+      <lb ed="#N" n="77"/>comprehenditur intellectus Diuinus, &amp; 
+      Ange<lb ed="#N" n="78" break="no"/>licus, quod falsum est, ve supra diximus; 
+      loqui<lb ed="#N" n="79" break="no"/>mur enim de solo intellectu humano 
+      compa<lb ed="#N" n="80" break="no"/>rando tres illius operationes. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2140">
+                  <lb ed="#N" n="81"/>II Obiicies 3. In illa operatione magis 
+      <lb ed="#N" n="82"/>proprie est Veritas formalis, quae est magis 
+      per<lb ed="#N" n="83" break="no"/>fecta; sed simplex operatio est magis perfecta 
+      <lb ed="#N" n="84"/>quam iudicium, quia illa ponitur in Deo, &amp; 
+      in<lb ed="#N" n="85" break="no"/>Angelis, qui perfectissime intelligunt, in quibus 
+      <lb ed="#N" n="86"/>tamen non ponitur secunda operatio; tum quia 
+      <lb ed="#N" n="87"/>simplex operatio est semper intuitiua, secunda 
+      <lb ed="#N" n="88"/>autem operatio potest esse abstractiua; ergo 
+      in<lb ed="#N" n="89" break="no"/>prima, operatione magis: proprie est 
+      Veri<lb ed="#N" n="90" break="no"/>tas formalis 
+      <lb ed="#N" n="91"/> Resp. neg. min. Ad 1. prob. insertam dici: 
+      <lb ed="#N" n="92"/>tur, quod simplex apprehensio; quae ponitur in 
+      <lb ed="#N" n="93"/>Deo, est simplex simplicitate perfectionis, quia, 
+      <lb ed="#N" n="94"/>cum sit perfectissima, excludit omnem 
+      composi<lb ed="#N" n="95" break="no"/>tionem, quae importat imperfectionem, omnia 
+      <lb ed="#N" n="96"/>tamen perfectissime, &amp; comprehensiue intuetur; 
+      <lb ed="#N" n="97"/>simplex autem apprehensio, quae est in nobis; 
+      <lb ed="#N" n="98"/>est simplex simplicitate imperfectionis, quiaa 
+      <lb ed="#N" n="99"/>ynum tantum, vel alterum praedicatum intuetur. 
+      <lb ed="#N" n="100"/>ignorans,, quaenam sint, illa praedicata, quae 
+      <lb ed="#N" n="101"/>conueniunt, vel repugnant tali subjecto. Est 
+      exe<lb ed="#N" n="102" break="no"/>plum de simplicitate Angeli, &amp; animae 
+      rationa<lb ed="#N" n="103" break="no"/>lis, quae est simplicitas perfectiqnis, quia 
+      exclu<lb ed="#N" n="104" break="no"/>dit compositionem, quae dicit imperfectionem, 
+      <lb ed="#N" n="105"/>&amp; de simplicitate puncti, &amp; materiae, quae est 
+      <lb ed="#N" n="106"/>simplicitas imperfectionis, cum sit imperfectiore 
+      <lb ed="#N" n="107"/>ipso composito. Unde nostra secunda operatio 
+      <lb ed="#N" n="108"/>magis assimilatur in perfectione cognitioni 
+      Di<lb ed="#N" n="109" break="no"/>uinae, &amp; Angelicae, quia plura cognoscit,, sicut  
+      <lb ed="#N" n="110"/>illa omnia intuetur, &amp; in hoc consistit 
+      perfectio<lb ed="#N" n="111" break="no"/>cognitionis; plura scilicet cognoscere; quam 
+      as<lb ed="#N" n="112" break="no"/>similetur: ei nostra prima operatio, quae minora 
+      <lb ed="#N" n="113"/>cognoscit. Ad 2. probi dicitur, quod simplex  
+      <lb ed="#N" n="114"/>apprehesio est intuitiua imperfectissimo modo 
+      <lb ed="#N" n="115"/>est enim propinqua cognitioni sensitiuse, &amp; 
+      mi<lb ed="#N" n="116" break="no"/>nora cognoscit, quam secunda operatio; &amp; ideo 
+      <lb ed="#N" n="117"/>est imperfectior, quam sit simplex apprehensio; 
+      <lb ed="#N" n="118"/>quantunuis sit intuitiua. Praeterea dicitur, quod  
+      <lb ed="#N" n="119"/>simplex apprehensio potest esse abstractiua, vt 
+      <lb ed="#N" n="120"/>cum videtur animal a longe 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1372z-Dd1e2230">
+               <head xml:id="ccc7yd-g1372z-Hd1e2232">Articulus 5</head>
+               <p xml:id="ccc7yd-g1372z-d1e2234">
+      <!--497.xml-->
+                  <pb ed="#N" n="480"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>ART. V 
+      <lb ed="#N" n="2"/>Afferuntur aliquot quaesita. 
+        </p>
+               <p xml:id="ccc7yd-g1372z-d1e2247">
+                  <lb ed="#N" n="3"/>VT completam tradamus notitiam eorum; 
+      <lb ed="#N" n="4"/>quae traduntur de Veritate, aliquot,  
+      <lb ed="#N" n="5"/>quaesita, &amp; eorum resolutiones ex Fundatisse 
+      <lb ed="#N" n="6"/>Doct. sparsim collectas breui calamo 
+      perstrin<lb ed="#N" n="7" break="no"/>gemus. Igitur.
+        </p>
+               <p xml:id="ccc7yd-g1372z-d1e2260">
+                  <lb ed="#N" n="8"/>I Quaeres 1. Ad quam speciem qualitatis 
+      <lb ed="#N" n="9"/>reducatur Veritas formalis? 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2267">
+                  <lb ed="#N" n="10"/>Resp. re duci ad specie habitus. Ita B. Doct 
+      <lb ed="#N" n="11"/>2. Met. q. 1inam Veritas non est passio, quia 
+      pas<lb ed="#N" n="12" break="no"/>siones fiunt tantum in sensumeque est potentia; 
+      <lb ed="#N" n="13"/>quia potentia est indita a natura, Veritas autem 
+      <lb ed="#N" n="14"/>acquiri tur in tempore; neque est forma, aut 
+      fi<lb ed="#N" n="15" break="no"/>gura, quia istae subjectantur solum in quantitate 
+      <lb ed="#N" n="16"/>molis; neque est dispositio, quia Veritas semel 
+      <lb ed="#N" n="17"/>acquisita diu durat in inteflectu. Tum quia 
+      Ve<lb ed="#N" n="18" break="no"/>ritas causatur in anima ex eo, quod intellectus 
+      <lb ed="#N" n="19"/>debite cognoscit res; ergo est habitus. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2292">
+                  <lb ed="#N" n="20"/>2. Quaeres 2, ex quo proueniat, quod 
+      Veri<lb ed="#N" n="21" break="no"/>tas sit tam difficilis scitu P. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2299">
+                  <lb ed="#N" n="22"/>Resp. B. Doctor 2. Met. q. 3; quod vel 
+      loqui<lb ed="#N" n="23" break="no"/>nur de Veritate incomplexa, quae consistit 
+      in<lb ed="#N" n="24" break="no"/>prima operatione nostri intellectus, &amp; tunc 
+      dif<lb ed="#N" n="25" break="no"/>ficultas oritur ex parte scientis, &amp; ex parte rei 
+      <lb ed="#N" n="26"/>scitae, quia ex parte vtriusque est materia 
+      impe<lb ed="#N" n="27" break="no"/>ditiua cognitionis, vt docet in eod lib. φ. 8. 
+      Ex<lb ed="#N" n="28" break="no"/>parte quidem intellectus; noster enim 
+      intelle<lb ed="#N" n="29" break="no"/>ctus, cum dependeat a phantasmatibus 
+      materia<lb ed="#N" n="30" break="no"/>libus, &amp; cum aliquae res, quia sunt separatae a 
+      <lb ed="#N" n="31"/>materia, non sint phantasiabiles, ideo difficilis est, 
+      <lb ed="#N" n="32"/>eorum inuestigatio, &amp; intellectus non nisi aegre 
+      <lb ed="#N" n="33"/>ad illas potest pertingere. Ex parte rei scitae 
+      ori<lb ed="#N" n="34" break="no"/>tur difficultas dupliciter. 1. quia, cum Veritas 
+      <lb ed="#N" n="35"/>transcendentalis consistat in adaequatione ad 
+      <lb ed="#N" n="36"/>sua principia, &amp; cum principia sint difficillimae 
+      <lb ed="#N" n="37"/>cognitionis, ideo Veritas formalis, quae non 
+      <lb ed="#N" n="38"/>acquiritur, nisi per cognitionem Veritatis 
+      tran<lb ed="#N" n="39" break="no"/>scendentalis, difficulter inuenitur. 2, oritur 
+      diffi<lb ed="#N" n="40" break="no"/>cultas ex parte causarum rei, quia, cum multae 
+      <lb ed="#N" n="41"/>sint causae ipsius rei, cunque multitudo generet. 
+      <lb ed="#N" n="42"/>confusionem, quae difficulter potest superati, 
+      <lb ed="#N" n="43"/>ideo Veritas formalis difficulter inuenitur. Vel 
+      <lb ed="#N" n="44"/>loquimur de Veritate complexa, quae consistit 
+      <lb ed="#N" n="45"/>in secunda operatione, &amp; haec est difficilis scitu 
+      <lb ed="#N" n="46"/>quia multo tempore acquiritur propter 
+      difficil<lb ed="#N" n="47" break="no"/>limam causarum inuestigationem, &amp; 
+      propter<lb ed="#N" n="48" break="no"/>multitudinem operationem sensitiuarum, 
+      quae<lb ed="#N" n="49" break="no"/>praerequiruntur ad agnitionem Veritatis, &amp; 
+      <lb ed="#N" n="50"/>propter tarditatem ipsius intellectus a materia 
+      <lb ed="#N" n="51"/>praepediti, &amp; a vulnere contracto propter 
+      pec<lb ed="#N" n="52" break="no"/>catum originale infirmato 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2369">
+                  <lb ed="#N" n="53"/> Quaeres 33 an Veritas magis proprie sit:  
+      <lb ed="#N" n="54"/>in intellectu speculatiuo, quam in practico¬ 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2376">
+                  <lb ed="#N" n="55"/>Resp. B. Doctor in Idist. 19. q. 1. S. 
+      Aduer<lb ed="#N" n="56" break="no"/>tendum, quod magis proprie est in intellectu 
+      <lb ed="#N" n="57"/>speculatiuo: &amp; ratio est: nam Veritas formalis 
+      <lb ed="#N" n="58"/>consistit in quadam manifestatione obiecti, &amp; se 
+      <lb ed="#N" n="59"/>habet respectu intellectus, sicut lumen respectus 
+      <!--497.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>oculi; dicitur enim 1. Post: Omne, quod verum est, 
+      <lb ed="#N" n="61"/>ipsum sibi omnino manifestum est, sed 
+      manifesta<lb ed="#N" n="62" break="no"/>tio pertinet ad intel lectum speculatinum; ergo 
+      <lb ed="#N" n="63"/>Veritas magis proprie est in intellectu 
+      specula<lb ed="#N" n="64" break="no"/>tiuo. Tum quia intellectus speculatiuus sistit in 
+      <lb ed="#N" n="65"/>sola contemplatione Veritatis, &amp; intellectus 
+      <lb ed="#N" n="66"/>practicus extenditur ad aliquod opus 
+      exter<lb ed="#N" n="67" break="no"/>num; sed Veritas formalis non consistit in alis 
+      <lb ed="#N" n="68"/>quo externo, sed consistit formaliter in 
+      intelle<lb ed="#N" n="69" break="no"/>ctu, vt dictum est; ergo Veritas magis proprie 
+      <lb ed="#N" n="70"/>est in intellectu speculatiuo. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2417">
+                  <lb ed="#N" n="71"/>I. Quaeres qi an Veritas formalis possit esse 
+      <lb ed="#N" n="72"/>etiam in sensus. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2424">
+                  <lb ed="#N" n="73"/>Resp. negatine: nam sensus non potest 
+      ten<lb ed="#N" n="74" break="no"/>dere circa Verum, aliter confunderetur cum 
+      in<lb ed="#N" n="75" break="no"/>tellectu; confusis enim objectis confunduntur  
+      <lb ed="#N" n="76"/>potentiae, quia confusis specificatiuis 
+      confun<lb ed="#N" n="77" break="no"/>duntur res specificatae; sed Verum: est 
+      obie<lb ed="#N" n="78" break="no"/>ctum intellectus, ergo sensus non potest 
+      ten<lb ed="#N" n="79" break="no"/>dere in Verum, &amp; ideo in sensu nequit 
+      esse<lb ed="#N" n="80" break="no"/>Veritas formalis. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2445">
+                  <lb ed="#N" n="81"/>S Quaeres 5, an obiectum formale 
+      intelle<lb ed="#N" n="82" break="no"/>ctus sit Ens, vel Verum? 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2452">
+                  <lb ed="#N" n="83"/>Resp. Ens esse objectum materiale, Verum. 
+      <lb ed="#N" n="84"/>autem objectum formale intellectus; nam 
+      obie<lb ed="#N" n="85" break="no"/>ctum formale est illud, quod adaequatur, &amp; 
+      <lb ed="#N" n="86"/>conformatur potentiae, sed adaequatio, i&amp; 
+      <lb ed="#N" n="87"/>conformitas obiecti cum intellectu est. Veritas 
+      <lb ed="#N" n="88"/>transcendentalis, vt dictum est; ergo Veritas 
+      tra<lb ed="#N" n="89" break="no"/>scendentalis est objectum formale intellectus. 
+      <lb ed="#N" n="90"/>Obiectum autem materiale est ipsa res, 
+      quaeat<lb ed="#N" n="91" break="no"/>tingitur apotentia; sed Ens est huiusmodis ergo 
+      <lb ed="#N" n="92"/>Ens est objectum materiale intellectus. Vide 
+      <lb ed="#N" n="93"/>B. Doct. Quodl. 4. q. 20. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2478">
+                  <lb ed="#N" n="94"/>6. Quaeres Vltimo, an Verum isit prius 
+      <lb ed="#N" n="95"/>quam Bonum? 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2485">
+                  <lb ed="#N" n="96"/>Re sp. affirmatiue: nam objecta commena 
+      <lb ed="#N" n="97"/>surantur, &amp; seruant eundem ordinem, quem 
+      <lb ed="#N" n="98"/>nabent eorum potentiae; sed potentia tendens 
+      <lb ed="#N" n="99"/>in Verum, quae est intellectus, est prior potentia 
+      <lb ed="#N" n="100"/>tendente in Bonum, quae est Voluntas; quia mihili 
+      <lb ed="#N" n="101"/>volitum, quin praecognitum, ergo Verum:est 
+      <lb ed="#N" n="102"/>prius, quam Bonum, &amp; ideo Verum immediate 
+      se<lb ed="#N" n="103" break="no"/>quitur ad Vnum; propter quod prius agitur de 
+      <lb ed="#N" n="104"/>Veritate, quam de Bonitate. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1372z-Dd1e2508">
+               <head xml:id="ccc7yd-g1372z-Hd1e2510">Articulus 6</head>
+               <p xml:id="ccc7yd-g1372z-d1e2512">
+                  <lb ed="#N" n="105"/>ARI. VI. 
+      <lb ed="#N" n="106"/>An sit, quid sit, quotuplex sit, &amp; in quo sit falsitas 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2519">
+                  <lb ed="#N" n="107"/>Ari Falsitatem in rerum natura nihili 
+      <lb ed="#N" n="108"/>Pest manifestius; in ore enim fere 
+      om<lb ed="#N" n="109" break="no"/>nium paucis exceptis falsitas auditur: Dupli 
+      <lb ed="#N" n="110"/>citer autem potest intelligi Falsitatem essei 
+      <lb ed="#N" n="111"/>rerum natura. 1. positiue ita, vt Falsitas sit alis 
+      <lb ed="#N" n="112"/>quod positiuum existens a parte rei; &amp; in hoc 
+      <lb ed="#N" n="113"/>ensu non datur Falsitas; Falsitas enim est priua. 
+      <lb ed="#N" n="114"/>tio Veritatis, sicuti malitia est prinatio bonita 
+      <lb ed="#N" n="115"/>tis, vt ostendit Beatiss. P. Aug. lib. de nat. Bonis 
+      <lb ed="#N" n="116"/>quod passim vrget in alijs libris contra Manm 
+      <lb ed="#N" n="117"/>chaeos, qui asserebant malum esse aliquam 
+      natu<lb ed="#N" n="118" break="no"/>tam positiuam, idem autem colligitur de Mali¬ 
+      <!--498.xml-->
+      <pb ed="#N" n="481"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>tia, dicendum est de Falsitate, quia ita Falsitas 
+      <lb ed="#N" n="2"/>opponitur Veritati, sicut Malitia Bonitati. 2. 
+      pri<lb ed="#N" n="3" break="no"/>uatiue ita, vtisit priuatio Veritatis, cui 
+      opponi<lb ed="#N" n="4" break="no"/>tur; priuatio enim vere datur a parte rei, &amp; 
+      in<lb ed="#N" n="5" break="no"/>hoc sensu datur Falsitas; quod prob. 4B. Doct 
+      <lb ed="#N" n="6"/>Quodl. 4. 4. 7. Opposita ex Phil. habent fieri 
+      circa<lb ed="#N" n="7" break="no"/>idem, vt supra diximus; sed datur Veritas in 
+      in<lb ed="#N" n="8" break="no"/>tellectu, quae opponitur falsitati, ergo datur &amp; 
+      <lb ed="#N" n="9"/>falsitas. Tum quia dantur mala, seu peccata; sed  
+      <lb ed="#N" n="10"/>peccata sunt mala per ordinem ad voluntatem; 
+      <lb ed="#N" n="11"/>&amp; falsa per ordinem ad intellectum; intellectus 
+      <lb ed="#N" n="12"/>enim peccatoris apprehendit, vt bonum 
+      id<lb ed="#N" n="13" break="no"/>quod est malum, &amp; per consequens fallitur, quia 
+      <lb ed="#N" n="14"/>falli nihil aliud est, quam apprehendere rem 
+      ali<lb ed="#N" n="15" break="no"/>ter, ac est; ergo datur falsitas. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2587">
+                  <lb ed="#N" n="16"/>. Quoad 2. Falsitas est, difformitas, seu 
+      ca<lb ed="#N" n="17" break="no"/>rentia conformitatis, &amp; adaequationis rei ad 
+      <lb ed="#N" n="18"/>intellectum. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2596">
+                  <lb ed="#N" n="19"/>3 Diuiditur Falsitas in transcendentalem: 
+      <lb ed="#N" n="20"/>quae est difformitas, quae reperitur in rebus ad 
+      <lb ed="#N" n="21"/>sua principia, ac ad intellectum; &amp; in formalem, 
+      <lb ed="#N" n="22"/>quae est difformitas intellectus ad res secundum 
+      <lb ed="#N" n="23"/>illud esse objectiuum, quod habent in intellectus 
+      <lb ed="#N" n="24"/>&amp; ex consequenti ad illud esse reale, quod 
+      ha<lb ed="#N" n="25" break="no"/>bet res a parte rei; ex opposito enim loqui 
+      de<lb ed="#N" n="26" break="no"/>bemus de Falsitate, ac de Veritate, quia 
+      oppo<lb ed="#N" n="27" break="no"/>sitorum oppositae sunt rationes. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2619">
+                  <lb ed="#N" n="28"/>I4 Quo ad vltimum, quod quaeritur in 
+      Ti<lb ed="#N" n="29" break="no"/>tulo, dicendum Falsitatem formalem esse 
+      tan<lb ed="#N" n="30" break="no"/>tum in intellectu creato, non autem in 
+      intelle<lb ed="#N" n="31" break="no"/>ctu Diuino: vnde res possunt quidem dici 
+      falsae<lb ed="#N" n="32" break="no"/>per ordinem ad intellectum creatum, non 
+      au<lb ed="#N" n="33" break="no"/>tem per ordinem ad intellectum Diuinum. Ita 
+      <lb ed="#N" n="34"/>B. Doct. ubi sup. Prob. prima pars. Falsitas forma: 
+      <lb ed="#N" n="35"/>lis est difformitas intellectus ad rem 
+      apprehen<lb ed="#N" n="36" break="no"/>sam; sed difformitas dicit relationem: mensura. 
+      <lb ed="#N" n="37"/>ti, quae formaliter est tantum in intellectu, qui  
+      <lb ed="#N" n="38"/>mensuratur a rebus; ergo falsitas formalis, est 
+      <lb ed="#N" n="39"/>tantum in intellectu: Tum quia Veritas 
+      forma<lb ed="#N" n="40" break="no"/>lis est tantum in intellectu; ergo &amp; falsi 
+      <lb ed="#N" n="41"/>tas formalis. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2652">
+                  <lb ed="#N" n="42"/>5 Prob. 2. pars. In illo intellectu tantum est, 
+      <lb ed="#N" n="43"/>falsitas, qui propter suam potentialitatem 
+      pas<lb ed="#N" n="44" break="no"/>siuam potest decipi circa suum objectum; sed  
+      <lb ed="#N" n="45"/>solus intellectus creatus habet potentialitatem 
+      <lb ed="#N" n="46"/>passiuam, propter quam potest decipi; 
+      intelle<lb ed="#N" n="47" break="no"/>ctus enim Diuinus, cum sit actus purissimus 
+      ex<lb ed="#N" n="48" break="no"/>eludens omnem potentialitatem nequit decipi 
+      <lb ed="#N" n="49"/>ergo Falsitas formalis est tantum in intellectu 
+      <lb ed="#N" n="50"/>creato, non vero in intellectu Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2674">
+                  <lb ed="#N" n="51"/>6 Prob. 3. pars. Res artificiales in tantum 
+      <lb ed="#N" n="52"/>sunt falsae per ordinem ad intellectum creatum, 
+      <lb ed="#N" n="53"/>in quantum deficiunt a propria Idea, et eueniunt. 
+      <lb ed="#N" n="54"/>praetercintentionem Agentis; sed nulla creatura 
+      <lb ed="#N" n="55"/>potest deficere ab Idaeis intellectus Diuini, aut 
+      <lb ed="#N" n="56"/>cuenire praeter intentionem illius, ergo nulla 
+      <lb ed="#N" n="57"/>creatura potest esse falsa per ordinem ad intel 
+      <lb ed="#N" n="58"/>lectum Diumum; vnde monstra, &amp; defectus 
+      na<lb ed="#N" n="59" break="no"/>turales dicuntur fortuita, &amp; falsa per ordinem. 
+      <lb ed="#N" n="60"/>ad causas creatas, non vero per ordinem ad Deum. 
+      <!--498.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>7 Dices. Peccata sunt difformia Bonitati 
+      <lb ed="#N" n="62"/>Diuinae; ergo sunt falsa per ordinem ad 
+      intel<lb ed="#N" n="63" break="no"/>lectum Dininum. 
+      <lb ed="#N" n="64"/>P Resp. dist. antecedens. Peccata sunt 
+      diffor<lb ed="#N" n="65" break="no"/>mia Bonitati Diuinae in esse cogniti, negi 
+      ita<lb ed="#N" n="66" break="no"/>enim cognoscuntur a Deo, sicut sunt in seipsis; 
+      <lb ed="#N" n="67"/>in esse voliti, conc; &amp; in hoc sensu dicuntur. 
+      <lb ed="#N" n="68"/>mala, non falsa¬ 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2720">
+                  <lb ed="#N" n="69"/>S Colligitur Falsitate vere, &amp; proprie non 
+      <lb ed="#N" n="70"/>esse in sensu, sicut in ipso non est proprie 
+      Veri<lb ed="#N" n="71" break="no"/>tas, aut cognitio: vnde sensus proprie dicitur  
+      <lb ed="#N" n="72"/>decipi, non fallis 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1372z-Dd1e2732">
+               <head xml:id="ccc7yd-g1372z-Hd1e2734">Articulus 7</head>
+               <p xml:id="ccc7yd-g1372z-d1e2736">
+                  <lb ed="#N" n="73"/>ART. VII. 
+      <lb ed="#N" n="74"/>An Deus sit prima Veritas aeterna, &amp; 
+      incommu<lb ed="#N" n="75" break="no"/>tabilis regulans omnes Veritates creatase 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2745">
+                  <lb ed="#N" n="76"/>Ot, est 1. diuisio analogiae, quae traditur  
+      <lb ed="#N" n="77"/>in Logica, &amp; quam insinuat B. Doct. 
+      <lb ed="#N" n="78"/>in hac dist. 19. φ. 2. Igitur analogia alia est 
+      attri<lb ed="#N" n="79" break="no"/>butionis, &amp; est illa, qua plura dicuntur per 
+      attri<lb ed="#N" n="80" break="no"/>butionem ad vnum, ratio tamen analogans non 
+      <lb ed="#N" n="81"/>reperitur formaliter, nisi in vno, vt v. 8. sanitas 
+      <lb ed="#N" n="82"/>non reperitur formaliter, nisi in animali; in aere 
+      <lb ed="#N" n="83"/>vero, cibo, &amp; medicina reperitur tantum 
+      deno<lb ed="#N" n="84" break="no"/>minatiue, &amp; extrinsece, scilicet per ordinem ad 
+      <lb ed="#N" n="85"/>sanitatem, quae est in animali formaliter, 
+      Alia<lb ed="#N" n="86" break="no"/>est proportionalitatis, &amp; est illa, qua plura 
+      par<lb ed="#N" n="87" break="no"/>ticipant eandem rationem inaequaliter, vt 
+      quia<lb ed="#N" n="88" break="no"/>ynum habet illam rationem formaliter per 
+      es<lb ed="#N" n="89" break="no"/>sentiam, complete, perfecte, simpliciter, &amp; per se, 
+      <lb ed="#N" n="90"/>primo, &amp; principaliter; aliud vero per 
+      partici<lb ed="#N" n="91" break="no"/>pationem incomplete, imperfecte, diminute, 
+      se<lb ed="#N" n="92" break="no"/>cundum quid, secundario, &amp; minus 
+      principali<lb ed="#N" n="93" break="no"/>ter, hoc modo dicitur Ens de substantia, &amp; 
+      acci<lb ed="#N" n="94" break="no"/>dente; de substantia enim dicitur simpliciter, per 
+      <lb ed="#N" n="95"/>se primo, &amp; principaliter, complete, &amp; perfecter 
+      <lb ed="#N" n="96"/>de accidente vero dicitur participatiue per aliud 
+      <lb ed="#N" n="97"/>secundario, diminute, &amp; secundum quid; accides 
+      <lb ed="#N" n="98"/>enim dicitur Entis ens, imo dicitur ens in alio, 
+      <lb ed="#N" n="99"/>idest participans entitatem a substantia, sine qua 
+      <lb ed="#N" n="100"/>esset nihil. Veritas itaque dicitur de Deo, &amp; 
+      <lb ed="#N" n="101"/>creaturis analogice analogia 
+      proportionalita<lb ed="#N" n="102" break="no"/>tis, non attributionis, quia Veritas formaliter  
+      <lb ed="#N" n="103"/>reperitur in Deo per Essentiam simpliciter 
+      pri<lb ed="#N" n="104" break="no"/>mo, &amp; principaliter, quia est Veritas a se, non 
+      ab<lb ed="#N" n="105" break="no"/>alio; de creaturis vero dicitur minus 
+      principali<lb ed="#N" n="106" break="no"/>ter participatiue, diminute, &amp; secudum 
+      quidicrea<lb ed="#N" n="107" break="no"/>turae enim sicut participant entitatem a Deo, ita 
+      <lb ed="#N" n="108"/>participant Veritatem, quae ad illam sequitur:  
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2819">
+                  <lb ed="#N" n="109"/>2 Not. 2. ex eode ibide, quod cum creaturae se 
+      <lb ed="#N" n="110"/>habeat ad Deum, sicut artificialia ad Artificem, 
+      <lb ed="#N" n="111"/>ad hoc, vt videamus, quomodo participet 
+      Veri<lb ed="#N" n="112" break="no"/>tatem a Deo, videnda est, quomodo artificialia 
+      <lb ed="#N" n="113"/>participet Veritate ab Artifice. Artificialia igitur 
+      <lb ed="#N" n="114"/>dicuntur vera, quia adaequantur suis principiis 
+      <lb ed="#N" n="115"/>&amp; ideis, que sunt in mente Artificis: imago enim 
+      <lb ed="#N" n="116"/>Caesaris dicitur vera imago, quia adaequatur, &amp; 
+      <lb ed="#N" n="117"/>conformatur idaeae existenti in mente Artificis. 
+      <lb ed="#N" n="118"/>&amp; per consequens dicitur vera participatiue, 
+      si<lb ed="#N" n="119" break="no"/>ue per ordinem ad Veritatem existente in men¬ 
+      <!--499.xml-->
+      <pb ed="#N" n="482"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>te Artificis. Pari ratione est loquendum de 
+      Ve<lb ed="#N" n="2" break="no"/>ritate creaturarum respectu Veritatis Dei. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2856">
+                  <lb ed="#N" n="3"/>3 Not. 3. ex eodem hic, quod quando 
+      dici<lb ed="#N" n="4" break="no"/>mus Veritatem consistere in adaequatione, non 
+      <lb ed="#N" n="5"/>loquimur de quacunque adaequatione, nam 
+      <lb ed="#N" n="6"/>licet ignis genitus adaequetur igni generanti, 
+      ta<lb ed="#N" n="7" break="no"/>men proprie non meretur nomen Veritatis; sed  
+      <lb ed="#N" n="8"/>loquimur de adaequatione manifestatiua, seu per 
+      <lb ed="#N" n="9"/>ordinem ad intellectum, propterea dicitur 
+      adae<lb ed="#N" n="10" break="no"/>quatio ad intellectum. His notatis. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2877">
+                  <lb ed="#N" n="11"/> Vnica conclusio. Deus est prima Veritas 
+      <lb ed="#N" n="12"/>simpliciter aeterna, incommutabilis, mensurans: 
+      <lb ed="#N" n="13"/>&amp; verificans omnes veritates creatas. Haec 
+      con<lb ed="#N" n="14" break="no"/>clusio manifeste traditur a Beatiss. P. Aug. Tract. 
+      <lb ed="#N" n="15"/>5. in lo; ubi habet: Si quid autem homo habet 
+      <lb ed="#N" n="16"/>Veritatis, &amp; iustitiae, ab illo fonte est, quem 
+      debe<lb ed="#N" n="17" break="no"/>mus sitire in hac Eremo. Et paulo post: Si ergo 
+      <lb ed="#N" n="18"/>verax Ioannes; &amp; verax esse homo non potest nisi 
+      <lb ed="#N" n="19"/>a Veritate, a qua erat verax, nisi ab eo, qui dixiut: 
+      <lb ed="#N" n="20"/>Ego sum Veritas. Prob, autem a B. Doct sic. 
+      Veri<lb ed="#N" n="21" break="no"/>tas Artificis est Veritas, per quam artificialia 
+      <lb ed="#N" n="22"/>participant Veritatem, &amp; dicunturvera, &amp; a qua 
+      <lb ed="#N" n="23"/>Veritates omnium artificialium mensurantur; 
+      <lb ed="#N" n="24"/>sed Veritas, quam alia participant, &amp; a quam 
+      men<lb ed="#N" n="25" break="no"/>surantur est prima Veritas mensurans caetera: 
+      er<lb ed="#N" n="26" break="no"/>go est prima Veritas, per quam omnia, quae 
+      ab<lb ed="#N" n="27" break="no"/>illa dependent dicuntur vera, sed Veritas Dei 
+      <lb ed="#N" n="28"/>est Veritas primi Artificis omnium creaturarum; 
+      <lb ed="#N" n="29"/>ergo Deus est prima Veritas mensurans omnes 
+      <lb ed="#N" n="30"/>Veritates creaturarum. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2923">
+                  <lb ed="#N" n="31"/>S Prob. 2. Deus est primum Ens mensurans 
+      <lb ed="#N" n="32"/>omnia entia; ergo est primum Verum mensuras 
+      <lb ed="#N" n="33"/>omnia Vera. Antec. pat. Consequ. prob; Ens enim 
+      <lb ed="#N" n="34"/>&amp; Verum conuertuntur; ergo pariformiter de 
+      <lb ed="#N" n="35"/>ipsis est philosophandum. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2936">
+                  <lb ed="#N" n="36"/>Conf. ex D. Ansel; qui lib. de Verit. ait: Sicut  
+      <lb ed="#N" n="37"/>vnum est tempus mensurans omnia temporalia, 
+      <lb ed="#N" n="38"/>ita vnum est Verum mensurans omnia vera; sed  
+      <lb ed="#N" n="39"/>hoc vnum Verum est Deus, ergo Deus est 
+      pri<lb ed="#N" n="40" break="no"/>ma Veritas mensurans omnes alias Veritates. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2949">
+                  <lb ed="#N" n="41"/>6Prob. 3. ab eodem 2. Met. q. 16. ex Phil. 4. 
+      <lb ed="#N" n="42"/>Met. dicente: In quibus est maius, &amp; minus, 
+      ibi<lb ed="#N" n="43" break="no"/>est aliquod simpliciter, sicuti si est aliquod 
+      Bo<lb ed="#N" n="44" break="no"/>num maius, &amp; minus, oportet, quod detur  
+      <lb ed="#N" n="45"/>Bonum simpliciter; sed datur minus, &amp; maius 
+      <lb ed="#N" n="46"/>Verum: nam secundum eundem Philosophum 
+      <lb ed="#N" n="47"/>non omnia sunt vera secudum eundem gradum 
+      <lb ed="#N" n="48"/>Veritatis; ergo debet dari vnum Verum 
+      simpli<lb ed="#N" n="49" break="no"/>citer, per quod cetera sint vera. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2971">
+                  <lb ed="#N" n="50"/>7 Prob. 4. ab eodem ibid. Omnis multitudo 
+      <lb ed="#N" n="51"/>secundum Proclum fundatur super aliquam 
+      Ve<lb ed="#N" n="52" break="no"/>ritatem simpliciter: ergo multitudo Veritatum 
+      <lb ed="#N" n="53"/>supponit vnam Veritatem simpliciter, supra 
+      <lb ed="#N" n="54"/>quam fundantur omnes aliae Veritates. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e2984">
+                  <lb ed="#N" n="55"/>S Prob. 5. Quotiescunque aliqua sunt 
+      ana<lb ed="#N" n="56" break="no"/>loga, forma analogans reperitur tantum in vno, 
+      <lb ed="#N" n="57"/>primo, principali, per essentiam, idest 
+      impartici<lb ed="#N" n="58" break="no"/>pate, in alijs vero participatiue, &amp; secundum 
+      <lb ed="#N" n="59"/>quid, vt patet de Ente respectu substantiae, &amp; 
+      <lb ed="#N" n="60"/>accidentis; Dei, &amp; creaturae; sed Veritas creata 
+      <!--499.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>dicuntur analogice de Veritate Dei; ergo 
+      sup<lb ed="#N" n="62" break="no"/>bonunt vnicam Veritatem simpliciter prima, &amp; 
+      <lb ed="#N" n="63"/>per consequens nequeunt dari plures Veritates 
+      <lb ed="#N" n="64"/>simpliciter prime 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3014">
+                  <lb ed="#N" n="65"/>9 Quaeres1; an dentur Veritates 
+      crea<lb ed="#N" n="66" break="no"/>tae aeternae e 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3021">
+                  <lb ed="#N" n="67"/>Resp. B. Doct. dist. 19. cit. q. 8.8. Ut ergo 
+      ap<lb ed="#N" n="68" break="no"/>pareat, quod loquendo de propositionibus 
+      ne<lb ed="#N" n="69" break="no"/>cessariis, &amp; infallibilibus per ordinem ad 
+      intelle<lb ed="#N" n="70" break="no"/>ctum Diuinum sunm aeternae; quia intellectus 
+      Di<lb ed="#N" n="71" break="no"/>quinus, qui eas mensurat, est aeternus; per ordinem 
+      <lb ed="#N" n="72"/>vero ad intellectum creatum sunt temporales, 
+      <lb ed="#N" n="73"/>quia intellectus creatus eas mensurans est 
+      tem<lb ed="#N" n="74" break="no"/>poralis; potuissent tamen esse aeternae, quia 
+      po<lb ed="#N" n="75" break="no"/>tuisset creari intellectus creatus ab aeterno. Si 
+      <lb ed="#N" n="76"/>autem loquamur de propositionibus 
+      continge<lb ed="#N" n="77" break="no"/>tibus, quae modo sunt, modo non sunt, v.g. 
+      Pe<lb ed="#N" n="78" break="no"/>trum sedere, vel currere, cum non semper verum. 
+      <lb ed="#N" n="79"/>sit Petrum sedere, vel currere, tunc dicitur, quod  
+      <lb ed="#N" n="80"/>istae non sunt aeternae, quia aeterna sunt immuta 
+      <lb ed="#N" n="81"/>bilia, &amp; dicut duratione ipsius esse, quod nunqua 
+      <lb ed="#N" n="82"/>desinit. Ratio autem, quare propositiones 
+      neces<lb ed="#N" n="83" break="no"/>sariae sint aeternae, contingentes vero non sint 
+      <lb ed="#N" n="84"/>eterne, affertur a B. Doct; quia illis nunqua deest 
+      <lb ed="#N" n="85"/>Veritas prima, per quam sunt aeternaliter verae 
+      <lb ed="#N" n="86"/>istis vero, deest Veritas, &amp; ideo non sunt aetera 
+      <lb ed="#N" n="87"/>naliter verae 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3069">
+                  <lb ed="#N" n="88"/>IO. Queres 2. An detur aliqua Veritas 
+      crea<lb ed="#N" n="89" break="no"/>ta immutabilis 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3076">
+                  <lb ed="#N" n="90"/>Resp. sicuti ad 1. quaesitum, quod scilicet 
+      <lb ed="#N" n="91"/>Veritas creata est immutabilis per ordinem: ad 
+      <lb ed="#N" n="92"/>inte llectum Diuinum, qui nunquam mutatura 
+      <lb ed="#N" n="93"/>mutabilis vero per ordinem ad intellectum non 
+      <lb ed="#N" n="94"/>strum, qui vt Luna mutatur.  
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1372z-Dd1e3090">
+               <head xml:id="ccc7yd-g1372z-Hd1e3092">Articulus 8</head>
+               <p xml:id="ccc7yd-g1372z-d1e3094">
+                  <lb ed="#N" n="95"/>ART. VIss. 
+      <lb ed="#N" n="96"/>An Veritas Dei sit Attributum Dei: 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3101">
+                  <lb ed="#N" n="97"/>Qquimur de Veri tate transcendentalia 
+      <lb ed="#N" n="98"/>prout reperitur in Deo, non autem de 
+      <lb ed="#N" n="99"/>Veritate formali. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3110">
+                  <lb ed="#N" n="100"/>I Ratio dubitandi esse potest, quia vedi 
+      <lb ed="#N" n="101"/>mus q. 2. de Attr. in comart. 8; &amp; 10 &amp; q. 2. de 
+      <lb ed="#N" n="102"/>Subst. Dei art. 1. Potentia, actus, &amp; objectum in 
+      <lb ed="#N" n="103"/>tegrant vnam, &amp; eandem lineam, seu speciem, 
+      <lb ed="#N" n="104"/>ac propterea non distinguuntur virtualiter inter 
+      <lb ed="#N" n="105"/>se; ergo si Veritas, quae est obiectum formale in 
+      <lb ed="#N" n="106"/>tellectus, vt diximus art. 5. n. 5: esset Attributum, 
+      <lb ed="#N" n="107"/>sequeretur, quod etiam inte llectio essentialisa 
+      <lb ed="#N" n="108"/>quae specificatur a Veritate, e sset Attributum; 
+      <lb ed="#N" n="109"/>quia esset in eadem linea, in qua est Veritas, quae 
+      <lb ed="#N" n="110"/>est eius objectum. Hoc autem repugnat doctria 
+      <lb ed="#N" n="111"/>nae iam traditae q. 2. de Subst. Dei art, 5; 6; &amp; qii 
+      <lb ed="#N" n="112"/>tvbi diximus intelligere essentiale, spectare ad 
+      li<lb ed="#N" n="113" break="no"/>neam constitutiuorum Dei, imo esse vitimum 
+      <lb ed="#N" n="114"/>constitutiuum, ac proptere a non esse Att ributum 
+      <lb ed="#N" n="115"/>Propter hanc grauem difficultatem. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3147">
+                  <lb ed="#N" n="116"/>Aliqui multiplicant in Deo Veritatem, 
+      si<lb ed="#N" n="117" break="no"/>cuti dicemus de Bonitate in seq. quaest; aliam enim 
+      <lb ed="#N" n="118"/>vocant essentialem, &amp; aliam Attributalem: esse 
+      <lb ed="#N" n="119"/>tialem volunt, esse illam, per quam vera est scie¬ 
+      <!--500.xml-->
+      <pb ed="#N" n="483"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>tia; Attributalem vero, per quam vera sunt 
+      At<lb ed="#N" n="2" break="no"/>tributa. Haec doctrina reijcietur a nobis tanqua 
+      <lb ed="#N" n="3"/>dissona doctrinae traditae a SS. PP. in seq. quaest. 
+      <lb ed="#N" n="4"/>Interim dicitur, quod si teneremur multiplicare 
+      <lb ed="#N" n="5"/>Veritatem in Deo in essentialem, &amp; 
+      Attributa<lb ed="#N" n="6" break="no"/>lem, eo, quia essentia, &amp; Atrributa 
+      distinguun<lb ed="#N" n="7" break="no"/>tur virtualiter, &amp; ideo nequeunt esse vera per 
+      <lb ed="#N" n="8"/>vnicam Veritatem, ex hoc sequeretur, quod  
+      <lb ed="#N" n="9"/>nedum duae Veritates deberent dari in Deo, sed 
+      <lb ed="#N" n="10"/>deberent dari tot Veritates quot, sunt 
+      Attribu<lb ed="#N" n="11" break="no"/>ta, imo quot sunt praedicata virtualiter distincta; 
+      <lb ed="#N" n="12"/>si vera esset illa doctrina, qua asseritur Essetiam, 
+      <lb ed="#N" n="13"/>&amp; Attributa non posse esse vera per vnicam 
+      Ve<lb ed="#N" n="14" break="no"/>ritatem in ipsis imbibitam eo, quia 
+      virtuali<lb ed="#N" n="15" break="no"/>ter distinguuntur.  
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3198">
+                  <lb ed="#N" n="16"/>2 Vera tamen sententia docet, Veritatem 
+      <lb ed="#N" n="17"/>Dei esse Verum Attributum illius, nec 
+      multipli<lb ed="#N" n="18" break="no"/>cari Veritatem in essentialem, &amp; Attributalem: 
+      <lb ed="#N" n="19"/>Ita Fundatiss. Doct. in 1. dist. 2. princ. prima 
+      <lb ed="#N" n="20"/>q. 2. 8. In contrarium: vbi postquam ex Beatiss. P. 
+      <lb ed="#N" n="21"/>Aug. enumerauit Magnitudinem, Sapientiam, 
+      <lb ed="#N" n="22"/>Bonitatem, &amp; Veritatem, subdit: Sed haec sunt  
+      <lb ed="#N" n="23"/>plura Attributa. Ita omnes Antiqui, &amp; fere 
+      om<lb ed="#N" n="24" break="no"/>nes Theologi pauculis exceptis Recentioribus; 
+      <lb ed="#N" n="25"/>pro cuius declaratione. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3222">
+                  <lb ed="#N" n="26"/>Sae Not, est; quod haec est differentia inter 
+      in<lb ed="#N" n="27" break="no"/>tellectum, &amp; Voluntate secundum Pihil; quod 
+      in<lb ed="#N" n="28" break="no"/>tellectus trahit res ad se, &amp; Voluntas trabitur a 
+      <lb ed="#N" n="29"/>rebus; ratio autem huius diuersitatis est: nam, 
+      ve<lb ed="#N" n="30" break="no"/>pariter docet idem Phil; Bonitas formalis est 
+      in<lb ed="#N" n="31" break="no"/>rebus, Veritas autem formalis non est in rebus, 
+      <lb ed="#N" n="32"/>sed in ipso intellectu, vt supra diximus. Cum 
+      igi<lb ed="#N" n="33" break="no"/>tur nulla potentia possit agere sine ratione 
+      for<lb ed="#N" n="34" break="no"/>mali agendi, quia ageret sine virtute agendi, vel  
+      <lb ed="#N" n="35"/>sine actione, quod implicat, ergo Voluntas ad 
+      <lb ed="#N" n="36"/>hoc, vt agat, debet trahi a rebus, in quibus est 
+      <lb ed="#N" n="37"/>bonitas formalis, quae est ratio formalis motiua. 
+      <lb ed="#N" n="38"/>ipsius voluntatis. E contra vero intellectus 
+      de<lb ed="#N" n="39" break="no"/>bet trahere res ad se, quia in rebus non est 
+      Veri<lb ed="#N" n="40" break="no"/>tas formalis, quae est ratio formalis mouendi, &amp; 
+      <lb ed="#N" n="41"/>agendi. Veritas enim formalis est in intellectu, vi 
+      <lb ed="#N" n="42"/>supra ostensum est; ergo intellectus, cum 
+      intelli<lb ed="#N" n="43" break="no"/>git, non exit extra se ad hoc, vt vniatur cum 
+      ra<lb ed="#N" n="44" break="no"/>tione formali agendi, sed trahit res ad se adhoc,  
+      <lb ed="#N" n="45"/>ut vniantur cum ipso intellectu, &amp; cum ipsa 
+      ra<lb ed="#N" n="46" break="no"/>tione agedi, ex qua vnione postea sequitur actio¬ 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3270">
+                  <lb ed="#N" n="47"/>Ex hac doctrina manifeste colligitur, quod  
+      <lb ed="#N" n="48"/>Verum, licet sit objectum intellectus, 
+      attamen<lb ed="#N" n="49" break="no"/>non potest specificare ipsum intellectum, quia 
+      <lb ed="#N" n="50"/>in ipso Vero transcendentaliter sumpto non 
+      re<lb ed="#N" n="51" break="no"/>peritur Veritas formalis, quae sola potest esse 
+      <lb ed="#N" n="52"/>specificatiua, quia specificatiuum rei est causa. 
+      <lb ed="#N" n="53"/>formalis Metaphysica ipsius, sicuti forma 
+      Physi<lb ed="#N" n="54" break="no"/>ca est specificatiua Physice ipsius materiae, ipsa 
+      <lb ed="#N" n="55"/>aute Veritas formalis, &amp; ratio formalis ide sunt;  
+      <lb ed="#N" n="56"/>vnde, si in objecto non datur Veritas formalis, sed  
+      <lb ed="#N" n="57"/>tantum materialis, se u transcendentalis, sequitur  
+      <lb ed="#N" n="58"/>quod specificatio intellectus non habeatur a 
+      Ve<lb ed="#N" n="59" break="no"/>ritate, sed ab Entitate, quae formaliter est in 
+      obie<lb ed="#N" n="60" break="no"/>cto; praeter enim haec duo nihil aliud reperitur 
+      <!--500.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>in objecto intellectus, quia intellectus, vt supra 
+      <lb ed="#N" n="62"/>diximus, habet pro obiecto Ens, vt Verum ita, ut  
+      <lb ed="#N" n="63"/>a Vero habeat adaequationem,, &amp; ab Ente 
+      <lb ed="#N" n="64"/>specificationem formalem. Unde quanuis 
+      Veri<lb ed="#N" n="65" break="no"/>tas sit Attributum, attamen quia intellectus 
+      Di<lb ed="#N" n="66" break="no"/>quinus habet pro objecto primario Diuinam 
+      Es<lb ed="#N" n="67" break="no"/>sentiam, prout est vera eo modo, quo 
+      explicabi<lb ed="#N" n="68" break="no"/>mus in de Viss ideo intellectus Diuinus 
+      specifi<lb ed="#N" n="69" break="no"/>catur a Diuina Essentia, &amp; est in eadem linea cum 
+      <lb ed="#N" n="70"/>illa, non autem a Veritate transcendentali, &amp; ideo 
+      <lb ed="#N" n="71"/>distinguitur virtualiter ab illa. Non sic autem 
+      <lb ed="#N" n="72"/>dicendum de Voluntate, quae, cum habeat 
+      pro<lb ed="#N" n="73" break="no"/>objecto bonum, &amp; in ipso objecto sit bonitas 
+      <lb ed="#N" n="74"/>formalis, quia bonitas formalis est in rebus, ideo 
+      <lb ed="#N" n="75"/>Voluntas specificatur a bonitate formali, quae 
+      <lb ed="#N" n="76"/>est in rebus; &amp; quia bonitas formalis, quae est in 
+      <lb ed="#N" n="77"/>rebus, est passio, &amp; Attributum ipsius Entis, ideo 
+      <lb ed="#N" n="78"/>etiam Voluntas debet esse passio, &amp; Attributum 
+      <lb ed="#N" n="79"/>essentiae; specificatiuum enim, &amp; specificatum 
+      <lb ed="#N" n="80"/>nedum debent esse in eodem genere, sed etiam 
+      <lb ed="#N" n="81"/>in eadem specie. 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3353">
+                  <lb ed="#N" n="82"/>Haec doctrina penitus soluit rationem, 
+      <lb ed="#N" n="83"/>dubitandi 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3360">
+                  <lb ed="#N" n="84"/> Vnica Conclusio. Veritas Dei est 
+      Attri<lb ed="#N" n="85" break="no"/>butum Dei. Colligitur manifeste ex Beatiss. P. 
+      <lb ed="#N" n="86"/>lib.6. de Trin. c. 7. vbi connumerat Magnitudine, 
+      <lb ed="#N" n="87"/>Sapientiam, Bonitatem, &amp; Veritatem inter ea 
+      <lb ed="#N" n="88"/>praedicata, quae citcunstant, &amp; dicuntur 
+      adueni<lb ed="#N" n="89" break="no"/>re Diuinae Essentiae tanquam proprietates illius, 
+      <lb ed="#N" n="90"/>vt supra dicebamus ex Fundatiss. Dost. Et 
+      pro<lb ed="#N" n="91" break="no"/>batur ijsdem rationibus, quibus probauimus, 
+      <lb ed="#N" n="92"/>Simplicitatem, &amp; Vnitatem esse Attributa Dei 
+      <lb ed="#N" n="93"/>Imo si Vnitas, &amp; Simplicitas sunt Dei Attributas 
+      <lb ed="#N" n="94"/>multo magis id dicendum est de Veritate, que 
+      <lb ed="#N" n="95"/>sequitur, tanquam aliquod posterius ad ipsam 
+      <lb ed="#N" n="96"/>Vnitatem, &amp; Simplicitatem; propter quod 
+      ne<lb ed="#N" n="97" break="no"/>quit esse praedicatum constitutiuum, cui 
+      repu<lb ed="#N" n="98" break="no"/>gnat esse posterius predicato attributali, neque 
+      <lb ed="#N" n="99"/>est praedicatum relatiuum, vt patet; ergo a 
+      suffi<lb ed="#N" n="100" break="no"/>cienti partium enumeratione, remanet, quod  
+      <lb ed="#N" n="101"/>Veritas sit Attributum Dei, praeter enim 
+      rela<lb ed="#N" n="102" break="no"/>tiones, &amp; praedicata constitutiua non dantur 
+      ni<lb ed="#N" n="103" break="no"/>di Attributa. Vid. aliae rationes loc. cit; &amp; 
+      infra<lb ed="#N" n="104" break="no"/>de Bonitate Dei: vbi afferuntur obiectiones: 
+      <lb ed="#N" n="105"/>quae possunt fieri, &amp; earum solutiones; praeter 
+      <lb ed="#N" n="106"/>enim objectionem factam in ratione dubitandi. 
+      <lb ed="#N" n="107"/>omnes aliae sunt communes omnibus alijs 
+      tran<lb ed="#N" n="108" break="no"/>scendentibus ipsius Entis; quapropter etiam 
+      ea<lb ed="#N" n="109" break="no"/>rum solutiones communes esse debent, exceptis 
+      <lb ed="#N" n="110"/>ijs, quae dicuntur de ipsis transcendentibus, prout 
+      <lb ed="#N" n="111"/>differunt inter se quo ad diuersos modos 
+      expli<lb ed="#N" n="112" break="no"/>candi, illa enim debent singulis accomodari 
+      con<lb ed="#N" n="113" break="no"/>formiter ad ea, quae diximus, vel dicturi sumus 
+      <lb ed="#N" n="114"/>de singulo transcendenti singulatim sumpto: 
+      </p>
+               <p xml:id="ccc7yd-g1372z-d1e3430">
+                  <lb ed="#N" n="115"/>Videantur pariter illa omnia, quae 
+      tradidi<lb ed="#N" n="116" break="no"/>mus in Tractatu de Diuinis Attributis in 
+      commu<lb ed="#N" n="117" break="no"/>ni quaest. 1. art. 4. vbi diffuse attulimus, &amp; 
+      expli<lb ed="#N" n="118" break="no"/>cauimus omnes conditiones, quae necessario 
+      re<lb ed="#N" n="119" break="no"/>quiruntur ad veram, &amp; formalem rationem 
+      At<lb ed="#N" n="120" break="no"/>tributis &amp; quae praedicata sunt excludenda.
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

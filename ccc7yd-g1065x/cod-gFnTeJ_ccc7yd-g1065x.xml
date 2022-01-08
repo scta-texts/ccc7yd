@@ -1,0 +1,2155 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Quaestio 3</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Quaestio 3</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="367"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1065x"><!--l1t3q3 -->
+            <head xml:id="ccc7yd-g1065x-Hd1e99">Quaestio 3</head>
+            <p xml:id="ccc7yd-g1065x-d1e101">
+      <!--384.xml-->
+               <pb ed="#N" n="367"/>
+               <cb ed="#N" n="a"/>
+               <lb ed="#N" n="1"/>GVAEST. III. 
+      <lb ed="#N" n="2"/>De Mutua inclusione, praedicatione, &amp; aequalitate Diuinorum 
+      <lb ed="#N" n="3"/>Attributorum, ac Essentiae Diuinae.
+        </p>
+            <p xml:id="ccc7yd-g1065x-d1e117">
+               <lb ed="#N" n="4"/>IDem iudicium omnino faciendum est de inclusione, &amp; praedicatione Diuinae Essentiae, 
+      <lb ed="#N" n="5"/>eiusque Attributorum, ac de eorum diuisione; quia inclusio, vel est idem formaliter, ac 
+      indistin<lb ed="#N" n="6" break="no"/>ctio; sicut exclusio est idem formaliter, ac diuisio: nam illud dicitur excludi ab aliquo, quod 
+      ne<lb ed="#N" n="7" break="no"/>gatur de illo; illud autem includi, quod de illo affirmatur; negatio autem formaliter est diuisio 
+      <lb ed="#N" n="8"/>sicut affirmatio est identitas; vel ad minus inclusio sequitur ad distinctionem, &amp; ideo vel est 
+      cau<lb ed="#N" n="9" break="no"/>sa, aut effectus distinctionis vniuoce commensuratus cum illa, &amp; sic de exclusione respectu 
+      di<lb ed="#N" n="10" break="no"/>stinctionis; praedicatio autem sequitur ad inclusionem, quia enim Petrus, v.ig. includit 
+      animalita<lb ed="#N" n="11" break="no"/>tem, &amp; rationalitatem, ideo de Petro praedicatur animalitas, &amp; rationalitas, quia vero 
+      exclu<lb ed="#N" n="12" break="no"/>dit equinitatem, ideo de illo non praedicatur equinitas. Inclusio ergo est ratio, ad quam 
+      sequi<lb ed="#N" n="13" break="no"/>tur praedicatio, sicuti exclusio est ratio, ad quam sequitur non praedicatio: nam cum praedicatio 
+      <lb ed="#N" n="14"/>pertineat ad esse intelligibile, sit enim per intellectum, &amp; intelligibilitas sequatur ad esse tanquam  
+      <lb ed="#N" n="15"/>passio illius, &amp; sit vnio duorum in esse intelligibili, necessario supponit vnionem in esse rei, quae 
+      <lb ed="#N" n="16"/>formaliter est inclusio in esse rei. Igitur ex dictis in sup. φ praesertim art. 9: vbi egimus de 
+      distin<lb ed="#N" n="17" break="no"/>ctione inclusiua, &amp; exclusiua, patere potest resolutio totius huius 3. 7. Attamen maioris claritatis 
+      <lb ed="#N" n="18"/>gratia hanc ab illa secernendam decreuimus, vt colligamus ea, quae illuc omisimus
+        </p>
+            <div xml:id="ccc7yd-g1065x-Dd1e152">
+               <head xml:id="ccc7yd-g1065x-Hd1e154">Articulus 1</head>
+               <p xml:id="ccc7yd-g1065x-d1e156">
+      <!--384.xml-->
+                  <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="19"/>ART. I. 
+      <lb ed="#N" n="20"/>An sit Vnus omnino simplex conceptus formalis 
+      <lb ed="#N" n="21"/>Essentiae Diuinae, &amp; Attributorum dicens 
+      <lb ed="#N" n="22"/>mutuam inclusionem Formalem ? 
+        </p>
+               <p xml:id="ccc7yd-g1065x-d1e172">
+                  <lb ed="#N" n="23"/>Vnc art. trifariam diuidunt aliqui 
+      Au<lb ed="#N" n="24" break="no"/>ctores, vt videre est apud <ref xml:id="ccc7yd-g1065x-Rd1e178">nostrum 
+      Lu<lb ed="#N" n="25" break="no"/>sit.</ref> de Beat. lib. 5. q. 7. art. 2, &amp; apud <ref xml:id="ccc7yd-g1065x-Rd1e183">Fasol.</ref> 1. p. q. 4. 
+      <lb ed="#N" n="26"/>art. 2. dub. 152, 3. 4. 10 &amp; 113 vbi diffusissime agit 
+      <lb ed="#N" n="27"/>de hac materia. 1. enim inquirunt, an Essentia 
+      <lb ed="#N" n="28"/>sit de conceptu formali Attributorum? 2. 
+      an<lb ed="#N" n="29" break="no"/>At tributa sint de conceptu formali Essentiae o 
+      <lb ed="#N" n="30"/>3. an vnum Attributum sit de conceptu 
+      forma<lb ed="#N" n="31" break="no"/>di alterius? Ceterum quia est eadem ratio de 
+      <lb ed="#N" n="32"/>omnibus, ne idem toties repetatur, in vno, &amp; 
+      <lb ed="#N" n="33"/>eodem ara omnia simul resoluemus. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e204">
+                  <lb ed="#N" n="34"/>Prima sententia vult conceptum formalem 
+      <lb ed="#N" n="35"/>Essentiae Diuinae non includere formaliter 
+      con<lb ed="#N" n="36" break="no"/>ceptum Attributorum, &amp; e contra; &amp; coceptum 
+      <lb ed="#N" n="37"/>formalem vnius Attributi non includere 
+      for<lb ed="#N" n="38" break="no"/>maliter conceptum alterius, sed includi tantum 
+      <lb ed="#N" n="39"/>fidentice, &amp; realiter, non formaliter ita, vt 
+      Essen<lb ed="#N" n="40" break="no"/>tia, &amp; Attributa dicant vnum tantum conceptum 
+      <lb ed="#N" n="41"/>realem identicum adaequatum, plures autem 
+      <lb ed="#N" n="42"/>conceptus formales inadaequatos. Et haec 
+      sen<lb ed="#N" n="43" break="no"/>tentia diuiditur in duplicem classem; Aliqui  
+      <lb ed="#N" n="44"/>enim volunt Essentiam, &amp; Attributa non se 
+      mu<lb ed="#N" n="45" break="no"/>tuo includere formaliter ex natura rei, vt 
+      Scoti<lb ed="#N" n="46" break="no"/>stae Recentiores substinentes distinctionem 
+      for<lb ed="#N" n="47" break="no"/>malem ex natura rei ante opus nostri 
+      intelle<lb ed="#N" n="48" break="no"/>ctus, vt diximus φ. 2. art. 7. Alij vero mutuo se 
+      <lb ed="#N" n="49"/>includere formaliter ex natura rei, non autem 
+      <lb ed="#N" n="50"/>formaliter virtualiter, aut formaliter ratione 
+      ra<lb ed="#N" n="51" break="no"/>tiocinata. Ita Vasque Fasol loc. cit. q. 2. art. 9; &amp; 
+      <lb ed="#N" n="52"/>multi ex nostris in M. S. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e248">
+                  <lb ed="#N" n="53"/>Secunda sententia vult Attributa 
+      formali<lb ed="#N" n="54" break="no"/>ter includi in conceptu formali Essentiae, non 
+      <lb ed="#N" n="55"/>tamen conceptum formalem Essentiae Diuinae 
+      <lb ed="#N" n="56"/>includi formaliter in conceptu Attributorum, 
+      <lb ed="#N" n="57"/>nec conceptum formalem vnius Attributi in¬ 
+      <!--384.xml-->
+      <cb ed="#N" n="c"/>
+                  <lb ed="#N" n="58"/>conceptu formali alterius. Ita <name xml:id="ccc7yd-g1065x-Nd1e267">noster Lusit.</name> de 
+      <lb ed="#N" n="59"/>Beat. lib. 5. q. 8. art. 2 &amp; q. 9. art2; quem 
+      sequi<lb ed="#N" n="60" break="no"/>tur <name xml:id="ccc7yd-g1065x-Nd1e273">Martinonus</name>. 1. p. de Deo disp. 3. sect. 8, &amp; 9. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e277">
+                  <lb ed="#N" n="61"/>Tertia tandem sententia docet Essentiam, 
+      <lb ed="#N" n="62"/>&amp; Attributa vicissim formaliter includi 
+      quan<lb ed="#N" n="63" break="no"/>tum ad formalitatem implicitam, non autem 
+      <lb ed="#N" n="64"/>quantum ad modum explicandi ita, vt sit vnus 
+      <lb ed="#N" n="65"/>purissimus, &amp; simplicissimus conceptus formalis 
+      <lb ed="#N" n="66"/>etiam virtualiter, &amp; multiplex tantum quoad  
+      <lb ed="#N" n="67"/>modum explicandi eo, quia explicatio Essentiae 
+      <lb ed="#N" n="68"/>non est explicatio Attributorum, &amp; e contra; 
+      si<lb ed="#N" n="69" break="no"/>cuti explicatio, seu conceptus explicitus vnius 
+      <lb ed="#N" n="70"/>Attributi non est explicatio, seu conceptus 
+      ex<lb ed="#N" n="71" break="no"/>plicitus, &amp; explicans alterum. Ita Beat. Doct. 
+      <lb ed="#N" n="72"/>Aegid, eiusque Discipuli, &amp; omnes Auctores, quos 
+      <lb ed="#N" n="73"/>citauimus art. 9. pro 2. sent. Ad cuius resolut.  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e308">
+                  <lb ed="#N" n="74"/>2 Supp. exclusionem, quae tot modis 
+      dici<lb ed="#N" n="75" break="no"/>tur, quot inclusio, cui opponitur, oppositorum 
+      <lb ed="#N" n="76"/>enim eadem est ratio; nil aliud esse, quam extra 
+      <lb ed="#N" n="77"/>clausionem ita, vt illud dicatur excludi ab alio, 
+      <lb ed="#N" n="78"/>quod clauditur extra illud, seu extra terminos, 
+      <lb ed="#N" n="79"/>&amp; fines illius; sicuti e contra inclusionihil aliud 
+      <lb ed="#N" n="80"/>est, quam clausio alicuius intra aliudita, vt illud 
+      <lb ed="#N" n="81"/>dicatur includi ab alio, quod claudtur intra 
+      il<lb ed="#N" n="82" break="no"/>lud, seu intra terminos illius. Mutipliciter 
+      au<lb ed="#N" n="83" break="no"/>tem aliquod claudi potest extra, &amp; intra aliud 
+      <lb ed="#N" n="84"/>1. secundum quantitatem ita, V illud dicatur  
+      <lb ed="#N" n="85"/>excludi, quod est extra dimensies alterius, 
+      vt<lb ed="#N" n="86" break="no"/>vnum corpus naturaliter excludt aliud, &amp; locus 
+      <lb ed="#N" n="87"/>natur aliter includit corpus. 2. per separationem 
+      <lb ed="#N" n="88"/>actualem ita, vt illud dicaturexcludi ab alio, 
+      <lb ed="#N" n="89"/>quod est realiter separatum ab llo; sic vnus 
+      An<lb ed="#N" n="90" break="no"/>gelus excluditur ab alio, quia ist separatus 
+      rea<lb ed="#N" n="91" break="no"/>liter actualiter ab illo, &amp; forua dicitur 
+      includi<lb ed="#N" n="92" break="no"/>in materia, quia realiter actuditer ab illa non 
+      <lb ed="#N" n="93"/>est separata. 3. per distinctioem realem; &amp; sic 
+      <lb ed="#N" n="94"/>entitas materiae dicitur excldere entitate 
+      for<lb ed="#N" n="95" break="no"/>mae, quia realiter distinguitua forma; 
+      differen<lb ed="#N" n="96" break="no"/>tia vero dicitur realiter ineldi in genere, quia 
+      <!--385.xml-->
+      <pb ed="#N" n="368"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>est idem realiter cum illo. 4. per distinctionem 
+      <lb ed="#N" n="2"/>formalem actualem ex natura rei; &amp; sic vna 
+      for<lb ed="#N" n="3" break="no"/>ma dicitur aliam excludere, quia formaliter 
+      <lb ed="#N" n="4"/>actualiter ex natura rei distinguitur ab illa; &amp; 
+      in<lb ed="#N" n="5" break="no"/>sententia Scotistarum vna formalitas dicitur 
+      ex<lb ed="#N" n="6" break="no"/>cludere aliam, quia secundum ipsos eadem 
+      di<lb ed="#N" n="7" break="no"/>stinctione actuali distinguitur vna formalitas 
+      ab<lb ed="#N" n="8" break="no"/>alia; illud aute dicitur includi formaliter 
+      actua<lb ed="#N" n="9" break="no"/>liter ex natura rei, quod realiter actualiter ex 
+      <lb ed="#N" n="10"/>natura rei non distinguitur, &amp; sic in nostra 
+      sen<lb ed="#N" n="11" break="no"/>tentia vna formalitas al iam includit: in 
+      senten<lb ed="#N" n="12" break="no"/>tia vero Scotistarum vna perfectio eiusdem 
+      for<lb ed="#N" n="13" break="no"/>malitatis includitur in alia perfectione eiusdem 
+      <lb ed="#N" n="14"/>formalitatis. 5. per distinctionem virtualem, &amp; 
+      <lb ed="#N" n="15"/>sic illud excluditur, quod distinguitur 
+      virtuali<lb ed="#N" n="16" break="no"/>liter ab alio; vt animalitas excludit rationalita. 
+      <lb ed="#N" n="17"/>tem, quia conceptus animalitatis est praecisus a 
+      <lb ed="#N" n="18"/>conceptu objectiuo rationalitatis, illud vero 
+      di<lb ed="#N" n="19" break="no"/>citur includi virtualiter, quod virtualiter non 
+      <lb ed="#N" n="20"/>distinguitur, vt animal, &amp; sensitiuum. 6. per 
+      di<lb ed="#N" n="21" break="no"/>stinctionem rationis cum fundamento; &amp; sic 
+      il<lb ed="#N" n="22" break="no"/>lud dicitur excludi, quod distinguitur ratione 
+      <lb ed="#N" n="23"/>cum fundamento; vein nostra sententia 
+      animali<lb ed="#N" n="24" break="no"/>tas, prout formaliter actualiter distincta per 
+      no<lb ed="#N" n="25" break="no"/>strum intellectum excludit rationalitatem, illud 
+      <lb ed="#N" n="26"/>autem dicitur includi, quod non distinguitur 
+      ra<lb ed="#N" n="27" break="no"/>tione cum fundamento, vt rationale, &amp; 
+      discur<lb ed="#N" n="28" break="no"/>siuum. 7. tandem excludi virtualiter ex natura 
+      <lb ed="#N" n="29"/>cum fundamento ab alio dupliciter dici potest: 
+      <lb ed="#N" n="30"/>1. quoad formalitatem ita, vt illud dicatur ex 
+      <lb ed="#N" n="31"/>cludi virtualiter, vel ratione cum fundamento; 
+      <lb ed="#N" n="32"/>cuius formalitas virtualiter, vel ratione est 
+      om<lb ed="#N" n="33" break="no"/>nino praecisa a formalitate alterius; sicut se 
+      ha<lb ed="#N" n="34" break="no"/>bet genus ad differentiam, illud autem dicatur  
+      <lb ed="#N" n="35"/>includi secundum formalitatem virtualiter, vel  
+      <lb ed="#N" n="36"/>ratione cum fundamento, cuius formalitas non 
+      <lb ed="#N" n="37"/>est omnino praecisa ab illo, vt rationale, &amp; 
+      prin<lb ed="#N" n="38" break="no"/>cipium discurrendi. 2. quoad esse explicitum 
+      <lb ed="#N" n="39"/>&amp; non explicitum ita, vt dicatur hoc modo 
+      ex<lb ed="#N" n="40" break="no"/>cludi, quod licet sit eadem formalitas, attamen 
+      <lb ed="#N" n="41"/>non explicatur per illud nomen, quo aliud 
+      ex<lb ed="#N" n="42" break="no"/>plicatur; vt passiones entis, quae licet importent 
+      <lb ed="#N" n="43"/>eandem entitatem, attamen habent diuersas 
+      ex<lb ed="#N" n="44" break="no"/>plicationes illius entitatis, illud autem 
+      inclu<lb ed="#N" n="45" break="no"/>ditur formaliter etiam quoad modum 
+      expli<lb ed="#N" n="46" break="no"/>candi, quod explicat formaliter idem, vt 
+      Pa<lb ed="#N" n="47" break="no"/>ter, &amp; Genitor  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e469">
+                  <lb ed="#N" n="48"/> Circa aas exclusiones, &amp; inclusiones non 
+      <lb ed="#N" n="49"/>est dubium deprimis tribus; quia Diuina 
+      Essen<lb ed="#N" n="50" break="no"/>tia, &amp; Attribuia, cum non sint corpus, nequeum 
+      <lb ed="#N" n="51"/>excludi, vel incudi secundum quantitatem; quae 
+      <lb ed="#N" n="52"/>est propria passo corporis; &amp; cum non sint 
+      rea<lb ed="#N" n="53" break="no"/>liter separabilia, aut distincta realiter, ideo 
+      ne<lb ed="#N" n="54" break="no"/>queunt excludi per separationem, aut per 
+      di<lb ed="#N" n="55" break="no"/>stinctionem realem; potest ergo esse dubium. 
+      <lb ed="#N" n="56"/>4. modo, in quo sensu Scotistae tenent partem 
+      <lb ed="#N" n="57"/>affirmatiuam, quam sufficienter impugnanimus 
+      <lb ed="#N" n="58"/>7. 2. art. 7: &amp; ex consequenti impugnabimus 
+      ex<lb ed="#N" n="59" break="no"/>eo, quod reijciamis opinionem substinentem 
+      At<lb ed="#N" n="60" break="no"/>tributa excludi vitualiter, &amp; ratione cum fum 
+      <!--385.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>damento; semel enim, quod probetur Essentiam 
+      <lb ed="#N" n="62"/>Diuinam, &amp; Att ributa esse vnam simplicissimam 
+      <lb ed="#N" n="63"/>formalitatem purissimam distinctam solum 
+      secu<lb ed="#N" n="64" break="no"/>dum esse explicitum, &amp; non explicitum, seu 
+      se<lb ed="#N" n="65" break="no"/>cundum diuersos modos explicandi, &amp; 
+      signifi<lb ed="#N" n="66" break="no"/>candi, a fortiori remanebit probatum non dari 
+      ex<lb ed="#N" n="67" break="no"/>clusionem formale ex natura rei. Difficultas igitur 
+      <lb ed="#N" n="68"/>ad exclusionem virtuale reducitur. Sensus itaque 
+      <lb ed="#N" n="69"/>est, an quando v. 8. cognoscitur in Deo Essentia. 
+      <lb ed="#N" n="70"/>correspondeat vna formalitas virtualis distincta 
+      <lb ed="#N" n="71"/>a formalitate Omnipotentiae; &amp; e contra; &amp; sic 
+      <lb ed="#N" n="72"/>de reliquis; pro quo. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e530">
+                  <lb ed="#N" n="73"/>Not; quod ijsdem rationibus probanda est 
+      <lb ed="#N" n="74"/>inclusio formalis omnium Attr ibutorum 
+      in<lb ed="#N" n="75" break="no"/>Essentia Diuina, &amp; e contra, quibus 
+      impugnaui<lb ed="#N" n="76" break="no"/>mus distinctionem formalem ex natura rei; &amp; 
+      <lb ed="#N" n="77"/>distinctionem virtualem per modum excludem 
+      <lb ed="#N" n="78"/>tis, &amp; exclusi. Si enim vnum in tantum 
+      excfudi<lb ed="#N" n="79" break="no"/>tur ab alio, in quantum distinguitur; &amp; in tatum 
+      <lb ed="#N" n="80"/>includitur, in quantum non distinguitur, 
+      conse<lb ed="#N" n="81" break="no"/>quens est, vt rationes probates indistinctionem 
+      <lb ed="#N" n="82"/>formalem siue ex natura rei, siue virtualem 
+      ex<lb ed="#N" n="83" break="no"/>clusiuam, probent etiam inclusionem formalem 
+      <lb ed="#N" n="84"/>Igitur cum rationes principales probantes 
+      indi<lb ed="#N" n="85" break="no"/>stinctionem formalem siue ex natura rei, siue 
+      <lb ed="#N" n="86"/>virtualem exclusiuam sint duae, vt diximus art 
+      <lb ed="#N" n="87"/>7: &amp; 9; nempe ratio actus purissimi 
+      constituen<lb ed="#N" n="88" break="no"/>tis mirabilem Dei Simplicitatem: &amp; ratio 
+      infini<lb ed="#N" n="89" break="no"/>tatis identificantis sibi omnia absoluta, &amp; 
+      con<lb ed="#N" n="90" break="no"/>stituentis perfectissimam vnitatem, his duabus 
+      <lb ed="#N" n="91"/>pariter rationibus probanda est inclusio forma 
+      <lb ed="#N" n="92"/>lis Essentiae, &amp; Attributorum. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e576">
+                  <lb ed="#N" n="93"/>4. Quoad 1. rationem aduertendum; quod  
+      <lb ed="#N" n="94"/>licet infinitas tollat omnem distinctionem: an 
+      <lb ed="#N" n="95"/>esse absoluti, non tamen eam tollit in esse 
+      rela<lb ed="#N" n="96" break="no"/>ui. Ratio 1. est; nam etiam per Scotum, si Attri 
+      <lb ed="#N" n="97"/>buta Diuina distinguerentur realiter, non essent 
+      <lb ed="#N" n="98"/>infinita realiter simpliciter. Ratio 2. est, naqui 
+      <lb ed="#N" n="99"/>quauis Personae Diuinae in esse relatiuo sint reα 
+      <lb ed="#N" n="100"/>diter distinctae, attamen sunt infinitae realiterrsim 
+      <lb ed="#N" n="101"/>pliciter; ergo per Scotum infinitas tollit omnem 
+      <lb ed="#N" n="102"/>distinctionem in esse absolutii; &amp; secundumom 
+      <lb ed="#N" n="103"/>nes Catholicos non tollit distinctionemtinesse 
+      <lb ed="#N" n="104"/>relatiui. Et prob. hoc ratione B. Doct: allatua 
+      <lb ed="#N" n="105"/>2. art. 5. n. 19, &amp; q. 1. art. 1. n. 3: nam infinita 
+      <lb ed="#N" n="106"/>proprie loquendo respicit esse In, tum quia est 
+      <lb ed="#N" n="107"/>quid absolutum, tum quia dicit carentiam: ter 
+      <lb ed="#N" n="108"/>minorum intrinsecorum, intra quos claudatum 
+      <lb ed="#N" n="109"/>caretia autem terminorum intrinsecorumestan 
+      <lb ed="#N" n="110"/>ordine ad aliquod absolutum, quia est in ordinead 
+      <lb ed="#N" n="111"/>illud, quod est in se intrinsece excludensifines 
+      <lb ed="#N" n="112"/>&amp; terminos sui. Sicuti enim finitas est in ordine 
+      <lb ed="#N" n="113"/>ad terminos intrinsecos, intra quos clauditur a 
+      <lb ed="#N" n="114"/>ita infinitas, quae opponitur finitati, est imordin 
+      <lb ed="#N" n="115"/>ad entitatem intrinsecam carentem terminisi ao 
+      <lb ed="#N" n="116"/>autem, quod est intrinsecum, est absolutum; quia 
+      <lb ed="#N" n="117"/>dicit esse In, quod est intra rem; non autemesse 
+      <lb ed="#N" n="118"/>Ad, quod est extra rem; ergo infinitas tollittam 
+      <lb ed="#N" n="119"/>tum terminos intrinsecos; &amp; per consequensdi 
+      <lb ed="#N" n="120"/>stinctionem intercedentem inter praedicata ab 
+      <!--386.xml-->
+      <pb ed="#N" n="369"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>soluta, non autem tollit terminos extrinsecos, 
+      <lb ed="#N" n="2"/>&amp; ideo non tollit distinctionem relatiuam, 
+      quae<lb ed="#N" n="3" break="no"/>est ad terminum alium a se; tum quia infinitas 
+      <lb ed="#N" n="4"/>est aliquod praedicatum absolutum; ergo 
+      impor<lb ed="#N" n="5" break="no"/>tat praecise esse, in, &amp; per consequens tantum 
+      <lb ed="#N" n="6"/>tollit distinctionem, in, non vero distinctionem, 
+      <lb ed="#N" n="7"/>ad, quae est relatiua. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e661">
+                  <lb ed="#N" n="8"/>Tota igitur difficultas huius rationis 
+      re<lb ed="#N" n="9" break="no"/>ducitur ad duo. I3an in Deo sit infinitas nedum 
+      <lb ed="#N" n="10"/>realis simpliciter, sed etiam formalis ex natura rei, 
+      <lb ed="#N" n="11"/>&amp; virtualis, seu rationis, nam semel admisso, quod 
+      <lb ed="#N" n="12"/>in Deo sit infinitas formalis, siue ex natura rei, 
+      <lb ed="#N" n="13"/>siue virtualis simpliciter in omni genere, sequi  
+      <lb ed="#N" n="14"/>tur necessario esse vnam solam formalitatem 
+      <lb ed="#N" n="15"/>Essentiae, &amp; Attributorum siue formalem, siue 
+      <lb ed="#N" n="16"/>virtualem, siue rationis; sicuti ex eo; quod 
+      in<lb ed="#N" n="17" break="no"/>Deo sit infinitas realis simpliciter in omni 
+      gene<lb ed="#N" n="18" break="no"/>re, sequitur necessario, quod sit tantum vna 
+      rea<lb ed="#N" n="19" break="no"/>litas omnium, quae sunt in Deo. 23 an haec 
+      infini<lb ed="#N" n="20" break="no"/>tas formalis simpliciter in omni genere possit. 
+      <lb ed="#N" n="21"/>dici infinitas formalis in omni genere ratione. 
+      <lb ed="#N" n="22"/>identificationis realis, non vero ratione identi 
+      <lb ed="#N" n="23"/>ficationis formalis e Utrumque explicabitur in 
+      <lb ed="#N" n="24"/>conclusione. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e701">
+                  <lb ed="#N" n="25"/>S Quoad 2. rationem deductam ex 
+      purissi<lb ed="#N" n="26" break="no"/>ma actualitate constituente mirabilem Dei 
+      sim<lb ed="#N" n="27" break="no"/>plicitatem, &amp; per consequens excludente 
+      om<lb ed="#N" n="28" break="no"/>nem distinctionem formalem multiplicantem, 
+      <lb ed="#N" n="29"/>formalitates absolutas, quae necessario constituit. 
+      <lb ed="#N" n="30"/>compositionem virtualem, videnda sunt, quae 
+      di<lb ed="#N" n="31" break="no"/>ximus art. 5. n. 6; vbi ostendimus quanlibet 
+      di<lb ed="#N" n="32" break="no"/>stinctionem formalem absolutorum, cum 
+      impor<lb ed="#N" n="33" break="no"/>tet semper vnionem inter se, necessario 
+      consti<lb ed="#N" n="34" break="no"/>tuere compositionem siue ex natura rei, siue vir 
+      <lb ed="#N" n="35"/>tuale, vt manifeste apparet de distinctione 
+      gene<lb ed="#N" n="36" break="no"/>ris, &amp; differentiae; quae, quia vniuntur in eadem 
+      <lb ed="#N" n="37"/>essentia, etiam secundum Scorum faciunt forma. 
+      <lb ed="#N" n="38"/>lem compositionem. Quod si non sit distinctio 
+      <lb ed="#N" n="39"/>praedicatorum substanti alium, sed veluti 
+      accide<lb ed="#N" n="40" break="no"/>talium, necessario facit compositionem formale 
+      <lb ed="#N" n="41"/>accidentalem, quod cuidenter conuincitur ex 
+      <lb ed="#N" n="42"/>proportione ad distinctionem realem 
+      accidenta<lb ed="#N" n="43" break="no"/>lem, quae facit compositionem realem 
+      accidenta<lb ed="#N" n="44" break="no"/>lem; &amp; sic ex distinctione formali accidentali fit. 
+      <lb ed="#N" n="45"/>compositio formalis accidentalis. Hoc not. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e749">
+                  <lb ed="#N" n="46"/>6. Vnica conclusio. Vnus est conceptus 
+      for<lb ed="#N" n="47" break="no"/>malissimus; ac simplicissimus Essentiae, &amp; 
+      Attri<lb ed="#N" n="48" break="no"/>butorum implicite etiam virtualiter, &amp; ratione 
+      <lb ed="#N" n="49"/>cum fundamento, diuersus solum quoad 
+      mo<lb ed="#N" n="50" break="no"/>dum explicandi. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e762">
+                  <lb ed="#N" n="51"/>Prob. 1. pars concl. 1. ex Beatiss. P. Aug. vbi  
+      <lb ed="#N" n="52"/>supart. 9; &amp; praecipue ex 6. lib. de Trin, in fine, 
+      <lb ed="#N" n="53"/>ubi habetur: Ceterum in summa Trinitate tatum 
+      <lb ed="#N" n="54"/>est una, quantum tres simul sunt; nec plus aliquia 
+      <lb ed="#N" n="55"/>sunt duae, quam vna, &amp; in se infinita sunt, ita &amp; 
+      <lb ed="#N" n="56"/>singula sunt in singulis, &amp; omnia in singulis, &amp; 
+      <lb ed="#N" n="57"/>singula in omnibus, &amp; omnia in omnibus, &amp; unum 
+      <lb ed="#N" n="58"/>omnia; quo nihil clarius; dum enim ait vnam 
+      <lb ed="#N" n="59"/>Personam tantum esse, quantum tres Personae 
+      <lb ed="#N" n="60"/>Sunt simul, quia infinita est, docet infinitatem esse. 
+      <!--386.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>rationem formalem vnitatis; &amp; dum subdit 
+      om<lb ed="#N" n="62" break="no"/>nia esse in singulis, manifeste docet omnes 
+      per<lb ed="#N" n="63" break="no"/>fectiones trium Personarum esse in vna Persona. 
+      <lb ed="#N" n="64"/>&amp; dum ait singulas perfectiones esse in 
+      omni<lb ed="#N" n="65" break="no"/>bus, tunc accipit perfectiones Diuinas, quatenus 
+      <lb ed="#N" n="66"/>sunt distinctae a nobis, non enim sunt singulae, nisi 
+      <lb ed="#N" n="67"/>singulatim sumptae, nec singulatim sumuntur, 
+      ni<lb ed="#N" n="68" break="no"/>si quatenus diuiduntur a nobis; quia in re, nec 
+      <lb ed="#N" n="69"/>sunt diuisae, nec singulatim sunt, &amp; per coseques 
+      <lb ed="#N" n="70"/>non sunt singulae; &amp; tandem dum concludit esse 
+      <lb ed="#N" n="71"/>omnia vnum, docet perfectiones Diuinas etiam, 
+      <lb ed="#N" n="72"/>prout singulatim, hoc est diuisim accipiuntur a 
+      <lb ed="#N" n="73"/>nobis, esse vnam tantum formalitatem. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e819">
+                  <lb ed="#N" n="74"/>Dices S. Doct. ibi tantum loqui de 
+      Perso<lb ed="#N" n="75" break="no"/>nis, nec aliud velle, nisi quod omnes Personae sunt  
+      <lb ed="#N" n="76"/>ynum in Essentia, ac propterea esse aequales; 
+      con<lb ed="#N" n="77" break="no"/>tendebat enim contra Arrianos negantes 
+      equa<lb ed="#N" n="78" break="no"/>litatem Filij in Natura Diuina, &amp; ideo nihil 
+      co<lb ed="#N" n="79" break="no"/>cludere in hac materia 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e835">
+                  <lb ed="#N" n="80"/>Resp. concludere vnitatem Personarum in 
+      <lb ed="#N" n="81"/>Essentia ex vnitate Attributorum, ex eo enim 
+      <lb ed="#N" n="82"/>quod Filius sit Sapientia, qua Sapiens est Pater,  
+      <lb ed="#N" n="83"/>vt docet Apostolus; &amp; magnitudo, qua magnus 
+      <lb ed="#N" n="84"/>est Pater; &amp; sic de reliquis Attributis, quae 
+      om<lb ed="#N" n="85" break="no"/>nia sunt vnum, concludit, Filium esse vnum 
+      in<lb ed="#N" n="86" break="no"/>Essentia cum Patre. Arriani enim deducebant  
+      <lb ed="#N" n="87"/>Christum factum esse in tempore, eo quia natus 
+      <lb ed="#N" n="88"/>est, quod improbabat S.P. ex eo, quod si per 
+      ali<lb ed="#N" n="89" break="no"/>quod temptus fuisset Pater sine Christo, per 
+      ali<lb ed="#N" n="90" break="no"/>quod tempus, imo per aeternitatem fuisset sine. 
+      <lb ed="#N" n="91"/>Sapientia; vnde ne dicatur, quod Pater unquam  
+      <lb ed="#N" n="92"/>fuerit sine Sapientia, concludit Filium esse 
+      aeter<lb ed="#N" n="93" break="no"/>num. Et quia Sapientia in Patre idem est, quod  
+      <lb ed="#N" n="94"/>eius Essentia, sapere enim est illi esse, ideo ex eo, 
+      <lb ed="#N" n="95"/>quod Christus est Sapietia Patris, deducit, quo d 
+      <lb ed="#N" n="96"/>sit idem in Essetia, &amp; in omnibus Attributis, que 
+      <lb ed="#N" n="97"/>concedebant Arriani esse idem in Patre. Ex 
+      ide<lb ed="#N" n="98" break="no"/>titate ergo Attributorum concludit vnitatem 
+      <lb ed="#N" n="99"/>Essentiae, &amp; ex infinitate identitatem 
+      formalissi<lb ed="#N" n="100" break="no"/>mam Attributorum. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e883">
+                  <lb ed="#N" n="101"/>T Prob. 2. ex infinitate. No minus Deus est 
+      <lb ed="#N" n="102"/>infinitus realiter simpliciter in omni genere, 
+      <lb ed="#N" n="103"/>quam sit infinitus formaliter simpliciter in omni 
+      <lb ed="#N" n="104"/>genere; sed ex eo, quod sit infinitus realiter 
+      in<lb ed="#N" n="105" break="no"/>omni genere, sequitur, quod sit vna tantum 
+      rea<lb ed="#N" n="106" break="no"/>litas realiter indiuisa, &amp; indistincta; ergo ex eo, 
+      <lb ed="#N" n="107"/>quod sit infinitus formaliter simpliciter in 
+      omni<lb ed="#N" n="108" break="no"/>genere, sequitur, quod sit vna tantum formalitas 
+      <lb ed="#N" n="109"/>formaliter indistincta. Prob, maior: nam, vt 
+      dixi<lb ed="#N" n="110" break="no"/>mus ar. 7.finitas in genere est 
+      <lb ed="#N" n="111"/>infinitas defectuosa, quia non est infinitas ex 
+      om<lb ed="#N" n="112" break="no"/>ni parte, habet enim terminos respectu aliorum 
+      <lb ed="#N" n="113"/>generum: vt si daretur quantitas infinita, careret. 
+      <lb ed="#N" n="114"/>quidem terminis respectu suarum specierum 
+      <lb ed="#N" n="115"/>quia omnes suas species sibi identificaret; at non 
+      <lb ed="#N" n="116"/>careret terminis respectu aliorum generum, quia 
+      <lb ed="#N" n="117"/>distingueretur ab illis; ex eo enim, quod ab alijs  
+      <lb ed="#N" n="118"/>generibus distingueretur, clauderetur intra suum 
+      <lb ed="#N" n="119"/>genus, &amp; intra suas differentias, &amp; excluderet.  
+      <lb ed="#N" n="120"/>alia genera, eoruque differentias; genus autem, 
+      <!--387.xml-->
+      <pb ed="#N" n="370"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>&amp; differentia sunt termini rei, hinc substantia 
+      <lb ed="#N" n="2"/>hominis est finita realiter simpliciter, quia 
+      clau<lb ed="#N" n="3" break="no"/>ditur intra animal, &amp; rationale, &amp; est finita 
+      for<lb ed="#N" n="4" break="no"/>maliter, quia non identificat sibi omnem 
+      anima<lb ed="#N" n="5" break="no"/>litatem, &amp; omnem rationalitatem; sed infinitas 
+      <lb ed="#N" n="6"/>defectuosa repugnat Deo, cui nedum realiter,  
+      <lb ed="#N" n="7"/>sed etiam formaliter repugnat quicunque 
+      defe<lb ed="#N" n="8" break="no"/>ctus, &amp; ideo formalitas importans defectum non 
+      <lb ed="#N" n="9"/>est propria Deo: ergo Deus nedum est infinitus 
+      <lb ed="#N" n="10"/>realiter simpliciter in omni genere, sed etiam 
+      <lb ed="#N" n="11"/>formaliter simpliciter in omni genere; tum quia 
+      <lb ed="#N" n="12"/>si Deus non esset formaliter infinitus in omni 
+      ge<lb ed="#N" n="13" break="no"/>nere, vel esset formaliter finitus simpliciter, vel  
+      <lb ed="#N" n="14"/>praescinderet ab infinitate formali simplicitera 
+      <lb ed="#N" n="15"/>Primum dici nequit; quia finitas ita est de 
+      con<lb ed="#N" n="16" break="no"/>ceptu formali creaturae, sicut creabilitas, &amp; 
+      de<lb ed="#N" n="17" break="no"/>pendentia; ergo sicut dependentia, &amp; creabilitas 
+      <lb ed="#N" n="18"/>nequit Deo copetere formaliter simpliciter; ita 
+      <lb ed="#N" n="19"/>nec finitas; ergo sicut finitas, quae est proprium 
+      <lb ed="#N" n="20"/>praedicatum creature, competit creature nedum 
+      rea<lb ed="#N" n="21" break="no"/>liter simpliciter, sed etiam formaliter simpliciter,  
+      <lb ed="#N" n="22"/>nulla enim datur creatura formaliter infinita; ita 
+      <lb ed="#N" n="23"/>infinitas, quae est propria Dei, copetit Deo nedum 
+      <lb ed="#N" n="24"/>realiter simpliciter, sed etiam formaliter simplicit 
+      <lb ed="#N" n="25"/>ter. Neque secudum, quia quod praescindit a finitater 
+      <lb ed="#N" n="26"/>&amp; infinitate formali simpliciter, formaliter neque  
+      <lb ed="#N" n="27"/>est Deus, nec creatura; sicuti quod praescindit. 
+      <lb ed="#N" n="28"/>formaliter a dependentia, &amp; independentia, 
+      for<lb ed="#N" n="29" break="no"/>maliter neque est Deus, nec creatura; &amp; quanuis 
+      <lb ed="#N" n="30"/>esset realiter Deus, quia esset infinitus realiter 
+      <lb ed="#N" n="31"/>simpliciter, non tamen posset dici formaliter 
+      <lb ed="#N" n="32"/>Deus, quia non esset infinitus formaliter 
+      simpli<lb ed="#N" n="33" break="no"/>citer; quemadmodum enim dicitur realiter Deus. 
+      <lb ed="#N" n="34"/>per infinitatem realem simpliciter, ita dicitur 
+      <lb ed="#N" n="35"/>formaliter Deus per infinitatem formalem 
+      sim<lb ed="#N" n="36" break="no"/>pliciter; ergo sicuti non esset Deus, nisi haberet 
+      <lb ed="#N" n="37"/>infinitatem realem simpliciter, ita non esset 
+      for<lb ed="#N" n="38" break="no"/>maliter Deus, nisi haberet infinitatem 
+      forma<lb ed="#N" n="39" break="no"/>lem simpliciter: 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1021">
+                  <lb ed="#N" n="40"/>Tandem Deus est infinitus realiter simpli 
+      <lb ed="#N" n="41"/>citer in omni genere, ergo est infinitus 
+      formali<lb ed="#N" n="42" break="no"/>ter simpliciter in omni genere. Antecedens 
+      ne<lb ed="#N" n="43" break="no"/>gari non potest; quia si non esset realiter 
+      infini<lb ed="#N" n="44" break="no"/>tus in omni genere, daretur distinctio realis 
+      se<lb ed="#N" n="45" break="no"/>cudum illud genus, secundum quod non esset 
+      in<lb ed="#N" n="46" break="no"/>finitus. Prob. conseq. Deus est infinitus realiter 
+      <lb ed="#N" n="47"/>simpliciter in omni genere per infinitatem 
+      for<lb ed="#N" n="48" break="no"/>malem in Deo formaliter existentem, sicuti est 
+      <lb ed="#N" n="49"/>realiter sapiens per sapientiam formalem 
+      for<lb ed="#N" n="50" break="no"/>maliter in Deo existentem; infinitas enim 
+      for<lb ed="#N" n="51" break="no"/>malis est veluti forma denominans Deum 
+      rea<lb ed="#N" n="52" break="no"/>liter infinitum, sicut sapientia formalis est 
+      velu<lb ed="#N" n="53" break="no"/>ti forma denominans Deum realiter sapientem: 
+      <lb ed="#N" n="54"/>ve in creaturis rationalitas formalis est 
+      veluti<lb ed="#N" n="55" break="no"/>forma denominans hominem realiter rationa. 
+      <lb ed="#N" n="56"/>lem; sicuti enim non dantur in homine duae 
+      ra<lb ed="#N" n="57" break="no"/>tionalitates; vna denominans hominem realiter,  
+      <lb ed="#N" n="58"/>&amp; alia denominans ipsum formaliter rationale; 
+      <lb ed="#N" n="59"/>ita in Deo non dantur duae sapientiae 
+      denomi<lb ed="#N" n="60" break="no"/>nantes Deum realiter, &amp; formaliter sapientem; 
+      <!--387.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>nec duae infinitates denominantes Deum 
+      rea<lb ed="#N" n="62" break="no"/>liter, &amp; formaliter infinitum, sed sicut homo 
+      per<lb ed="#N" n="63" break="no"/>vnicam rationalitatem formalem denominatur 
+      <lb ed="#N" n="64"/>realiter, &amp; formaliter rationalis; sic Deus 
+      per<lb ed="#N" n="65" break="no"/>vnicam sapientiam formalem denominatur 
+      rea<lb ed="#N" n="66" break="no"/>liter, &amp; formaliter sapiens; &amp; per vnam 
+      infinita<lb ed="#N" n="67" break="no"/>tem formalem denominatur realiter, &amp; 
+      for<lb ed="#N" n="68" break="no"/>maliter infinitus, quodlibet enim praedicatum 
+      <lb ed="#N" n="69"/>reale constituitur realiter per suam 
+      formalita<lb ed="#N" n="70" break="no"/>tem formaliter existentem in ipsa re 
+      qua<lb ed="#N" n="71" break="no"/>talis res denominatur realiter; vt paries 
+      deno<lb ed="#N" n="72" break="no"/>minatur realiter albus per formam albedinis. 
+      <lb ed="#N" n="73"/>formaliter in ipso existentem; sed per infinita; 
+      <lb ed="#N" n="74"/>tem formaliter in vno genere non constituitur? 
+      <lb ed="#N" n="75"/>infinitas realis in omni genere, aliter constitutum, 
+      <lb ed="#N" n="76"/>quod habet veluti rationem effectus formalis, 
+      <lb ed="#N" n="77"/>excederet suam causam formalem, quod est 
+      con<lb ed="#N" n="78" break="no"/>tra totam Philosophiam; &amp; sic si esset in homine 
+      <lb ed="#N" n="79"/>quant itas infinita formaliter tantum in suo 
+      ge<lb ed="#N" n="80" break="no"/>nere, homo non diceretur infinitus realiter 
+      sim<lb ed="#N" n="81" break="no"/>pliciter in omni genere, sed tantum realiter 
+      in<lb ed="#N" n="82" break="no"/>finitus in genere quantitatis, ergo si Deus est, 
+      <lb ed="#N" n="83"/>infinitus realiter simpliciter in omni genere est 
+      <lb ed="#N" n="84"/>etiam infinitus formaliter simpliciter in 
+      omni<lb ed="#N" n="85" break="no"/>genere; sed ex infinitate reali simpliciter in 
+      om<lb ed="#N" n="86" break="no"/>ni genere arguitur identitas realis, siue vna 
+      tan<lb ed="#N" n="87" break="no"/>tum realitas in Deo: ergo ex infinitate formali 
+      <lb ed="#N" n="88"/>simpliciter in omni genere arguitur in Deo. 
+      <lb ed="#N" n="89"/>identitas formalis, siue vna tantum formalitas in 
+      <lb ed="#N" n="90"/>Deo. Haec ratio manifeste conuincit.  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1138">
+                  <lb ed="#N" n="91"/>Dices hanc rationem improbare solame 
+      <lb ed="#N" n="92"/>distinctionem formalem ex natura rei, non 
+      au<lb ed="#N" n="93" break="no"/>tem distinctionem virtualem, seu rationis, cum 
+      <lb ed="#N" n="94"/>fundamento; quanuis enim Essentia, &amp; Attris 
+      <lb ed="#N" n="95"/>buta sint una formalitas ex natura rei indistin 
+      <lb ed="#N" n="96"/>cta, attamen est multiplex formalitas virtuali 
+      <lb ed="#N" n="97"/>ter; &amp; ratione; quia etsi sint multae formalitates 
+      <lb ed="#N" n="98"/>virtualiter, &amp; ratione; attamen saluatur infinitas 
+      <lb ed="#N" n="99"/>realis, &amp; formalis simpliciter in omnigenere 
+      <lb ed="#N" n="100"/>per identificationem realem, &amp; formalemo 
+      <lb ed="#N" n="101"/>ex natura rei 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1164">
+                  <lb ed="#N" n="102"/>Resp. quod formalitas virtualiter 
+      distine<lb ed="#N" n="103" break="no"/>cta ab alia formalitate, vel concepta, vt distincta 
+      <lb ed="#N" n="104"/>ab alia formalitate, non esset formalitas virtua, 
+      <lb ed="#N" n="105"/>lis infinita, nec esset concepta, vt infinita forma 
+      <lb ed="#N" n="106"/>diter, quia distinctio repugnat infinitati, vt dictum 
+      <lb ed="#N" n="107"/>est; ergo non esset formalitas Dei, quae in hoc 
+      <lb ed="#N" n="108"/>distinguitur a formalitate creaturae; quod illa est 
+      <lb ed="#N" n="109"/>infinita, haec vero finita; ergo vel esset formalitas 
+      <lb ed="#N" n="110"/>creaturae, vel esset formalitas praescindens a 
+      for<lb ed="#N" n="111" break="no"/>malitate Dei, &amp; creaturae; &amp; sic non esset 
+      formali<lb ed="#N" n="112" break="no"/>tas Dei, nec agnosceretur, vt formalitas Deimo 
+      <lb ed="#N" n="113"/>enim minus conuenit praedicatis Diuinis 
+      essen<lb ed="#N" n="114" break="no"/>tialiter formaliter infinitas, quam ratio increatis 
+      <lb ed="#N" n="115"/>quia tam per rationem infiniti, quam per 
+      ratio<lb ed="#N" n="116" break="no"/>nem increati Deus distinguitur a creatura; ergo 
+      <lb ed="#N" n="117"/>sicuti non conciperemus formalitatem Diuinam 
+      <lb ed="#N" n="118"/>formaliter, vt Diuinam, si ipsam 
+      praescindere<lb ed="#N" n="119" break="no"/>mus a ratione increati vel virtualiter, vel ratios 
+      <lb ed="#N" n="120"/>ne cum fundamento; ita nec conciperemus per¬ 
+      <!--388.xml-->
+      <pb ed="#N" n="371"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>fectio nem Diuinam, vt Diuinam formaliter, si 
+      <lb ed="#N" n="2"/>illam praescinderemus ab infinitate, seu si 
+      prae<lb ed="#N" n="3" break="no"/>scinderetur ab alia formalitate, vel virtualiter  
+      <lb ed="#N" n="4"/>vel ratione; quia in tali casu necessario 
+      praescin<lb ed="#N" n="5" break="no"/>deretur ab identitate, &amp; per consequens. 
+      <lb ed="#N" n="6"/>ab infinitate. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1227">
+                  <lb ed="#N" n="7"/>S Prob. 3. ex actualitate purissima. 
+      Impli<lb ed="#N" n="8" break="no"/>cat dari in Deo, vel in ipso concipi cum 
+      funda<lb ed="#N" n="9" break="no"/>nento aliquam formalitatem per modum 
+      po<lb ed="#N" n="10" break="no"/>tentiae passiuae perfectibilis per actum; ergo 
+      im<lb ed="#N" n="11" break="no"/>plicat dari plures formalitates, vel ex natura 
+      <lb ed="#N" n="12"/>rei, vel virtualiter, aut ratione se mutuo 
+      exclu<lb ed="#N" n="13" break="no"/>dentes. Prob. antecedens. Implicat dari in Deo. 
+      <lb ed="#N" n="14"/>vel in ipso concipi cum fundamento ratio 
+      crea<lb ed="#N" n="15" break="no"/>ti; sed ratio potentiae passiuae perfectibilis 
+      per<lb ed="#N" n="16" break="no"/>actum est ratio formalis, per quam aliquod 
+      con<lb ed="#N" n="17" break="no"/>stituitur in esse creati, quia creatura nihil aliud 
+      <lb ed="#N" n="18"/>importat nisi non repugnantiam ad esse, &amp; non 
+      <lb ed="#N" n="19"/>esse, haec enim est cius definitio; &amp; non 
+      re<lb ed="#N" n="20" break="no"/>pugnantia nihil aliud est, quam potentialitas 
+      <lb ed="#N" n="21"/>passiua ad perfici per esse; tum quia ratio 
+      po<lb ed="#N" n="22" break="no"/>tentiae passiuae dicit exclusionem actus, &amp; 
+      perfe<lb ed="#N" n="23" break="no"/>ctionis, &amp; ideo importat essentialiter 
+      imperfe<lb ed="#N" n="24" break="no"/>ctionem; ergo implicat dari, vel concipi in Deo 
+      <lb ed="#N" n="25"/>aliquam formalitatem per modum potentiae 
+      <lb ed="#N" n="26"/>passiuae perfectibilis per actum. Prob. conseque.  
+      <lb ed="#N" n="27"/>Si daretur in Deo aliqua formalitas excludens 
+      <lb ed="#N" n="28"/>formaliter virtualiter aliam formalitatem, vt 
+      ge<lb ed="#N" n="29" break="no"/>nus excludit differentiam, iam illa formalitas 
+      <lb ed="#N" n="30"/>excluderet aliquem actum vel substantialiter 
+      si<lb ed="#N" n="31" break="no"/>bi conuenientem, vel quasi accidentaliter sibi 
+      <lb ed="#N" n="32"/>aduenientem, vt diximus φ. 2. art. 5. n. 6, sed 
+      ex<lb ed="#N" n="33" break="no"/>clusio actus nihil aliud est formaliter, quam 
+      pote<lb ed="#N" n="34" break="no"/>tia passiua; ergo illa formalitas esset in potentia 
+      <lb ed="#N" n="35"/>passiua ad aliam formalitatem, &amp; ideo nec esset 
+      <lb ed="#N" n="36"/>actus purus, nec formalitas Dei 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1295">
+                  <lb ed="#N" n="37"/>S Prob. 4. ex simplicitate. Si daretur vna 
+      <lb ed="#N" n="38"/>formalitas Diuina excludens aliam formalitate 
+      <lb ed="#N" n="39"/>vel ex natura rei, vel virtualiter, aut ratione, 
+      da<lb ed="#N" n="40" break="no"/>retur in Deo compositio vel ex natura rei, vel 
+      <lb ed="#N" n="41"/>virtualis, vel rationis cum fundamento, fed  
+      <lb ed="#N" n="42"/>quaecunque ex his compositionibus repugnat.  
+      <lb ed="#N" n="43"/>simplicitati Dei purissimae; ergo &amp; exclusio 
+      <lb ed="#N" n="44"/>vnius formalitatis vel ex natura rei, vel 
+      virtua<lb ed="#N" n="45" break="no"/>lis, vel rationis. Prob. maior; quia sicut 
+      exclusio<lb ed="#N" n="46" break="no"/>realis vnius realitatis ab alia cum vnione vtriusque 
+      <lb ed="#N" n="47"/>facit compositionem realem; ita exclusio forma 
+      <lb ed="#N" n="48"/>lis, vel virtualis, vel rationis cum fundamento 
+      <lb ed="#N" n="49"/>cum vnione inter se facit compositionem, vel 
+      <lb ed="#N" n="50"/>formalem, vel virtualem, vel rationis cum 
+      fun<lb ed="#N" n="51" break="no"/>damento. Minor probata est q. 2. cit. art. 5. n. 6i 
+      <lb ed="#N" n="52"/>&amp; art. 12. n. 11. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1332">
+                  <lb ed="#N" n="53"/>to. Prob. 2. pars concl; quod scilicet 
+      Essen<lb ed="#N" n="54" break="no"/>tia Diuina quoad esse explicitum excludat At  
+      <lb ed="#N" n="55"/>tributa, &amp; e contra: nam Beatiss. P. Aug. lib. 15. 
+      <lb ed="#N" n="56"/>de Trin. c. 5. loquens deratione Spiritus ait: 
+      Vl<lb ed="#N" n="57" break="no"/>timum, quod posui, videtur tantummodo 
+      significa<lb ed="#N" n="58" break="no"/>re substantiam, cetera vero huius substantiae 
+      qua<lb ed="#N" n="59" break="no"/>litates, sed non est sic in illa ineffabili, simplicique 
+      <lb ed="#N" n="60"/>Natura, quidquid enim secundum qualitates 
+      <!--388.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>illic dici videtur, secundum Substantiam, vel 
+      Es<lb ed="#N" n="62" break="no"/>sentiam est intelligendum. Ex quibus colligitur,  
+      <lb ed="#N" n="63"/>quod praedicata substantialia Dei in hoc 
+      diffe<lb ed="#N" n="64" break="no"/>runt ab Attributalibus, quod illa videntur 
+      si<lb ed="#N" n="65" break="no"/>gnificare substantiam, ista vero qualitates, &amp; per 
+      <lb ed="#N" n="66"/>consequens differunt in modo significandi, &amp; 
+      <lb ed="#N" n="67"/>explicandi. Per id vero, quod subdit quidquid 
+      se<lb ed="#N" n="68" break="no"/>cundum qualitates dici videtur, secundum 
+      Sub<lb ed="#N" n="69" break="no"/>stantiam, vel Essentiam est intelligendum; docet 
+      <lb ed="#N" n="70"/>vnum esse intellectum, seu conceptum 
+      forma<lb ed="#N" n="71" break="no"/>lem omnium. Idem docet Cirillus Alex. lib. 11. 
+      <lb ed="#N" n="72"/>Thesauri, vbi ait. Non omnia ergo, quae sut in Deo, 
+      <lb ed="#N" n="73"/>&amp; de Deo dicuntur, substantiam significant. 
+      Eun<lb ed="#N" n="74" break="no"/>dem fere modum loquendi habent omnes SS. 
+      <lb ed="#N" n="75"/>DD, vt videre est apud Fasol. q. 4. de Perfect Dei 
+      <lb ed="#N" n="76"/>art. 2. dub. 23 qui quanuis illos adducat contra 
+      <lb ed="#N" n="77"/>nostram sententiam, aperte tamen illam docent; 
+      <lb ed="#N" n="78"/>semper enim aiunt Attributa differre a Natura, 
+      <lb ed="#N" n="79"/>quia illam non significant, non dicunt, non aperiunt, 
+      <lb ed="#N" n="80"/>non ostendunt, non explicant, sed ostendunt, 
+      signi<lb ed="#N" n="81" break="no"/>ficant, dicunt, aperiunt, manifestant, &amp; explicant  
+      <lb ed="#N" n="82"/>aliquid circa Naturam, quod nihil aliud est, 
+      <lb ed="#N" n="83"/>quam Attributa differre solum quoad modum. 
+      <lb ed="#N" n="84"/>significandi, &amp; explicandi non autem quoad 
+      for<lb ed="#N" n="85" break="no"/>malitatem explicatam, &amp; significatam. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1411">
+                  <lb ed="#N" n="86"/>II. Prob. 2. ratione. Distinctio secundum 
+      <lb ed="#N" n="87"/>esse explicitum, &amp; inexplicitum, seu confusum. 
+      <lb ed="#N" n="88"/>&amp; distinctum, vt aiunt alij; nil aliud est, quam 
+      il<lb ed="#N" n="89" break="no"/>la, qua vna, &amp; eadem formalitas explicatur 
+      se<lb ed="#N" n="90" break="no"/>cundum vnum esse, quod continet formaliter, &amp; 
+      <lb ed="#N" n="91"/>non secundum aliud esse, quod pariter continet. 
+      <lb ed="#N" n="92"/>formaliter; sed formalitas Diuina explicatur a 
+      <lb ed="#N" n="93"/>nobis secundum vnum esse, quod continet 
+      for<lb ed="#N" n="94" break="no"/>maliter, &amp; non secundum aliud esse, quod 
+      for<lb ed="#N" n="95" break="no"/>maliter pariter continet: per Iustitiam nanque 
+      <lb ed="#N" n="96"/>explicatur esse iustum, quod est in Essentia 
+      Di<lb ed="#N" n="97" break="no"/>quina formaliter; &amp; non explicatur esse sapiens, 
+      <lb ed="#N" n="98"/>quod pariter formaliter est in illa; ergo 
+      Essen<lb ed="#N" n="99" break="no"/>tia, &amp; Attributa Diuina distinguuntur 
+      secun<lb ed="#N" n="100" break="no"/>dum esse explicitum, &amp; inexplicitum. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1446">
+                  <lb ed="#N" n="101"/>Conf. 1. Essentia Diuina eo modo excludit. 
+      <lb ed="#N" n="102"/>Attributa, quo distinguitur ab illis, &amp; e contra 
+      <lb ed="#N" n="103"/>quod dicendum est etiam de Attributis 
+      adinui<lb ed="#N" n="104" break="no"/>cem consideratis; talis enim exclusio nequit esse 
+      <lb ed="#N" n="105"/>nisi eorum distinctio, vt supra diximus; sed 
+      Es<lb ed="#N" n="106" break="no"/>sentia, &amp; Attributa Diuina non distinguuntur? 
+      <lb ed="#N" n="107"/>inter se, nisi secundum esse explicitum, &amp; 
+      inex<lb ed="#N" n="108" break="no"/>plicitum, vt ostendimus q. 2. art. 123 ergo non 
+      <lb ed="#N" n="109"/>excluduntur nisi secundum esse explicitum 
+      <lb ed="#N" n="110"/>&amp; inexplicitum 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1470">
+                  <lb ed="#N" n="111"/>Conf. 2. Illa exclusio est admittenda 
+      in<lb ed="#N" n="112" break="no"/>Deo, quae saluat eius infinitatem formalem 
+      sim<lb ed="#N" n="113" break="no"/>pliciter in omni genere, &amp; actualitatem 
+      purissi<lb ed="#N" n="114" break="no"/>mam, perfectissimanque simplicitatem, sed sola; 
+      <lb ed="#N" n="115"/>exclusio secundum esse explicitum, &amp; 
+      inexplici<lb ed="#N" n="116" break="no"/>tum saluat infinitatem; quia dicit tantum 
+      mo<lb ed="#N" n="117" break="no"/>dum inadaequatum conciprendi nostri 
+      intelle<lb ed="#N" n="118" break="no"/>ctus; ex eo enim, quod noster intellectus 
+      inadae<lb ed="#N" n="119" break="no"/>quate concipiat Deum, non laeditur eius 
+      infini<lb ed="#N" n="120" break="no"/>tas formalis; sicut ex eo, quod linea pal maris 
+      <!--389.xml-->
+      <pb ed="#N" n="372"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>inadaequate mensuret lineam infinitam, non 
+      lae<lb ed="#N" n="2" break="no"/>dit infinitatem lineae, sed indicat solum lineam 
+      <lb ed="#N" n="3"/>infinitam inadaequate mensurari a linea palmaris 
+      <lb ed="#N" n="4"/>ita ex eo, quod noster intellectus inadaequate 
+      <lb ed="#N" n="5"/>explicet infinitatem Dei, non laeditur illius 
+      infi<lb ed="#N" n="6" break="no"/>nitas, sed indicatur tantum modus finitus 
+      expli<lb ed="#N" n="7" break="no"/>candi proprius nostri intellectus; &amp; saluat 
+      actua<lb ed="#N" n="8" break="no"/>litatem purissimam, ac simplicissimam, quia 
+      di<lb ed="#N" n="9" break="no"/>uersi modi explicandi non arguunt 
+      pluralita<lb ed="#N" n="10" break="no"/>tem in re explicata, nec per consequens 
+      com<lb ed="#N" n="11" break="no"/>positionem, quia compositio sit ex multiplicitate 
+      <lb ed="#N" n="12"/>entita tum siue realium siue formalium, non 
+      au<lb ed="#N" n="13" break="no"/>tem ex multiplicitate modorum, qui non sunt, 
+      <lb ed="#N" n="14"/>entitates, vt dictum est art. 33 &amp; 7e ergo in Deo. 
+      <lb ed="#N" n="15"/>solum est admittenda exclusio secundum esse 
+      <lb ed="#N" n="16"/>explicitum, &amp; inexplicitum, vt conformior eius 
+      <lb ed="#N" n="17"/>perfectioni purissime, &amp; simplicitati actualissime. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1538">
+                  <lb ed="#N" n="18"/>Argumenta, quae a Scotistis fieri possunt 
+      <lb ed="#N" n="19"/>contra hanc conclusionem, soluta sunt art. 7: Sunt 
+      <lb ed="#N" n="20"/>enim ea prorsus, quibus probant suam 
+      distinctio<lb ed="#N" n="21" break="no"/>nem formalem ex natura rei¬ 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1549">
+                  <lb ed="#N" n="22"/>I2. Obiicit 1. Fasol. S8. PP. docent Attributa. 
+      <lb ed="#N" n="23"/>significare rationes formales diuersas existentes 
+      <lb ed="#N" n="24"/>in Deo, &amp; inter alios refert, (ustinim, qui in 
+      repre<lb ed="#N" n="25" break="no"/>hensione responsionis a Gentibus datae ad tertiam 
+      <lb ed="#N" n="26"/>interrogationem multis probat aliud esse Dei 
+      Es<lb ed="#N" n="27" break="no"/>sentiam, aliud voluntatem, quia uoluntas inest 
+      in<lb ed="#N" n="28" break="no"/>Essentia, &amp; ex Essentia prodit; Essentia vero non 
+      <lb ed="#N" n="29"/>inest, nec prodit ex uoluntate; ergo At tributa non 
+      <lb ed="#N" n="30"/>includuntur formaliter in conceptu formali 
+      <lb ed="#N" n="31"/>Essentiae 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1573">
+                  <lb ed="#N" n="32"/>Resp. omnes SS.PP. explicandos esse, quod 
+      <lb ed="#N" n="33"/>Attributa non includuntur in conceptu Essentiae 
+      <lb ed="#N" n="34"/>secudum esse explicitum, &amp; inexplicitum, 
+      inclu<lb ed="#N" n="35" break="no"/>duntur tamen secundum formalitatem, quanuis 
+      <lb ed="#N" n="36"/>ali quis S.P. manifeste hoc no asserat, quia tamen 
+      <lb ed="#N" n="37"/>hoc manifeste non negat, censendus est ipsum 
+      <lb ed="#N" n="38"/>sentire cum communi sententia SS. Pp; &amp; sic est 
+      <lb ed="#N" n="39"/>concordandus; communis autem sententia SS.PP. 
+      <lb ed="#N" n="40"/>cum Beatiss. Pp. Doct. August. est de exclusione 
+      <lb ed="#N" n="41"/>solum secudum esse explicitum, &amp; inexplicitum; 
+      <lb ed="#N" n="42"/>vt vidimus superius. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1600">
+                  <lb ed="#N" n="43"/>Alias objectiones Fasol; &amp; aliorum videque.  
+      <lb ed="#N" n="44"/>2. art.9; qui licet nobiscum sentiant contra 
+      Sco<lb ed="#N" n="45" break="no"/>tistas non dari exclusionem ex natura rei 
+      prop<lb ed="#N" n="46" break="no"/>ter infinitatem, &amp; actualitatem simplicissimam 
+      <lb ed="#N" n="47"/>Dei; attamen substinentes dari exclusionem 
+      vir<lb ed="#N" n="48" break="no"/>tualem, vel rationis cum fundamento tenentur. 
+      <lb ed="#N" n="49"/>respondere suis rationibus, quibus Scotistas 
+      op<lb ed="#N" n="50" break="no"/>pugnant, aeque enim militant contra ipsos, vi 
+      <lb ed="#N" n="51"/>ostensum est; nec se possunt defendere, nisi dado 
+      <lb ed="#N" n="52"/>Scotistis resposiones, quibus ab eorum se 
+      tuean<lb ed="#N" n="53" break="no"/>tur impugnationibus. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1626">
+                  <lb ed="#N" n="54"/>13. Obiicit 2. noster Lusit. Accidentia in 
+      <lb ed="#N" n="55"/>creatis includuntur in conceptu essentiali 
+      sub<lb ed="#N" n="56" break="no"/>stantiae; substantia vero non includitur in 
+      con<lb ed="#N" n="57" break="no"/>ceptu essentiali accidentium: vel vnum accidens 
+      <lb ed="#N" n="58"/>in conceptu essentiali alterius; ergo Attributa 
+      <lb ed="#N" n="59"/>in Diuinis includuntur in conceptu formali 
+      Es<lb ed="#N" n="60" break="no"/>sentiae, non tamen Essentia includitur in concep¬ 
+      <!--389.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>tu formali Attributorum, aut vnum Attributum 
+      <lb ed="#N" n="62"/>in conceptu formali alterius. Prob. antecedens; 
+      <lb ed="#N" n="63"/>quia de ratione effectus est contineri in ipsa 
+      cau<lb ed="#N" n="64" break="no"/>sa, non tamen de ratione causae est contineri 
+      in<lb ed="#N" n="65" break="no"/>ipso effectu; sed accidentia sunt effectus 
+      substa<lb ed="#N" n="66" break="no"/>tiae, quia ab ipsa dimanant; ergo includuntur 
+      in<lb ed="#N" n="67" break="no"/>sua substantia, non e contra; quia substantia non 
+      <lb ed="#N" n="68"/>dimanat ab accidentibus, neque vnum accidens 
+      <lb ed="#N" n="69"/>ab alio. Tum quia illud dicitur contineri in 
+      con<lb ed="#N" n="70" break="no"/>ceptu formali alterius, quod ponitur in eius 
+      de<lb ed="#N" n="71" break="no"/>finitione; definitio enim rei est eius conceptus 
+      <lb ed="#N" n="72"/>formalis; sed acc identia non ponuntur in 
+      defini<lb ed="#N" n="73" break="no"/>tione substantiae, vt patet, nec vnum accides 
+      po<lb ed="#N" n="74" break="no"/>nitur in definitione alterius, attamen substantis 
+      <lb ed="#N" n="75"/>ponitur in definitione accidentium; ergo acciden 
+      <lb ed="#N" n="76"/>tia includuntur in conceptu essentiali substantiae; 
+      <lb ed="#N" n="77"/>non e contra; aut vnum accidens in definitione 
+      <lb ed="#N" n="78"/>alterius. Prob. coseq. Attributa Diuina se habent  
+      <lb ed="#N" n="79"/>per modum accidentium, non quidem realiter;  
+      <lb ed="#N" n="80"/>sed formaliter; dimanant enim ab Essentia 
+      Diui<lb ed="#N" n="81" break="no"/>na, &amp; sunt veluti effectus illius; ergo 
+      Attributa<lb ed="#N" n="82" break="no"/>continentur in conceptu formali Essentiae; non 
+      <lb ed="#N" n="83"/>e contra, nec vnum Attributum in conceptu 
+      <lb ed="#N" n="84"/>formali alterius. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1700">
+                  <lb ed="#N" n="85"/>Resp. 1. neg. antecedens: nam si accidentia 
+      <lb ed="#N" n="86"/>includerentur in conceptu formali substantiae: 
+      <lb ed="#N" n="87"/>accidentia nec etiam formaliter distinguerentur 
+      <lb ed="#N" n="88"/>a substantia, inclusio enim formalis importat 
+      <lb ed="#N" n="89"/>identitatem formalem; sicut exclusio importat  
+      <lb ed="#N" n="90"/>distinctionem, vt supra diximus. Ad 1. probidis 
+      <lb ed="#N" n="91"/>cimus effectum contineri in sua causa virtualitera 
+      <lb ed="#N" n="92"/>non formaliter; continentia enim virtualis nihil 
+      <lb ed="#N" n="93"/>aliud est, quam virtus cause potens producere, 
+      <lb ed="#N" n="94"/>non autem est effectus formaliter, &amp; ideo nequit  
+      <lb ed="#N" n="95"/>esse de conceptu formali ipsius, cum formalitas 
+      <lb ed="#N" n="96"/>effectus sit realiter distincta a sua causa. Ad 
+      a<lb ed="#N" n="97" break="no"/>prob. dist, maior. Illud dicitur contineri in 
+      cocep<lb ed="#N" n="98" break="no"/>tu formali alterius, quod continetur in eius de 
+      <lb ed="#N" n="99"/>finitione essentiali Metaphysica, quae datur per 
+      <lb ed="#N" n="100"/>genus, &amp; differentiam propriam, cone;tue enim 
+      <lb ed="#N" n="101"/>definitio rei non includit nisi essentiam rergan 
+      <lb ed="#N" n="102"/>definitione causali Physica, quae datur 
+      percan<lb ed="#N" n="103" break="no"/>sas Physicas, vel per additamentum, negimateria 
+      <lb ed="#N" n="104"/>enim definitur per formam, &amp; nullus diceret  
+      <lb ed="#N" n="105"/>quod conceptus formalis materiae includatur am 
+      <lb ed="#N" n="106"/>conceptu formali formae, vel e contra, aliter ant 
+      <lb ed="#N" n="107"/>ma rationalis, quae est vera forma Physica;nelus 
+      <lb ed="#N" n="108"/>deret formaliter in suo conceptu formali in 
+      <lb ed="#N" n="109"/>trinseco materiam, quod multum derogatet 
+      <lb ed="#N" n="110"/>eius immortalitati naturali. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1759">
+                  <lb ed="#N" n="111"/>Resp. 2. Transmisso antecedente neg.eona. 
+      <lb ed="#N" n="112"/>seq. Ad prob. dist. antecedens. Attributa Dius 
+      <lb ed="#N" n="113"/>na se habent per modum accidentium distim 
+      <lb ed="#N" n="114"/>ctorum solum secundum esse explicitum, 
+      conca<lb ed="#N" n="115" break="no"/>secundum esse implicitum, neg. Ad id, quod di 
+      <lb ed="#N" n="116"/>citur, quod Attributa Diuina dimanant ab Es  
+      <lb ed="#N" n="117"/>sentia tanquam effectus illius, eodem 
+      mododist<lb ed="#N" n="118" break="no"/>dimanant per idetitatem formalem purissimam 
+      <lb ed="#N" n="119"/>distinctam solum secundum esse explicitum, &amp; 
+      <lb ed="#N" n="120"/>inexplicitum, conciper distinctionem formalem, 
+      <!--390.xml-->
+      <pb ed="#N" n="373"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>negi in hoc enim Attributa Diuina conueniunt. 
+      <lb ed="#N" n="2"/>cum accidentibus qualificantibus substantiam, 
+      <lb ed="#N" n="3"/>quod sicut accidentia explicant aliquod adue 
+      <lb ed="#N" n="4"/>niens, &amp; posterius substantia, ita Attributa; nam 
+      <lb ed="#N" n="5"/>secundum esse explicitum important aliquod 
+      <lb ed="#N" n="6"/>posterius adueniens substantiae Diuimae, non 
+      ta<lb ed="#N" n="7" break="no"/>men important formalitatem vel 
+      praestantio<lb ed="#N" n="8" break="no"/>rem, vel distinctam a formalitate Essentiae 
+      prop<lb ed="#N" n="9" break="no"/>ter imperfectiones ex hoc consequetes, de 
+      qui<lb ed="#N" n="10" break="no"/>bus supra diximus. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1811">
+                  <lb ed="#N" n="11"/>14. Obiicies 3. contra 2. partem concl. 
+      In<lb ed="#N" n="12" break="no"/>tellectus Dei cognoscit distinctionem virtualem 
+      <lb ed="#N" n="13"/>inter Essentiam, &amp; Attributa, quia distinctio 
+      vir<lb ed="#N" n="14" break="no"/>tualis datur in rebus nullo intellectu cogitante; 
+      <lb ed="#N" n="15"/>cum enim formaliter cosistat in continentia reali 
+      <lb ed="#N" n="16"/>plurium perfectionum cum summa vnitate 
+      aequi<lb ed="#N" n="17" break="no"/>qualente pluribus realiter distinctis, vt dictum est, 
+      <lb ed="#N" n="18"/>q. 2. art. 8; &amp; haec continentia detur in ipsa 
+      re<lb ed="#N" n="19" break="no"/>nullo intellectu cogitate, ideo intellectus 
+      Diui<lb ed="#N" n="20" break="no"/>nus cognoscit distinctionem virtualem suae 
+      enti<lb ed="#N" n="21" break="no"/>tatis Diuinae; sed intellectui Diuino nihil est 
+      <lb ed="#N" n="22"/>inexplicitum, quia nihil est ignotum; ergo 
+      distin<lb ed="#N" n="23" break="no"/>ctio virtualis, quae est inter Essentiam, &amp; 
+      Attri<lb ed="#N" n="24" break="no"/>buta, non est per modum expliciti, &amp; inexpliciti¬ 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1844">
+                  <lb ed="#N" n="25"/>Resp; quod aliud est distinctionem actuale 
+      <lb ed="#N" n="26"/>rationis esse secundum explicitum, &amp; 
+      inexplici<lb ed="#N" n="27" break="no"/>tum; &amp; aliud est distinctionem virtualem esse 
+      se<lb ed="#N" n="28" break="no"/>cundum explicitum, et inexplicitum. Primum. 
+      <lb ed="#N" n="29"/>asserimus; &amp; ideo negamus intellectum Dei 
+      pos<lb ed="#N" n="30" break="no"/>se facere distinctionem rationis, quia nihil ei 
+      po<lb ed="#N" n="31" break="no"/>test esse inexplicitum. Secundum negamus; 
+      di<lb ed="#N" n="32" break="no"/>stinctio enim virtualis consistit in 
+      continentia<lb ed="#N" n="33" break="no"/>plurium perfectionum, vi sup. diximus. Ideo 
+      conc<lb ed="#N" n="34" break="no"/>totum arg. de distinctione virtuali, &amp; negamus 
+      <lb ed="#N" n="35"/>de distinctione rationis, quae alia est a 
+      distinctio<lb ed="#N" n="36" break="no"/>ne virtuali, vt superius ostensum est. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1874">
+                  <lb ed="#N" n="37"/>I5. Quaeres; an id, quod diximus de 
+      Attri<lb ed="#N" n="38" break="no"/>butis Diuinis, &amp; Essentia, dicendum quoque sit. 
+      <lb ed="#N" n="39"/>de ipsis relationibus Diuinis  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1883">
+                  <lb ed="#N" n="40"/>Resp. Relationes Diuinas posse dupliciter 
+      <lb ed="#N" n="41"/>considerari, scilicet secundum esse In, &amp; 
+      secun<lb ed="#N" n="42" break="no"/>dum esse Ad. Si primo modo considerentur, id 
+      om<lb ed="#N" n="43" break="no"/>nino dicendum est de illis, ac de Attributis. Si 
+      <lb ed="#N" n="44"/>vero secudo modo, aliter tenedum est, cum 
+      rela<lb ed="#N" n="45" break="no"/>tiones Diuinae, sicut quaecunque alia relatio 
+      se<lb ed="#N" n="46" break="no"/>cundum esse Ad transeat ad suum correlatiuum; 
+      <lb ed="#N" n="47"/>&amp; id, quod transit ad aliud, nullo modo 
+      inclu<lb ed="#N" n="48" break="no"/>datur in illo, a quo, &amp; extra quod transit; aliter 
+      <lb ed="#N" n="49"/>non transiret, quia quod includitur in alio, 
+      ma<lb ed="#N" n="50" break="no"/>net intra illud; quod autem transit, est extra 
+      il<lb ed="#N" n="51" break="no"/>lud; transire enim est idem, ac extra ire, vt patet 
+      <lb ed="#N" n="52"/>ex ipso nomine, ideo secundum esse Ad 
+      relatio<lb ed="#N" n="53" break="no"/>nes Diuinae non includuntur, sed excluduntur; 
+      <lb ed="#N" n="54"/>sed de hoc in Tract. de Trin. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1065x-Dd1e1919">
+               <head xml:id="ccc7yd-g1065x-Hd1e1921">Articulus 2</head>
+               <p xml:id="ccc7yd-g1065x-d1e1923">
+                  <lb ed="#N" n="55"/>ART II. 
+      <lb ed="#N" n="56"/>An Essentia Diuina, &amp; Attributa 
+      in<lb ed="#N" n="57" break="no"/>uicem praedicentur: 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1932">
+                  <lb ed="#N" n="58"/>I DRaedicatio in sui primaria diuisione du¬ 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1937">
+                  <lb ed="#N" n="59"/>plex est, alia in recto, &amp; alia in obliquo, 
+      <!--390.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>Praedicatio in recto est, qua praedicatum dicitur 
+      <lb ed="#N" n="61"/>de subjecto in nominatiuo, qui casus tantuma 
+      <lb ed="#N" n="62"/>apud Philosophos est rectus, quanuis apud 
+      Gra<lb ed="#N" n="63" break="no"/>maticos vltra nominatiuum etiam accusatiuus 
+      <lb ed="#N" n="64"/>&amp; vocatiuus vocentur casus recti. Praedicatio in 
+      <lb ed="#N" n="65"/>Jobliquo est, qua praedicatum non dicitur de 
+      su<lb ed="#N" n="66" break="no"/>bjecto in nominatiuo, sed in alio casu praeter 
+      <lb ed="#N" n="67"/>nominatiuum, &amp; sic omnia illa nomina, quae 
+      im<lb ed="#N" n="68" break="no"/>portant aliquam relationem, praedicantur in 
+      <lb ed="#N" n="69"/>Jobliquo, vt Filius est Patris, &amp; e contra. Hic 
+      <lb ed="#N" n="70"/>non loquimur de praedicatione in obliquo, 
+      <lb ed="#N" n="71"/>sed in recto: 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1972">
+                  <lb ed="#N" n="72"/> Praedicatio in recto adhuc duplex est, alia 
+      <lb ed="#N" n="73"/>in concreto, in qua subjectum, &amp; praedicatum 
+      <lb ed="#N" n="74"/>sunt termini concreti, vt homo est rationalis, alia 
+      <lb ed="#N" n="75"/>in abstracto, in qua subjectum, &amp; praedicatum Sunt 
+      <lb ed="#N" n="76"/>termini abstracti; vt humanitas est rationalitas. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e1986">
+                  <lb ed="#N" n="77"/>Praedicatio in concreto subdiuiditur 
+      in<lb ed="#N" n="78" break="no"/>praedicationem concretam simpliciter, in 
+      qua<lb ed="#N" n="79" break="no"/>concretio datur ex vtraque parte, quia scilicet 
+      <lb ed="#N" n="80"/>tam subjectum, quam praedicatum sunt termini 
+      <lb ed="#N" n="81"/>concreti, vt homo est rationalis; &amp; in concretum 
+      <lb ed="#N" n="82"/>secundum quid, in qua tantum ex vna parte 
+      ter<lb ed="#N" n="83" break="no"/>minus est concretus, &amp; ex alia est a bstractus, 
+      vi<lb ed="#N" n="84" break="no"/>homo est rationalitas; vel humanitas est 
+      rationa<lb ed="#N" n="85" break="no"/>lis, &amp; sic dicitur de praedicatione in abstracto; 
+      <lb ed="#N" n="86"/>nam alia est, in qua ambo termini sunt abstracti, 
+      <lb ed="#N" n="87"/>vt humanitas est rationalitas, &amp; alia, in qua 
+      tan<lb ed="#N" n="88" break="no"/>tum vel subjectum, vel praedicatum est 
+      termi<lb ed="#N" n="89" break="no"/>nus abstractus, vt homo est rationalitas; vel 
+      hu<lb ed="#N" n="90" break="no"/>manitas est rationalis. Hic non loquimur de 
+      prae<lb ed="#N" n="91" break="no"/>dicatione in concreto vel simpliciter, vel 
+      secun<lb ed="#N" n="92" break="no"/>dum quid, certum enim est secundum fidem. 
+      <lb ed="#N" n="93"/>quod Deus est Omnipotens, iustus &amp;c; &amp; quod 
+      <lb ed="#N" n="94"/>Deus est sua omnipotentia, iustitia &amp;cvt 
+      defini<lb ed="#N" n="95" break="no"/>tum est contra Gilbertum in Conc. Rhemen; &amp; sic. 
+      <lb ed="#N" n="96"/>quod Essentia Diuina est omnipotens, sapiens 
+      <lb ed="#N" n="97"/>&amp;c. Loquimur ergo de praedicatione in abstracto 
+      <lb ed="#N" n="98"/>simpliciter, in qua tam subjectum, quam 
+      praedi<lb ed="#N" n="99" break="no"/>catum sunt termini abstracti. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2038">
+                  <lb ed="#N" n="100"/>3 Praedicatio in abstracto subdiuiditur in 
+      <lb ed="#N" n="101"/>praedicationem identicam, in qua de subjecto 
+      <lb ed="#N" n="102"/>enunciatur aliquod identificatum realiter cum 
+      <lb ed="#N" n="103"/>ipso, vt animalitas est rationalitas; &amp; in 
+      praedica<lb ed="#N" n="104" break="no"/>tionem formalem, in qua enunciatur aliquod  
+      <lb ed="#N" n="105"/>fidentificatum formaliter; vt humanitas est 
+      ratio<lb ed="#N" n="106" break="no"/>nalitas. Hic non loquimur de praedicatione ide 
+      <lb ed="#N" n="107"/>tica; certum enim est secundum omnes 
+      DD<lb ed="#N" n="108" break="no"/>Catholicos omnia Attributa identificari 
+      reali<lb ed="#N" n="109" break="no"/>ter cum Essentia Diuina, &amp; e contra. Dubium. 
+      <lb ed="#N" n="110"/>ergo reducitur ad praedicationem formalem. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2064">
+                  <lb ed="#N" n="111"/>Praedicatio formalis alia est formalis ex 
+      <lb ed="#N" n="112"/>natura rei, in qua aliquid enunciatur 
+      identifica<lb ed="#N" n="113" break="no"/>tum ex natura rei cum subjecto, vt in nostra 
+      sen<lb ed="#N" n="114" break="no"/>tentia rationalitas est animalitas; &amp; in sententia 
+      <lb ed="#N" n="115"/>Scotistarum humanitas est rationalitas; alia est 
+      <lb ed="#N" n="116"/>formalis virtualis, vel rationis cum funda 
+      men<lb ed="#N" n="117" break="no"/>to, in qua aliquid enunciatur identificatum cum 
+      <lb ed="#N" n="118"/>subjecto formaliter virtualiter, vel ratione, 
+      ve<lb ed="#N" n="119" break="no"/>humanitas est rationalitas. 
+      <!--391.xml-->
+      <pb ed="#N" n="374"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Tandem praedicatio formalis virtualis, vel  
+      <lb ed="#N" n="2"/>rationis cum fundamento duplex est; alia, 
+      in<lb ed="#N" n="3" break="no"/>qua enunciatur de subjecto aliquod identificat 
+      <lb ed="#N" n="4"/>tum secundum formalitatem eo, quia subjectum, 
+      <lb ed="#N" n="5"/>&amp; praedicatum dicunt vnam tantum formalita. 
+      <lb ed="#N" n="6"/>tem indiuisibilem etiam virtualiter, &amp; ratione. 
+      <lb ed="#N" n="7"/>distinctam solum secundum esse explicitum, &amp; 
+      <lb ed="#N" n="8"/>inexplicitum, vt diximus in sup. ari; &amp; alia est, 
+      <lb ed="#N" n="9"/>in qua praedicatur aliquod de subjecto 
+      identifi<lb ed="#N" n="10" break="no"/>catum formaliter etiam secundum esse 
+      explici<lb ed="#N" n="11" break="no"/>tum eo, quia per subjectum explicetur etiam 
+      <lb ed="#N" n="12"/>praedicatum formaliter, &amp; e contra; vi Pater est 
+      <lb ed="#N" n="13"/>Genmtor. In vtroque sensu procedit difficultas. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2121">
+                  <lb ed="#N" n="14"/>Prima sententia tenet Essentiam, &amp; 
+      Attri<lb ed="#N" n="15" break="no"/>buta praedicari tantum identice, non formaliter 
+      <lb ed="#N" n="16"/>ex natura rei, seu quocunque alio modo 
+      forma<lb ed="#N" n="17" break="no"/>li. Ita Scotistae 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2132">
+                  <lb ed="#N" n="18"/>Secunda sententia tenet Essentiam, &amp; 
+      At<lb ed="#N" n="19" break="no"/>tributa praedicari formaliter ex natura rei contra 
+      <lb ed="#N" n="20"/>Scotistas, non tamen praedicari formaliter 
+      vir<lb ed="#N" n="21" break="no"/>tualiter, vel ratione cum fundamento. Ita 
+      Au<lb ed="#N" n="22" break="no"/>ctores adducti in sup. art. pro 2. sententia. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2145">
+                  <lb ed="#N" n="23"/>Tertia tandem sententia docet Essentiam, 
+      <lb ed="#N" n="24"/>&amp; Attributa mutuo praedicari etiam formaliter  
+      <lb ed="#N" n="25"/>virtualiter, &amp; ratione cum fundamento 
+      secun<lb ed="#N" n="26" break="no"/>dum formalitatem implicitam, quae nullo modo 
+      <lb ed="#N" n="27"/>multiplicatur virtualiter, nec ratione, non autem 
+      <lb ed="#N" n="28"/>praedicari secundum esse explicitum, &amp; 
+      inexpli<lb ed="#N" n="29" break="no"/>citum. Ita expresse Fundatiss. Doct. in 1. dist. 4. 
+      <lb ed="#N" n="30"/>princip. 3. q. 2, &amp; dist. 5. princip. 1. q. 2. art. 1. 
+      Sua<lb ed="#N" n="31" break="no"/>rex 1.9. lib. 1. de Essentia Dei c. 14, &amp; omnes 
+      illi<lb ed="#N" n="32" break="no"/>quos citauimus pro nostra sent. ubi sup. q. 2. art. 9. 
+      <lb ed="#N" n="33"/>Ad cuius explicationem. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2172">
+                  <lb ed="#N" n="34"/>4. Not. 1. ex Beat. Doct. dist. 5. cit. 8. Et 
+      prop<lb ed="#N" n="35" break="no"/>ter hoc; quod, cum praedicatio nihil aliud sit, quam 
+      <lb ed="#N" n="36"/>vnio duorum terminorum, sit enim per Verbum, 
+      <lb ed="#N" n="37"/>quod habet vnire vuum cum alio, ad hoc, vt 
+      vi<lb ed="#N" n="38" break="no"/>deamus, quae possunt ad inuicem praedicari, vel 
+      <lb ed="#N" n="39"/>non praedicari, debemus necessario considerate, 
+      <lb ed="#N" n="40"/>quae vniuntur, vel non vniuntur. Vnio ergo: 
+      <lb ed="#N" n="41"/>prout ad praesens spectare potest, duplex est; alia 
+      <lb ed="#N" n="42"/>per distinctionem importantem simultatem 
+      exi<lb ed="#N" n="43" break="no"/>stentiae, vel naturae, temporis, seu durationis, &amp; 
+      <lb ed="#N" n="44"/>intelligentiae ita, vt illa dicantur esse vnita 
+      se<lb ed="#N" n="45" break="no"/>cundum existentiam, naturam, tempus, seu 
+      du<lb ed="#N" n="46" break="no"/>rationem, &amp; intelligentiam, quae simul consistunt  
+      <lb ed="#N" n="47"/>eodem tempore, &amp; simul intelliguntur, &amp; 
+      in<lb ed="#N" n="48" break="no"/>hoc sensu illa dicuntur potius vnita, quam vnum, 
+      <lb ed="#N" n="49"/>quia dicunt distinctionem realem, quae non 
+      <lb ed="#N" n="50"/>officit vnioni, licet tollat vnitatem, quae idem 
+      <lb ed="#N" n="51"/>est, ac indistinctio, &amp; ista, si considerentur 
+      respe<lb ed="#N" n="52" break="no"/>ctu illius, in quo sunt, praedicantur cocrete, quia 
+      <lb ed="#N" n="53"/>illud totum est vnum continens illa omnia. Si 
+      au<lb ed="#N" n="54" break="no"/>tem considerentur inter se, non praedicantur 
+      ab<lb ed="#N" n="55" break="no"/>stracte in recto, sed tantum in obliquo, quia in 
+      <lb ed="#N" n="56"/>ter se non sunt idem. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2224">
+                  <lb ed="#N" n="57"/>Alia est vnio per identitatem, qua aliqua 
+      <lb ed="#N" n="58"/>duo vniuntur nedum in tertio, in quo sunt, sed  
+      <lb ed="#N" n="59"/>etiam sunt idem inter se; &amp; quae sunt hoc modo 
+      <lb ed="#N" n="60"/>vnum, possunt praedicari fubstantiue nedum in¬ 
+      <!--391.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>recto, sed etiam in obliquo, nedum concrete 
+      <lb ed="#N" n="62"/>sed etiam abstracte; &amp; ideo animalitas Petri 
+      prae<lb ed="#N" n="63" break="no"/>dicatur de Petro concrete, &amp; abstracte 
+      praedica<lb ed="#N" n="64" break="no"/>tur substantiue de rationalitate Petri, quia 
+      ani<lb ed="#N" n="65" break="no"/>malitas, &amp; rationalitas nedum sunt in eadem 
+      <lb ed="#N" n="66"/>entitate Petri, sed etiam sunt vnum, &amp; idem 
+      in<lb ed="#N" n="67" break="no"/>ter se; ac propterea valet: animalitas Petriestra 
+      <lb ed="#N" n="68"/>tionalitas Petri. Igitur haec regula vniuersaliter 
+      <lb ed="#N" n="69"/>Jobseruanda est in praedicationibus plurium 
+      ter<lb ed="#N" n="70" break="no"/>minorum inter se; quod eo modo praedicantur: 
+      <lb ed="#N" n="71"/>quo sunt vnum, vt si sint vnum in tertio, 
+      prae<lb ed="#N" n="72" break="no"/>dicantur in concreto; si vero etiam sunt vnumo 
+      <lb ed="#N" n="73"/>inter se, predicantur etiam in abstracto. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2268">
+                  <lb ed="#N" n="74"/>Hinc patet, quod relationes Diuinae, quia 
+      <lb ed="#N" n="75"/>sunt idem cum Essentia, cum per ordinem: ad 
+      <lb ed="#N" n="76"/>Essentiam transeant in identitatem illius, ideo 
+      <lb ed="#N" n="77"/>de illa praedicantur in recto, &amp; in abstracto; quia 
+      <lb ed="#N" n="78"/>tamen non sunt idem cum suis terminis 
+      corre<lb ed="#N" n="79" break="no"/>latiuis, ideo non praedicantur de illis; non enim 
+      <lb ed="#N" n="80"/>valet: Paternitas est Filiatio.  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2286">
+                  <lb ed="#N" n="81"/>S Not. 2. ex eodem; quod ea, quae sunt idem 
+      <lb ed="#N" n="82"/>cum aliquo subjecto, vel sunt absoluta, vel 
+      rela<lb ed="#N" n="83" break="no"/>tiua. Si absoluta; iam praedicantur in concretos 
+      <lb ed="#N" n="84"/>&amp; in abstracto, quia vtroque modo sunt ideme 
+      <lb ed="#N" n="85"/>Si relatiua, vel sunt relatiua secundum esse, quae 
+      <lb ed="#N" n="86"/>importat purum ordinem; vt Paternitas; vel 
+      se<lb ed="#N" n="87" break="no"/>cundum dici, quae habent modum relationis, 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2304">
+                  <lb ed="#N" n="88"/>6 Praeterea relatiua siue secundum esse, siue 
+      <lb ed="#N" n="89"/>secundum dici possunt dupliciter praedicam sei 
+      <lb ed="#N" n="90"/>licet substantiue per verbum, Est, vt v. 8. Omnis 
+      <lb ed="#N" n="91"/>potentia est Iustitia; &amp; sic quia praedicatio substa: 
+      <lb ed="#N" n="92"/>tiua importat identitatem formalem, importat  
+      <lb ed="#N" n="93"/>enim vnam simplicissimam formalitatem, vrdie 
+      <lb ed="#N" n="94"/>ximus in sup. art; &amp; locis ihid, cit; ideo forma 
+      <lb ed="#N" n="95"/>ter praedicatur. Vel adiectiue per verbum signi 
+      <lb ed="#N" n="96"/>ficans aliquam actionem, vt v. 8. intellectus, ge 
+      <lb ed="#N" n="97"/>ne rat. Et hoc quoque dupliciter potest esse: nam 
+      <lb ed="#N" n="98"/>vel illud verbum significat aliquam actionem 
+      <lb ed="#N" n="99"/>communem Essentiae, &amp; Attributis; vt v. gsaus 
+      <lb ed="#N" n="100"/>sare; Essentia enim, intellectus; voluntas, &amp; Om 
+      <lb ed="#N" n="101"/>nipotentia causant res. Vel significat aliquam  
+      <lb ed="#N" n="102"/>actionem propriam tali praedicato; vt v. 8. Scire; 
+      <lb ed="#N" n="103"/>quod conuenit tan tum intellectui; punire, quod 
+      <lb ed="#N" n="104"/>connenit soli Iustitiae. Si relat iua praedicatur, per 
+      <lb ed="#N" n="105"/>verbum adiectiuum significans actionem 
+      com<lb ed="#N" n="106" break="no"/>munem, tunc quod dicitur de vno, potest &amp; de 
+      <lb ed="#N" n="107"/>altero praedicari; quia nulla est distinctio ex 
+      par<lb ed="#N" n="108" break="no"/>te termini vtriusque. Si vero praedicentur per 
+      <lb ed="#N" n="109"/>verbum adjectiuum significans aliquam actios 
+      <lb ed="#N" n="110"/>nem propriam; tunc quod praedicatur de 
+      vno<lb ed="#N" n="111" break="no"/>nequit praedicari de altero; quia etsi nulla sit die 
+      <lb ed="#N" n="112"/>stinctio ex parte Dei, est tamen distinctio ex 
+      <lb ed="#N" n="113"/>parte terminorum terminantium tales actiones 
+      <lb ed="#N" n="114"/>proprias, &amp; quia verbum adiectiuum nedumo 
+      <lb ed="#N" n="115"/>significat principium, sed etiam terminum, ideo 
+      <lb ed="#N" n="116"/>quod dicitur de vno, nequit dici de alio. V.g 
+      <lb ed="#N" n="117"/>quia Spirare dicit actionem propriam solius 
+      vo<lb ed="#N" n="118" break="no"/>luntatis importatem terminum distinctum a 
+      ter<lb ed="#N" n="119" break="no"/>mino generationis, ideo Spirare dicitur de 
+      vo<lb ed="#N" n="120" break="no"/>luntate, non de intellectu, quanuis enim intel¬ 
+      <!--392.xml-->
+      <pb ed="#N" n="375"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>lectus, &amp; voluntas in Deo sint idem, attamens 
+      <lb ed="#N" n="2"/>quia Filius, &amp; Spiritus Sanctus, qui sunt 
+      termi<lb ed="#N" n="3" break="no"/>ni intellectus, &amp; voluntatis, distinguuntur realis 
+      <lb ed="#N" n="4"/>ter, ideo non possunt inuicem praedicari. Sic 
+      di<lb ed="#N" n="5" break="no"/>cendum de punire, quod importat actionem 
+      <lb ed="#N" n="6"/>propriam Iustitiae terminatam ad terminum 
+      rea<lb ed="#N" n="7" break="no"/>ldem in creaturis distinctum a termino 
+      Miscri<lb ed="#N" n="8" break="no"/>cordiae; Scientiae &amp;c. Vid; quae dicta sunt q. 2. 
+      <lb ed="#N" n="9"/>art. 9 n.6. His notatis. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2404">
+                  <lb ed="#N" n="10"/>T. Vnica concl. Essentia Diuina, &amp; 
+      Attribu<lb ed="#N" n="11" break="no"/>ta in abstracto substantiue praedicantur in rectos 
+      <lb ed="#N" n="12"/>siue formaliter ex natura rei, siue virtualiter, siue 
+      <lb ed="#N" n="13"/>ratione cum fundamento, non autem adiectiue, 
+      <lb ed="#N" n="14"/>Ita Beatiss. P. Aug. in lib. de Trinit. saepissime; &amp; 
+      <lb ed="#N" n="15"/>praecipue lib. 6. cap. 6. in fine; &amp; cap. 7. in princ; vbi  
+      <lb ed="#N" n="16"/>ait: Sed eadem Magnitudo eius est, quae Sapientia; 
+      <lb ed="#N" n="17"/>non enim mole magnus est, sed virtute; eadem 
+      Bo<lb ed="#N" n="18" break="no"/>nitas; quae Sapientia, &amp; Magnitudo, &amp; eadem 
+      Ve<lb ed="#N" n="19" break="no"/>ritas, quae illa omnia. Igitur si Magnitudo in 
+      Di<lb ed="#N" n="20" break="no"/>uinis est eadem, ac Bonitas, &amp; Veritas eadem, 
+      ac<lb ed="#N" n="21" break="no"/>omnia, que sunt in Deo, cum verbum Est sit 
+      sub<lb ed="#N" n="22" break="no"/>stantiuum, necessario omnia, quae sunt in Deo, 
+      <lb ed="#N" n="23"/>substantiue in abstracto praedicantur; &amp; lib. 7. in 
+      <lb ed="#N" n="24"/>princ. loquens de relatiuis, quae non nisi 
+      adiecti<lb ed="#N" n="25" break="no"/>ue praedicantur, ait: Et propterea non eo Verbum. 
+      <lb ed="#N" n="26"/>quo Sapientia, quia Verbum non ad se dicitur, sed  
+      <lb ed="#N" n="27"/>tantum relatiue ad eum, cuius est Verbum, sicut  
+      <lb ed="#N" n="28"/>Filius ad Patrem, Sapientia vero eo, quo Essentia, 
+      <lb ed="#N" n="29"/>&amp; ideo quia vna Essentia, una Sapientia; ergo 
+      si<lb ed="#N" n="30" break="no"/>Filius non est eo Verbum, quo est Sapientia, iam 
+      <lb ed="#N" n="31"/>Sapientia non praedicatur de Filiatione; 
+      particu<lb ed="#N" n="32" break="no"/>la enim, non, tollit praedicationem vnius de alio, 
+      <lb ed="#N" n="33"/>vt patet; quia ponit negationem, quae opponitur: 
+      <lb ed="#N" n="34"/>praedicationi, quae nihil aliud est, quam 
+      affirma<lb ed="#N" n="35" break="no"/>tio vnius de alio, vt dictum est; sed relatiua 
+      fa<lb ed="#N" n="36" break="no"/>ciunt sensum adiectiuum, quia significant 
+      ali<lb ed="#N" n="37" break="no"/>quam actionem, vel respectum ad aliud; 
+      sub<lb ed="#N" n="38" break="no"/>stantiua vero dicuntur tantum ad se, quia 
+      substam<lb ed="#N" n="39" break="no"/>tia ad se est, &amp; ad se dicitur; ergo per B.P. Aug. 
+      <lb ed="#N" n="40"/>in Diuinis nequit esse praedicatio adiectiua 
+      in<lb ed="#N" n="41" break="no"/>recto, sed tantum in obliquo. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2477">
+                  <lb ed="#N" n="42"/>Nec potest dici, quod loquatur solum de 
+      <lb ed="#N" n="43"/>praedicatione reali, non autem de praedicatione 
+      <lb ed="#N" n="44"/>formali, vel virtuali; quia loquitur de ea 
+      praedi<lb ed="#N" n="45" break="no"/>catione, qua non praedicatur relatio de 
+      absolu<lb ed="#N" n="46" break="no"/>to, ait enim: Non eo Verbum, quo Sapientia; patet 
+      <lb ed="#N" n="47"/>autem, quod Filius eadem realitate est Verbum, 
+      <lb ed="#N" n="48"/>qua est Sapientia, aliter relatio, qua est Verbum, 
+      <lb ed="#N" n="49"/>distingueretur realiter a Sapientia, quod est 
+      con<lb ed="#N" n="50" break="no"/>tra eundem in eod. lib. 7. cap. 63vbi habet: Non est 
+      <lb ed="#N" n="51"/>aliud Deo esse, aliud Personam esse, sed omnino 
+      <lb ed="#N" n="52"/>idem. Relatio ergo praedicatur realiter identice 
+      <lb ed="#N" n="53"/>de Deitate, sicut praedicatur realiter Sapientia, 
+      <lb ed="#N" n="54"/>ergo quando dicit, quod relatio non predicatur  
+      <lb ed="#N" n="55"/>de Essentia, sicut de illa praedicatur Sapientia, 
+      <lb ed="#N" n="56"/>necessario intelligit de predicatione formali 
+      ne<lb ed="#N" n="57" break="no"/>dum ex natura rei, sed etiam virtuali; cum asse 
+      <lb ed="#N" n="58"/>rat totam diuersitatem esse secundum modum. 
+      <lb ed="#N" n="59"/>indicandi, &amp; per consequens secundum esse 
+      ex<lb ed="#N" n="60" break="no"/>plicitum, &amp; inexplicitum, vt ostedimus 2e art. oi 
+      <!--392.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>S Probant Recentiores quidam 1. partem 
+      <lb ed="#N" n="62"/>conel. ex D. Bern in Concil. Rhem, contra Gilbertum: 
+      <lb ed="#N" n="63"/>Ceterum, quia mens Concilij erat solum in 
+      pro<lb ed="#N" n="64" break="no"/>scribenda Gilber. sententia asserentis Attributa 
+      <lb ed="#N" n="65"/>distingui realiter a Deo concrete sumpto, vt 
+      vi<lb ed="#N" n="66" break="no"/>dimus φ. 2. art. 5, ideo talis auctoritas concludit  
+      <lb ed="#N" n="67"/>tantum de praedicatione reali identica, non 
+      au<lb ed="#N" n="68" break="no"/>tem de formali, virtuali, &amp; rationis. Igitur  
+      <lb ed="#N" n="69"/>quidquid sit de illa. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2545">
+                  <lb ed="#N" n="70"/>S Prob. 1. ratione Beatiss. P. exposita a 
+      <lb ed="#N" n="71"/>Fundatiss. Doct. ubi sup. Illa, quae important vnam 
+      <lb ed="#N" n="72"/>rationem formalem simplicissime eadem ex 
+      na<lb ed="#N" n="73" break="no"/>tura rei, virtualiter, &amp; ratione, diuersam solum 
+      <lb ed="#N" n="74"/>secundum esse explicitum, &amp; inexplicitum, 
+      prae<lb ed="#N" n="75" break="no"/>dicantur formaliter ex natura rei, siue 
+      virtuali<lb ed="#N" n="76" break="no"/>ter, &amp; ratione; sed Essentia Diuina, &amp; Attributa. 
+      <lb ed="#N" n="77"/>sunt huiusmodi; ergo Essentia Diuina, eiusque 
+      <lb ed="#N" n="78"/>Attributa praedicantur formaliter ex natura rei, 
+      <lb ed="#N" n="79"/>virtualiter, &amp; ratione. Maior patet ex dictis: nam 
+      <lb ed="#N" n="80"/>sicuti identitas realis est ratio predicationis realis 
+      <lb ed="#N" n="81"/>identice, ita idetitas formalis est ratio 
+      praedicatio<lb ed="#N" n="82" break="no"/>nis formalis ex natura rei, virtualis, &amp; rationis; 
+      <lb ed="#N" n="83"/>fidentitas enim est affirmabilitas unius de alio, &amp; 
+      <lb ed="#N" n="84"/>affirmabilitas vnius de alio est formalissime 
+      pre<lb ed="#N" n="85" break="no"/>dicabilitas, vt patet, &amp; e centra. Sicuti enim 
+      distin<lb ed="#N" n="86" break="no"/>ctio realis est ratio negationis, &amp; non 
+      praedicatio<lb ed="#N" n="87" break="no"/>nis identicae, ita distinctio formalis ex natura rei 
+      <lb ed="#N" n="88"/>virtualis, &amp; rationis, est ratio negationis, &amp; non 
+      <lb ed="#N" n="89"/>praedicationis formalis ex natura rei, virtualis, &amp; 
+      <lb ed="#N" n="90"/>rationis; &amp; ideo vbicunque non datur 
+      huiusmo<lb ed="#N" n="91" break="no"/>di distinctio, neque dabitur huiusmodi negatio; 
+      <lb ed="#N" n="92"/>quod si non datur negatio, dabitur necessario 
+      af<lb ed="#N" n="93" break="no"/>firmatio, iuxta illud principium de quolibet vel 
+      <lb ed="#N" n="94"/>est affirmatio, vel negatio; quia affirmatio, &amp; 
+      ne<lb ed="#N" n="95" break="no"/>gatio sunt contradictoria, quorum vnum non 
+      <lb ed="#N" n="96"/>tollitur, nisi per positionem alterius. Minor 
+      suf<lb ed="#N" n="97" break="no"/>ficienter probata est in supart: nam si in Deo 
+      <lb ed="#N" n="98"/>multiplicarentur formalitates, vel ex natura rei, 
+      <lb ed="#N" n="99"/>vel virtualiter, vel ratione, tolleretur necessario 
+      <lb ed="#N" n="100"/>infinitas formalis ex natura rei, virtualis, vel 
+      ra<lb ed="#N" n="101" break="no"/>tionis, &amp; tolleretur ratio actus, purissimi 
+      simpli<lb ed="#N" n="102" break="no"/>cissimi, &amp; per consequens destrueretur 
+      concep<lb ed="#N" n="103" break="no"/>tus formalis proprius Dei, &amp; proprius 
+      cuius<lb ed="#N" n="104" break="no"/>cunque perfectionis Diuinae, &amp; ideo non 
+      conci<lb ed="#N" n="105" break="no"/>peretur aliquod Diuinum, vtest Diuinum 
+      for<lb ed="#N" n="106" break="no"/>maliter, sed aliquod creatum, vel aliquod 
+      prae<lb ed="#N" n="107" break="no"/>scindens a creato, &amp; increato; &amp; sic difficultas 
+      <lb ed="#N" n="108"/>esset de subjecto non supponente. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2632">
+                  <lb ed="#N" n="109"/>Conf. ex B. Doct. ubi sup. Ideo accidentia; 
+      <lb ed="#N" n="110"/>realiter distincta possunt in concreto praedicari. 
+      <lb ed="#N" n="111"/>in composito,, quia compositum est vnum totum; 
+      <lb ed="#N" n="112"/>in quo vniuntur talia accidentia, unde dici 
+      po<lb ed="#N" n="113" break="no"/>test: Musicus aedificat; quia in eodem intellectu, 
+      <lb ed="#N" n="114"/>in quo est ars musicae, est etiam ars aedificatoria; 
+      <lb ed="#N" n="115"/>sed Essentia Diuina, &amp; Attributa abstracte 
+      sum<lb ed="#N" n="116" break="no"/>pta important vnam tantum formalitatem 
+      ex<lb ed="#N" n="117" break="no"/>natura rei virtualiter, &amp; ratione eandem, si 
+      su<lb ed="#N" n="118" break="no"/>mantur substantiue, quia est vna omnium 
+      for<lb ed="#N" n="119" break="no"/>malitas formaliter; ergo Essentia Diuina, &amp; 
+      At<lb ed="#N" n="120" break="no"/>tributa substantiue supta predicatur in abstracto 
+      <!--393.xml-->
+      <pb ed="#N" n="376"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>formaliter ex natura rei, virtualiter, &amp; ratione. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2669">
+                  <lb ed="#N" n="2"/>Videantur omnes aliae rationes allatae 
+      in<lb ed="#N" n="3" break="no"/>sup. art; quae dum probant identitatem forma¬ 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2676">
+                  <lb ed="#N" n="4"/>lissimam, probant etiam formalissimam 
+      praedi<lb ed="#N" n="5" break="no"/>cationem, quae desumitur ex identitate 
+      forma<lb ed="#N" n="6" break="no"/>li, vt dictum est. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2685">
+                  <lb ed="#N" n="7"/>I0 Prob. 2. pars concl. Attributa adiectiu e 
+      <lb ed="#N" n="8"/>sumpta important aliquam relationem, vel 
+      rea<lb ed="#N" n="9" break="no"/>lem ad intra, vt voluntas spirans ad Spiritum 
+      Sa<lb ed="#N" n="10" break="no"/>ctum, &amp; intellectus Diuinus ad Filium; vel 
+      mo<lb ed="#N" n="11" break="no"/>dum relatiuum realem ad creaturas, vt scientia 
+      <lb ed="#N" n="12"/>ad scibile, omnipotentia ad creabile; vel 
+      respe<lb ed="#N" n="13" break="no"/>ctum rationis secundum esse explicitum, &amp; 
+      inex<lb ed="#N" n="14" break="no"/>plicitum in ordine ad nostrum intellectum, 
+      in<lb ed="#N" n="15" break="no"/>pordine ad quem solum habent esse explicitum, &amp; 
+      <lb ed="#N" n="16"/>inexplicitum; sed per relationem attenditur 
+      di<lb ed="#N" n="17" break="no"/>st inctio, &amp; per distinctionem tollitur 
+      praedicatio<lb ed="#N" n="18" break="no"/>formalis; ergo Essentia Diuina, &amp; Attributa 
+      adie<lb ed="#N" n="19" break="no"/>ctiue sumpta nequeunt mutuo praedicari in 
+      ab<lb ed="#N" n="20" break="no"/>stracto vel realiter, si importent relationem reale; 
+      <lb ed="#N" n="21"/>quapropter nequit dici Essentia generat, 
+      intelle<lb ed="#N" n="22" break="no"/>ctus spirat; vel virtualiter, si importent tatum esse 
+      <lb ed="#N" n="23"/>explicitum, &amp; inexplicitum desumptu ab 
+      actio<lb ed="#N" n="24" break="no"/>ne essentiali, quae est explicatiua sui principii, &amp; 
+      <lb ed="#N" n="25"/>non principij alterius actionis, intellectio enim 
+      <lb ed="#N" n="26"/>solum explicat intellectum, &amp; volitio 
+      volunta<lb ed="#N" n="27" break="no"/>tem. Malor patet, quia verbum adijectiuum, vel 
+      <lb ed="#N" n="28"/>importat actionem notionalem, &amp; ad hac 
+      sequi<lb ed="#N" n="29" break="no"/>tur semper relatio realis personalis multiplicas 
+      <lb ed="#N" n="30"/>realiter Personas Diuinas, vel importat solum 
+      <lb ed="#N" n="31"/>actionem essetialem, &amp; hoc dupliciter, illa enim 
+      <lb ed="#N" n="32"/>actio, vel consideratur in ordine ad ipsum Deum, 
+      <lb ed="#N" n="33"/>vt est actio intellectiua, qua Filius intelligit se 
+      <lb ed="#N" n="34"/>ipsum, &amp; volitio, qua Spiritus Sactus amat Filium; 
+      <lb ed="#N" n="35"/>&amp; sic quanuis non importent terminum realiter 
+      <lb ed="#N" n="36"/>distinctum, quia Filius, vt cognitus a se ipso, non 
+      <lb ed="#N" n="37"/>distinguitur realiter a se ipso, prout est amatus a 
+      <lb ed="#N" n="38"/>Spiritu Sancto, importat tamen aliquod 
+      expli<lb ed="#N" n="39" break="no"/>cans vnum, &amp; non alterum in ordine ad nostrum 
+      <lb ed="#N" n="40"/>intellectum: &amp; ideo importat distinctionem 
+      se<lb ed="#N" n="41" break="no"/>cudum esse explicitum, &amp; inexplicitum. Vel illa 
+      <lb ed="#N" n="42"/>actio consideratur in ordine ad creaturas, &amp; sic 
+      <lb ed="#N" n="43"/>cum creaturae distinguantur realiter, importat 
+      <lb ed="#N" n="44"/>aliquod distinctum realiter; ergo Attributa 
+      Di<lb ed="#N" n="45" break="no"/>quina, &amp; Essentia adjectiue sumpta important 
+      ali<lb ed="#N" n="46" break="no"/>quam relationem realem, vel modum relatiuum, 
+      <lb ed="#N" n="47"/>vel respectum rationis. Prob. minor. Per 
+      relatio<lb ed="#N" n="48" break="no"/>nem realem importatur distinctio realis, non 
+      <lb ed="#N" n="49"/>quidem ipsorum principiorum, seu Attributorum. 
+      <lb ed="#N" n="50"/>inter se, sed distinctio realis actionum passiue 
+      <lb ed="#N" n="51"/>sumptarum, &amp; ipsorum terminorum tum ab 
+      ipso<lb ed="#N" n="52" break="no"/>principio, tum inter ses &amp; per relationem 
+      ratio<lb ed="#N" n="53" break="no"/>nis sequetem ad actionem essentialem 
+      termina<lb ed="#N" n="54" break="no"/>tam ad ipsum Deum importatur distinctio 
+      vir<lb ed="#N" n="55" break="no"/>tualis, &amp; rationis secundum esse explicitum, &amp; 
+      <lb ed="#N" n="56"/>inexplicitum, terminatam vero ad creaturas 
+      im<lb ed="#N" n="57" break="no"/>portatur nedum distinctio virtualis, &amp; rationis 
+      <lb ed="#N" n="58"/>secundum esse explicitum, &amp; inexplicitum, sed  
+      <lb ed="#N" n="59"/>etiam terminus realiter distinctus; inflictio enim 
+      <lb ed="#N" n="60"/>gehenne, quae est terminus Iustitiae Dei, distinguit 
+      <!--393.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>tur realiter a concessione gloriae; quae est terminus 
+      <lb ed="#N" n="62"/>inisericordiae; ergo per relationem atteditur 
+      di<lb ed="#N" n="63" break="no"/>stinctio, &amp; non vnitas: &amp; per consequens 
+      tolli<lb ed="#N" n="64" break="no"/>tur praedicatio formalis virtualis, vel rationis. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2819">
+                  <lb ed="#N" n="65"/>Cons. In hoc distinguitur in Diuinis 
+      rela<lb ed="#N" n="66" break="no"/>tiuum a substantiuo, quod relatiuum per se 
+      pri<lb ed="#N" n="67" break="no"/>mo, &amp; formaliter importat distinctionem, &amp; 
+      se<lb ed="#N" n="68" break="no"/>cudario, ac materialiter vnitate, quatenus 
+      fuda<lb ed="#N" n="69" break="no"/>tur in vnitate; substantiuum vero e contra 
+      impor<lb ed="#N" n="70" break="no"/>tat uvnitatem per se primo formaliter, 
+      materiali<lb ed="#N" n="71" break="no"/>ter vero distinctionem, quatenus in ipso 
+      funda<lb ed="#N" n="72" break="no"/>tur relatio, quae habet distinguere, &amp; ratio est, 
+      <lb ed="#N" n="73"/>quia cum idem non possit referri ad se ipsum; 
+      re<lb ed="#N" n="74" break="no"/>latio enim essentialiter est ordo unius ad aliud; 
+      <lb ed="#N" n="75"/>ideo relatiuum per se primo, &amp; formaliter 
+      im<lb ed="#N" n="76" break="no"/>portat distinctionem, substantiuum vero, cum sit 
+      <lb ed="#N" n="77"/>in ordine ad se, &amp; in ordine ad se sit vnitas; quia 
+      <lb ed="#N" n="78"/>vnum est illud, quod est indiuisum in se; ideo 
+      sub<lb ed="#N" n="79" break="no"/>statiuum primo, &amp; per se importat vnitatem; 
+      qua<lb ed="#N" n="80" break="no"/>propter inualuit illud axioma D.P. Aug: Essentia 
+      <lb ed="#N" n="81"/>continet unitatem, relatio vero multiplicat 
+      Trinita<lb ed="#N" n="82" break="no"/>tem; sed verba adiectiua explicat aliquam 
+      actio<lb ed="#N" n="83" break="no"/>nem importantem aliquam relationem vel 
+      rea<lb ed="#N" n="84" break="no"/>le ex parte vtriusque extremi, vt relatio 
+      Persona<lb ed="#N" n="85" break="no"/>lis, vel reale tantum ex parte vnius termini, vt esse 
+      <lb ed="#N" n="86"/>in creatura; ergo important formaliter, &amp; per se 
+      <lb ed="#N" n="87"/>primo distinctionem; sed quod dicit distinctionen 
+      <lb ed="#N" n="88"/>formaliter, &amp; per se, non potest in recto 
+      praedica<lb ed="#N" n="89" break="no"/>ri in abstracto de illo, a quo distinguitur; ergo 
+      <lb ed="#N" n="90"/>que adjectiue dicuntur, non possunt praedicari im 
+      <lb ed="#N" n="91"/>abstracto inter se¬ 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2880">
+                  <lb ed="#N" n="92"/>II Obiicies 1. contra 1. partem concl. Si vnum 
+      <lb ed="#N" n="93"/>Attributum praedicaretur formaliter virtualiter 
+      <lb ed="#N" n="94"/>de Essentia, vel de alio Attributo, valerent istae 
+      <lb ed="#N" n="95"/>propositiones: Attributum iustitiae formaliter est 
+      <lb ed="#N" n="96"/>Attributum misericordiae: Essentia Diuina forma 
+      <lb ed="#N" n="97"/>liter est Attributum omnipotentiae, sicut omipoe 
+      <lb ed="#N" n="98"/>tia formaliter est radix Essentiae Diuinae; sed istae 
+      <lb ed="#N" n="99"/>propositiones sunt falsae; ergo falsum est, quod  
+      <lb ed="#N" n="100"/>Essentia, &amp; Attributa praedicentur formaliter via 
+      <lb ed="#N" n="101"/>tualiter, substantiue in abstracto. Prob. matora 
+      <lb ed="#N" n="102"/>na illae sut propositiones substatiuae, non adiectis 
+      <lb ed="#N" n="103"/>siae, quia constant ex verbo substantiuo, Est. 
+      Mi<lb ed="#N" n="104" break="no"/>nor patet; nam falsum est, quod Essentia 
+      forma<lb ed="#N" n="105" break="no"/>liter loquendo sit Attributum, vel quod oriatur  
+      <lb ed="#N" n="106"/>ab aliquo Attributo. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2915">
+                  <lb ed="#N" n="107"/>Resp. neg. ma. Ad prob. dist. assumptum. Illae 
+      <lb ed="#N" n="108"/>propositiones sunt substantiuae secundum mos 
+      <lb ed="#N" n="109"/>dum significandi, cone; secundum rem 
+      significa<lb ed="#N" n="110" break="no"/>tam, neg; quotiescunque enim propositio de 
+      se<lb ed="#N" n="111" break="no"/>cundo adiacente resoluitur in propositione 
+      de<lb ed="#N" n="112" break="no"/>tertio adiacente, tunc verbum adjectiuum 
+      resol<lb ed="#N" n="113" break="no"/>quitur per suum supinum in verbum substantiuum; 
+      <lb ed="#N" n="114"/>retinet tamen in vi illius supini naturam verbi 
+      <lb ed="#N" n="115"/>adiectiui: vnde in hac propositione, Essentia est 
+      <lb ed="#N" n="116"/>Attributum Misericordiae, facta est resolutio verbi 
+      <lb ed="#N" n="117"/>adjectiui, attribuo, in propositione de 
+      tertis<lb ed="#N" n="118" break="no"/>adiacente idem enim valet illa propositio, ac istas 
+      <lb ed="#N" n="119"/>Essentia attribuitur iustitiae tanquam passio illius; 
+      <lb ed="#N" n="120"/>&amp; illa propositio, Omnipotetia est radix Essentiae; 
+      <!--394.xml-->
+      <pb ed="#N" n="377"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>aequiualet huic alteri, Essentia radicatur in 
+      omni<lb ed="#N" n="2" break="no"/>potentia, vnde quotiescuque in aliqua 
+      proposi<lb ed="#N" n="3" break="no"/>tione est aliquod supinum, vel ali quod nomen 
+      <lb ed="#N" n="4"/>verbale adjectiuum, tunc illa propositio forma: 
+      <lb ed="#N" n="5"/>liter facit sensum adjectiuum, ac propterea prae 
+      <lb ed="#N" n="6"/>dicatur in obliquo, quapropter illud At tributum, 
+      <lb ed="#N" n="7"/>quod praedicatur, ponitur in genitiuo, 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2970">
+                  <lb ed="#N" n="8"/>I2 Obiicies 2. Attributa distinguuntur 
+      so<lb ed="#N" n="9" break="no"/>lum virtualiter ab Essentia Diuina, &amp; inter se 
+      <lb ed="#N" n="10"/>ergo virtualiter non praedicantur in abstracto 
+      <lb ed="#N" n="11"/>quia distinctio, sicuti tollit vnitatem, ita tollit  
+      <lb ed="#N" n="12"/>praedicationem 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2983">
+                  <lb ed="#N" n="13"/>Resp. dist. antecedens. Distinguuntur 
+      virtua<lb ed="#N" n="14" break="no"/>liter secundum esse explicitum, &amp; inexplicitum 
+      <lb ed="#N" n="15"/>cum identitate formalitatis, conc; cum 
+      multipli<lb ed="#N" n="16" break="no"/>catione formalitatum, neg. antecedens; &amp; eo 
+      <lb ed="#N" n="17"/>dem modo distinguitur consequens. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e2996">
+                  <lb ed="#N" n="18"/>13. Obijcies 3. Si Attributa Diuina, &amp; 
+      Es<lb ed="#N" n="19" break="no"/>sentia praedicarentur for maliter inter se, 
+      seque<lb ed="#N" n="20" break="no"/>retur, quod etiam definitio vnius Attributi 
+      prae<lb ed="#N" n="21" break="no"/>dicaretur dedefinitione alterius Attributi; sed  
+      <lb ed="#N" n="22"/>consequens est falsum; ergo &amp; antecedes. Probo 
+      <lb ed="#N" n="23"/>maior. Definitio, &amp; definitum sunt idem 
+      forma<lb ed="#N" n="24" break="no"/>lissime; ergo de quo praedicatur definitum, pre 
+      <lb ed="#N" n="25"/>dicatur definitio: &amp; ideo quia de Petro 
+      praedi<lb ed="#N" n="26" break="no"/>catur formalissime, quod sit homo, praedicatur  
+      <lb ed="#N" n="27"/>etiam, quod sit animal rationale. Prob. minor  
+      <lb ed="#N" n="28"/>Si definitio vnius Attributi praedicaretur de 
+      de<lb ed="#N" n="29" break="no"/>finitione Essentiae, vel alterius Attributi, seque 
+      <lb ed="#N" n="30"/>retur, quod Essentia emanaret ab alio, sicut 
+      ema<lb ed="#N" n="31" break="no"/>nat Attributum; &amp; Misericordia esset virtus 
+      pu<lb ed="#N" n="32" break="no"/>nitiua, &amp; Iustitia virtus non punitiua: &amp; sic de alijs 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3032">
+                  <lb ed="#N" n="33"/>Resp. neg. maior. Ad prob. dist. antecedes. 
+      <lb ed="#N" n="34"/>Definitum, &amp; definitio sunt idem formalissime 
+      <lb ed="#N" n="35"/>secundum esse explicitum, &amp; inexplicitum, neg. 
+      <lb ed="#N" n="36"/>secundum esse inexplicitum, conc; nam 
+      definitio<lb ed="#N" n="37" break="no"/>est explicatio definiti, non autem e contra 
+      <lb ed="#N" n="38"/>Ad id, quod dicitur de Petro, cone; quod de 
+      <lb ed="#N" n="39"/>ipso praedicatur nedum definitum, sed etiam 
+      de<lb ed="#N" n="40" break="no"/>finitio; quia Petrus est terminus concretus; &amp; sic 
+      <lb ed="#N" n="41"/>etiam valet in Diuinis, quod Deus est puniens, 
+      <lb ed="#N" n="42"/>misericors &amp;c non autem valet in abstracto, 
+      <lb ed="#N" n="43"/>quia distinguuntur secundum esse explicitum, &amp; 
+      <lb ed="#N" n="44"/>inexplicitum, vt dictum est. Praeterea ille 
+      defini<lb ed="#N" n="45" break="no"/>tiones traduntur per verba adjectiua, ac 
+      prop<lb ed="#N" n="46" break="no"/>terea, quia important aliquod relatiuum, &amp; 
+      per<lb ed="#N" n="47" break="no"/>consequens aliquam distinctionem virtualem, 
+      <lb ed="#N" n="48"/>vel secundum esse explicitum, &amp; inexplicitum, 
+      <lb ed="#N" n="49"/>vel realem ex parte terminorum, vt superius 
+      di<lb ed="#N" n="50" break="no"/>ctum est, ideo nequit fieri praedicatio formalis. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3074">
+                  <lb ed="#N" n="51"/>I4. Obijcies 4. Illa, de quibus verificantur  
+      <lb ed="#N" n="52"/>contradictoria, non possunt ad innicem 
+      praedi<lb ed="#N" n="53" break="no"/>cari formaliter; sed de Attributis Diuinis 
+      veri<lb ed="#N" n="54" break="no"/>ficant ur contradictoria, vt de Iustitia verificatur  
+      <lb ed="#N" n="55"/>quod puniat, non parcat; de Misericordia veros 
+      <lb ed="#N" n="56"/>quod parcat, non puniat; de Intellectu, quod 
+      <lb ed="#N" n="57"/>generet, non spiret; de voluntate vero, quod 
+      spi<lb ed="#N" n="58" break="no"/>ret, non generet, ergo Attributa Diuina 
+      ne<lb ed="#N" n="59" break="no"/>queunt formaliter ad innicem praedicari 
+      substa<lb ed="#N" n="60" break="no"/>tiue. Min. patet. Prob. maior: nam si illa, de qui  
+      <!--394.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>bus praedicantur contradictoria, possent ad 
+      in<lb ed="#N" n="62" break="no"/>uicem praedicari formaliter, posset quoque vnum 
+      <lb ed="#N" n="63"/>contradictorium verificari de altero formalitera 
+      <lb ed="#N" n="64"/>&amp; sic non parcere esset parcere, non punire esset. 
+      <lb ed="#N" n="65"/>punire: non generate esset generare &amp;c, quod  
+      <lb ed="#N" n="66"/>est contra naturam contradictoriorum, quorum 
+      <lb ed="#N" n="67"/>vnum necessario est verum, &amp; aliud falsum. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3118">
+                  <lb ed="#N" n="68"/>Resp. neg. maiorem. Ad prob. neg. assum. 
+      <lb ed="#N" n="69"/>ptum; &amp; ratio est, quia etsi illa, de quibus 
+      veri<lb ed="#N" n="70" break="no"/>ficantur contradictoria, possent adanuicem 
+      sub<lb ed="#N" n="71" break="no"/>stantiue praedicari, quia dicunt Vnam 
+      simplicissi<lb ed="#N" n="72" break="no"/>mam formalitatem, non tamen vnum 
+      contradi<lb ed="#N" n="73" break="no"/>ctorium potest praedicari de altero, quia supra 
+      <lb ed="#N" n="74"/>illam simplicissimam formalitatem importat 
+      di<lb ed="#N" n="75" break="no"/>stinctionem, vel virtualem secundum esse 
+      expli<lb ed="#N" n="76" break="no"/>citum, &amp; inexplicitum, vel realem ex parte 
+      ter<lb ed="#N" n="77" break="no"/>minorum realiter distinctorum, vt dictum est. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3142">
+                  <lb ed="#N" n="78"/>Ceterae objectiones vid. in sup. arti &amp; q. 2. 
+      <lb ed="#N" n="79"/>art. 7, &amp; 9. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3149">
+                  <lb ed="#N" n="80"/>I5 Obijcies 1. contra 2. partem concl. Si 
+      <lb ed="#N" n="81"/>Attributa non praedicarentur adiectiue de 
+      Essen<lb ed="#N" n="82" break="no"/>tia, esset falsa haec propositio: Essentia includit 
+      <lb ed="#N" n="83"/>formaliter Auributa, haec enim propositio 
+      con<lb ed="#N" n="84" break="no"/>stat ex verbo adjectiuo, vt patet; sed conseques 
+      <lb ed="#N" n="85"/>est falsum, vt vidimus in sup. art; ergo &amp; antec. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3165">
+                  <lb ed="#N" n="86"/>Resp. neg. maiorem. Ad prob. insertam dist. 
+      <lb ed="#N" n="87"/>assumptum. Haec propositio constat ex verbo 
+      <lb ed="#N" n="88"/>adiectiuo secundum modum significandi, 
+      conci<lb ed="#N" n="89" break="no"/>secundum rem significatam, negi haec enim 
+      pro<lb ed="#N" n="90" break="no"/>positio, Essentia includit Attributa, est eadem, ad 
+      <lb ed="#N" n="91"/>ista: Essentia est formaliter Atributa. Unde sicut  
+      <lb ed="#N" n="92"/>aliquando verbum substantiuum ratione 
+      nomi<lb ed="#N" n="93" break="no"/>nis verbalis, vel supini induit modum verbi 
+      adie<lb ed="#N" n="94" break="no"/>ctiui, ita aliquando verbum adiectiuum ratione 
+      <lb ed="#N" n="95"/>rei significatae induit modum verbi substantiui; 
+      <lb ed="#N" n="96"/>quod praecipue ex eo cognoscitur, quando 
+      ver<lb ed="#N" n="97" break="no"/>ba adiectiua nullam significant actionem, sed 
+      so<lb ed="#N" n="98" break="no"/>lam identitatem, vt inicasu; &amp; hoc modo 
+      sol<lb ed="#N" n="99" break="no"/>quuntur fere omnes difficultates. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3199">
+                  <lb ed="#N" n="100"/>I6. Obiicies 2. ex B Doct in 1. dist. 34. 
+      prin<lb ed="#N" n="101" break="no"/>cip. 1. φ. 2. in 3. Not; habetur, quod actus 
+      essem<lb ed="#N" n="102" break="no"/>tiales praedicatur de Diuina Essentia; valet enim 
+      <lb ed="#N" n="103"/>Essentia sapit, viuit, vult &amp;c, quiuisapere idem 
+      <lb ed="#N" n="104"/>est, ac esse; vnde sicut esse praedicatur de 
+      Essen<lb ed="#N" n="105" break="no"/>tia; ita sapere, viuere, velle &amp;c; ergo Diuina 
+      At<lb ed="#N" n="106" break="no"/>tributa praedicatur de Diuina Essetia adiectiue 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3217">
+                  <lb ed="#N" n="107"/>Resp. dist. antecedens. Praedicantur in 
+      co<lb ed="#N" n="108" break="no"/>creto, cone; in abstracto, negi &amp; licet in praefatis 
+      <lb ed="#N" n="109"/>propositionibus Diuina Essentia videatur 
+      im<lb ed="#N" n="110" break="no"/>portari in abstracto; attamenamportatur in 
+      con<lb ed="#N" n="111" break="no"/>creto, quia Essentia importatur, vt principium 
+      <lb ed="#N" n="112"/>quod, non autem, vt principium quos principium 
+      <lb ed="#N" n="113"/>autem quod est quoddam concretum ex ratione 
+      <lb ed="#N" n="114"/>materiali, &amp; formalis 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3237">
+                  <lb ed="#N" n="115"/>17 Quaeres, quid dicedum sit de relationibus &amp; 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3242">
+                  <lb ed="#N" n="116"/>Resp;quod vel relationes sumuntur ad 
+      in<lb ed="#N" n="117" break="no"/>quicem, &amp; sic non praedicantur realiter, quia 
+      rea<lb ed="#N" n="118" break="no"/>liter distinguuntur, vel sumuntur in ordine ad 
+      <lb ed="#N" n="119"/>Essentiam, &amp; sic adhuc dupliciter: nam vel 
+      su<lb ed="#N" n="120" break="no"/>muntur secundum esse In, &amp; ita cum tranfeat in 
+      <!--395.xml-->
+      <pb ed="#N" n="378"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Essentiam, sicuti Attributa, eodem modo 
+      praedi<lb ed="#N" n="2" break="no"/>cantur; vel secundum esse Ad; &amp; sic non 
+      praedi<lb ed="#N" n="3" break="no"/>cantur, quia non transeunt; Sed de hoc in Tract. 
+      <lb ed="#N" n="4"/>de Trin. Vid, quae diximus in sup. art. 
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1065x-Dd1e3272">
+               <head xml:id="ccc7yd-g1065x-Hd1e3274">Articulus 3</head>
+               <p xml:id="ccc7yd-g1065x-d1e3276">
+                  <lb ed="#N" n="5"/>ART. III. 
+      <lb ed="#N" n="6"/>An omnia Praedicata Attributalia, &amp; 
+      Essentia<lb ed="#N" n="7" break="no"/>lia sint aequalis perfectionis ? 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3285">
+                  <lb ed="#N" n="8"/>DIximus superius Attributa Diuina 
+      pos<lb ed="#N" n="9" break="no"/>se dupliciter considerati. 1. quo ad 
+      for<lb ed="#N" n="10" break="no"/>malitatem implicitam, quam significat. 2. quoad 
+      <lb ed="#N" n="11"/>esse explicitum, quod formaliter exprimunt 
+      <lb ed="#N" n="12"/>Conclusimus quoque Attributa primo modo 
+      <lb ed="#N" n="13"/>considerata se se mutuo includere formaliter, &amp; 
+      <lb ed="#N" n="14"/>ad inuicem praedicari, quia non important, nisi 
+      <lb ed="#N" n="15"/>vnam simplicissimam formalitatem, secundo 
+      au<lb ed="#N" n="16" break="no"/>tem modo accepta ad innicem se excludere. 
+      <lb ed="#N" n="17"/>quia explicatio vnius non est explicatio alterius. 
+      <lb ed="#N" n="18"/>ac propter hoc ad inuicem non praedicari. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3311">
+                  <lb ed="#N" n="19"/>Ex hoc euidenter sequitur, quod 
+      Attribu<lb ed="#N" n="20" break="no"/>ta, &amp; Essentia primo modo considerata sunt  
+      <lb ed="#N" n="21"/>aequalis perfectionis; cum enim aequalitas sit 
+      re<lb ed="#N" n="22" break="no"/>latio secundum vnitatem, quia est relatio 
+      simili<lb ed="#N" n="23" break="no"/>tudinis, sicuti inaequalitas est relatio secundum 
+      <lb ed="#N" n="24"/>numerum fundata in multitudine: non enim est 
+      <lb ed="#N" n="25"/>relatio potentiae, quia vna linea dicitur aequalis 
+      <lb ed="#N" n="26"/>alteri absque eo, quod sit causata ab illa; neque 
+      <lb ed="#N" n="27"/>est relatio mensurae, &amp; mensurati, quia Pater 
+      di<lb ed="#N" n="28" break="no"/>citur aequalis Filio, &amp; tamen non est mensura. 
+      <lb ed="#N" n="29"/>illius; aliter Filius non diceret relationem 
+      rea<lb ed="#N" n="30" break="no"/>lem ad Patrem, quia mensuratum non dicit 
+      rela<lb ed="#N" n="31" break="no"/>tionem realem ad mensuram, &amp; ideo remanet. 
+      <lb ed="#N" n="32"/>quod aequalitas sit relatio secundum: vnitatem; 
+      <lb ed="#N" n="33"/>praeter enim haec tria genera relationum 
+      assi<lb ed="#N" n="34" break="no"/>gnata a Phil. nulla alia relatio dari potest. 
+      Qua<lb ed="#N" n="35" break="no"/>re cum Essentia Diuina, &amp; Attributa primo 
+      mo<lb ed="#N" n="36" break="no"/>do considerata importet vnitatem formalitatis, 
+      <lb ed="#N" n="37"/>necesse est, vt sint aequalis perfectionis, vnitas 
+      <lb ed="#N" n="38"/>enim in magnitudine fundat aequalitatem, 
+      Mo<lb ed="#N" n="39" break="no"/>do dubium est, an Attributa secundario 
+      consi<lb ed="#N" n="40" break="no"/>derata, scilicet secundum esse explicitum, &amp; 
+      <lb ed="#N" n="41"/>inexplicitum, seu prout ratione a nostro 
+      intel<lb ed="#N" n="42" break="no"/>lectu distinguuntur, Sint aequalis, vel inaequalis 
+      <lb ed="#N" n="43"/>perfectionis ita, vt voluntas, vig. considerata 
+      se<lb ed="#N" n="44" break="no"/>cundum esse explicitum sup lineae infinitae 
+      perfe<lb ed="#N" n="45" break="no"/>ctissimae Sit aequalis, vel inaequalis perfectionis: 
+      <lb ed="#N" n="46"/>cum intellectu Diuino considerato secundum. 
+      <lb ed="#N" n="47"/>esse explicitum infinitum perfectissimum suae 
+      li<lb ed="#N" n="48" break="no"/>neae intellectiuae:ivi¬ 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3379">
+                  <lb ed="#N" n="49"/> Prima sententia tenet Attributa 
+      consi<lb ed="#N" n="50" break="no"/>derata secundum rationem explicitam, &amp; 
+      per<lb ed="#N" n="51" break="no"/>analogiam ad Similes perfectiones, quae sunt 
+      in<lb ed="#N" n="52" break="no"/>creaturis, esse inaequalia eo, quia vnum maiorem 
+      <lb ed="#N" n="53"/>exprimit perfectionem, quam alterum, v.g. 
+      intel<lb ed="#N" n="54" break="no"/>lectus majorem explicat perfectionem, quam 
+      <lb ed="#N" n="55"/>voluntas; sapientia, quam ars. Ita Arriaga 1. p. 
+      <lb ed="#N" n="56"/>disp. 27. sect. 4. subsect. 1. n. 72, Marunon, de Deo 
+      <lb ed="#N" n="57"/>disp. 3. Gonet de Attr. in com. disp. 3. ant. 3. corol. 15. 
+      <lb ed="#N" n="58"/>&amp; ex nostris Lafosse ibid. d. 3. c. 1. 8. 12. corrol. 3. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3404">
+                  <lb ed="#N" n="59"/>Secunda sententia docet praedicata Attri¬ 
+      <!--395.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="60"/>butalia, &amp; essentialia etiam considerata 
+      secun<lb ed="#N" n="61" break="no"/>dum esse explicitum esse aequalis perfectionis, 
+      <lb ed="#N" n="62"/>nec vnum maiorem exprimere perfectionem 
+      <lb ed="#N" n="63"/>quam alterum, non obstante eorum distinctione 
+      <lb ed="#N" n="64"/>Deducitur ex B. Doct. in 1. dist. 31. 
+      princip<lb ed="#N" n="65" break="no"/>1. q. 1. 25 &amp; 3: &amp; ex locis infra afferendis: 
+      <lb ed="#N" n="66"/>pro cuius resolutione. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3428">
+                  <lb ed="#N" n="67"/> Not. 1. ex B. Doct. 1. sent princ. 1. Prol. p. 2. 
+      <lb ed="#N" n="68"/>q. 2, &amp; dist. 34. princip. 2. q. 1. in princ. corp;&amp; lib. 
+      <lb ed="#N" n="69"/>de Causis; quod perfectio sumitur ex esses nam in 
+      <lb ed="#N" n="70"/>tantum quis dicitur habere perfectionem 
+      sapie<lb ed="#N" n="71" break="no"/>tiae, in quantum habet esse sapiens; &amp; 
+      quoties<lb ed="#N" n="72" break="no"/>cunque manet in potentia passiua ad habendam 
+      <lb ed="#N" n="73"/>sapientiam, non dicitur habere perfectionem. 
+      <lb ed="#N" n="74"/>sapientiae. Hoc diffuse explicat B. Doct, in lib.de 
+      <lb ed="#N" n="75"/>Causis prop. 21. lit. Es &amp; prop. 23. lit. E. Igitursi 
+      <lb ed="#N" n="76"/>volumus scire, an praedicata essentialia, &amp; 
+      Attri<lb ed="#N" n="77" break="no"/>butalia habeant aequalem, vel inaequalem 
+      perfe<lb ed="#N" n="78" break="no"/>ctionem, oportet aduertere, an habeant aequale, 
+      <lb ed="#N" n="79"/>vel inaequale esse? Perro cum esse formaliter nil 
+      <lb ed="#N" n="80"/>aliud sit, quam actus; quapropter forma, quae est 
+      <lb ed="#N" n="81"/>actus materiae, vocatur a Phil. quod quid erat 
+      es<lb ed="#N" n="82" break="no"/>se rei; &amp; sicuti potentia passiua dicit formaliter 
+      <lb ed="#N" n="83"/>non esse illius, in ordine ad quod dicitur potes 
+      <lb ed="#N" n="84"/>tia passiua, ita actus, qui opponitur potentiae 
+      <lb ed="#N" n="85"/>passiuae, formaliter importat esse; necessario 
+      di<lb ed="#N" n="86" break="no"/>cendum est illa aequaliter participare esse, quae 
+      <lb ed="#N" n="87"/>eodem modo participant rationem actus, illa 
+      <lb ed="#N" n="88"/>vero inaequaliter, quae sunt inaequaliter actus 
+      <lb ed="#N" n="89"/>Quamobrem, quia quodlibet praedicatum Diui 
+      <lb ed="#N" n="90"/>num etiam secundum id, quod explicat forma: 
+      <lb ed="#N" n="91"/>diter, &amp; prout a nostro intellectu concipitur, ne 
+      <lb ed="#N" n="92"/>cessario exprimit rationem actus purissimi (ue 
+      <lb ed="#N" n="93"/>enim conceptus est proprius formalissimecus 
+      <lb ed="#N" n="94"/>iuscunque praedicati Diuini) &amp; actus in tantum 
+      <lb ed="#N" n="95"/>est purissimus, ac simplicissimus, in quantum 
+      <lb ed="#N" n="96"/>excludit omnem potentialitatem passiuam; quae 
+      <lb ed="#N" n="97"/>tollit puritatem actus, potentia autem passsua 
+      <lb ed="#N" n="98"/>no tollitur nisi per positionem actus, quia quod 
+      <lb ed="#N" n="99"/>libet tollitur per suum oppositum, ideo 
+      dera<lb ed="#N" n="100" break="no"/>tione actus purissimi est, quod sit omnis actus;&amp; 
+      <lb ed="#N" n="101"/>per consequens omne esse; ex quo necessario se 
+      <lb ed="#N" n="102"/>quitur, quod praedicata Attributalia, &amp; essentias 
+      <lb ed="#N" n="103"/>lia etiam sumpta secundum esse explicitumaν 
+      <lb ed="#N" n="104"/>prout concipiuntur a nobis, sint aequalis 
+      perfe<lb ed="#N" n="105" break="no"/>ctionis, quia quodlibet illorum est omnis actus 
+      <lb ed="#N" n="106"/>&amp; omne esse, cum quodlibet sit actus purissimus 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3517">
+                  <lb ed="#N" n="107"/>Ex hac doctrina apparet, quomodo ime 
+      <lb ed="#N" n="108"/>creaturis detur inaequalitas in perfectionea cum 
+      <lb ed="#N" n="109"/>enim perfectio creata non sit omnis perfectis 
+      <lb ed="#N" n="110"/>quia non est omne esse, sed habet esse determi 
+      <lb ed="#N" n="111"/>natum ad vnam speciem excludens esse aliarum 
+      <lb ed="#N" n="112"/>specierum, &amp; quia species sunt sicuti numerisfe 
+      <lb ed="#N" n="113"/>cundum quos attenditur inaequalitas; ideo ine 
+      <lb ed="#N" n="114"/>creaturis est inequalitas perfectionis; undeillae 
+      <lb ed="#N" n="115"/>creatura est magis, vel minus perfecta, quaemas 
+      <lb ed="#N" n="116"/>gis, vel minus habet de esse. Hoc not 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3541">
+                  <lb ed="#N" n="117"/>4. Vnica conel. Omnia praedicata Diuinasque 
+      <lb ed="#N" n="118"/>essetialia, siue attributalia Sunt aequalis perfectig 
+      <lb ed="#N" n="119"/>niis, non solum realiter sormaliter ex natura re&amp; 
+      <!--396.xml-->
+      <pb ed="#N" n="379"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>formaliter virtualiter, sed etiam secundum esse 
+      <lb ed="#N" n="2"/>explicitum, &amp; per ordinem ad nostrum 
+      intelle<lb ed="#N" n="3" break="no"/>ctum illa distinguentem. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3563">
+                  <lb ed="#N" n="4"/>Prob. 1. ex Beatiss. P. Aug. lib. 6. de Trin. c. 5. 
+      <lb ed="#N" n="5"/>in fine: Si enim minus magna est ibi charitas, qua 
+      <lb ed="#N" n="6"/>sapientia, minus, quam est, diligitur Sapientia 
+      <lb ed="#N" n="7"/>Aequalis est igitur, vt quata est Sapientia, tantum 
+      <lb ed="#N" n="8"/>diligatur; est autem Sapientia aequalis Patri, sicut  
+      <lb ed="#N" n="9"/>supra disputauimus. Aequalis est igitur Spiritus. 
+      <lb ed="#N" n="10"/>Sanctus, &amp; si aequalis, in omnibus aequalis propter 
+      <lb ed="#N" n="11"/>summam simplicitatem, quae in illa substantia est. 
+      <lb ed="#N" n="12"/>Ex quo sic 1. Si Sapientia Diuina secundum id 
+      <lb ed="#N" n="13"/>quod explicat, esset magis perfecta, quam 
+      volun<lb ed="#N" n="14" break="no"/>tas, sequeretur, quod Sapientia Diuima explicat 
+      <lb ed="#N" n="15"/>ret aliquod magis diligibile superans vim 
+      dile<lb ed="#N" n="16" break="no"/>ctiuam voluntatis Diuinae, &amp; sic maior esset dilis 
+      <lb ed="#N" n="17"/>gibilitas intellectus, quam virtus dilectiua volum 
+      <lb ed="#N" n="18"/>tatis; &amp; per cosequens explicaret aliquod, quod 
+      <lb ed="#N" n="19"/>minus amaretur, quam sit amabile; sed hoc est 
+      <lb ed="#N" n="20"/>impossibile; ergo &amp; id, vnde sequitur. Probi 
+      <lb ed="#N" n="21"/>maior, Bonum, &amp; perfectum idem sunt; vnde 
+      <lb ed="#N" n="22"/>quanto magis aliquod est bonum, tanto magis 
+      <lb ed="#N" n="23"/>est perfectum, sed quanto magis aliquod est 
+      bo<lb ed="#N" n="24" break="no"/>num, tanto magis est diligibile, &amp; amabile, quia 
+      <lb ed="#N" n="25"/>dilectio, &amp; amor specificantur a bono, quod est 
+      <lb ed="#N" n="26"/>eius objectum, &amp; ideo ad incrementum bonitatis 
+      <lb ed="#N" n="27"/>&amp; diligibilitatis crescit amor, &amp; dilectio, quae 
+      <lb ed="#N" n="28"/>necessario cum illa commensurantur; ergo si 
+      Sa<lb ed="#N" n="29" break="no"/>pientia Diuina explicaret maiorem perfectionem, 
+      <lb ed="#N" n="30"/>quam voluntas, Sapientia Diuina, explicaret,  
+      <lb ed="#N" n="31"/>maiorem diiigibilitatem, quam sit virtus 
+      dilecti<lb ed="#N" n="32" break="no"/>qua voluntatis, &amp; esset magis diligibilis, quam 
+      <lb ed="#N" n="33"/>posset eam diligere voluntas, &amp; per conseques. 
+      <lb ed="#N" n="34"/>explicaret aliquod, quod minus amaretur, quam 
+      <lb ed="#N" n="35"/>sit amabile. Prob, maior. Voluntas Diuina 
+      secun<lb ed="#N" n="36" break="no"/>dum suum conceptum explicitum importat 
+      om<lb ed="#N" n="37" break="no"/>nem perfectionem suae lincae; sed perfectio lincae 
+      <lb ed="#N" n="38"/>voluntatis est vis dilectiua, sicut perfectio 
+      line<lb ed="#N" n="39" break="no"/>intellectus est vis intellectiua; ergo voluntas 
+      Di<lb ed="#N" n="40" break="no"/>uina secundum suum conceptum explicitum 
+      im<lb ed="#N" n="41" break="no"/>portat omnem vim dilectiuam; sed impossibile. 
+      <lb ed="#N" n="42"/>est, quod detur aliquod diligibile superans 
+      om<lb ed="#N" n="43" break="no"/>nem virtutem dilectiuam; ergo omnis virtus 
+      di<lb ed="#N" n="44" break="no"/>lectiua adaequat omnem diligibilitatem, in 
+      ordi<lb ed="#N" n="45" break="no"/>ne ad quam tatum denominatur, &amp; specificatur,  
+      <lb ed="#N" n="46"/>aliter, si non adaequaret omnem diligibilitatem: 
+      <lb ed="#N" n="47"/>non esset omnis virtus dilectiua, quia non dicitur  
+      <lb ed="#N" n="48"/>omnis virtus dilectiua, nisi quatenus potest 
+      in<lb ed="#N" n="49" break="no"/>omne diligibile; sicut non dicitur omnis 
+      poten<lb ed="#N" n="50" break="no"/>tia, nisi quatenus potest in omne creabile; ergo 
+      <lb ed="#N" n="51"/>impossibile est, quod Sapientia Diuina explicet. 
+      <lb ed="#N" n="52"/>aliquod magis diligibile, quam possit eam 
+      dili<lb ed="#N" n="53" break="no"/>gere voluntas Diuina. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3674">
+                  <lb ed="#N" n="54"/>Conf. Si voluntas esset magis vera 
+      obiecti<lb ed="#N" n="55" break="no"/>que, quam sit veritas formalis intellectus, iam 
+      vo<lb ed="#N" n="56" break="no"/>duntas non cognosceretur ab intellectu, quantum  
+      <lb ed="#N" n="57"/>est cognoscibilis, aliter si cognosceretur, quam 
+      <lb ed="#N" n="58"/>tum est cognoscibilis, non esset maior veritas 
+      <lb ed="#N" n="59"/>objectiua, quam formalis, sed esset aequalis; ergo 
+      <lb ed="#N" n="60"/>sic intellectus Diuinus esset magis perfectus, 
+      <!--396.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>quam voluntas, iam intellectus Diuinus non 
+      <lb ed="#N" n="62"/>amaretur a Diuina voluntate, quatum esset 
+      ama<lb ed="#N" n="63" break="no"/>bilis; aliter, si amaretur, quantum est amabilis, non 
+      <lb ed="#N" n="64"/>esset maior amabilitas intellectus, quam vis 
+      ama<lb ed="#N" n="65" break="no"/>tiua voluntatis; amabilitas autem idem est, ac 
+      bo<lb ed="#N" n="66" break="no"/>nitas formaliter, &amp; bonitas &amp; perfectio ide sunt.  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3710">
+                  <lb ed="#N" n="67"/>Dices. Si haec ratio valeret, sequeretur  
+      <lb ed="#N" n="68"/>quod nec etiam in creatura vna potentia esset 
+      <lb ed="#N" n="69"/>perfectior alia, &amp; sic intellectus non esset 
+      perfe<lb ed="#N" n="70" break="no"/>ctior voluntate, quod tamen est contra omnes. 
+      <lb ed="#N" n="71"/>Philosophos communiter asserentes vnam 
+      po<lb ed="#N" n="72" break="no"/>tentiam rationale esse persectiorem altera, vt 
+      vi<lb ed="#N" n="73" break="no"/>dere est in Lib. de Anima. Prob. sequela eodem 
+      <lb ed="#N" n="74"/>modo: nam si intellectus esset perfectior 
+      volun<lb ed="#N" n="75" break="no"/>tate creata, maior esset diligibilitas intellectus, 
+      <lb ed="#N" n="76"/>quam virtus dilectiua voluntatis: &amp; sic iste duge 
+      <lb ed="#N" n="77"/>potentiae non essent aeque late patentes, quod 
+      <lb ed="#N" n="78"/>tamen est falsum, quia diligibilitas naturalis 
+      in<lb ed="#N" n="79" break="no"/>tellectus non superat naturalem vim dilectiuam 
+      <lb ed="#N" n="80"/>voluntatis, cum voluntas naturalis possit 
+      dili<lb ed="#N" n="81" break="no"/>gere omne objectum naturaliter diligibile, 
+      si<lb ed="#N" n="82" break="no"/>cut intellectus naturalis potest cognoscere 
+      om<lb ed="#N" n="83" break="no"/>ne verum naturale. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3749">
+                  <lb ed="#N" n="84"/>Resp. neg. 1. partem sequele; cum enim 
+      nul<lb ed="#N" n="85" break="no"/>la potentia sit simplicissima, &amp; purissima, ideo 
+      <lb ed="#N" n="86"/>nulla est omne esse, &amp; omnis actus; sed quanto 
+      <lb ed="#N" n="87"/>magis accedit ad actum, tanto magis participat,  
+      <lb ed="#N" n="88"/>de esse: &amp; ideo potest esse minor, vel maior eius 
+      <lb ed="#N" n="89"/>perfectio. Ad 2. neg; quod intellectus sit 
+      perfe<lb ed="#N" n="90" break="no"/>ctior voluntate, vt diximus q. 2. art. 9. n. 22. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3767">
+                  <lb ed="#N" n="91"/>Ex eadem auctoritate sic arguitur 2. Ex  
+      <lb ed="#N" n="92"/>summa simplicitate, &amp; vnitate arguitur omnis 
+      <lb ed="#N" n="93"/>actus, &amp; omne esse, vt dictum est; &amp; ex omni esse, 
+      <lb ed="#N" n="94"/>&amp; actu arguitur omnis perfectio; sed quodlibet  
+      <lb ed="#N" n="95"/>Attributum est simplicissimum; ergo quodlibet. 
+      <lb ed="#N" n="96"/>Attributum est omnis perfectio; sed illud, quod 
+      <lb ed="#N" n="97"/>est omnis perfectio, nequit habere inaequalem. 
+      <lb ed="#N" n="98"/>perfectionem, quia inaequalitas perfectionis 
+      di<lb ed="#N" n="99" break="no"/>cit minorem perfectionem, minor autem 
+      perfe<lb ed="#N" n="100" break="no"/>ctio dicit defectum perfectionis; in tantum enim 
+      <lb ed="#N" n="101"/>numerus binarius est minor ternario, in 
+      quan<lb ed="#N" n="102" break="no"/>tum dicit defectum, &amp; carentiam vnius vnitatis 
+      <lb ed="#N" n="103"/>supra duas vnitates; defectus autem perfectionis 
+      <lb ed="#N" n="104"/>tollit omnem perfectionem, quia omnis 
+      perfe<lb ed="#N" n="105" break="no"/>ctio dicit positionem omnis perfectionis: ergo 
+      <lb ed="#N" n="106"/>nullum Attributum potest habere inaequalem 
+      <lb ed="#N" n="107"/>perfectionem, quia quod dicit inaequalem 
+      per<lb ed="#N" n="108" break="no"/>fectionem, dicit carentiam illius perfectionis: 
+      <lb ed="#N" n="109"/>quae facit maioritatem in altero, respectu cuius 
+      <lb ed="#N" n="110"/>dicitur inaequale 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3813">
+                  <lb ed="#N" n="111"/>S Prob. 2. ex eodem lib. 6.c. 3. in fine. Aequa 
+      <lb ed="#N" n="112"/>litas, &amp; inequalitas sumuntur secundum 
+      magni<lb ed="#N" n="113" break="no"/>tudinem ita, vt aequalitas importet eandem 
+      <lb ed="#N" n="114"/>magnitudinem; inaequa litas vero diuersam; 
+      qua<lb ed="#N" n="115" break="no"/>propter apud Mathematicos vna linea dicitur 
+      <lb ed="#N" n="116"/>aequalis alteri lineae, quae habet eandem 
+      ma<lb ed="#N" n="117" break="no"/>gnitudinem, quam habet altera linea, illa 
+      <lb ed="#N" n="118"/>autem dicitur inaequalis, quae non habet eandem 
+      <lb ed="#N" n="119"/>magnitudinem, sed omnia Attributa sunt magna 
+      <lb ed="#N" n="120"/>per vnam, &amp; eandem rationem magnitudinis, si¬  
+      <!--397.xml-->
+      <pb ed="#N" n="380"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>cut sunt infinita per vnica infii itatem, &amp; aeterna. 
+      <lb ed="#N" n="2"/>per vnicam aeternitatem, &amp; sic de reliquis; ergo 
+      <lb ed="#N" n="3"/>omnia Attributa sunt equalis perfectionis. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3850">
+                  <lb ed="#N" n="4"/>Conf. Magnitudo in Diuinis, secundum 
+      <lb ed="#N" n="5"/>quam desumitur aequalitas, attenditur secudum. 
+      <lb ed="#N" n="6"/>esse, non secundum quantitatem, quia quantitas 
+      <lb ed="#N" n="7"/>in Deo non est; sed vnum Attributum nequit  
+      <lb ed="#N" n="8"/>habere minus de esse, quam alterum; quia 
+      quod<lb ed="#N" n="9" break="no"/>libet Att ributum essentialiter est omne esse 
+      <lb ed="#N" n="10"/>cum sit purissimum, &amp; simplicissimum excludens 
+      <lb ed="#N" n="11"/>omnem potentialitatem ad esse, ergo nullum 
+      <lb ed="#N" n="12"/>Attributum potest esse inaequale alteri. Prob. 
+      <lb ed="#N" n="13"/>maior. Magnitudo in Diuinis est magnitudo 
+      se<lb ed="#N" n="14" break="no"/>cundum perfectionem; sed perfectio est esse; 
+      er<lb ed="#N" n="15" break="no"/>go magnitudo in Diuinis sumitur secudum esse. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3879">
+                  <lb ed="#N" n="16"/>SProb. 3. ratione D. Bernardi serm. 80. in 
+      <lb ed="#N" n="17"/>Cantica, qua vsus est contra Gilbertum in Concil. 
+      <lb ed="#N" n="18"/>Rhemen; &amp; sumpia est ex Beat. P. Aug. lib. cit, 
+      ar<lb ed="#N" n="19" break="no"/>guit enim sic. Si Sapientia esset distincta ab 
+      Es<lb ed="#N" n="20" break="no"/>sentia, vel esset aequalis Essentiae, vel maior, vel 
+      <lb ed="#N" n="21"/>minor? Si minor; ergo non esset increata, sed 
+      crea<lb ed="#N" n="22" break="no"/>ta. Maior esse non potest, quia nihil datur maius 
+      <lb ed="#N" n="23"/>Essentia Dei, ergo remanet, quod sit aequalis, sed  
+      <lb ed="#N" n="24"/>ne quit esse aequalis, nisi per inclusionem totius 
+      per<lb ed="#N" n="25" break="no"/>fectionis Essentiae; ergo non distinguitur ab 
+      Essen<lb ed="#N" n="26" break="no"/>tia. Ex quo sic. Si vnum Attributum esset 
+      inae<lb ed="#N" n="27" break="no"/>quale Essentiae Diuinae, vel alteri Attributo; vel 
+      <lb ed="#N" n="28"/>esset minus, vel maius alio? Si esset minus; ergo 
+      <lb ed="#N" n="29"/>non esset Diuinum increatum, sed creatum, 
+      <lb ed="#N" n="30"/>quia quodlibet Diuinum summum est; &amp; 
+      ideo<lb ed="#N" n="31" break="no"/>repugnat, quod sit minus; nam minus summum; 
+      <lb ed="#N" n="32"/>esse nequit, cum supra minus detur maius; haec 
+      <lb ed="#N" n="33"/>enim sunt correlatiua; &amp; supra summum nihil 
+      <lb ed="#N" n="34"/>dari queat, aliter summum non esset, &amp; ideo quod 
+      <lb ed="#N" n="35"/>est minus, essentialiter est quid creatum, quod 
+      <lb ed="#N" n="36"/>habet aliud supra se; &amp; quod est increatum, 
+      re<lb ed="#N" n="37" break="no"/>pugnat, quod sit minus, aliter non esset summum; 
+      <lb ed="#N" n="38"/>quapropter D. Athan. in symb. ait: nihil maius, 
+      <lb ed="#N" n="39"/>aut minus, sed totae tres Personae coeternae sibi sunt,  
+      <lb ed="#N" n="40"/>&amp; coaequales; quod si daretur maioritas, &amp; 
+      mi<lb ed="#N" n="41" break="no"/>noritas secundum conceptum formalem non 
+      <lb ed="#N" n="42"/>repugnans Diuinis perfectionibus, iam 
+      dare<lb ed="#N" n="43" break="no"/>tur aliquod maius, &amp; minus saltem 
+      conceptibi<lb ed="#N" n="44" break="no"/>liter non repugnans, &amp; per consequens 
+      Perso<lb ed="#N" n="45" break="no"/>nae non essent totae corquales, quia non ess 
+      ent<lb ed="#N" n="46" break="no"/>aequales secundum omnia. Si vero esset maius, 
+      <lb ed="#N" n="47"/>ergo aliud Attributum, relatiue ad quod 
+      dici<lb ed="#N" n="48" break="no"/>tur maius, esset minus, quod nequit esse 
+      prop<lb ed="#N" n="49" break="no"/>ter eandem rationem, quia eodem modo, quo 
+      <lb ed="#N" n="50"/>excluditur minus, excluditur etiam maius, quod  
+      <lb ed="#N" n="51"/>est correlatiuum minoris. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e3961">
+                  <lb ed="#N" n="52"/>Conf. Praedicata, quae essentialiter 
+      impor<lb ed="#N" n="53" break="no"/>tant defectum proprium creaturae, nequeunt 
+      co<lb ed="#N" n="54" break="no"/>cipi in Diuinis cum fundamento, sed tantum 
+      <lb ed="#N" n="55"/>chimaerice; vt quia dependentia, limitatio, &amp; 
+      ce<lb ed="#N" n="56" break="no"/>tera huiusmodi dicunt essentialiter defectum, &amp; 
+      <lb ed="#N" n="57"/>imperfectionem, nequeunt admitti in Diuinis 
+      <lb ed="#N" n="58"/>Attributis nec etiam per rationem cum 
+      funda<lb ed="#N" n="59" break="no"/>mento, sed minoritas est praedicatum 
+      essentia<lb ed="#N" n="60" break="no"/>liter importans defectum, &amp; imperfectionem 
+      <!--397.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="61"/>importat enim defectum perfectionis, quae 
+      in<lb ed="#N" n="62" break="no"/>alio extremo facit maioritatem, ergo non est in 
+      <lb ed="#N" n="63"/>Deo admittenda, sed vbi non adest minoritas, 
+      <lb ed="#N" n="64"/>non est maioritas, quae est eius correlatiuum; &amp; 
+      <lb ed="#N" n="65"/>Ubi non adest maioritas, non est inaequalitas, que 
+      <lb ed="#N" n="66"/>necessario fundatur in maioritate, &amp; 
+      minorita<lb ed="#N" n="67" break="no"/>te; ergo inequalitas non est admittenda inter 
+      At<lb ed="#N" n="68" break="no"/>tributa Diuina etiam, vt cognita per nostrum. 
+      <lb ed="#N" n="69"/>intellectum, &amp; distincta secundum esse 
+      explici<lb ed="#N" n="70" break="no"/>tum, &amp; inexplicitum. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4009">
+                  <lb ed="#N" n="71"/>V. Obijcies 1. Attributa creaturarum sunt 
+      <lb ed="#N" n="72"/>inaequalis perfectionis; ergo Attributa Diuina 
+      <lb ed="#N" n="73"/>quatenus cognoscuntur per analogiam ad 
+      per<lb ed="#N" n="74" break="no"/>fectiones creaturarum, sunt inequalis 
+      perfectio<lb ed="#N" n="75" break="no"/>nis; sed prout a nobis distinguuntur, 
+      cognoscun<lb ed="#N" n="76" break="no"/>tur in ordine ad perfectiones creaturarum; quia 
+      <lb ed="#N" n="77"/>in tantum distinguuntur, in quantum equiualet 
+      <lb ed="#N" n="78"/>pluribus realiter distinctis in creaturis, ergo, 
+      <lb ed="#N" n="79"/>prout a nobis cognoscuntur distincta, sunt 
+      inae<lb ed="#N" n="80" break="no"/>qualis perfectionis. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4033">
+                  <lb ed="#N" n="81"/>Resp. 1. retorquendo arg. Attributa 
+      crea<lb ed="#N" n="82" break="no"/>turarum sunt essentialiter defectuosa, quia 
+      per<lb ed="#N" n="83" break="no"/>fectio purissima repugnat creaturae; ergo 
+      Attri<lb ed="#N" n="84" break="no"/>buta Diuina, quate nus cognoscuntur a nobis per 
+      <lb ed="#N" n="85"/>analogiam ad perfectiones creaturarum, Sunt de 
+      <lb ed="#N" n="86"/>fectuosa; ergo si hoc non valet, neque primum 
+      <lb ed="#N" n="87"/>est concedendum; quia inaequalitas, cum 
+      impor<lb ed="#N" n="88" break="no"/>ret minoritatem, quae est essentialiter defectus; 
+      <lb ed="#N" n="89"/>est defectuosa, &amp; ideo repugnat concipi in 
+      Diui<lb ed="#N" n="90" break="no"/>nis Attributis etiam, prout cognoscuntur 
+      inor<lb ed="#N" n="91" break="no"/>dine ad perfectiones creaturarum. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4059">
+                  <lb ed="#N" n="92"/>stesp. 2. neg. conseque &amp; ad minorem 
+      sub<lb ed="#N" n="93" break="no"/>sumptam dist; prout a nobis distinguuntur, 3cο¬ 
+      <lb ed="#N" n="94"/>gnoscuntur in ordine ad perfectiones creaturarum 
+      <lb ed="#N" n="95"/>vniuoce, idest cum ijsdem imperfectionibus, quae 
+      <lb ed="#N" n="96"/>sunt in creatura, negi analogice sine 
+      imperfe<lb ed="#N" n="97" break="no"/>ctionibus creaturarum, conc; &amp; in hoc sensu 
+      <lb ed="#N" n="98"/>quanuis inaequalitas concipiatur in creatura 
+      <lb ed="#N" n="99"/>non tamen in Deo. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4079">
+                  <lb ed="#N" n="100"/>S Obijcies 2. Esse intellectiuum secundum 
+      <lb ed="#N" n="101"/>totum suum genus est perfectius esse non intele 
+      <lb ed="#N" n="102"/>lectiuo; ergo &amp; si quodlibet Attributum sit fuum 
+      <lb ed="#N" n="103"/>esse, &amp; omne esse sui generis, attamenvnum 
+      <lb ed="#N" n="104"/>perit perfectius altero. Prob. antecedens:οεdα 
+      <lb ed="#N" n="105"/>retur intellectus creatus, qui esset omnis intele 
+      <lb ed="#N" n="106"/>lectio, adhuc esset perfectior potentia vissuaa 
+      <lb ed="#N" n="107"/>quannis haec esset omnis visio, quia genus: intele 
+      <lb ed="#N" n="108"/>lectiuum perfectius est genere sensitiuo; ergoese 
+      <lb ed="#N" n="109"/>se intellectiuum secudum totum suum genusest 
+      <lb ed="#N" n="110"/>perfectius esse non intellectiuo. Probi conseque 
+      <lb ed="#N" n="111"/>quia quotiescunque concipitur aliquod Attrie 
+      <lb ed="#N" n="112"/>butum, vt distinctum ab alio, non concipitur? ii 
+      <lb ed="#N" n="113"/>cum perfectione sui generis contradistincti a 
+      pera<lb ed="#N" n="114" break="no"/>fectione alterius generis, vt v.g. quando 
+      coner<lb ed="#N" n="115" break="no"/>bimus intellectum Diuinum, ipsum concipimus 
+      <lb ed="#N" n="116"/>cum omni actu intellectiuo, prout contradistine 
+      <lb ed="#N" n="117"/>guitur ab omni actu volitiuo, aliter non coneta 
+      <lb ed="#N" n="118"/>peretur intellectus, vt distinctus a voluntateser 
+      <lb ed="#N" n="119"/>go quanuis vuum Attributum sit suum esseο 
+      <lb ed="#N" n="120"/>omne esse, attamen vnum est per fectius altero 
+      <!--398.xml-->
+      <pb ed="#N" n="381"/>
+                  <cb ed="#N" n="a"/>
+                  <lb ed="#N" n="1"/>Resp. dist. antecedens. Esse intellectiuum. 
+      <lb ed="#N" n="2"/>secundum suum genus est perfectius esse non 
+      <lb ed="#N" n="3"/>intellectiuo, purissimo, ac simplicissimo, neg; esset 
+      <lb ed="#N" n="4"/>impuro, conc. Ad prob. neg. conseque &amp; ratio est, 
+      <lb ed="#N" n="5"/>quia potentia visiua non est perfectio simplici: 
+      <lb ed="#N" n="6"/>ter simplex, &amp; ideo includit essentialiter in suo 
+      <lb ed="#N" n="7"/>conceptu imperfectionem, at vero esse 
+      intelle<lb ed="#N" n="8" break="no"/>ctiuum, &amp; esse Attributale Dei sut perfectiones. 
+      <lb ed="#N" n="9"/>Simpliciter Simplices nullam inuoluentes 
+      im<lb ed="#N" n="10" break="no"/>perfectionem; &amp; ideo inter intellectum, &amp; 
+      po<lb ed="#N" n="11" break="no"/>tentiam visiuam datur maioritas perfectionis:. 
+      <lb ed="#N" n="12"/>non autem inter Attributa. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4160">
+                  <lb ed="#N" n="13"/>Obiicies 3. Aequalitas sumitur ab 
+      vnita<lb ed="#N" n="14" break="no"/>. 
+      <lb ed="#N" n="15"/>te, vt dictum est; sed Attributa, prout 
+      distinguu<lb ed="#N" n="16" break="no"/>tur, non sunt vnum; distingui enim, &amp; esse vnum 
+      <lb ed="#N" n="17"/>opponuntur; ergo ab Attributis, vt distinctis 
+      per<lb ed="#N" n="18" break="no"/>nostrum intellectum, nequit desumi aequalitas, 
+      <lb ed="#N" n="19"/>sed inaequalitas; quia Sicuti aequalitas sumitur  
+      <lb ed="#N" n="20"/>ab vnitate, ita inaequalitas a distinctione, haec 
+      <lb ed="#N" n="21"/>enim opponuntur.  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4183">
+                  <lb ed="#N" n="22"/>Resp. dist. minorem. Attributa, prout 
+      di<lb ed="#N" n="23" break="no"/>stinguuntur, non sunt vnum in esse, negiin 
+      mo<lb ed="#N" n="24" break="no"/>do explicandi, coc; &amp; neg. conseque ad cuius prob. 
+      <lb ed="#N" n="25"/>insertam dicitur, quod inaequalitas sumitur a 
+      di<lb ed="#N" n="26" break="no"/>stinctione in esse ita, vt illa sint inaequalia, quae 
+      <lb ed="#N" n="27"/>habent magis, &amp; minus de esse, non autem 
+      su<lb ed="#N" n="28" break="no"/>mitur a quacunque distinctione, aliter Personae 
+      <lb ed="#N" n="29"/>Diuinae, quae realiter distinguuntur, essent 
+      rea<lb ed="#N" n="30" break="no"/>liter inaequales. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4205">
+                  <lb ed="#N" n="31"/>IO Obiicies 4. Gradus vitae intellectualis 
+      <lb ed="#N" n="32"/>in Deo est perfectior quocunque alio gradu 
+      es<lb ed="#N" n="33" break="no"/>sendi; ergo in Deo datur inaequalitas 
+      perfe<lb ed="#N" n="34" break="no"/>ctionum. Prob. antecedens. Ille est gradus 
+      perfe<lb ed="#N" n="35" break="no"/>ctior in Deo, qui est constitutiuus veluti 
+      diffe<lb ed="#N" n="36" break="no"/>rentialis ipsius; sicati in nobis ille est gradus 
+      <lb ed="#N" n="37"/>perfectior, qui est vitimus, &amp; differentialis 
+      con<lb ed="#N" n="38" break="no"/>stitutiuus, sed gradus vitae intellectualis est 
+      con<lb ed="#N" n="39" break="no"/>stitutiuus veluti differentialis ipsius, vt diximus 
+      <lb ed="#N" n="40"/>q. 2. de Subst. Dei art. 7; ergo gradus 
+      intellectua<lb ed="#N" n="41" break="no"/>lis in Deo est perfectior quocunque gradu 
+      es<lb ed="#N" n="42" break="no"/>sendi; probatur consequentia, quia ubi datur 
+      <lb ed="#N" n="43"/>perfectius, &amp; imperfectius, ibi datur 
+      inaequali<lb ed="#N" n="44" break="no"/>tas perfectionis, vt patet.  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4238">
+                  <lb ed="#N" n="45"/>Respineg. antecedens. Ad prob. neg. maior;  
+      <lb ed="#N" n="46"/>ille enim est gradus constitutiuus, &amp; 
+      differen<lb ed="#N" n="47" break="no"/>tialis Dei, qui est veluti specialior, &amp; non 
+      <lb ed="#N" n="48"/>transcendens, &amp; ratio a priori ceterorum. Ad 
+      <lb ed="#N" n="49"/>paritatem insertam dicitur, quod in creatura, 
+      <lb ed="#N" n="50"/>quae est capax distantiae, &amp; maioris, vel 
+      mino<lb ed="#N" n="51" break="no"/>ris distantiae ab actu puro, potest dari gradus 
+      <lb ed="#N" n="52"/>perfectior, &amp; imperfectior; &amp; ideo gradus intel 
+      <lb ed="#N" n="53"/>lectualis est perfectior gradu essendi, vegetandi, 
+      <!--398.xml-->
+      <cb ed="#N" n="b"/>
+                  <lb ed="#N" n="54"/>&amp; sentiendi, non autem in Deo, cui repugnat 
+      <lb ed="#N" n="55"/>simpliciter distantia ab actu, &amp; ideo nequit 
+      dari<lb ed="#N" n="56" break="no"/>maior, vel minor distantia, &amp; per consequens. 
+      <lb ed="#N" n="57"/>nec gradus perfectior, &amp; imperfectior.  
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4273">
+                  <lb ed="#N" n="58"/>II Obiicies 5. Paternitas in Diuinis est 
+      <lb ed="#N" n="59"/>inaequalis Filiationi, Paternitas enim aequatur.  
+      <lb ed="#N" n="60"/>Patri, &amp; Filiatio Filiationi; ergo inaequalitas 
+      <lb ed="#N" n="61"/>non repugnat Deo; praesertim illa, quae sumitur 
+      <lb ed="#N" n="62"/>ex distinctione, non ex minoritate. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4286">
+                  <lb ed="#N" n="63"/>Resp. neg. antecedens; ait enim Beatiss. P. 
+      <lb ed="#N" n="64"/>quod Paternitas est dissimilis Filiationi, non 
+      au<lb ed="#N" n="65" break="no"/>tem inaequalis; quia inaequalitas sumitur a 
+      ma<lb ed="#N" n="66" break="no"/>gnitudine, quae vna est in Patre, &amp; Filio; a 
+      rela<lb ed="#N" n="67" break="no"/>tione autem sumitur diuersitas, quia a 
+      relatio<lb ed="#N" n="68" break="no"/>ne sumitur distinctio. Et sic soluuntur omnes 
+      <lb ed="#N" n="69"/>aliae objectiones. 
+      </p>
+               <p xml:id="ccc7yd-g1065x-d1e4304">
+                  <lb ed="#N" n="70"/>I2 Latiori calamo de Attributis in 
+      com<lb ed="#N" n="71" break="no"/>muni ratiocinati sumus, vt explicaremus multa. 
+      <lb ed="#N" n="72"/>principia vniuersalia, ex quibus eruuntur fere 
+      <lb ed="#N" n="73"/>innumerae conclusiones; nam illis ignoratis, non 
+      <lb ed="#N" n="74"/>nisi cum formidine istis assentimur. Unde 
+      Re<lb ed="#N" n="75" break="no"/>centiores, quae ista vel supponunt, vel negligunt 
+      <lb ed="#N" n="76"/>explicare, causandi sunt, quod plurimi 
+      spu<lb ed="#N" n="77" break="no"/>rie haec intelligat, vt diximus de distinctionibus. 
+      <lb ed="#N" n="78"/>formali, modali, virtuali, &amp; rationis, explicant  
+      <lb ed="#N" n="79"/>enim eas suo modo, prout intelligunt, non 
+      quo<lb ed="#N" n="80" break="no"/>modo DD. illas tradiderunt; &amp; in illas suo modo 
+      <lb ed="#N" n="81"/>explicatas ridicule inuehunt efformantes sibi 
+      <lb ed="#N" n="82"/>Aduersarium, qui cum re vera non sit ipse, sed ab 
+      <lb ed="#N" n="83"/>ipsis vane confictus, tempus terunt, Vmbram 
+      <lb ed="#N" n="84"/>caedunt inaniter, aerem verberant, &amp; ad risum 
+      si<lb ed="#N" n="85" break="no"/>bi de victoria, &amp; triumpho sine Andagonista. 
+      <lb ed="#N" n="86"/>bladiuntur. Accidit nobis non semel disputare. 
+      <lb ed="#N" n="87"/>cum aliquibus aliunde Doctis impugnantibus. 
+      <lb ed="#N" n="88"/>distinctionem virtualem, quam, vt valide 
+      impe<lb ed="#N" n="89" break="no"/>terent, formabant ipsam sine ratione, &amp; ideo 
+      si<lb ed="#N" n="90" break="no"/>ne clypeo ad defensionem, vt facilius eam 
+      euer<lb ed="#N" n="91" break="no"/>teret. Idipsum apud aliquos Auctores, vel 
+      Scri<lb ed="#N" n="92" break="no"/>ptores legimus, quos citauimus q. 2: 
+      impugnan<lb ed="#N" n="93" break="no"/>tes non distinctionem virtualem, sed 
+      distinctio<lb ed="#N" n="94" break="no"/>nem fictam ab ipsis, quapropter opus suum 
+      de<lb ed="#N" n="95" break="no"/>struunt, non nostrum, &amp; ideo secum pugnant, 
+      <lb ed="#N" n="96"/>victi, &amp; Victores, sine praeda, &amp; cum iactura; prae 
+      <lb ed="#N" n="97"/>ter quam ipsi soli sunt sibi pugna, praeda, &amp; 
+      ia<lb ed="#N" n="98" break="no"/>ctura. Unde cum nos explicaremus verum 
+      hu<lb ed="#N" n="99" break="no"/>ius distinctionis sensum ab Antiquis intentum, 
+      <lb ed="#N" n="100"/>libenter confessi sunt esse innegabilem, &amp; sic in 
+      <lb ed="#N" n="101"/>bello sine conflictu rejecti sunt, &amp; Rubor potius. 
+      <lb ed="#N" n="102"/>quam robor soluit certamen. Quare, vt tollantur  
+      <lb ed="#N" n="103"/>hae spuriae explicationes, hanc materiam 
+      explica<lb ed="#N" n="104" break="no"/>re adlaboranimus. Quod si perspicue egerimus. 
+      <lb ed="#N" n="105"/>refundendum in Numen, a quo omne lumen.
+      </p>
+            </div>
+            <div xml:id="ccc7yd-g1065x-Dd1e4386">
+               <head xml:id="ccc7yd-g1065x-Hd1e4388"/>
+               <p xml:id="ccc7yd-g1065x-d1e4390">
+      <!--399.xml-->
+                  <cb ed="#N" n=""/>
+                  <lb ed="#N" n="1"/>LATIRLDVTILAVHVEθ 
+      <lb ed="#N" n="2"/>INPARTICVLARI. 
+            
+      <lb ed="#N" n="3"/>CIrcunfusam florum planitiem oculus cum primum ingreditur, vniuersam ele gantiae speciem, 
+      <lb ed="#N" n="4"/>varianque distributis ordinibus copiam communi quodam miratur aspectu, deinde 
+      sin<lb ed="#N" n="5" break="no"/>gula in singulis, ac singulis propria distincto, eoque suaui contemplatur obtutu. Est oculus 
+      cor<lb ed="#N" n="6" break="no"/>pori veluti mens, sicuti mens est animae mysticus oculus. Cuin Paradisum illum Diuinum, cuius 
+      <lb ed="#N" n="7"/>intuitu Celestium beantur animae, mens nostra spiritaliter perineat, quotquot ibi pullulant 
+      Attri<lb ed="#N" n="8" break="no"/>butorum germina, aut germinantium perfectionum flores, generali quodam, ac geniali lustrat 
+      <lb ed="#N" n="9"/>scrutinio, singulorum continuo pulcherrimas species contemplatura scorsim. Nil mirum itaque 
+      <lb ed="#N" n="10"/>nostram mentem in aggenerandis suarum cogitationum fetibus Naturae ordinem seruare, quae a 
+      <lb ed="#N" n="11"/>communibus incipit, &amp; Artis, quae ad specialia desinit, documenta respicere; quasi a cuiusdam 
+      ve<lb ed="#N" n="12" break="no"/>nustate totius ad singularum pulchritudinem partium, &amp; a plena consonantia concentuum ad 
+      vni<lb ed="#N" n="13" break="no"/>uocam cuiusque armoniam resiliat. Natiua sciendi hoc postulat lex; omnis etenim homo 
+      natura<lb ed="#N" n="14" break="no"/>liter scire desiderat; quam quaestionem a Phil. expositam superhumana subtilitate dilucidans 
+      sere<lb ed="#N" n="15" break="no"/>nissimum Ecclesiae Lumen Augustinus lib. 10. de Trin.c. 1, &amp; 2. ait: Si enimrem prorsus ignotam amare 
+      <lb ed="#N" n="16"/>omnino nullus potest, quomodo est amor studentium, idest iam non scientium, sed adhuc scire cupientium 
+      <lb ed="#N" n="17"/>Quod si amari, nisi notum non potest; quid in eo, quod scire studet, amet, inquirimus, quod profecto 
+      <lb ed="#N" n="18"/>nondum nouit; &amp; propterea miramur, cur amet, quoniam firmissime nouimus, amari msinota non 
+      <lb ed="#N" n="19"/>posse; secus si nosset, illud nosse non quaereret, quia quaerere, quod iam inuenimus, proprie non 
+      di<lb ed="#N" n="20" break="no"/>cimur. Quid est hoc? Nisi quia cuiusque pulchritudinis fama ad videndum, ac fruendum animus 
+      ac<lb ed="#N" n="21" break="no"/>cenditur, quia generaliter nouit corporum pulchritudines ex eo; quod plurimas vidit, &amp; inest 
+      intrinse<lb ed="#N" n="22" break="no"/>cus, unde approbetur, cui forinsecus inhiatur; quod cum fit, non rei penitus incognitae amor excitatum, 
+      <lb ed="#N" n="23"/>cuius genus iam notum est. Non amat igitur, nisi quia nouit, atque intuetur in rationibus rerum; quae 
+      <lb ed="#N" n="24"/>sit pulchritudo doctrinae, qua continetur notitia signorum omnium. Hanc speciem decoram, &amp; vilem 
+      <lb ed="#N" n="25"/>cernit anima, &amp; nouit, &amp; amat, eanque in se perfici studet, quantum potest. Nullus itaque amatineo 
+      <lb ed="#N" n="26"/>gnita, etiam cum appetit scire, quod nescit. Aut enim iam genere notum habet, quod amat, idque nosee 
+      <lb ed="#N" n="27"/>expetit etiam in aliqua re singula, vel in singulis rebus, quae illi nondum notae forte laudantur; aut in 
+      <lb ed="#N" n="28"/>specie sempiternae rationis videt aliquod, ad quod quaerendum ab illa visione inuitatur. Propterea nul 
+      <lb ed="#N" n="29"/>lus amat incognita; imo omnis odit incognita, quia nulla vult esse incognita, dum vult omnia esse 
+      cogni<lb ed="#N" n="30" break="no"/>ta. Genus Attributorum Diuinorum iam vidimus, speciem adeo decoram, &amp; vtilem monimus; 
+      <lb ed="#N" n="31"/>eanque perficere, quantum valemus, studendum est; quod non praestabimus, nisi ex eo, quod inge 
+      <lb ed="#N" n="32"/>nere notum est, ad inquirenda ea, quae occultantur in specie cuiussibet, procedamus; sic enim Diui, 
+      <lb ed="#N" n="33"/>nae cognitionis plenitudine, quam nostra huius status vacuitas capere potest, mens superfusa ad 
+      <lb ed="#N" n="34"/>amandam beatissimam illam Substantiam, in qua talium perfectionum pulchritudo conspicitur; 
+      <lb ed="#N" n="35"/>violentiori suauitate percurret, &amp; rapidiori euolabit affectu, 
+      </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1816x"><!--l1t14prae -->
+            <head xml:id="ccc7yd-g1816x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1816x-d1e101">
+      <!--642.xml-->
+               <cb ed="#N" n=""/>
+               <lb ed="#N" n="1"/>DE NVISlBIL TTATE DEI. 
+    </p>
+            <p xml:id="ccc7yd-g1816x-d1e110">
+               <lb ed="#N" n="2"/>TIsionem, quam vidistis, nemini dixeritis: Praeceptum Domini est Matth. 17. quo tribus cauit  
+      <lb ed="#N" n="3"/>Discipulis, ne Gloriam, quam in summo Thaboris vertice infusa celesti luce conspexerat,  
+      <lb ed="#N" n="4"/>humana ratione tentarent describere, antequam per Aduentum Diuini Spiritus instruerentur in 
+      <lb ed="#N" n="5"/>Fide, &amp; omnia edocerentur Mysteria. Hinc Paulus redux e Coelo siluit, quae vidit, quia ad se ipsum 
+      <lb ed="#N" n="6"/>reuersus non poterat non silere, quae per se ipsum non valebat agnoscere. Nullis locorum 
+      spa<lb ed="#N" n="7" break="no"/>tiis protenditur illa Immensitas summa, nullis delineatur colorum figuris illa purissima Lux, 
+      nul<lb ed="#N" n="8" break="no"/>lis circunscribitur terminis illa indiuisa Substantia, nullis Naturae concluditur, aut definitur 
+      li<lb ed="#N" n="9" break="no"/>mitibus illa Entitas maxima, nulla continetur in specie illa summa Speciositas, aut nullo 
+      coniun<lb ed="#N" n="10" break="no"/>gitur generi illa omnium Vita, ideoque &amp; perspicacium pupillarum aciei absconditur, ne 
+      cer<lb ed="#N" n="11" break="no"/>natur, &amp; naturalis rationis acumini subtrahitur, ne videatur. In omnibus viuit, sed a nullo sentitur; 
+      <lb ed="#N" n="12"/>omnium continet pulchritudines, sed a nullo attingitur: in omnibus est, sed a nullo capitur; 
+      om<lb ed="#N" n="13" break="no"/>nia: parit, sed non paret; omnia terminat, sed non clauditur; omnia ostendit, sed non se ipsam 
+      <lb ed="#N" n="14"/>omnia replet, sed sine mole. Quamobrem duplici oculo &amp; corporis, &amp; mentis naturaliter 
+      inuisi<lb ed="#N" n="15" break="no"/>bilis est, quia &amp; corporis expers, &amp; natura superior est. Quoniam tamen, si omnino lateret 
+      spe<lb ed="#N" n="16" break="no"/>eiosissima eius venustas, Caeli, idest superiores creaturae, quae sunt intellectuales Substantiae; 
+      glo<lb ed="#N" n="17" break="no"/>riam eius non enarrarenti ideo in tenebris posuit latibulum suum, idest in Fide obscuris 
+      reuelatio<lb ed="#N" n="18" break="no"/>num vmbris circunfusa suam manifestauit in Via latentiam, &amp; lucem habitat inaccessibilem, 
+      quia<lb ed="#N" n="19" break="no"/>in gloria, ad quam naturalibus vijs nequimus accedere, suam in Patria Inuisibilitatem fecit 
+      vi<lb ed="#N" n="20" break="no"/>sibilem: sic enim solummodo Nex, idest Fides, nocti, seu creaturae, quae tenebra est. Io:1. indicat,  
+      <lb ed="#N" n="21"/>Scientiam, &amp; dies, idest gloria, diei, seu creaturae illuminatae per gloriam, eructat Verbum. Hinc 
+      <lb ed="#N" n="22"/>Gentilium Philosophi vtroque lumine orbati Vespertilionum more ad huius Diuinae Lucis 
+      cae<lb ed="#N" n="23" break="no"/>cutientes splendores, etsi Deum esse cognouerint, attamen quid sit Deus, omnino ignorantes 
+      <lb ed="#N" n="24"/>Ignoto Deo litabant. Igitur Inuisibilitatem eius videre quaeramus in speculo, cum nobis donetur  
+      <lb ed="#N" n="25"/>per Fidem in Via, vt in Patria donemur corona videntes ad faciem; visio enim eius est 
+      mer<lb ed="#N" n="26" break="no"/>ces omnis omnium laborum 
+      </p>
+            <p xml:id="ccc7yd-g1816x-d1e167">
+               <lb ed="#N" n="27"/>Inscribimus autem hunc Tractatum DE INVISIBILITATE DEI, non DE 
+      VISIO<lb ed="#N" n="28" break="no"/>NE BEATA, vt assolent Alj; quia, cum hic agatur de Atributis Dei, &amp; Visio Beata, de 
+      qua<lb ed="#N" n="29" break="no"/>loquimur, sit actus proprius creaturae, quae est extra Deum, non est proprietas illius, 
+      idcit<lb ed="#N" n="30" break="no"/>co de Inuisibilitate Dei debuit inscribi, quae est propria Dei, &amp; ideo est Attributum illius. 
+      Quan<lb ed="#N" n="31" break="no"/>uis enim etiam creatura spiritualis sit inuisibilis oculis corporis, attamen non est inuisibilis 
+      ocu<lb ed="#N" n="32" break="no"/>lis mentis; potest enim naturaliter agnosci, quia naturalis est; at vero Deus est naturaliter 
+      inui<lb ed="#N" n="33" break="no"/>sibilis &amp; oculis corporis, &amp; animae; &amp; ideo Inu isibilitas, prout importat aliquod extra genus 
+      po<lb ed="#N" n="34" break="no"/>tentiae naturalis vissuae, siue sit potentia corporea, siue spiritualis creata, est propria solius Dei. 
+      </p>
+            <p xml:id="ccc7yd-g1816x-d1e187">
+               <lb ed="#N" n="35"/>Ordinamus autem hunc Tractatum in quatuor principales Quaestiones: in quarum 1. de 
+      <lb ed="#N" n="36"/>Potentia Visiua, in 2. de Lumine necessario ad Deum clare videndum, in 3. de Specie; &amp; in 4. de 
+      <lb ed="#N" n="37"/>Obiecto primario, &amp; secundario agemus. 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

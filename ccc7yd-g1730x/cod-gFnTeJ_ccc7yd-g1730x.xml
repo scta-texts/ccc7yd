@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/diplomatic.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Praeambulum</title>
+            <author ref="#per-Gav9di">Frederico Niccolo Gavardi</author>
+            <respStmt>
+               <name ref="#jeffreycwitt">Jeffrey C. Witt</name>
+               <resp>Transcription Editor</resp>
+               <resp>TEI Encoder</resp>
+            </respStmt>
+         </titleStmt>
+         <editionStmt>
+            <edition n="0.0.0-dev">
+               <title>Praeambulum</title>
+               <date when="2022-01-08">January 08, 2022</date>
+            </edition>
+         </editionStmt>
+         <publicationStmt>
+            <authority>SCTA</authority>
+            <availability status="free">
+               <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0/">Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <listWit>
+               <witness xml:id="N" n="cod-gFnTeJ">Naples, 1683, t. 1</witness>
+            </listWit>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <schemaRef n="lbp-diplomatic-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/1.0.0/src/out/diplomatic.rng"/>
+         <editorialDecl>
+            <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+       guidelines for a diplomatic edition.</p>
+         </editorialDecl>
+      </encodingDesc>
+      <revisionDesc status="draft">
+         <listChange>
+            <change when="2022-01-08" status="draft" n="0.0.0">
+               <p>Created file for the first time.</p>
+            </change>
+         </listChange>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="la">
+      <front>
+         <div xml:id="starts-on">
+            <pb ed="#N" n="NaN"/>
+         </div>
+      </front>
+      <body>
+         <div xml:id="ccc7yd-g1730x"><!--l1t12prae -->
+            <head xml:id="ccc7yd-g1730x-Hd1e99">Praeambulum</head>
+            <p xml:id="ccc7yd-g1730x-d1e101">
+      <!--612.xml-->
+               <cb ed="#N" n="c"/>
+               <lb ed="#N" n="9"/>DRIMJVTAEAEHIEL 
+    </p>
+            <p xml:id="ccc7yd-g1730x-d1e110">
+               <lb ed="#N" n="10"/>TT Mmutabilitate Diuinae Substantiae cuiusuis mutationis, expertem eleganter describit 
+      elegan<lb ed="#N" n="11" break="no"/>tissimus Doctor Augustinus; nam lib. 1. Confess. c. 4. inquit: Deus stabilis, incomprehensibilis, 
+      immu<lb ed="#N" n="12" break="no"/>tabilis, mutans omnia, nunquam nouus, nunquam vetus; innouans omnia, &amp; in vetustatem perducens: 
+      <lb ed="#N" n="13"/>superbos, &amp; nescierunt; semper agens, semper quietus, colligens, &amp; non egens; portans, &amp; implens, 
+      <lb ed="#N" n="14"/>&amp; protegens; creans, &amp; nutriens, &amp; perficiens. Quaeris, cum nihil desit tibi; amas, nec aestuas; gelas, &amp; 
+      <lb ed="#N" n="15"/>securus es, paenitet te, &amp; non doles; irasceris, &amp; tranquillus es; opera mutas, nec mutas consilium, recipis, 
+      <lb ed="#N" n="16"/>quod inuenis, &amp; nunquam amittis, nunquam inops, &amp; gaudens lucri; nunquam auarus, &amp; usuras 
+      exi<lb ed="#N" n="17" break="no"/>gis; reddis debita nulli debens; donas debita nihil perdens. Stabilis, quia seper est, incomprehensibilis, 
+      <lb ed="#N" n="18"/>quia mutabilis creatura eius nequit capere immutabilitate; immutabilis, quia non mouetur; omnia 
+      <lb ed="#N" n="19"/>mutans, quia cuncta monet; nunqua nouus, quia Seper est; nunqua vetus, quia nunqua deficit; omnia 
+      <lb ed="#N" n="20"/>innonans, quia semper agit; deducens in vetustatem, quia Mundus praeterit, &amp; ipse semper est; 
+      <lb ed="#N" n="21"/>semper agens, sed sine motus semper quietus, &amp; nunquam vacans; colligens, dum dispergit: non 
+      <lb ed="#N" n="22"/>egens, dum non colligit; portas sine labore, implens sine mora, protegens sine aduersante; creans; 
+      <lb ed="#N" n="23"/>sine tempore, nutriens ad perfectionem, &amp; perficies ad plenitudinem. Quaerit, &amp; omnia possidet,  
+      <lb ed="#N" n="24"/>amat, neque feruet; gzelat, &amp; non comeditur; paenitet, sed in alio; dolet, sed extra se; irascitur, sed 
+      no<lb ed="#N" n="25" break="no"/>in se, tranquillus est, &amp; bellaciet; mutantur opera, sed non consilia. Recipit, nec afficitur. Inuenit,  
+      <lb ed="#N" n="26"/>quod ipse creat. Nunquam inops, &amp; mercatur. Non auarus, &amp; faeneratur, soluit debita, quae non 
+      <lb ed="#N" n="27"/>debet; omnia donat, &amp; sua sunt. Quibus aperte concluditur Deum simpliciter immutabilem esse, 
+      <lb ed="#N" n="28"/>&amp; tamen omnia facientem mutabilia. Mutabilitas tamen eius a mutabili creatura percipi nequit,  
+      <lb ed="#N" n="29"/>sicut nec eius Immensitas mensurari, ideo pauca dicemus quia nihil pene de ipsa sciri potest: 
+      </p>
+         </div>
+      </body>
+   </text>
+</TEI>

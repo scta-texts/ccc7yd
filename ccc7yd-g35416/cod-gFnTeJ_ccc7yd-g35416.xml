@@ -53,6 +53,7 @@
       <body>
          <div xml:id="ccc7yd-g35416"><!--l1proq5 -->
             <head xml:id="ccc7yd-g35416-Hd1e99">Quaestio 5</head>
+            <head xml:id="ccc7yd-g35416-Hd1e102" type="question-title">De locis theologicis</head>
             <p xml:id="ccc7yd-g35416-d1e101">
       <!--137.xml-->
                <cb ed="#N" n="c"/>
@@ -436,9 +437,9 @@
       Scriptu<lb ed="#N" n="28" break="no"/>ram Sacram esse a Deo reuelatam, &amp; ei 
       consta<lb ed="#N" n="29" break="no"/>ret de illius infallibilitate, maxime per Ecclesia, 
       <lb ed="#N" n="30"/>que proponit Scripturam sacram, ve crededam 
-      <lb ed="#N" n="31"/>infallibiliter iuxta illud Beatiss. P. Aug. 
-      contra<lb ed="#N" n="32" break="no"/>Epist. Fundam. Ego Euangelio non crederem, nist 
-      <lb ed="#N" n="33"/>Ecclesiae me commoueret auctoritas, sed nemo 
+      <lb ed="#N" n="31"/>infallibiliter iuxta illud<ref xml:id="ccc7yd-g35416-Rd1e915"> Beatiss. P. Aug. 
+         contra<lb ed="#N" n="32" break="no"/>Epist. Fundam.</ref> <quote xml:id="ccc7yd-g35416-Qd1e920" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185@139-149">Ego Euangelio non crederem, nist 
+      <lb ed="#N" n="33"/>Ecclesiae me commoueret auctoritas</quote>, sed nemo 
       vo<lb ed="#N" n="34" break="no"/>testesse certus, an Ecclesia sit infallibilis in suis 
       <lb ed="#N" n="35"/>propositionibus, nam non constat de 
       infallibili<lb ed="#N" n="36" break="no"/>tate Ecclesiae, nisi per Scripturam iuxta illuo 
@@ -1251,8 +1252,8 @@
       </p>
                <p xml:id="ccc7yd-g35416-d1e2630">
                   <lb ed="#N" n="112"/>Adest celebris Auctoritas Beatiss. Doct, 
-      <lb ed="#N" n="113"/>Augiquam sepius repetiuimus: Ego Fuangelio non 
-      <lb ed="#N" n="114"/>crederem, nisi Ecclesiae me commoueret Auctoritas. 
+                  <lb ed="#N" n="113"/>Augiquam sepius repetiuimus: <quote xml:id="ccc7yd-g35416-Qd1e2665" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185@139-149">Ego Euangelio non 
+      <lb ed="#N" n="114"/>crederem, nisi Ecclesiae me commoueret Auctoritas</quote>. 
       </p>
                <p xml:id="ccc7yd-g35416-d1e2639">
                   <lb ed="#N" n="115"/>S Obiiciunt 1. Haeretici, Aaron, qui erat 
@@ -3355,11 +3356,8 @@
       Chri<lb ed="#N" n="117" break="no"/>sto Domino, vel traditum ab Apostolis; &amp; nobis 
       <lb ed="#N" n="118"/>constat: per Ecclesiam nobis proponentem 
       il<lb ed="#N" n="119" break="no"/>lud, vt credendum iuxta illud Beatiss. Doct. Aug. 
-      <lb ed="#N" n="120"/>Ego Euangelio non crederem, nisi Ecclesiae me com¬ 
-      <!--161.xml-->
-      <pb ed="#N" n="146"/>
-                  <cb ed="#N" n="a"/>
-                  <lb ed="#N" n="1"/>moue ret auctoritas; sed non est definitum ab 
+                  <lb ed="#N" n="120"/><quote xml:id="ccc7yd-g35416-Qd1e7072" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185@139-149">Ego Euangelio non crederem, nisi Ecclesiae me 
+                     com<!--161.xml--><pb ed="#N" n="146"/><cb ed="#N" n="a"/><lb ed="#N" n="1" break="no"/>moueret auctoritas</quote>; sed non est definitum ab 
       Ec<lb ed="#N" n="2" break="no"/>clesia, nec nobis proponitur vt credendum. 
       <lb ed="#N" n="3"/>quod Vaticinia Sybillarum, &amp; Vatum 
       Genti<lb ed="#N" n="4" break="no"/>lium sint a Deo illis reuelata; ergo Vaticinia 

@@ -53,6 +53,7 @@
       <body>
          <div xml:id="ccc7yd-g10625"><!--t1proq2 -->
             <head xml:id="ccc7yd-g10625-Hd1e99">Quaestio 2</head>
+            <head xml:id="ccc7yd-g10625-Hd1e102" type="question-title">De obiecto theologiae</head>
             <p xml:id="ccc7yd-g10625-d1e101">
       <!--53.xml-->
                <pb ed="#N" n="38"/>
@@ -2576,9 +2577,9 @@
       <pb ed="#N" n="56"/>
                   <cb ed="#N" n="a"/>
                   <lb ed="#N" n="1"/>dum omni poscenti, &amp; reddere rationem de ea, quae 
-      <lb ed="#N" n="2"/>in nobis est, Fide: &amp; Beatiss. Doct, Aug. vbi supra 
-      <lb ed="#N" n="3"/>ait, Theologia est, qua Fides saluberrima 
-      gigni<lb ed="#N" n="4" break="no"/>tur nutritur, atque defenditur. Et I. de Trinit. c. 4. 
+      <lb ed="#N" n="2"/>in nobis est, Fide: &amp; <ref xml:id="ccc7yd-g10625-Rd1e5352">Beatiss. Doct, Aug. vbi supra</ref> 
+                  <lb ed="#N" n="3"/>ait, <quote xml:id="ccc7yd-g10625-Qd1e5356" source="http://scta.info/resource/adt-l14-d1e1535@97-108">Theologia est, qua Fides saluberrima 
+      gigni<lb ed="#N" n="4" break="no"/>tur nutritur, atque defenditur</quote>. Et I. de Trinit. c. 4. 
       <lb ed="#N" n="5"/>Omnes, quos legere potui, qui ante me scripserunt 
       <lb ed="#N" n="6"/>de Trinitate, quae Deus est, Diuinorum librorum. 
       <lb ed="#N" n="7"/>veterum, &amp; nouorum Catholici tractatores haec 
@@ -2821,13 +2822,13 @@
       <lb ed="#N" n="93"/>&amp; Mathematica: 
       </p>
                <p xml:id="ccc7yd-g10625-d1e5857">
-                  <lb ed="#N" n="94"/>17. Obijcies 6. ex Arist. 1. Top. Principia 
-      <lb ed="#N" n="95"/>habent Fidem per seipsa; sed Articuli Fidei 
+                  <lb ed="#N" n="94"/>17. Obijcies 6. ex <ref xml:id="ccc7yd-g10625-Rd1e5874">Arist. 1. Top.</ref> <quote xml:id="ccc7yd-g10625-Qd1e5876">Principia 
+      <lb ed="#N" n="95"/>habent Fidem per seipsa</quote>; sed Articuli Fidei 
       ha<lb ed="#N" n="96" break="no"/>bent Fidem per Ecclesiam, seu per auctoritatem 
-      <lb ed="#N" n="97"/>Ecclesiae; propterea Beatiss. Doct. Aug. contra Ep.¬ 
-      <lb ed="#N" n="98"/>Fundam. c. 2. ait: Ego Euangelio non crederem, nisi 
-      <lb ed="#N" n="99"/>me Ecclesiae Catholicae comqueret Auctoritas; ergo 
-      <lb ed="#N" n="100"/>Articuli Fidei non sunt pripia Theologiae. 
+      <lb ed="#N" n="97"/>Ecclesiae; propterea <ref xml:id="ccc7yd-g10625-Rd1e5886">Beatiss. Doct. Aug. contra Ep.¬ 
+         <lb ed="#N" n="98"/>Fundam. c. 2.</ref> ait: <quote xml:id="ccc7yd-g10625-Qd1e5891" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185@139-149">Ego Euangelio non crederem, nisi 
+      <lb ed="#N" n="99"/>me Ecclesiae Catholicae commueret Auctoritas</quote>; ergo 
+      <lb ed="#N" n="100"/>Articuli Fidei non sunt principia Theologiae. 
       </p>
                <p xml:id="ccc7yd-g10625-d1e5875">
                   <lb ed="#N" n="101"/>Resp. dist. maiorem. Principia habent 

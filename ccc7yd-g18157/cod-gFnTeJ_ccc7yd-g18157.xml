@@ -53,6 +53,7 @@
       <body>
          <div xml:id="ccc7yd-g18157"><!--l1proq3 -->
             <head xml:id="ccc7yd-g18157-Hd1e99">Quaestio 3</head>
+            <head xml:id="ccc7yd-g18157-Hd1e102" type="question-title">De proprietatibus theologiae</head>
             <p xml:id="ccc7yd-g18157-d1e101">
       <!--78.xml-->
                <cb ed="#N" n="c"/>
@@ -2198,10 +2199,10 @@
       <lb ed="#N" n="109"/>firmatur assensus Fidei Diuinae. 
       </p>
                <p xml:id="ccc7yd-g18157-d1e4542">
-                  <lb ed="#N" n="110"/>Haec conclusio procul dubio est Beatiss: 
-      <lb ed="#N" n="111"/>Doct. Aug. vbi sup. doentis, quod Theologia est 
+                  <lb ed="#N" n="110"/>Haec conclusio procul dubio est <ref xml:id="ccc7yd-g18157-Rd1e4550">Beatiss: 
+                  <lb ed="#N" n="111"/>Doct. Aug. vbi sup.</ref> doentis, quod <quote xml:id="ccc7yd-g18157-Qd1e4555" source="http://scta.info/resource/adt-l14-d1e1535@97-108">Theologia est 
       <lb ed="#N" n="112"/>qua Fides Saluberrima gignitur, nutritur, robo 
-      <lb ed="#N" n="113"/>ratur, atque defenditur; sed non potest gigni 
+      <lb ed="#N" n="113"/>ratur, atque defenditur</quote>; sed non potest gigni 
       Fi<lb ed="#N" n="114" break="no"/>des, nisi per assensum, sicut non potest gigni 
       scie<lb ed="#N" n="115" break="no"/>tia, nisi per assensum conclusionum; neque potest. 
       <lb ed="#N" n="116"/>nutriri, roborari, atque defendi, nisi magis firme 

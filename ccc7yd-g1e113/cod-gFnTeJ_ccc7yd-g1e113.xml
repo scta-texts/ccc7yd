@@ -53,10 +53,13 @@
       <body>
          <div xml:id="ccc7yd-g1e113"><!--l1proq1 -->
             <head xml:id="ccc7yd-g1e113-Hd1e99">Quaestio 1</head>
+            <head xml:id="ccc7yd-g1e113-Hd1e102" type="question-title">De existentia et essentia theologiae</head>
             <p xml:id="ccc7yd-g1e113-d1e101">
                <lb ed="#N" n="41"/>QVAEST. I 
       <lb ed="#N" n="42"/>De Existentia, &amp; Essentia Theologiae 
-      <lb ed="#N" n="43"/>Vaestionem, an sit res, praeponendum esse quaestioni, Quid sit, communiter acceptum 
+            </p>
+            <p xml:id="ccc7yd-g1e113-d1e111">
+      <lb ed="#N" n="43"/>QVaestionem, an sit res, praeponendum esse quaestioni, Quid sit, communiter acceptum 
       <lb ed="#N" n="44"/>est omnibus. Quia tamen ad Existentiae cognitionem inuat nominis notitia; idcirco prius 
       <lb ed="#N" n="45"/>de Nomine Theologiae nobis inquirendum est; Cumque Theologia varias secetur 
       in<lb ed="#N" n="46" break="no"/>species, vt videbimus; ideo assignanda simul est multiplex illius diuisio; ex qua, quia enascitur 
@@ -285,9 +288,9 @@
                   <lb ed="#N" n="48"/>Quoad tertium deducitur ex dictis, 
       Theo<lb ed="#N" n="49" break="no"/>logiamrecte definiri a Beatiss. P. Aug. lib. 14. 
       de<lb ed="#N" n="50" break="no"/>EaueizaEst habitus conclusionum procedens ex 
-      <lb ed="#N" n="51"/>rguelatis, quo via syllogistica Fides saluberrima. 
+                  <lb ed="#N" n="51"/>rguelatis, quo via syllogistica <quote xml:id="ccc7yd-g1e113-Qd1e591" source="http://scta.info/resource/adt-l14-d1e1535@97-108">Fides saluberrima. 
       <lb ed="#N" n="52"/>duaad veram Beatitudinem ducit, gignitur, 
-      nu<lb ed="#N" n="53" break="no"/>Nitums defenditur, &amp; roboratur. Potest autem 
+      nu<lb ed="#N" n="53" break="no"/>Nitums defenditur, &amp; roboratur</quote>. Potest autem 
       <lb ed="#N" n="54"/>haec definitio conformiter ad ea, quae tradit 
       <lb ed="#N" n="55"/>Eundatiss. Doct, ex eodem Sanctiss. P. sic exponi. 
       <lb ed="#N" n="56"/>Theologia Viatorum est scientia supernaturali. 
@@ -1437,8 +1440,8 @@
       remo<lb ed="#N" n="82" break="no"/>quendo errores corruptiuos Fidei, &amp; ponendo 
       <lb ed="#N" n="83"/>conditiones disponentes, vel ad Fidei 
       introdu<lb ed="#N" n="84" break="no"/>ctionem, vel ad illius conseruationem. Et in hoc  
-      <lb ed="#N" n="85"/>sensu Beatiss. Doct. Aug. ait: Haec est scientia, qua 
-      <lb ed="#N" n="86"/>Fides saluberrima gignitur, defenditur &amp;c. 
+                  <lb ed="#N" n="85"/>sensu Beatiss. Doct. Aug. ait: <quote xml:id="ccc7yd-g1e113-Qd1e3001" source="http://scta.info/resource/adt-l14-d1e1535@91-108">Haec est scientia, qua 
+      <lb ed="#N" n="86"/>Fides saluberrima gignitur, defenditur</quote> &amp;c. 
       </p>
                <p xml:id="ccc7yd-g1e113-d1e2998">
                   <lb ed="#N" n="87"/>24. Obiicies 8. In paruulis Fides generatur.  
@@ -4411,9 +4414,9 @@
       oppor<lb ed="#N" n="5" break="no"/>tunitate necesse est reuclari. Haec conclusio 
       tra<lb ed="#N" n="6" break="no"/>ditur expresse a Beatiss. Doct, Aug. pluribus in 
       <lb ed="#N" n="7"/>locis, vt videbimus φ. 5 art.4: &amp; praesertim 
-      con<lb ed="#N" n="8" break="no"/>tra Epist. Fundament. c. 53 vbi ait: Ego Euangelios 
+                  con<lb ed="#N" n="8" break="no"/>tra <ref xml:id="ccc7yd-g1e113-Rd1e9220">Epist. Fundament. c. 53</ref> vbi ait: <quote xml:id="ccc7yd-g1e113-Qd1e9222" source="http://scta.info/resource/AgCMfu-sdf83a-d1e185@139-149">Ego Euangelio
       <lb ed="#N" n="9"/>non crederem, nisi me Catholicae Ecclesiae 
-      commo<lb ed="#N" n="10" break="no"/>ueret auctoritas, ergo multo magis 
+      commo<lb ed="#N" n="10" break="no"/>ueret auctoritas</quote>, ergo multo magis 
       conclusio<lb ed="#N" n="11" break="no"/>ni non definitae ab Ecclesia non est credendum: 
       <lb ed="#N" n="12"/>&amp; per consequens conclusio non definita non 
       <lb ed="#N" n="13"/>est de Fide, quia omnis propositio de Fide est? 

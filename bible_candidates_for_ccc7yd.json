@@ -1,0 +1,2350 @@
+{
+  "ccc7yd-g1e4xx": {
+    "ccc7yd-g1e4xx-d1e114": [
+      {
+        "candidate_id": "sap7_26",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "multi-verse quote sap7:26-27, explicit 'Sap. 7.' citation"
+      },
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 22,
+        "status": "encoded",
+        "note": "multi-verse quote sap7:26-27, explicit 'Sap. 7.' citation"
+      }
+    ]
+  },
+  "ccc7yd-g1e113": {
+    "ccc7yd-g1e113-d1e139": [
+      {
+        "candidate_id": "ps35_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "ps. 35. cited; ps35_10@8-12"
+      },
+      {
+        "candidate_id": "Isam9_9",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "1. Reg. c. 9. cited; Isam9_9@15-22"
+      }
+    ],
+    "ccc7yd-g1e113-d1e261": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "1. Cor. 133 cited; Icor13_12@2-11"
+      }
+    ],
+    "ccc7yd-g1e113-d1e421": [
+      {
+        "candidate_id": "hebr1_2",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "allusion without explicit citation; hebr1_2@1-8"
+      }
+    ],
+    "ccc7yd-g1e113-d1e873": [
+      {
+        "candidate_id": "sap7_26",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "paragraph expounds sap7:26 lemma previously cited; initial restatement is lectio text, not fresh citation"
+      }
+    ],
+    "ccc7yd-g1e113-d1e945": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "io1_3@1-5 \u2014 'Omnia per ipsum facta sunt'; cited with 'lo:1.'"
+      },
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "lectio lemma \u2014 'Subditur autem' indicates text under commentary"
+      }
+    ],
+    "ccc7yd-g1e113-d1e989": [
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "textual reference 'per illa verba', partial quote words 8-12"
+      }
+    ],
+    "ccc7yd-g1e113-d1e1067": [
+      {
+        "candidate_id": "sap7_27",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "paragraph expounds Sap 7 lemma terms for theology causes; not a fresh citation"
+      }
+    ],
+    "ccc7yd-g1e113-d1e1670": [
+      {
+        "candidate_id": "mt22_43",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Matth. 22. cited; mt22_43@3-10"
+      },
+      {
+        "candidate_id": "IItim3_17",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "IItim3_16@1-16+IItim3_17@1-10 already encoded (multi-verse); lc14_5@6-20 also encoded"
+      },
+      {
+        "candidate_id": "lc14_5",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "lc14_5@6-20; MS cites Luc. 14."
+      },
+      {
+        "candidate_id": "IItim3_16",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "2Tim 3:16-17 multi-verse; \"Apost. 2. Tim. c. 3. ait: Omnis scriptura...vt perfectus sit homo Dei\""
+      }
+    ],
+    "ccc7yd-g1e113-d1e1957": [
+      {
+        "candidate_id": "tit1_9",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit '1. ad Tit. e. 1.' citation, full verse"
+      }
+    ],
+    "ccc7yd-g1e113-d1e2025": [
+      {
+        "candidate_id": "iud1_3",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "\"& Iuda in Epist. cathol. ait: Necesse habui scribere vobis...\""
+      }
+    ],
+    "ccc7yd-g1e113-d1e2390": [
+      {
+        "candidate_id": "sir3_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Eccl. 3. cited; multi-verse sir3_22@1-9 + sir3_26@1-11"
+      },
+      {
+        "candidate_id": "mc7_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "mc7_7@1-9; MS cites Christus Dominus Marc. 7."
+      },
+      {
+        "candidate_id": "col2_8",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "\"Apostolus ad Coloss. c. 2. docet: Videte ne quis vos decipiat per Philosophiam\""
+      }
+    ],
+    "ccc7yd-g1e113-d1e3016": [
+      {
+        "candidate_id": "eph4_11",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "multi-verse quote eph4:11-12, explicit 'Ephes.4.' citation"
+      },
+      {
+        "candidate_id": "eph4_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "already encoded as eph4_11@1-17 + eph4_12@1-10 multi-verse quote"
+      }
+    ],
+    "ccc7yd-g1e113-d1e3981": [
+      {
+        "candidate_id": "IItim3_16",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "IItim3_16@1-16+IItim3_17@1-10 already encoded from previous session (lines 1917-1920)"
+      },
+      {
+        "candidate_id": "IItim3_17",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "2Tim 3:16-17 multi-verse; \"ex Apost. 2. ad Tim. cap. 3. Omnis doctrina...\""
+      }
+    ],
+    "ccc7yd-g1e113-d1e4608": [
+      {
+        "candidate_id": "lc10_40",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Luc. 10. cited; lc10_40@11-28"
+      }
+    ],
+    "ccc7yd-g1e113-d1e9482": [
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit 'Matth.16.' citation, partial quote from word 6"
+      },
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "lc22_32@11-17; MS cites iuxta praeceptum eiusdem Christi Saluatoris"
+      },
+      {
+        "candidate_id": "Iio5_9",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Iio5_9@1-8; MS cites 1. Io c. 5."
+      }
+    ],
+    "ccc7yd-g1e113-d1e9676": [
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "lc22_32@1-10"
+      }
+    ],
+    "ccc7yd-g1e113-d1e9798": [
+      {
+        "candidate_id": "mt18_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Matt. 18. cited; mt18_17@8-19"
+      }
+    ],
+    "ccc7yd-g1e113-d1e10262": [
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "lc22_32@1-10"
+      }
+    ]
+  },
+  "ccc7yd-g10625": {
+    "ccc7yd-g10625-d1e2557": [
+      {
+        "candidate_id": "Icor2_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "1. Cor. 2. cited; Icor2_2@3-11"
+      }
+    ],
+    "ccc7yd-g10625-d1e5306": [
+      {
+        "candidate_id": "Ipetr3_15",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Ipetr3_15@8-21 \u2014 paraphrase 'Semper debemus esse parati ad satisfaciens dum omni poscenti...'"
+      }
+    ],
+    "ccc7yd-g10625-d1e5407": [
+      {
+        "candidate_id": "tit1_9",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "tit1_9@9-21; MS cites Apostolus Ep. ad Tit."
+      }
+    ],
+    "ccc7yd-g10625-d1e6232": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Nunc videmus per speculum in enigmate, tunc autem facie ad faciem\" - no explicit citation but clear quotation"
+      }
+    ],
+    "ccc7yd-g10625-d1e7546": [
+      {
+        "candidate_id": "io20_29",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "io20_29@8-13 \u2014 'Beati, qui non viderunt, et crediderunt'"
+      },
+      {
+        "candidate_id": "lc10_13",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "lc10_13@8-27 \u2014 paraphrase 'Si in Tyro & Sidone facta fuissent haec signa...egissent paenitentiam'"
+      },
+      {
+        "candidate_id": "mt11_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 parallel passage; encoded as lc10_13 (closer verbal match with fuissent)"
+      }
+    ]
+  },
+  "ccc7yd-g18157": {
+    "ccc7yd-g18157-d1e6293": [
+      {
+        "candidate_id": "ps47_9",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Psal. 47. cited; ps47_9@1-12"
+      }
+    ],
+    "ccc7yd-g18157-d1e8954": [
+      {
+        "candidate_id": "hebr2_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "no Bible quotation in paragraph \u2014 only Aristotle reference"
+      }
+    ],
+    "ccc7yd-g18157-d1e12992": [
+      {
+        "candidate_id": "IItim3_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "2. ad Tim. 3. cited; IItim3_16@1-10"
+      }
+    ]
+  },
+  "ccc7yd-g32199": {
+    "ccc7yd-g32199-d1e348": [
+      {
+        "candidate_id": "mt18_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Matt. 18. cited; mt18_17@8-19"
+      },
+      {
+        "candidate_id": "iac2_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "iac2_10@1-13; MS cites Iac. 2."
+      }
+    ],
+    "ccc7yd-g32199-d1e1936": [
+      {
+        "candidate_id": "Icor13_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "rationem subdens ait; Icor13_10@1-11"
+      },
+      {
+        "candidate_id": "Icor13_8",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "1. Cor. 13. cited; Icor13_8@4-12"
+      }
+    ],
+    "ccc7yd-g32199-d1e2055": [
+      {
+        "candidate_id": "Icor13_10",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "Icor13:9-10 multi-verse quote; \"inde dicit Apostelus; scientia destruetur...Ex parte enim scimus...euacuabitur, quod ex parte est\""
+      }
+    ],
+    "ccc7yd-g32199-d1e2188": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Icor13_12@1-11"
+      }
+    ],
+    "ccc7yd-g32199-d1e2278": [
+      {
+        "candidate_id": "ps47_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Ps.47. cited; ps47_9@1-12"
+      }
+    ],
+    "ccc7yd-g32199-d1e2709": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Icor13_12@2-11"
+      }
+    ]
+  },
+  "ccc7yd-g35416": {
+    "ccc7yd-g35416-d1e233": [
+      {
+        "candidate_id": "Icor2_13",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "multi-verse quote 1Cor2:12-13, explicit 'Apost. 1. Cor. 2.' citation"
+      },
+      {
+        "candidate_id": "mt10_20",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "multi-verse quote mt10:19-20, explicit 'Matt. 10.' citation"
+      },
+      {
+        "candidate_id": "Icor2_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Apost. 1. Cor. 2. 'paulo post'; Icor2_16@9-13"
+      },
+      {
+        "candidate_id": "io14_26",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "io14_26@11-18; MS cites Io: 14."
+      },
+      {
+        "candidate_id": "Icor2_12",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "encoded as part of Icor2:12-13 multi-verse quote"
+      },
+      {
+        "candidate_id": "mt10_19",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse quote mt10:19-20"
+      }
+    ],
+    "ccc7yd-g35416-d1e291": [
+      {
+        "candidate_id": "act9_17",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit 'Act. 9.' citation, partial quote from word 16"
+      },
+      {
+        "candidate_id": "act8_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph discusses Pentecost (Acts 2), act8_18 text not present"
+      },
+      {
+        "candidate_id": "act2_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "MS cites Act. 21 but matches act2_4; encoded prout Spiritus Sanctus dabat eloqui illis @12-17"
+      },
+      {
+        "candidate_id": "act19_6",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Act. 19.\" - cum imposuisset illis manus, venit Spiritus Sanctus super eos, & loquebantur linguis & prophetabant"
+      }
+    ],
+    "ccc7yd-g35416-d1e591": [
+      {
+        "candidate_id": "IIpetr3_16",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "In quibus sunt quaedam difficilia intellectu @11-16; cited within Augustine context"
+      }
+    ],
+    "ccc7yd-g35416-d1e615": [
+      {
+        "candidate_id": "num23_19",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "num23_19@1-7 \u2014 'Non est Deus quasi homo, vt mentiatur'; MS cites '2. Tim. 2.' in error"
+      },
+      {
+        "candidate_id": "rom3_4",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Est autem Deus verax omnis autem homo mendax @1-8"
+      }
+    ],
+    "ccc7yd-g35416-d1e748": [
+      {
+        "candidate_id": "mt5_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "iuxta illud Christi Domini; mt5_17@9-13"
+      },
+      {
+        "candidate_id": "iac2_10",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "iac2_10@1-13; MS cites Iacob. 2."
+      }
+    ],
+    "ccc7yd-g35416-d1e868": [
+      {
+        "candidate_id": "mt18_17",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Man. 5. (=Matt. 18.) cited; mt18_17@8-19"
+      }
+    ],
+    "ccc7yd-g35416-d1e1079": [
+      {
+        "candidate_id": "mt5_18",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"quod concordat Euangelio; Iota vnum, aut unus apex non praeteribit a lege\""
+      }
+    ],
+    "ccc7yd-g35416-d1e1333": [
+      {
+        "candidate_id": "Icor11_23",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "1. Cor. 11. cited; Icor11_23@1-9"
+      },
+      {
+        "candidate_id": "IIcor3_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Epistola estis Christi...in tabulis cordis carnalibus @3-25; IIth2_15 already encoded in same paragraph"
+      },
+      {
+        "candidate_id": "IIth2_15",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Epist. ad Tessal. 2. Itaque state Fratres, & tenete Traditiones, quas didicistis...\""
+      }
+    ],
+    "ccc7yd-g35416-d1e1473": [
+      {
+        "candidate_id": "ps43_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "ps. 43. cited; ps43_2@1-8"
+      }
+    ],
+    "ccc7yd-g35416-d1e1520": [
+      {
+        "candidate_id": "mc16_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Domino cooperante et sermonem confirmante sequentibus signis @6-12"
+      }
+    ],
+    "ccc7yd-g35416-d1e1583": [
+      {
+        "candidate_id": "Icor11_23",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Icor11_23@1-9; MS cites Apostoli; ex illo"
+      }
+    ],
+    "ccc7yd-g35416-d1e1649": [
+      {
+        "candidate_id": "mc13_5",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'seducat' overlaps with col2_8 already encoded in this paragraph"
+      },
+      {
+        "candidate_id": "mc7_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "mc7_9@5-12 \u2014 'Irritum facitis praeceptum Dei, vt Traditiones vestras seruetis'; cited 'Marci 7.'"
+      },
+      {
+        "candidate_id": "mt24_4",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'seducat' overlaps with col2_8 already encoded"
+      },
+      {
+        "candidate_id": "col2_8",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Epist. ad Colos. 2; col2_8@1-10"
+      }
+    ],
+    "ccc7yd-g35416-d1e2251": [
+      {
+        "candidate_id": "mt13_30",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paraphrase of Mt 13 parable with authorial glosses, no direct quotation"
+      },
+      {
+        "candidate_id": "hebr5_1",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Heb 5:1-2 multi-verse; \"Apost. ad Hebr. 5. ait: Omnis autem Pontifex ex hominibus...\""
+      },
+      {
+        "candidate_id": "hebr5_2",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of Heb 5:1-2 multi-verse quote"
+      },
+      {
+        "candidate_id": "Iio1_8",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit 'Io: 1. c. 1.' citation, full verse"
+      }
+    ],
+    "ccc7yd-g35416-d1e2349": [
+      {
+        "candidate_id": "Ireg8_14",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Ireg8_14@1-14; MS cites 3. Reg."
+      }
+    ],
+    "ccc7yd-g35416-d1e2435": [
+      {
+        "candidate_id": "os2_19",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "multi-verse quote os2:19-20, explicit 'Oseae 2.' citation"
+      },
+      {
+        "candidate_id": "ier4_2",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'in iustitia et in iudicio' overlap with os2_19 already encoded in this paragraph"
+      },
+      {
+        "candidate_id": "os2_20",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "already encoded as os2_19@1-19 + os2_20@1-6 multi-verse quote"
+      }
+    ],
+    "ccc7yd-g35416-d1e2482": [
+      {
+        "candidate_id": "mt28_20",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "encoded together with mt28:18-19 as multi-verse quote"
+      },
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "multi-verse quote mt28:18-20, explicit 'Matt. ult.' citation"
+      },
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph quotes Mt28 and Io14; IIchr6_14 text not present"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph quotes Mt28 and Io14; dan6_28 text not present"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph quotes Mt28 and Io14; ioel2_30 text not present"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'in caelo et in terra' overlaps with Mt28:18 context"
+      },
+      {
+        "candidate_id": "io14_16",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Io: 14. Ego rogabo Patrem, & alium Paraclytum dabit vobis, vt maneat vobiscum in aeternum, Spiritum veritatis\" (io14:16-17a)"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse quote mt28:18-20"
+      }
+    ],
+    "ccc7yd-g35416-d1e2545": [
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "explicit 'Matt. 7.' citation (typo for Matt. 16), partial quote from word 6"
+      }
+    ],
+    "ccc7yd-g35416-d1e2571": [
+      {
+        "candidate_id": "eph5_27",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "multi-verse quote eph5:25-27, explicit 'Ephes. 5.' citation"
+      },
+      {
+        "candidate_id": "eph5_26",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "encoded as part of eph5:25-27 multi-verse quote"
+      },
+      {
+        "candidate_id": "eph5_25",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "encoded as part of eph5:25-27 multi-verse quote"
+      }
+    ],
+    "ccc7yd-g35416-d1e2608": [
+      {
+        "candidate_id": "mt18_17",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Matt. 18. ait: Si Ecclesiam non audierit, sit tibi sicut Ethnicus, & Publicanus\""
+      }
+    ],
+    "ccc7yd-g35416-d1e2639": [
+      {
+        "candidate_id": "ier2_26",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "extended existing ier2_27 quote to multi-verse ier2_26@7-20 + ier2_27@1-11"
+      },
+      {
+        "candidate_id": "ier2_27",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "explicit 'Hierem, c. 2.' citation, partial quote words 1-11"
+      },
+      {
+        "candidate_id": "ier5_1",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit 'c. 5.' citation, partial quote words 13-24"
+      }
+    ],
+    "ccc7yd-g35416-d1e2673": [
+      {
+        "candidate_id": "ex32_26",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "dixit: 'Si quis est Domini, iungatur mihi' ex32_26@7-12"
+      }
+    ],
+    "ccc7yd-g35416-d1e2796": [
+      {
+        "candidate_id": "mt26_31",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Omnes vos scandalum patiemini in me in nocte ista @5-13; quote spans column break"
+      }
+    ],
+    "ccc7yd-g35416-d1e3006": [
+      {
+        "candidate_id": "lc22_32",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit 'Luc. 22.' citation, full verse"
+      }
+    ],
+    "ccc7yd-g35416-d1e3359": [
+      {
+        "candidate_id": "io11_49",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'Cum esset Pontifex Anni illius prophetauit' is io11_51 already encoded"
+      },
+      {
+        "candidate_id": "io11_51",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "MS cites 'Io:'; quote 'Cum esset Pontifex Anni illius prophetauit' io11_51@9-14"
+      }
+    ],
+    "ccc7yd-g35416-d1e3564": [
+      {
+        "candidate_id": "mt16_18",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Pope Anacletus cites Mt 16:18: \"Tu es Petrus, & super hanc petram aedificabo Ecclesiam meam\""
+      }
+    ],
+    "ccc7yd-g35416-d1e4466": [
+      {
+        "candidate_id": "eph4_11",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse quote eph4:11-12+14 (skips v.13), explicit 'Apost. Ephes. 4.' citation"
+      },
+      {
+        "candidate_id": "eph4_14",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "encoded as part of multi-verse quote eph4:11-12+14"
+      }
+    ],
+    "ccc7yd-g35416-d1e4866": [
+      {
+        "candidate_id": "deut32_7",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "deut32_7@7-17 \u2014 'Interroga Patrem tuum, & annunciabit tibi, maiores tuos, & dicent tibi'; cited 'Deut. 32.'"
+      },
+      {
+        "candidate_id": "sir9_24",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "sir9_24@13-17 \u2014 'In sensu vero Seniorum verbum'; cited 'Eccl. 9.'"
+      },
+      {
+        "candidate_id": "sir8_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "ab ipsis disces intellectum...in tempore necessitatis @2-10; extends existing sir8_11 encoding"
+      },
+      {
+        "candidate_id": "sir8_11",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "sir8_11@1-12; MS cites Eccl. 8."
+      }
+    ],
+    "ccc7yd-g35416-d1e5300": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Augustine quotes Jn 3:5 \"Et ubi erit Euangelica vox: Nisi quis renatus...\""
+      }
+    ],
+    "ccc7yd-g35416-d1e5450": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "MS cites \"Io:3\" - direct quote Nisi quis renatus fuerit ex aqua"
+      },
+      {
+        "candidate_id": "io6_54",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "MS cites \"Io6\" - direct quote Nisi manducaveritis carnem Filii hominis"
+      }
+    ],
+    "ccc7yd-g35416-d1e6060": [
+      {
+        "candidate_id": "rom10_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded as part of rom10:14-15 multi-verse quote; MS cites \"Rom. 10.\""
+      },
+      {
+        "candidate_id": "rom10_15",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "rom10:14-15 multi-verse quote; MS cites \"Rom. 10.\""
+      }
+    ],
+    "ccc7yd-g35416-d1e7073": [
+      {
+        "candidate_id": "lc4_41",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "lc4_41@1-14; MS cites Lucq."
+      }
+    ]
+  },
+  "ccc7yd-g42871": {
+    "ccc7yd-g42871-d1e182": [
+      {
+        "candidate_id": "io12_35",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Adhuc modicum lumen in vobis est @5-10"
+      }
+    ],
+    "ccc7yd-g42871-d1e262": [
+      {
+        "candidate_id": "Icor2_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same text as rom11_34 already encoded; MS attribution '1. Corm. 2.' is confused"
+      },
+      {
+        "candidate_id": "IIpetr3_16",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "In quibus sunt quaedam difficilia intellectu @11-16"
+      },
+      {
+        "candidate_id": "is40_13",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites rom11_34 (already encoded); is40_13 not present"
+      },
+      {
+        "candidate_id": "ps118_34",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Da mihi intellectum et scrutabor Legem tuam @1-7"
+      },
+      {
+        "candidate_id": "sap7_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Optaui et datus est mihi sensus @3-8"
+      },
+      {
+        "candidate_id": "rom11_34",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "MS cites \"1. Corm. 2.\" but text matches Rom 11:34 exactly"
+      }
+    ],
+    "ccc7yd-g42871-d1e430": [
+      {
+        "candidate_id": "gal4_22",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "multi-verse quote gal4:22-24, explicit 'Apost. Epist. ad Galat. 4.' citation"
+      },
+      {
+        "candidate_id": "rom2_29",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Rom. c.2. cited; rom2_29@7-12"
+      },
+      {
+        "candidate_id": "gal4_23",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "encoded as part of gal4:22-24 multi-verse quote"
+      }
+    ],
+    "ccc7yd-g42871-d1e642": [
+      {
+        "candidate_id": "io6_64",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Fulgentius sermon cites \"Dominus ait: Verba quae ego locutus sum vobis spiritus et vita sunt\""
+      }
+    ],
+    "ccc7yd-g42871-d1e778": [
+      {
+        "candidate_id": "ps65_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Transivimus per ignem et aquam et eduxisti nos in refrigerium @6-15"
+      }
+    ],
+    "ccc7yd-g42871-d1e892": [
+      {
+        "candidate_id": "act13_33",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites Psalm 2 directly; act13_33/hebr1_5/hebr5_5 not separately quoted"
+      },
+      {
+        "candidate_id": "hebr1_5",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 see act13_33 note"
+      },
+      {
+        "candidate_id": "hebr5_5",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 see act13_33 note"
+      },
+      {
+        "candidate_id": "ps2_7",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Filius meus es tu ego hodie genui te @5-12"
+      }
+    ],
+    "ccc7yd-g42871-d1e919": [
+      {
+        "candidate_id": "mt13_45",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites mt13_33 and mt25_1, not mt13_45"
+      },
+      {
+        "candidate_id": "mt13_33",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Simile est Regnum Caelorum fermento @6-10"
+      },
+      {
+        "candidate_id": "gen32_12",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about figurative senses, no direct quotation of gen32_12"
+      }
+    ],
+    "ccc7yd-g42871-d1e1021": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "thematic overlap only, no direct quotation of rom1_20"
+      }
+    ],
+    "ccc7yd-g42871-d1e1118": [
+      {
+        "candidate_id": "mt2_15",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites 'Oseae' explicitly; encoded as os11_1 instead"
+      },
+      {
+        "candidate_id": "os11_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "os11_1@14-18 \u2014 'Ex Aegypto vocaui Filium meum'"
+      }
+    ],
+    "ccc7yd-g42871-d1e1493": [
+      {
+        "candidate_id": "dan12_8",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Et ego audivi et non intellexi @1-6"
+      }
+    ],
+    "ccc7yd-g42871-d1e1597": [
+      {
+        "candidate_id": "rom15_4",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Quaecunque scripta sunt ad nostram doctrinam scripta sunt @1-9"
+      }
+    ],
+    "ccc7yd-g42871-d1e1954": [
+      {
+        "candidate_id": "sap7_26",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "sap7_26@1-11; MS cites Sap. 7."
+      }
+    ]
+  },
+  "ccc7yd-g45122": {
+    "ccc7yd-g45122-d1e859": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Videmus nunc per speculum in aenigmate tunc autem facie ad faciem @1-11; MS cites 1 Cor 15 but actual verse is 1 Cor 13:12"
+      }
+    ],
+    "ccc7yd-g45122-d1e4316": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Ego sum qui sum Qui est misit me ad vos @5-19; abridged quote omitting middle portion"
+      }
+    ],
+    "ccc7yd-g45122-d1e5590": [
+      {
+        "candidate_id": "ps4_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "ps4_7@1-8; MS cites Ps. 4."
+      }
+    ],
+    "ccc7yd-g45122-d1e5850": [
+      {
+        "candidate_id": "Itim2_4",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Deus vult omnes homines salvos fieri et ad agnitionem veritatis venire @2-11"
+      }
+    ],
+    "ccc7yd-g45122-d1e6137": [
+      {
+        "candidate_id": "ps4_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "ps4_7@1-8; MS cites ps. 4."
+      }
+    ],
+    "ccc7yd-g45122-d1e6762": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Inuisibilia Dei per ea quae facta sunt intellecta conspiciuntur @1-13"
+      }
+    ],
+    "ccc7yd-g45122-d1e7608": [
+      {
+        "candidate_id": "prov6_20",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph already encoded for prov1_8+9; prov6_20 shares similar text"
+      },
+      {
+        "candidate_id": "prov1_8",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "prov1:8-9 multi-verse; \"Prou. 1. dicens: Audi Filimi disciplinam Patris tui...\""
+      },
+      {
+        "candidate_id": "prov1_9",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "encoded as part of prov1:8-9 multi-verse quote"
+      }
+    ],
+    "ccc7yd-g45122-d1e10247": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Inuisibilia Dei per ea quae facta sunt intellecta conspiciuntur @1-13"
+      }
+    ],
+    "ccc7yd-g45122-d1e10509": [
+      {
+        "candidate_id": "sap13_1",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "MS cites 'Sap. 15.' but text matches sap13_1; full verse"
+      },
+      {
+        "candidate_id": "ps145_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Sap15; ps145_3 text not present"
+      }
+    ]
+  },
+  "ccc7yd-g56667": {
+    "ccc7yd-g56667-d1e2239": [
+      {
+        "candidate_id": "ps101_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "text already captured within hebr1_11+12 multi-verse quote already encoded"
+      },
+      {
+        "candidate_id": "hebr1_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "already encoded as part of multi-verse hebr1_11+12 quote"
+      },
+      {
+        "candidate_id": "hebr1_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-verse hebr1_11+12: Ipsi peribunt...tu autem idem ipse es @1-10 + @2-11"
+      },
+      {
+        "candidate_id": "ps101_27",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph is about Exod 1 Ego sum qui sum; no Ps 101:27 quotation"
+      }
+    ],
+    "ccc7yd-g56667-d1e4260": [
+      {
+        "candidate_id": "ex3_14",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "ex3_14 text appears inside existing Augustine quote (adt-l5-d1e680), not a direct citation by the author"
+      }
+    ],
+    "ccc7yd-g56667-d1e8485": [
+      {
+        "candidate_id": "mt28_19",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 no Mt 28:19 quote found; paragraph is about conciliar texts on Trinity"
+      }
+    ],
+    "ccc7yd-g56667-d1e9849": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "io1_3@1-5 \u2014 'Omnia per ipsum facta sunt'; cited 'Io:1:'"
+      }
+    ],
+    "ccc7yd-g56667-d1e11179": [
+      {
+        "candidate_id": "ps138_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "ps138_5@1-8; MS cites Ps. 138."
+      }
+    ],
+    "ccc7yd-g56667-d1e14845": [
+      {
+        "candidate_id": "rom8_15",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "multi-verse quote rom8:14-15, explicit 'Apost. Rom. 8.' citation"
+      }
+    ],
+    "ccc7yd-g56667-d1e14881": [
+      {
+        "candidate_id": "Icor13_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Apost. 1. Corn13. ait: Cum venerit, quod perfectum est, euacuabitur, quod ex parte est\""
+      }
+    ],
+    "ccc7yd-g56667-d1e15499": [
+      {
+        "candidate_id": "io14_6",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Ego sum Via et Veritas et Vita @4-10"
+      }
+    ]
+  },
+  "ccc7yd-g75058": {
+    "ccc7yd-g75058-d1e3988": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Inuisibilia Dei per ea quae facta sunt intellecta conspicimus @1-13"
+      }
+    ]
+  },
+  "ccc7yd-g81637": {
+    "ccc7yd-g81637-d1e20703": [
+      {
+        "candidate_id": "ps102_14",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "ps102_14@1-5 \u2014 'Quoniam ipse cognouit figmentum nostrum'; cited 'ps. 102.'"
+      }
+    ],
+    "ccc7yd-g81637-d1e21453": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit '1. Cor. 13.' citation, words 1-11"
+      }
+    ]
+  },
+  "ccc7yd-g1110z": {
+    "ccc7yd-g1110z-d1e8229": [
+      {
+        "candidate_id": "Icor3_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Icor3_8@1-8 \u2014 'Qui plantat, & qui rigat. Vnum sunt'; cited 'c. 7.'"
+      },
+      {
+        "candidate_id": "IIreg5_15",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"4. Reg. 1.\" (MS wrong, should be 4 Reg. 5) - Naaman dixit: Vere scio quod non sit Deus in universa Terra nisi tantum in Israel"
+      }
+    ],
+    "ccc7yd-g1110z-d1e8926": [
+      {
+        "candidate_id": "ps81_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "ps81_6@1-8 \u2014 'Ego dixi Dii estis, & Filij excelsi omnes'; cited 'In Psal. 81.'"
+      }
+    ],
+    "ccc7yd-g1110z-d1e9580": [
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "io10_30@1-5 \u2014 'Ego, & Pater Vnum sumus'; cited 'ex illo Christi Domini'"
+      }
+    ]
+  },
+  "ccc7yd-g1208x": {
+    "ccc7yd-g1208x-d1e138": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Faciamus hominem ad imaginem et similitudinem nostram @3-9; cited in context of describing Anthropomorphite heretics"
+      }
+    ],
+    "ccc7yd-g1208x-d1e2024": [
+      {
+        "candidate_id": "ps118_73",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "psal. 1183 cited; ps118_73@2-8"
+      },
+      {
+        "candidate_id": "iob40_4",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Iob 40. cited; iob40_4@2-6"
+      }
+    ],
+    "ccc7yd-g1208x-d1e2060": [
+      {
+        "candidate_id": "gen1_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph responds to anthropomorphism objection; gen1_28 text not present"
+      },
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "contextual reference to 'ad imaginem nostram', no direct quotation"
+      }
+    ],
+    "ccc7yd-g1208x-d1e3237": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about Eph3:15 (paternity); IIchr6_14 text not present"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about Eph3:15; dan6_28 text not present"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about Eph3:15; ioel2_30 text not present"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about Eph3:15; mt28_18 text not present"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about Eph3:15; mt6_10 text not present"
+      }
+    ],
+    "ccc7yd-g1208x-d1e6608": [
+      {
+        "candidate_id": "phil2_6",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "phil2_6@1-6 \u2014 'Qui cum in forma Dei esset'"
+      }
+    ],
+    "ccc7yd-g1208x-d1e10610": [
+      {
+        "candidate_id": "is40_17",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "\"Isai. c. 40. Omnes Gentes, quasi non sim, sic sunt coram eo, & quasi nihilum & inane reputatae sunt\""
+      }
+    ],
+    "ccc7yd-g1208x-d1e12238": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Faciamus hominem ad imaginem et similitudinem nostram @3-9"
+      }
+    ]
+  },
+  "ccc7yd-g1405x": {
+    "ccc7yd-g1405x-d1e3200": [
+      {
+        "candidate_id": "gen1_31",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "gen1_31@1-9 \u2014 'Vidit Deus cuncta, quae fecerat, & erant valde bona'; cited '1. Gen.'"
+      }
+    ],
+    "ccc7yd-g1405x-d1e4393": [
+      {
+        "candidate_id": "lc18_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about Manichean heresy; lc18_19 text not present"
+      },
+      {
+        "candidate_id": "mc10_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about Manichean heresy; mc10_18 text not present"
+      }
+    ]
+  },
+  "ccc7yd-g1466x": {
+    "ccc7yd-g1466x-d1e110": [
+      {
+        "candidate_id": "iob11_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "iob11_8@1-8 + iob11_9@1-7 multi-verse \u2014 'Excelsior Caelo est...latior Mari'; cited 'Iob 11.'"
+      },
+      {
+        "candidate_id": "Ireg8_27",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "\"Regum. 3. testatur...Si enim Caelum & Coeli Caelorum te capere non possunt &c.\" - partial quote truncated"
+      }
+    ]
+  },
+  "ccc7yd-g1467z": {
+    "ccc7yd-g1467z-d1e279": [
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit 'Iotract. 1.' citation, spans io1:3-4"
+      },
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Rom11:36 and Jo1; col1_16 not present"
+      },
+      {
+        "candidate_id": "mt5_48",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "mt5_48@1-11; MS cites Matth. 5."
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "rom11_36@2-10; MS cites Apost. Romanor. 11"
+      }
+    ],
+    "ccc7yd-g1467z-d1e927": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about eph3_15 paternitas; IIchr6_14 not present"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about eph3_15 paternitas; dan6_28 not present"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about eph3_15 paternitas; ioel2_30 not present"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about eph3_15 paternitas; mt28_18 not present"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about eph3_15 paternitas; mt6_10 not present"
+      }
+    ],
+    "ccc7yd-g1467z-d1e4730": [
+      {
+        "candidate_id": "lc18_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Augustine on God; lc18_19 text not present"
+      }
+    ],
+    "ccc7yd-g1467z-d1e5818": [
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Rom11:36; col1_16 text not present"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "rom11_36@2-10; MS cites Apost. Rom. 11."
+      }
+    ],
+    "ccc7yd-g1467z-d1e5871": [
+      {
+        "candidate_id": "col1_16",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Rom11:36; col1_16 text not present"
+      },
+      {
+        "candidate_id": "rom11_36",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "rom11_36@2-10; MS cites ex Apost. vbisup."
+      }
+    ]
+  },
+  "ccc7yd-g1528z": {
+    "ccc7yd-g1528z-d1e493": [
+      {
+        "candidate_id": "IImac7_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'caelum terram omnia' overlap; paragraph cites Gen.1 and Col.1 not 2 Mac 7"
+      },
+      {
+        "candidate_id": "Ichr16_32",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'caelum terram' overlap; paragraph cites Gen.1"
+      },
+      {
+        "candidate_id": "gen1_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "gen1_1@3-7 \u2014 'Creauit Deus Caelum, & Terram'; cited 'Gen. 1.'; MS adds 'omnia quae in eis funt' (paraphrase expansion)"
+      },
+      {
+        "candidate_id": "ier51_48",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'caelum terram' overlap; paragraph cites Gen.1 not Jer 51"
+      },
+      {
+        "candidate_id": "neh9_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'caelum' overlap"
+      },
+      {
+        "candidate_id": "act14_14",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 'caelum terram omnia quae in eis' overlap; paragraph cites Gen.1 not Acts 14"
+      },
+      {
+        "candidate_id": "act4_24",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 'caelum terram omnia quae in eis' overlap; paragraph cites Gen.1 not Acts 4"
+      },
+      {
+        "candidate_id": "ex20_11",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "false positive \u2014 'caelum terram omnia quae in eis' overlap; paragraph cites Gen.1 not Ex 20"
+      },
+      {
+        "candidate_id": "io1_3",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit 'Io. 1.' citation, words 1-11 (preceded by io1_1 text 'Deus erat Verbum')"
+      }
+    ],
+    "ccc7yd-g1528z-d1e4588": [
+      {
+        "candidate_id": "ps148_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "MS cites \"psal. 148\" - updated from ps32_9 to ps148_5; same text appears in both psalms"
+      },
+      {
+        "candidate_id": "ps32_9",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "same quote encoded as ps148_5 per MS citation \"psal. 148\""
+      }
+    ]
+  },
+  "ccc7yd-g1585z": {
+    "ccc7yd-g1585z-d1e323": [
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "ps144_3@7-11 \u2014 'Magnitudinis eius non est finis'; cited 'psal. 144.'"
+      }
+    ],
+    "ccc7yd-g1585z-d1e3220": [
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph is a nota bene explaining finite/infinite; ps144_3 text not directly cited"
+      }
+    ],
+    "ccc7yd-g1585z-d1e3712": [
+      {
+        "candidate_id": "ps144_3",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "ps144_3@7-11 \u2014 'Magnitudinis eius non est finis'; cited 'psal. 144.'"
+      },
+      {
+        "candidate_id": "ps146_5",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "ps146_5@1-13 \u2014 'Magnus Dominus...non est numerus'; cited 'psal. 140.'"
+      }
+    ]
+  },
+  "ccc7yd-g1623x": {
+    "ccc7yd-g1623x-d1e531": [
+      {
+        "candidate_id": "Ireg8_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Ireg8_27@12-19; MS cites 3. Reg. 8."
+      }
+    ],
+    "ccc7yd-g1623x-d1e964": [
+      {
+        "candidate_id": "ps113_24",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "ps113_24@1-8 \u2014 'Caelum Caelis Domino, terram autem dedit Filijs hominum'; cited 'psal. 113.'"
+      }
+    ],
+    "ccc7yd-g1623x-d1e2529": [
+      {
+        "candidate_id": "ps138_10",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "encoded as part of ps138_9+ps138_10 multi-verse quote"
+      },
+      {
+        "candidate_id": "ps138_9",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "ps138_9 + ps138_10 multi-verse \u2014 'Si sumpsero pennas...tenebit me dextera tua'; part of ps138 citation"
+      },
+      {
+        "candidate_id": "ps138_7",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "ps138_7@1-11 (multi-verse with ps138_8@1-12); MS cites psal. 138."
+      },
+      {
+        "candidate_id": "ps138_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "ps138_8@1-12 (multi-verse with ps138_7@1-11); MS cites psal. 138."
+      }
+    ],
+    "ccc7yd-g1623x-d1e4514": [
+      {
+        "candidate_id": "act13_35",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 same text already encoded as ps15_10@1-13 in this paragraph"
+      },
+      {
+        "candidate_id": "lc23_43",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "lc23_43@8-12 \u2014 'Hodie mecum eris in Paradiso'; cited in Christus moriens dixit Latroni context"
+      },
+      {
+        "candidate_id": "act2_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded as ps15_10@1-13 (act2_27 quotes ps15:10)"
+      },
+      {
+        "candidate_id": "ps15_10",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "MS cites 'psal. 155' (likely error), text matches ps15_10, full verse"
+      }
+    ],
+    "ccc7yd-g1623x-d1e7098": [
+      {
+        "candidate_id": "iob11_9",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "iob11_8@1-8 + iob11_9@1-7 multi-verse \u2014 'Excelsior caelo est...latior mari'; cited 'Iob 11.'"
+      },
+      {
+        "candidate_id": "bar3_25",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "bar3_25@1-8 \u2014 'Magnus est, & non habet finem, excelsus, & immensus'; cited 'Baruch. 3.'"
+      },
+      {
+        "candidate_id": "Ireg8_27",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "\"3. Reg. 8. Si enim Caelum & Caeli Caelorum capere non possunt, quanto magis domus haec\""
+      }
+    ],
+    "ccc7yd-g1623x-d1e7994": [
+      {
+        "candidate_id": "IIchr6_14",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about vacuum space; IIchr6_14 text not present"
+      },
+      {
+        "candidate_id": "dan6_28",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about vacuum space; dan6_28 text not present"
+      },
+      {
+        "candidate_id": "ioel2_30",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about vacuum space; ioel2_30 text not present"
+      },
+      {
+        "candidate_id": "mt28_18",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about vacuum space; mt28_18 text not present"
+      },
+      {
+        "candidate_id": "mt6_10",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about vacuum space; mt6_10 text not present"
+      }
+    ],
+    "ccc7yd-g1623x-d1e8155": [
+      {
+        "candidate_id": "io16_28",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "io16_28@5-7 ('veni in mundum') and io16_28@1-7 ('Exiut a Patre & veni in mundum'); paragraph cites Io: and Matth."
+      }
+    ],
+    "ccc7yd-g1623x-d1e9148": [
+      {
+        "candidate_id": "IItim1_9",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph about Spirit's personal presence citing Augustine; IItim1_9 text not present"
+      },
+      {
+        "candidate_id": "rom12_3",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'gratia quae data est' overlap; not directly quoted"
+      },
+      {
+        "candidate_id": "rom12_6",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "false positive \u2014 'gratia quae data est' overlap; not directly quoted"
+      }
+    ],
+    "ccc7yd-g1623x-d1e9549": [
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "quote starts here, ends in d1e9571; encoded in this paragraph starting 'Charitas Dei diffusa est'"
+      }
+    ],
+    "ccc7yd-g1623x-d1e9571": [
+      {
+        "candidate_id": "io14_23",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit 'Io: 14.' citation, partial quote from word 6"
+      },
+      {
+        "candidate_id": "Icor3_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Icor3_16@1-11 \u2014 'Nescitis, quia Templum Dei estis vos, & Spiritus Sanctus habitat in vobis'; cited '1. Cor. 3.'"
+      },
+      {
+        "candidate_id": "io14_16",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "io14_16@2-9 \u2014 'Ego rogabo Patrem, & alium Paraclytum dabit vobis'; cited 'ibid.' (io14)"
+      },
+      {
+        "candidate_id": "rom5_5",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "quote spans paragraphs d1e9549-d1e9571, explicit 'Apost. Rom. 5.' citation, word 6-19"
+      }
+    ],
+    "ccc7yd-g1623x-d1e10280": [
+      {
+        "candidate_id": "ps138_8",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "compound multi-verse quote already tagged (Qd1e10361) without source; spans 1Reg8_27, iob11_8, and ps138_8"
+      }
+    ],
+    "ccc7yd-g1623x-d1e10540": [
+      {
+        "candidate_id": "gal4_4",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "already encoded as Augustine quote (adt-l2-d1e223@165-196); Gal 4:4 text appears within Augustine's citation"
+      }
+    ]
+  },
+  "ccc7yd-g1735z": {
+    "ccc7yd-g1735z-d1e637": [
+      {
+        "candidate_id": "hebr1_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites psal. 101 not Hebrews 1; text is ps101_27+28 already encoded"
+      },
+      {
+        "candidate_id": "iac1_17",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Apud quem non est transmutatio; nec momenti obumbratio @14-21"
+      },
+      {
+        "candidate_id": "num23_19",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Non est Deus quasi homo vt mutetur @1-7"
+      },
+      {
+        "candidate_id": "ps101_28",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "multi-verse ps101_27@14-17 + ps101_28@1-10: Mutabis ea et mutabuntur tu autem idem ipse es et anni tui non deficient"
+      }
+    ],
+    "ccc7yd-g1735z-d1e1067": [
+      {
+        "candidate_id": "gen22_12",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Nunc cognoui quod timeas Dominum @13-17"
+      }
+    ]
+  },
+  "ccc7yd-g1746x": {
+    "ccc7yd-g1746x-d1e969": [
+      {
+        "candidate_id": "rom1_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Inuisibilia Dei per ea quae facta sunt @1-11"
+      }
+    ],
+    "ccc7yd-g1746x-d1e3073": [
+      {
+        "candidate_id": "gen13_4",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "MS cites Gen 21 invocauit ibi nomen Domini = gen21_33 not gen13_4"
+      },
+      {
+        "candidate_id": "gen21_33",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Et invocavit ibi nomen Domini Dei aeterni @21-26"
+      }
+    ],
+    "ccc7yd-g1746x-d1e3301": [
+      {
+        "candidate_id": "ap1_4",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same phrase encoded under ap1_8 (divine self-declaration form)"
+      },
+      {
+        "candidate_id": "ap1_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Qui est quia erat et qui venturus est @12-20"
+      }
+    ]
+  },
+  "ccc7yd-g1817x": {
+    "ccc7yd-g1817x-d1e364": [
+      {
+        "candidate_id": "ex33_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Non videbit me homo et vivet @8-14; MS cites as Exod 43 (scribal error for Exod 33)"
+      }
+    ],
+    "ccc7yd-g1817x-d1e915": [
+      {
+        "candidate_id": "mt5_8",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Beati mundo corde quoniam ipsi Deum videbunt @1-7"
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Scimus quoniam cum apparuerit similes ei erimus quoniam videbimus eum sicuti est @11-22"
+      },
+      {
+        "candidate_id": "mt18_10",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Matm. 18. Angeli eorum in Caelis semper vident faciem Patris, qui in Caelis est\""
+      }
+    ],
+    "ccc7yd-g1817x-d1e963": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit '1. Cor. 13.' citation, words 1-11"
+      }
+    ],
+    "ccc7yd-g1817x-d1e1236": [
+      {
+        "candidate_id": "lam5_21",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "paragraph cites Augustine Confessions 1.1; lam5_21 not present"
+      }
+    ],
+    "ccc7yd-g1817x-d1e1588": [
+      {
+        "candidate_id": "ex33_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Non videbit me homo et vivet @8-14"
+      }
+    ],
+    "ccc7yd-g1817x-d1e1647": [
+      {
+        "candidate_id": "gen32_30",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "Gen. 32. Iacob ait: Vidi Dominum facie ad faciem, & salua facta est anima mea; MS has Dominum instead of Deum"
+      }
+    ],
+    "ccc7yd-g1817x-d1e1703": [
+      {
+        "candidate_id": "gen32_1",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Fueruntque ei obviam angeli Dei @7-11"
+      },
+      {
+        "candidate_id": "gen32_24",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "gen32_24@3-10; MS cites Scriptura...subiungit in Gen 32"
+      }
+    ],
+    "ccc7yd-g1817x-d1e3239": [
+      {
+        "candidate_id": "Icor2_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "extended existing Icor2_9@5-23 quote to multi-verse Icor2_9+10; nobis autem revelavit Deus per Spiritum suum @1-7"
+      },
+      {
+        "candidate_id": "lc10_22",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "already encoded as mt11_27@9-24 in same paragraph"
+      },
+      {
+        "candidate_id": "Icor2_9",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"2. Cor. 2. habetur: Quod oculus non vidit...\" - MS cites \"2. Cor. 2.\" but text is 1 Cor 2:9"
+      },
+      {
+        "candidate_id": "mt11_27",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit 'Matth. 11.' citation, partial quote from word 9"
+      }
+    ],
+    "ccc7yd-g1817x-d1e4207": [
+      {
+        "candidate_id": "io3_5",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "io3_5@7-20; MS cites illud Christi Domini"
+      }
+    ],
+    "ccc7yd-g1817x-d1e4415": [
+      {
+        "candidate_id": "mt11_27",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Matth. 11. Nemo nouit Filium, nisi Pater, & Patrem quis nouit, nisi Filius, & cui voluerit Filius reuelare\""
+      }
+    ],
+    "ccc7yd-g1817x-d1e4500": [
+      {
+        "candidate_id": "ps99_3",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Scitote quoniam ipse est Deus ipse fecit nos et non ipsi nos @1-13"
+      }
+    ],
+    "ccc7yd-g1817x-d1e6623": [
+      {
+        "candidate_id": "gal3_18",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Si ex lege hereditas iam non ex repromissione Abrahae autem per promissionem donavit Deus @2-15"
+      }
+    ],
+    "ccc7yd-g1817x-d1e9052": [
+      {
+        "candidate_id": "io6_66",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph quotes io6_44 Nemo potest venire ad me not io6_66"
+      },
+      {
+        "candidate_id": "io6_44",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Nemo potest venire ad me nisi Pater traxerit eum @1-12"
+      }
+    ],
+    "ccc7yd-g1817x-d1e9608": [
+      {
+        "candidate_id": "gen1_26",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Faciamus hominem ad imaginem et similitudinem nostram @3-9"
+      }
+    ],
+    "ccc7yd-g1817x-d1e12011": [
+      {
+        "candidate_id": "mt5_8",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Mt 5:8 verse appears as lemma within Augustine citation context, not a direct quotation by author"
+      },
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "\"Ubi arguit ex illo 1. Io3. Cum apparuerit, similes ei erimus, quoniam videbimus eum, sicuti est\""
+      }
+    ],
+    "ccc7yd-g1817x-d1e12518": [
+      {
+        "candidate_id": "iob19_26",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "In carne mea videbo Deum @7-11"
+      },
+      {
+        "candidate_id": "lc2_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Viderunt oculi mei salutare tuum @2-6"
+      },
+      {
+        "candidate_id": "lc3_6",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Videbit omnis caro salutare Dei @2-6"
+      },
+      {
+        "candidate_id": "iob19_27",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "iob19_27@1-10; MS cites Iob 19."
+      },
+      {
+        "candidate_id": "iob42_5",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "\"c. 42. Auditu auris audiui te, nunc autem oculus meus videt te\""
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit '1Cor. 13.' citation, words 1-11"
+      }
+    ],
+    "ccc7yd-g1817x-d1e13187": [
+      {
+        "candidate_id": "is6_1",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph about internal senses; is6_1 not present"
+      }
+    ]
+  },
+  "ccc7yd-g1950x": {
+    "ccc7yd-g1950x-d1e6201": [
+      {
+        "candidate_id": "gen1_12",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "fire/heat analogy paragraph; gen1_12 not present"
+      },
+      {
+        "candidate_id": "gen1_20",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "fire/heat analogy paragraph; gen1_20 not present"
+      },
+      {
+        "candidate_id": "gen1_11",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit 'Gen. 13' citation (typo for Gen. 1), partial quote from word 3"
+      }
+    ],
+    "ccc7yd-g1950x-d1e6497": [
+      {
+        "candidate_id": "sap9_10",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Mitte illam de caelis ut mecum sit et mecum laboret @1-19; MS has abridged form"
+      }
+    ],
+    "ccc7yd-g1950x-d1e6985": [
+      {
+        "candidate_id": "io6_54",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph explicitly quotes io6_53 Nisi manducaveritis; io6_54 only referenced indirectly"
+      }
+    ],
+    "ccc7yd-g1950x-d1e7477": [
+      {
+        "candidate_id": "Iio3_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Scimus quoniam cum apparuerit similes ei erimus quoniam videbimus eum sicuti est @11-22"
+      }
+    ],
+    "ccc7yd-g1950x-d1e7848": [
+      {
+        "candidate_id": "io6_66",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "paragraph quotes io6_44 Nemo potest venire not io6_66"
+      },
+      {
+        "candidate_id": "io6_44",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Nemo potest venire ad me nisi Pater traxerit eum @1-12; MS omits qui misit me"
+      }
+    ],
+    "ccc7yd-g1950x-d1e8385": [
+      {
+        "candidate_id": "lc21_25",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Mt20 parable context; lc21_25 not present"
+      }
+    ],
+    "ccc7yd-g1950x-d1e8622": [
+      {
+        "candidate_id": "Icor3_8",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "Jovinian/Synod context; Icor3_8 not visible"
+      },
+      {
+        "candidate_id": "io14_2",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "In domo Patris mei mansiones multae sunt @1-7"
+      },
+      {
+        "candidate_id": "lc7_47",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit 'Luc. 7.' citation, partial quote from word 5"
+      }
+    ],
+    "ccc7yd-g1950x-d1e9597": [
+      {
+        "candidate_id": "IIcor5_10",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "explicit 'Apost. 2. Cor. 5.' citation, partial quote starting at word 4"
+      },
+      {
+        "candidate_id": "IItim4_8",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"iuxta illud Apost. Quam reddet mihi Dominus in illa die iustus Iudex\""
+      }
+    ]
+  },
+  "ccc7yd-g2050x": {
+    "ccc7yd-g2050x-d1e453": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "explicit 'Apost. 1. Cor. 15.' citation (typo for 13), words 1-11"
+      }
+    ],
+    "ccc7yd-g2050x-d1e2497": [
+      {
+        "candidate_id": "IIcor3_18",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "explicit '2. Cor. 33' citation (typo for 2. Cor. 3), full verse"
+      },
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Icor13_12@1-11; MS cites super illud 1 Cor 13"
+      }
+    ],
+    "ccc7yd-g2050x-d1e4801": [
+      {
+        "candidate_id": "gal4_19",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "\"Apost. ad Galat. 4. Filioli mei, quos iterum parturio, donec formetur Christus in nobis\""
+      }
+    ]
+  },
+  "ccc7yd-g2102x": {
+    "ccc7yd-g2102x-d1e1140": [
+      {
+        "candidate_id": "Isam9_19",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "Angel cognition paragraph; Isam9_19 not present"
+      }
+    ],
+    "ccc7yd-g2102x-d1e1560": [
+      {
+        "candidate_id": "io10_30",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Tgo et Pater unum sumus @1-5"
+      },
+      {
+        "candidate_id": "io14_10",
+        "intersectionCount": 3,
+        "status": "encoded",
+        "note": "Quia ego in Patre et Pater in me est @3-11"
+      },
+      {
+        "candidate_id": "io14_11",
+        "intersectionCount": 3,
+        "status": "not_found",
+        "note": "citation is io14_10; io14_11 has same phrase but MS cites the io14_10 context"
+      }
+    ],
+    "ccc7yd-g2102x-d1e2793": [
+      {
+        "candidate_id": "dan10_13",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "dan10_13@1-10; MS cites Dan. 10"
+      }
+    ],
+    "ccc7yd-g2102x-d1e2922": [
+      {
+        "candidate_id": "Icor2_11",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Quae sunt Dei nemo cognovit nisi Spiritus Dei @17-24"
+      }
+    ],
+    "ccc7yd-g2102x-d1e3199": [
+      {
+        "candidate_id": "num12_6",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "multi-verse quote num12:6-8, explicit 'Num. 2' citation (typo for Num. 12)"
+      },
+      {
+        "candidate_id": "num12_8",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "already encoded as multi-verse num12_6@7-23 + num12_7@1-13 + num12_8@1-15"
+      }
+    ],
+    "ccc7yd-g2102x-d1e3352": [
+      {
+        "candidate_id": "mt25_21",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Intra in gaudium Domini tui @19-23"
+      },
+      {
+        "candidate_id": "mt25_23",
+        "intersectionCount": 2,
+        "status": "not_found",
+        "note": "same phrase as mt25_21; single citation encoded under mt25_21"
+      }
+    ],
+    "ccc7yd-g2102x-d1e3470": [
+      {
+        "candidate_id": "ex33_20",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Non videbit me homo et vivet @8-14"
+      }
+    ]
+  },
+  "ccc7yd-g2137x": {
+    "ccc7yd-g2137x-d1e1428": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 2,
+        "status": "encoded",
+        "note": "Videmus per speculum in aenigmate tunc autem facie ad faciem @1-11"
+      },
+      {
+        "candidate_id": "ps47_9",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "ps47_9@1-8; MS cites psal.47"
+      }
+    ],
+    "ccc7yd-g2137x-d1e1521": [
+      {
+        "candidate_id": "ap5_8",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "explicit 'Apoc. 5.' citation, partial quote from word 8"
+      }
+    ],
+    "ccc7yd-g2137x-d1e1563": [
+      {
+        "candidate_id": "act1_7",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "explicit 'Act. 1.' citation, partial quote from word 4"
+      }
+    ],
+    "ccc7yd-g2137x-d1e2060": [
+      {
+        "candidate_id": "Icor13_12",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "Icor13_12@1-11; MS cites 1. Cor. 13."
+      }
+    ],
+    "ccc7yd-g2137x-d1e2671": [
+      {
+        "candidate_id": "ap7_11",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "Et omnes angeli stabant in circuitu throni @1-7"
+      }
+    ]
+  }
+}

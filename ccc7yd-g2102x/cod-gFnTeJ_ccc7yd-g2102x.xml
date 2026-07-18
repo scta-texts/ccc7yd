@@ -748,8 +748,8 @@
       <lb ed="#N" n="3"/>Diuinam sine Attributis, &amp; Personis, aut e 
       con<lb ed="#N" n="4" break="no"/>tra. Peob, 1. ex illo Io. 14. Philippe, qui videt me; 
       <lb ed="#N" n="5"/>videt &amp; Patrem meum. Deinde rationem 
-      adiun<lb ed="#N" n="6" break="no"/>gens ait: <quote source="http://scta.info/resource/io14_10@3-11">Quia ego in Patre, &amp; Pater inime est</quote>; 
-      <lb ed="#N" n="7"/>quod docuerat Io: 10. <quote source="http://scta.info/resource/io10_30@1-5">Tgo, &amp; Pater unum sub
+      adiun<lb ed="#N" n="6" break="no"/>gens ait: <quote xml:id="ccc7yd-g2102x-Qd1e1569" source="http://scta.info/resource/io14_10@3-11">Quia ego in Patre, &amp; Pater inime est</quote>; 
+      <lb ed="#N" n="7"/>quod docuerat Io: 10. <quote xml:id="ccc7yd-g2102x-Qd1e1575" source="http://scta.info/resource/io10_30@1-5">Tgo, &amp; Pater unum sub
       <lb ed="#N" n="8"/>mus</quote>, super quod Beatiss. P. Aug. lib. 1. deTrin. 
       <lb ed="#N" n="9"/>c. 8. docet: Siue ergo audiamus, ostende nobis 
       Fi<lb ed="#N" n="10" break="no"/>lium; siue audiamus, ostende nobis Patrem θ
@@ -1305,7 +1305,7 @@
       <lb ed="#N" n="114"/>ei, ne Regnum Persarum sibi comissum 
       destrue<lb ed="#N" n="115" break="no"/>retur, quanuis eius destructio fuisset decreta ad 
       <lb ed="#N" n="116"/>Deo, &amp; tale decretum fuisset reuelatum 
-      Michae<lb ed="#N" n="117" break="no"/>li, qui tamen ait: <quote source="http://scta.info/resource/dan10_13@1-10">Princeps Regni Persarum restitit.
+      Michae<lb ed="#N" n="117" break="no"/>li, qui tamen ait: <quote xml:id="ccc7yd-g2102x-Qd1e2729" source="http://scta.info/resource/dan10_13@1-10">Princeps Regni Persarum restitit.
       <lb ed="#N" n="118"/>mihi viginti, &amp; uno diebus</quote>: Idem docet Beatiss. 
       <!--749.xml-->
       <pb ed="#N" n="732"/>
@@ -1341,7 +1341,7 @@
       <lb ed="#N" n="25"/>illos spectant: 
       </p>
                <p xml:id="ccc7yd-g2102x-d1e2922">
-                  <lb ed="#N" n="26"/>5 Obiicies 1. 1. Cor. 2. habetur: <quote source="http://scta.info/resource/Icor2_11@17-24">Quae sunt Dei,
+                  <lb ed="#N" n="26"/>5 Obiicies 1. 1. Cor. 2. habetur: <quote xml:id="ccc7yd-g2102x-Qd1e2807" source="http://scta.info/resource/Icor2_11@17-24">Quae sunt Dei,
       <lb ed="#N" n="27"/>nemo cognouit, nisi spiritus Dei</quote>. 2. Non est maior 
       <lb ed="#N" n="28"/>ratio, cur videatur vnum decretum, &amp; non 
       om<lb ed="#N" n="29" break="no"/>ne. 3. Vel decreta libera Dei habent 
@@ -1479,7 +1479,7 @@
       </p>
                <p xml:id="ccc7yd-g2102x-d1e3199">
                   <lb ed="#N" n="14"/>S Prob. 3. Moyses vidit Diuinam Ess entia, 
-      vt<lb ed="#N" n="15" break="no"/>habetur Num. 2, ubi ait Deus: <quote source="http://scta.info/resource/num12_6@7-23 http://scta.info/resource/num12_7@1-13 http://scta.info/resource/num12_8@1-15">Si quis fuerit inter
+      vt<lb ed="#N" n="15" break="no"/>habetur Num. 2, ubi ait Deus: <quote xml:id="ccc7yd-g2102x-Qd1e3090" source="http://scta.info/resource/num12_6@7-23 http://scta.info/resource/num12_7@1-13 http://scta.info/resource/num12_8@1-15">Si quis fuerit inter
       <lb ed="#N" n="16"/>vos Propheta Domini, in visione apparebo ei, vel
       <lb ed="#N" n="17"/>per somnium loquar ad illum; &amp; non talis seruus
       <lb ed="#N" n="18"/>meus Moyses, qui in omnimea domo fidelissimus.
@@ -1565,7 +1565,7 @@
       <lb ed="#N" n="87"/>sui, vt ialis sit SEMPITERNA VITA, QVALE 
       <lb ed="#N" n="88"/>EVITMOMENTVMHOC 
       INTELLIGEN<lb ed="#N" n="89" break="no"/>TIAE, CVI SVSPIRAVIMVS, none hoc est: 
-      <quote source="http://scta.info/resource/mt25_21@19-23">In<lb ed="#N" n="90" break="no"/>tra in gaudium Domini tui</quote>? Quod si illa 
+      <quote xml:id="ccc7yd-g2102x-Qd1e3270" source="http://scta.info/resource/mt25_21@19-23">In<lb ed="#N" n="90" break="no"/>tra in gaudium Domini tui</quote>? Quod si illa 
       intellige<lb ed="#N" n="91" break="no"/>lia, seu visio momentanea, &amp; trasiens fuit 
       sempi<lb ed="#N" n="92" break="no"/>piterna vita, non continuata, quia fuit transiens, 
       <lb ed="#N" n="93"/>&amp; momentanea; &amp; si fuit intrare in gaudium 
@@ -1609,7 +1609,7 @@
       <lb ed="#N" n="2"/>t. 3. Lafosse, &amp; aj¬ 
       </p>
                <p xml:id="ccc7yd-g2102x-d1e3470">
-                  <lb ed="#N" n="3"/>II Obijcies 1. illud Exod. 33. <quote source="http://scta.info/resource/ex33_20@8-14">Non videbit.
+                  <lb ed="#N" n="3"/>II Obijcies 1. illud Exod. 33. <quote xml:id="ccc7yd-g2102x-Qd1e3365" source="http://scta.info/resource/ex33_20@8-14">Non videbit.
       <lb ed="#N" n="4"/>me homo, &amp; viuet</quote>. Item definitur in Conc. Vien. in 
       <lb ed="#N" n="5"/>Clement. hominem in hac vita non posse consequi  
       <lb ed="#N" n="6"/>suam beatitudinem, quod etiam determinauit 

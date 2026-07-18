@@ -1,0 +1,1876 @@
+{
+  "ccc7yd-g1e4xx": {
+    "ccc7yd-g1e4xx-d1e114": [
+      {
+        "candidate_id": "adt-l4-d1e637",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites lib. 14 c. 12 and lib. 15 c. 22 generally; no adt-l4 quote"
+      },
+      {
+        "candidate_id": "adt-l4-d1e634",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g1e4xx-d1e173": [
+      {
+        "candidate_id": "adt-l10-d1e1115",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "lib. 10 c. 1 @14-28"
+      }
+    ]
+  },
+  "ccc7yd-g1e113": {
+    "ccc7yd-g1e113-d1e261": [
+      {
+        "candidate_id": "adt-l2-d1e188",
+        "intersectionCount": 21,
+        "status": "not_found",
+        "note": "MS cites 'Aug. 2. de Trin. in princ' but adt-l2-d1e188 does not contain 'non ero segnis'; wrong section candidate"
+      }
+    ],
+    "ccc7yd-g1e113-d1e1311": [
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 47,
+        "status": "encoded",
+        "note": "adt-l15-d1e1991@141-216; prayer 'Domine Deus meus una spes mea...' through 'donec reformes ad integrum'; spans page break"
+      }
+    ],
+    "ccc7yd-g1e113-d1e3016": [
+      {
+        "candidate_id": "adt-l15-d1e1902",
+        "intersectionCount": 13,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about theology's necessity; no de Trinitate quote"
+      }
+    ],
+    "ccc7yd-g1e113-d1e9352": [
+      {
+        "candidate_id": "adt-l4-d1e558",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g1e113-d1e9482": [
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "papal primacy passage; no de Trin. citation"
+      }
+    ]
+  },
+  "ccc7yd-g10625": {
+    "ccc7yd-g10625-d1e5306": [
+      {
+        "candidate_id": "adt-l1-d1e36",
+        "intersectionCount": 25,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l1-d1e24",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      }
+    ],
+    "ccc7yd-g10625-d1e6232": [
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph discusses Tolet and faith, no de Trin quote"
+      }
+    ]
+  },
+  "ccc7yd-g32199": {
+    "ccc7yd-g32199-d1e657": [
+      {
+        "candidate_id": "adt-l14-d1e1535",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "lib. 14 c. 1 @73-108"
+      }
+    ]
+  },
+  "ccc7yd-g35416": {
+    "ccc7yd-g35416-d1e233": [
+      {
+        "candidate_id": "adt-l15-d1e1959",
+        "intersectionCount": 11,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites Scripture only (John 14, 1 Cor 2, Matt 10)"
+      }
+    ],
+    "ccc7yd-g35416-d1e2482": [
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph cites Matt. 28; apostolic succession; no de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph cites Matt. 28; apostolic succession; no de Trin. quote"
+      }
+    ],
+    "ccc7yd-g35416-d1e2545": [
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites Aug. Ep. 112; no de Trin. citation"
+      }
+    ],
+    "ccc7yd-g35416-d1e3564": [
+      {
+        "candidate_id": "adt-l2-d1e327",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Matt. 7 / Petrus passage; no de Trin. citation"
+      }
+    ],
+    "ccc7yd-g35416-d1e4466": [
+      {
+        "candidate_id": "adt-l15-d1e1902",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 listing patristic errors, no direct de Trin quote"
+      }
+    ],
+    "ccc7yd-g35416-d1e5300": [
+      {
+        "candidate_id": "adt-l1-d1e33",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g35416-d1e5796": [
+      {
+        "candidate_id": "adt-l1-d1e27",
+        "intersectionCount": 23,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l1-d1e24",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g35416-d1e5845": [
+      {
+        "candidate_id": "adt-l2-d1e188",
+        "intersectionCount": 27,
+        "status": "not_found",
+        "note": "MS cites 'lib. 2 de Trin. in Proem' but candidate section adt-l2-d1e188 does not contain that text; wrong section candidate"
+      }
+    ]
+  },
+  "ccc7yd-g42871": {
+    "ccc7yd-g42871-d1e262": [
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 citing 1 Cor 2, 2 Pet 3, Sap 7; no de Trin quote"
+      }
+    ],
+    "ccc7yd-g42871-d1e892": [
+      {
+        "candidate_id": "adt-l2-d1e273",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "biblical hermeneutics passage; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l2-d1e343",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "biblical hermeneutics passage; no de Trin. attribution"
+      }
+    ]
+  },
+  "ccc7yd-g45122": {
+    "ccc7yd-g45122-d1e859": [
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites 1 Cor. 15 only; no de Trin. lib. 12 attribution"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites Aug. de Trin. lib. 11 c. 2; adt-l14 not referenced"
+      },
+      {
+        "candidate_id": "adt-l11-d1e1210",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 shared 1 Cor 13:12 theme; no verbatim de Trin quote"
+      }
+    ],
+    "ccc7yd-g45122-d1e923": [
+      {
+        "candidate_id": "adt-l11-d1e1216",
+        "intersectionCount": 34,
+        "status": "encoded",
+        "note": "adt-l11-d1e1216@13-55; 'Plerumque cum diu Solem...' through 'dum corpus lucidum videretur'"
+      }
+    ],
+    "ccc7yd-g45122-d1e1091": [
+      {
+        "candidate_id": "adt-l11-d1e1203",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "lib. 11 c. 2 @32-51; source uses 'uisibili' where MS has 'sensibili'"
+      },
+      {
+        "candidate_id": "adt-l11-d1e1235",
+        "intersectionCount": 25,
+        "status": "not_found",
+        "note": "MS cites 'lib. 11 c. 2' but candidate section adt-l11-d1e1235 does not contain the cited text; wrong section candidate"
+      }
+    ],
+    "ccc7yd-g45122-d1e2034": [
+      {
+        "candidate_id": "adt-l15-d1e1728",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "range @28-55; source has 'se' before 'praestantissimum' which MS omits"
+      }
+    ],
+    "ccc7yd-g45122-d1e4316": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "discusses scriptural senses; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "discusses scriptural senses; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "discusses scriptural senses; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "discusses scriptural senses; no de Trin. citation"
+      }
+    ],
+    "ccc7yd-g45122-d1e6155": [
+      {
+        "candidate_id": "adt-l15-d1e1728",
+        "intersectionCount": 57,
+        "status": "encoded",
+        "note": "adt-l15-d1e1728@28-133; 'Neque enim Divinorum librorum...' through 'beatissimumque fateamur'"
+      }
+    ],
+    "ccc7yd-g45122-d1e6275": [
+      {
+        "candidate_id": "adt-l15-d1e1927",
+        "intersectionCount": 13,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph argues about merit/demerit; no de Trinitate quote"
+      }
+    ],
+    "ccc7yd-g45122-d1e6762": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "back-reference; no direct de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1747",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "back-reference; no direct de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Aug. Tract. in Io, not de Trin."
+      }
+    ],
+    "ccc7yd-g45122-d1e8567": [
+      {
+        "candidate_id": "adt-l2-d1e188",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "range @116-136; MS has 'viraque' for source 'utraque'"
+      }
+    ],
+    "ccc7yd-g45122-d1e10247": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no de Trin. attribution; discusses Rom. 1"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1747",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no de Trin. attribution; discusses Rom. 1"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "no direct de Trin. attribution; discusses Rom. 1"
+      }
+    ],
+    "ccc7yd-g45122-d1e10509": [
+      {
+        "candidate_id": "adt-l15-d1e1696",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph has Sap 13:1 quote, no de Trin"
+      }
+    ]
+  },
+  "ccc7yd-g56667": {
+    "ccc7yd-g56667-d1e824": [
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g56667-d1e2239": [
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "actual quote from lib. 5 c. 2 already encoded; adt-l1 not cited"
+      }
+    ],
+    "ccc7yd-g56667-d1e4260": [
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites lib. 5 c. 2 and lib. 12 de Civ. Dei; those already encoded from adt-l5-d1e680 and adcd-l12"
+      },
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 36,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites lib.5 and de Civ. Dei"
+      },
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "paragraph already has adt-l5-d1e680 encoded; adt-l7-d1e902 doesn't match"
+      }
+    ],
+    "ccc7yd-g56667-d1e6018": [
+      {
+        "candidate_id": "adt-l7-d1e902",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "range @32-53"
+      }
+    ],
+    "ccc7yd-g56667-d1e7466": [
+      {
+        "candidate_id": "adt-l7-d1e905",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Aug. as witness (vt testatur); no verbatim quote"
+      }
+    ],
+    "ccc7yd-g56667-d1e8485": [
+      {
+        "candidate_id": "adt-l15-d1e1756",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no explicit de Trin. attribution in paragraph"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1962",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no explicit de Trin. attribution in paragraph"
+      },
+      {
+        "candidate_id": "adt-l7-d1e905",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no explicit de Trin. attribution in paragraph"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1991",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 council citations"
+      },
+      {
+        "candidate_id": "adt-l6-d1e823",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 council citations"
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "paragraph cites Council of Sardice and Theodoretus, not de Trin directly"
+      }
+    ],
+    "ccc7yd-g56667-d1e8660": [
+      {
+        "candidate_id": "adt-l7-d1e899",
+        "intersectionCount": 60,
+        "status": "encoded",
+        "note": "adt-l7-d1e899@161-303; 'Nam si hoc est Deo esse quod subsistere...' through 'quanto magis Deus'"
+      }
+    ],
+    "ccc7yd-g56667-d1e9104": [
+      {
+        "candidate_id": "adt-l7-d1e899",
+        "intersectionCount": 19,
+        "status": "encoded",
+        "note": "lib. 7 c. 6 abbreviated quote"
+      }
+    ],
+    "ccc7yd-g56667-d1e11210": [
+      {
+        "candidate_id": "adt-l15-d1e1845",
+        "intersectionCount": 34,
+        "status": "encoded",
+        "note": "adt-l15-d1e1845@9-23; 'Quae autem Scientia Dei est...' through 'Substantia'"
+      }
+    ],
+    "ccc7yd-g56667-d1e14167": [
+      {
+        "candidate_id": "adt-l15-d1e1858",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "already encoded with adt-l15-d1e1845@1-85; d1e1858 is a different section"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1845",
+        "intersectionCount": 67,
+        "status": "encoded",
+        "note": "adt-l15-d1e1845@1-85; 'Longe est ergo huic scientiae...' through 'neque sapiamus ea quae aliunde didicimus'"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1744",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph already encoded for adt-l15-d1e1845"
+      }
+    ],
+    "ccc7yd-g56667-d1e16011": [
+      {
+        "candidate_id": "adt-l6-d1e833",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l6-d1e826",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g56667-d1e17379": [
+      {
+        "candidate_id": "adt-l15-d1e1845",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "range @96-113"
+      }
+    ],
+    "ccc7yd-g56667-d1e18329": [
+      {
+        "candidate_id": "adt-l15-d1e1737",
+        "intersectionCount": 12,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph is a response/reply; no direct quote"
+      }
+    ]
+  },
+  "ccc7yd-g75058": {
+    "ccc7yd-g75058-d1e169": [
+      {
+        "candidate_id": "adt-l8-d1e958",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 both about goodness but no direct quote"
+      }
+    ],
+    "ccc7yd-g75058-d1e915": [
+      {
+        "candidate_id": "adt-l15-d1e1731",
+        "intersectionCount": 16,
+        "status": "not_found",
+        "note": "false positive; paragraph already has adt-l15-d1e1737 encoded; adt-l15-d1e1731 content differs"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1737",
+        "intersectionCount": 21,
+        "status": "encoded",
+        "note": "adt-l15-d1e1737@1-30 and @31-39 (two quote elements); author intersposes 'quanuis ista verba... statim subdit:' between the two parts"
+      }
+    ],
+    "ccc7yd-g75058-d1e3169": [
+      {
+        "candidate_id": "adt-l15-d1e1737",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "range @1-30; back-reference 'vt superius adnotauimus'"
+      }
+    ],
+    "ccc7yd-g75058-d1e3289": [
+      {
+        "candidate_id": "adt-l5-d1e718",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g75058-d1e3533": [
+      {
+        "candidate_id": "adt-l5-d1e725",
+        "intersectionCount": 24,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g75058-d1e3811": [
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g75058-d1e3988": [
+      {
+        "candidate_id": "adt-l15-d1e1747",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "back-reference via vt vidimus; no direct de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "back-reference via \"vt vidimus\"; no direct de Trin. quote"
+      }
+    ],
+    "ccc7yd-g75058-d1e4205": [
+      {
+        "candidate_id": "adt-l15-d1e1731",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "paragraph cites lib.5,6,7 not lib.15; false positive"
+      }
+    ],
+    "ccc7yd-g75058-d1e5739": [
+      {
+        "candidate_id": "adt-l5-d1e721",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ]
+  },
+  "ccc7yd-g81637": {
+    "ccc7yd-g81637-d1e4303": [
+      {
+        "candidate_id": "adt-l6-d1e801",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1880",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "section not indexed in SCTA edition"
+      }
+    ],
+    "ccc7yd-g81637-d1e5045": [
+      {
+        "candidate_id": "adt-l6-d1e801",
+        "intersectionCount": 10,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1886",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "lib. 15 c. 17 @133-155"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1737",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "lib. 15 c. 5 @2-52"
+      }
+    ],
+    "ccc7yd-g81637-d1e6269": [
+      {
+        "candidate_id": "adt-l6-d1e801",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g81637-d1e6342": [
+      {
+        "candidate_id": "adt-l5-d1e737",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g81637-d1e6903": [
+      {
+        "candidate_id": "adt-l15-d1e1737",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "lib. 15 c. 5 attribution; quote @42-52"
+      }
+    ],
+    "ccc7yd-g81637-d1e7978": [
+      {
+        "candidate_id": "adt-l15-d1e1880",
+        "intersectionCount": 16,
+        "status": "not_found",
+        "note": "section adt-l15-d1e1880 not indexed in SCTA edition; text 'nec distent in eis ista' not found in nearby sections"
+      }
+    ],
+    "ccc7yd-g81637-d1e10186": [
+      {
+        "candidate_id": "adt-l6-d1e801",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g81637-d1e11736": [
+      {
+        "candidate_id": "adt-l6-d1e814",
+        "intersectionCount": 37,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l7-d1e905",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "MS paraphrases de Trin. 7 doctrine; verbatim phrases not found in any adt-l7 section"
+      }
+    ],
+    "ccc7yd-g81637-d1e11870": [
+      {
+        "candidate_id": "adt-l6-d1e833",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "lib. 6 c. 10 @93-113"
+      }
+    ],
+    "ccc7yd-g81637-d1e15040": [
+      {
+        "candidate_id": "adt-l6-d1e801",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l6-d1e814",
+        "intersectionCount": 24,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1880",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "range @158-181"
+      }
+    ],
+    "ccc7yd-g81637-d1e16253": [
+      {
+        "candidate_id": "adt-l7-d1e864",
+        "intersectionCount": 24,
+        "status": "encoded",
+        "note": "adt-l7-d1e864@32-64; 'sicut enim unus Filius ad Patrem...' through 'eo Verbum quo Filius'; first part 'Quod enim est Sapientiae sapere' abbreviated with &c. from different section"
+      },
+      {
+        "candidate_id": "adt-l7-d1e861",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "lib. 7 c. 2 attribution; quote @166-173"
+      }
+    ],
+    "ccc7yd-g81637-d1e16321": [
+      {
+        "candidate_id": "adt-l15-d1e1731",
+        "intersectionCount": 22,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph contains author's philosophical argument only, no Augustine citation visible"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1756",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites Council of Sardica and Nicephorus; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "philosophical text, no direct Augustine quote found"
+      }
+    ],
+    "ccc7yd-g81637-d1e16646": [
+      {
+        "candidate_id": "adt-l5-d1e725",
+        "intersectionCount": 17,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1848",
+        "intersectionCount": 19,
+        "status": "encoded",
+        "note": "adt-l15-d1e1848@78-103; 'Pater genuit Verbum sibi aequale per omnia, non enim se ipsum integre perfecteque dixisset si aliquid minus aut amplius esset in eius Verbo quam in ipso'"
+      }
+    ],
+    "ccc7yd-g81637-d1e17344": [
+      {
+        "candidate_id": "adt-l5-d1e677",
+        "intersectionCount": 9,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g81637-d1e17699": [
+      {
+        "candidate_id": "adt-l15-d1e1994",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "adt-l15-d1e1994@199-234; 'Multa dicimus & non peruenimus...cum ergo peruenerimus ad te cessabunt ista multa...sine fine dicemus unum'"
+      },
+      {
+        "candidate_id": "adt-l6-d1e814",
+        "intersectionCount": 33,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l1-d1e24",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g81637-d1e19576": [
+      {
+        "candidate_id": "adt-l5-d1e677",
+        "intersectionCount": 13,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l5-d1e674",
+        "intersectionCount": 26,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g81637-d1e20970": [
+      {
+        "candidate_id": "adt-l15-d1e1994",
+        "intersectionCount": 24,
+        "status": "encoded",
+        "note": "adt-l15-d1e1994@211-245; 'Cum ergo peruenerimus ad te cessabunt ista multa...' through 'et in te facti etiam nos unum'"
+      }
+    ],
+    "ccc7yd-g81637-d1e21453": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "false positive"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 shared 1 Cor 13:12 theme"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "paragraph cites Bernard de Considerat., not de Trin"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "cites Scripture only, no de Trin quote"
+      }
+    ],
+    "ccc7yd-g81637-d1e21562": [
+      {
+        "candidate_id": "adt-l15-d1e1874",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "range @78-97; source has 'fortassis etiam' before but MS starts from 'non erunt'"
+      }
+    ]
+  },
+  "ccc7yd-g1065x": {
+    "ccc7yd-g1065x-d1e762": [
+      {
+        "candidate_id": "adt-l6-d1e833",
+        "intersectionCount": 33,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g1065x-d1e1332": [
+      {
+        "candidate_id": "adt-l15-d1e1737",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "adt-l15-d1e1737@18-52; 'Vltimum quod posui videtur tantummodo significare substantiam...quidquid enim secundum qualitates illic dici videtur secundum Substantiam vel Essentiam est intelligendum'; MS 'Vltimum' = source 'nouissimum'"
+      }
+    ],
+    "ccc7yd-g1065x-d1e2404": [
+      {
+        "candidate_id": "adt-l6-d1e814",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l7-d1e864",
+        "intersectionCount": 30,
+        "status": "encoded",
+        "note": "adt-l7-d1e864@86-122; 'Et propterea non eo Verbum quo Sapientia...' through 'una Sapientia'; second Augustine citation in paragraph (first already encoded as adt-l6-d1e814)"
+      }
+    ],
+    "ccc7yd-g1065x-d1e2477": [
+      {
+        "candidate_id": "adt-l7-d1e905",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "lib. 7 c. 6 attribution; quote @44-55"
+      }
+    ],
+    "ccc7yd-g1065x-d1e3563": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 32,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g1065x-d1e4390": [
+      {
+        "candidate_id": "adt-l10-d1e1118",
+        "intersectionCount": 15,
+        "status": "not_found",
+        "note": "adt-l10-d1e1118 concerns signs/sounds (temetum example); not present in this MS paragraph"
+      },
+      {
+        "candidate_id": "adt-l10-d1e1121",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "covered by multi-section quote with adt-l10-d1e1112 and adt-l10-d1e1128"
+      },
+      {
+        "candidate_id": "adt-l10-d1e1128",
+        "intersectionCount": 20,
+        "status": "encoded",
+        "note": "covered by multi-section quote with adt-l10-d1e1112 and adt-l10-d1e1121"
+      },
+      {
+        "candidate_id": "adt-l10-d1e1112",
+        "intersectionCount": 37,
+        "status": "encoded",
+        "note": "adt-l10-d1e1112@13-36 (start); long quote spans three sections: adt-l10-d1e1112@13-36, adt-l10-d1e1121@1-67, adt-l10-d1e1128@6-130; 'Si enim rem prorsus ignotam amare omnino nullus potest...Propterea nullus amat incognita...dum vult omnia esse cognita'"
+      }
+    ]
+  },
+  "ccc7yd-g1110z": {
+    "ccc7yd-g1110z-d1e1242": [
+      {
+        "candidate_id": "adt-l6-d1e795",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "range @76-98"
+      }
+    ],
+    "ccc7yd-g1110z-d1e8205": [
+      {
+        "candidate_id": "adt-l1-d1e36",
+        "intersectionCount": 18,
+        "status": "encoded",
+        "note": "lib. 1 c. 4 opening"
+      },
+      {
+        "candidate_id": "adt-l1-d1e24",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      }
+    ],
+    "ccc7yd-g1110z-d1e9580": [
+      {
+        "candidate_id": "adt-l5-d1e740",
+        "intersectionCount": 6,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ]
+  },
+  "ccc7yd-g1208x": {
+    "ccc7yd-g1208x-d1e138": [
+      {
+        "candidate_id": "adt-l1-d1e71",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1309",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      }
+    ],
+    "ccc7yd-g1208x-d1e1023": [
+      {
+        "candidate_id": "adt-l15-d1e1912",
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "false positive \u2014 quote is lib. 5 c. 11 already encoded from adt-l5-d1e740@125-164"
+      },
+      {
+        "candidate_id": "adt-l5-d1e740",
+        "intersectionCount": 34,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l2-d1e340",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l3-d1e489",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l7-d1e908",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1734",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "range @273-287"
+      }
+    ],
+    "ccc7yd-g1208x-d1e3804": [
+      {
+        "candidate_id": "adt-l5-d1e737",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l5-d1e683",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1737",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "range @42-52; paragraph also has lib.7 c.5 and lib.5 quotes already encoded"
+      }
+    ],
+    "ccc7yd-g1208x-d1e7070": [
+      {
+        "candidate_id": "adt-l5-d1e690",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g1208x-d1e8121": [
+      {
+        "candidate_id": "adt-l1-d1e163",
+        "intersectionCount": 17,
+        "status": "not_found",
+        "note": "wrong section \u2014 adt-l1-d1e163 concerns iudicium not the crucifixion rule; citation from lib 1 c14 is in adt-l1-d1e154"
+      },
+      {
+        "candidate_id": "adt-l1-d1e125",
+        "intersectionCount": 21,
+        "status": "encoded",
+        "note": "adt-l1-d1e125@1-47; 'Quapropter cognita ista regula intelligendarum Scripturarum...non conturbabitur tanquam contrariis ac repugnantibus inter se Sanctorum Librorum sententiis'; cited as c.10 in fine & c.11"
+      },
+      {
+        "candidate_id": "adt-l1-d1e166",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l1-d1e154",
+        "intersectionCount": 8,
+        "status": "encoded",
+        "note": "adt-l1-d1e154@105-117; 'Recte dicitur et Deus Crucifixus non ex virtute Diuinitatis sed ex infirmitate carnis'"
+      }
+    ],
+    "ccc7yd-g1208x-d1e8254": [
+      {
+        "candidate_id": "adt-l1-d1e71",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "range @114-124"
+      }
+    ],
+    "ccc7yd-g1208x-d1e10357": [
+      {
+        "candidate_id": "adt-l5-d1e677",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g1208x-d1e11995": [
+      {
+        "candidate_id": "adt-l5-d1e737",
+        "intersectionCount": 4,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g1208x-d1e12238": [
+      {
+        "candidate_id": "adt-l1-d1e71",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1309",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      }
+    ]
+  },
+  "ccc7yd-g1405x": {
+    "ccc7yd-g1405x-d1e4591": [
+      {
+        "candidate_id": "adt-l8-d1e958",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "lib. 8 c. 3 @154-167"
+      }
+    ],
+    "ccc7yd-g1405x-d1e4626": [
+      {
+        "candidate_id": "adt-l8-d1e952",
+        "intersectionCount": 18,
+        "status": "encoded",
+        "note": "lib. 8 c. 3 @131-156"
+      }
+    ]
+  },
+  "ccc7yd-g1467z": {
+    "ccc7yd-g1467z-d1e279": [
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 11,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph as above"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 11,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites John tract. 1 and Scripture; not de Trinitate"
+      },
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "discusses Rom. 5:5; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "paragraph cites Aug. Tractates on John, not de Trin"
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "false positive \u2014 MS cites Aug. Tractates on John, not de Trin"
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph"
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 same paragraph"
+      }
+    ],
+    "ccc7yd-g1467z-d1e3721": [
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 21,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      },
+      {
+        "candidate_id": "adt-l6-d1e833",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l2-d1e305",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites lib.5 de Trin; adt-l2-d1e305 doesn't match"
+      }
+    ],
+    "ccc7yd-g1467z-d1e4730": [
+      {
+        "candidate_id": "adt-l8-d1e952",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      }
+    ],
+    "ccc7yd-g1467z-d1e5818": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Aug. Io tract. 13; not de Trin."
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "paragraph analyzes Rom 11:36; no de Trin quote"
+      }
+    ],
+    "ccc7yd-g1467z-d1e5871": [
+      {
+        "candidate_id": "adt-l6-d1e804",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Aug. Tract. in Io; not de Trin."
+      },
+      {
+        "candidate_id": "adt-l1-d1e59",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1624",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "paragraph cites Aug. Tractates on John, not de Trin"
+      }
+    ]
+  },
+  "ccc7yd-g1528z": {
+    "ccc7yd-g1528z-d1e493": [
+      {
+        "candidate_id": "adt-l4-d1e624",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "philosophical argument, no direct Augustine de Trin quote"
+      },
+      {
+        "candidate_id": "adt-l1-d1e49",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "philosophical argument, no direct Augustine de Trin quote"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1387",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "philosophical argument, no direct Augustine de Trin quote"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1390",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "philosophical argument, no direct Augustine de Trin quote"
+      },
+      {
+        "candidate_id": "adt-l4-d1e517",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "philosophical argument, no direct Augustine de Trin quote"
+      }
+    ]
+  },
+  "ccc7yd-g1585z": {
+    "ccc7yd-g1585z-d1e1834": [
+      {
+        "candidate_id": "adt-l5-d1e737",
+        "intersectionCount": 88,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ]
+  },
+  "ccc7yd-g1622x": {
+    "ccc7yd-g1622x-d1e110": [
+      {
+        "candidate_id": "adt-l5-d1e677",
+        "intersectionCount": 7,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ]
+  },
+  "ccc7yd-g1623x": {
+    "ccc7yd-g1623x-d1e2529": [
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "false positive \u2014 adt-l2-d1e210 about mission of Son; MS about God's presence via causality"
+      }
+    ],
+    "ccc7yd-g1623x-d1e9549": [
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about charity/Holy Spirit indwelling"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 shared Rom 5:5 citation; no de Trin quote"
+      },
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph about charity/Holy Spirit indwelling, no de Trin verbatim quote"
+      }
+    ],
+    "ccc7yd-g1623x-d1e9571": [
+      {
+        "candidate_id": "adt-l8-d1e996",
+        "intersectionCount": 10,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph analyzes Rom 5:5 without directly quoting de Trin"
+      },
+      {
+        "candidate_id": "adt-l1-d1e106",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Rom. 11; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l7-d1e874",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Rom. 11; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1893",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph analyzes Rom 5:5 without quoting adt-l15"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1460",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 both texts cite Rom 5:5; no direct de Trin quote"
+      }
+    ],
+    "ccc7yd-g1623x-d1e10280": [
+      {
+        "candidate_id": "adt-l2-d1e210",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      }
+    ],
+    "ccc7yd-g1623x-d1e10540": [
+      {
+        "candidate_id": "adt-l2-d1e223",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ]
+  },
+  "ccc7yd-g1735z": {
+    "ccc7yd-g1735z-d1e143": [
+      {
+        "candidate_id": "adt-l5-d1e680",
+        "intersectionCount": 39,
+        "status": "encoded",
+        "note": "auto-detected already in XML"
+      }
+    ],
+    "ccc7yd-g1735z-d1e637": [
+      {
+        "candidate_id": "adt-l1-d1e14",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "paragraph cites lib. de Nat. Don. not de Trin"
+      }
+    ]
+  },
+  "ccc7yd-g1746x": {
+    "ccc7yd-g1746x-d1e969": [
+      {
+        "candidate_id": "adt-l13-d1e1507",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1747",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      }
+    ],
+    "ccc7yd-g1746x-d1e5599": [
+      {
+        "candidate_id": "adt-l15-d1e1842",
+        "intersectionCount": 16,
+        "status": "encoded",
+        "note": "lib. 15 c. 11"
+      }
+    ]
+  },
+  "ccc7yd-g1817x": {
+    "ccc7yd-g1817x-d1e915": [
+      {
+        "candidate_id": "adt-l1-d1e176",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites commentary on Romans; no de Trin. citation"
+      }
+    ],
+    "ccc7yd-g1817x-d1e963": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "commentary on Wis 7:26; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "commentary on Wis 7:26; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "paragraph cites Ep. ad Fortunatianum and tract. in Jo; no de Trin lib.15 quote"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "cites Ep. ad Fortunatianum and tract. in Jo, not de Trin"
+      }
+    ],
+    "ccc7yd-g1817x-d1e3239": [
+      {
+        "candidate_id": "adt-l13-d1e1450",
+        "intersectionCount": 37,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites Matt 11:27 (Scripture) not de Trinitate; high intersectionCount from shared theological vocabulary about divine knowledge"
+      },
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites Scripture not de Trinitate"
+      },
+      {
+        "candidate_id": "adt-l13-d1e1454",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites Scripture not de Trinitate"
+      },
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 9,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites Scripture not de Trinitate"
+      }
+    ],
+    "ccc7yd-g1817x-d1e4415": [
+      {
+        "candidate_id": "adt-l7-d1e867",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Job 19, 1 Cor 13; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites Matth.11 and Scriptures; no de Trin quote"
+      }
+    ],
+    "ccc7yd-g1817x-d1e8954": [
+      {
+        "candidate_id": "adt-l10-d1e1128",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "lib. 10 c. 2 @6-31; also encoded lib. 10 c. 1 from adt-l10-d1e1112@13-20"
+      }
+    ],
+    "ccc7yd-g1817x-d1e9608": [
+      {
+        "candidate_id": "adt-l1-d1e71",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Gen. 1 / 1 Io passage; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1309",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Gen. 1 / 1 Io passage; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l7-d1e921",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "Gen. 1 / 1 Io passage; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Gen. 1 and 1 Io 3; no de Trin. attribution"
+      }
+    ],
+    "ccc7yd-g1817x-d1e9630": [
+      {
+        "candidate_id": "adt-l13-d1e1447",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Aug. Ep. ad Fortunatianum and Tract. in Io; not de Trin."
+      }
+    ],
+    "ccc7yd-g1817x-d1e12011": [
+      {
+        "candidate_id": "adt-l1-d1e176",
+        "intersectionCount": 11,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites tract. 3 in Jo. and De Serm. Domini; not de Trinitate"
+      },
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "no verbatim de Trin. quote found in candidate section"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph cites lib. 1, lib. 8, epistles; no lib. 14 quote"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1772",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph cites lib. 1, lib. 8, epistles; no lib. 15 quote"
+      },
+      {
+        "candidate_id": "adt-l4-d1e526",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph cites lib. 1, lib. 8, epistles; no lib. 4 quote"
+      },
+      {
+        "candidate_id": "adt-l8-d1e968",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "lib. 8 c. 4 attribution; quote spans section boundary; encoded without range"
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites de Trin lib.1 c.6 which is a different section"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 shared scriptural citations (1 Jo 3:2, speculum passage)"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1672",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 both texts cite 1 Jo 3:2"
+      },
+      {
+        "candidate_id": "adt-l2-d1e324",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites tract. in Jo and Serm. Domini; different source"
+      }
+    ],
+    "ccc7yd-g1817x-d1e12518": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Aug. Tract. in Io and Serm. Dom.; no de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites Aug. Tract. in Io and Serm. Dom.; no de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph lists scriptural objections only"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph lists scriptural objections only, no de Trin quote"
+      }
+    ]
+  },
+  "ccc7yd-g1950x": {
+    "ccc7yd-g1950x-d1e7477": [
+      {
+        "candidate_id": "adt-l1-d1e176",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites lib. de S. Virg; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1675",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites lib. de S. Virg; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1772",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites lib. de S. Virg; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l2-d1e324",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites lib. de S. Virg; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l4-d1e526",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "cites lib. de S. Virg; no de Trin. citation"
+      },
+      {
+        "candidate_id": "adt-l1-d1e87",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites lib. de S. Virg c. 26; no de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites lib. de S. Virg c. 26; no de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1672",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "cites lib. de S. Virg c. 26; no de Trin. quote"
+      }
+    ]
+  },
+  "ccc7yd-g2050x": {
+    "ccc7yd-g2050x-d1e453": [
+      {
+        "candidate_id": "adt-l1-d1e84",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "back-reference to earlier work in treatise; no direct de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "back-reference to earlier work in treatise; no direct de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "back-reference to earlier work in treatise; no direct de Trin. quote"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph references prior Augustine citation, no de Trin quote here"
+      }
+    ],
+    "ccc7yd-g2050x-d1e2497": [
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 13,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph cites lib. 14 c. 17 and lib. 15 c. 9; adt-l15-d1e1769 is different section"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1782",
+        "intersectionCount": 14,
+        "status": "encoded",
+        "note": "lib. 15 c. 9 @93-127"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 15,
+        "status": "encoded",
+        "note": "lib. 14 c. 17 @137-144"
+      },
+      {
+        "candidate_id": "adt-l12-d1e1366",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph quotes adt-l14 and adt-l15 (auto-encoded); no adt-l12 citation"
+      }
+    ],
+    "ccc7yd-g2050x-d1e4152": [
+      {
+        "candidate_id": "adt-l9-d1e1090",
+        "intersectionCount": 18,
+        "status": "not_found",
+        "note": "cannot locate 'De finio quid sit intemperantia' in adt-l9-d1e1090 or nearby sections; section may not be indexed"
+      },
+      {
+        "candidate_id": "adt-l9-d1e1087",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "lib. [9] c. 16 attribution; quote @33-41"
+      }
+    ],
+    "ccc7yd-g2050x-d1e4860": [
+      {
+        "candidate_id": "adt-l15-d1e1801",
+        "intersectionCount": 11,
+        "status": "encoded",
+        "note": "lib. 15 c. 10 @31-44"
+      },
+      {
+        "candidate_id": "adt-l9-d1e1090",
+        "intersectionCount": 6,
+        "status": "not_found",
+        "note": "false positive \u2014 adt-l9-d1e1090 about notitia similitudo; paragraph's lib.9 c.9 quote is from a different section"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1984",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "c.27 fragment not found in adt-l15-d1e1984; paragraph already has adt-l15-d1e1801 encoded"
+      },
+      {
+        "candidate_id": "adt-l9-d1e1103",
+        "intersectionCount": 8,
+        "status": "not_found",
+        "note": "false positive \u2014 adt-l9-d1e1103 about amor; MS cites lib 9 cc. 9,11,22 which are different sections"
+      }
+    ],
+    "ccc7yd-g2050x-d1e4914": [
+      {
+        "candidate_id": "adt-l9-d1e1090",
+        "intersectionCount": 12,
+        "status": "encoded",
+        "note": "lib. 9 c. 10 @47-65"
+      },
+      {
+        "candidate_id": "adt-l15-d1e1874",
+        "intersectionCount": 7,
+        "status": "not_found",
+        "note": "lib 15 c.16 cited as back-ref; paragraph already has adt-l9-d1e1090 encoded; no verbatim quote from adt-l15-d1e1874"
+      }
+    ]
+  },
+  "ccc7yd-g2102x": {
+    "ccc7yd-g2102x-d1e1560": [
+      {
+        "candidate_id": "adt-l1-d1e90",
+        "intersectionCount": 22,
+        "status": "not_found",
+        "note": "false positive \u2014 paragraph contains author's own argument, no explicit Augustine de Trinitate citation"
+      }
+    ]
+  },
+  "ccc7yd-g2137x": {
+    "ccc7yd-g2137x-d1e2060": [
+      {
+        "candidate_id": "adt-l15-d1e1769",
+        "intersectionCount": 4,
+        "status": "not_found",
+        "note": "beatific vision; no de Trin. attribution"
+      },
+      {
+        "candidate_id": "adt-l14-d1e1668",
+        "intersectionCount": 5,
+        "status": "not_found",
+        "note": "paragraph is beatific vision; no de Trin. lib. 14 citation"
+      }
+    ],
+    "ccc7yd-g2137x-d1e2671": [
+      {
+        "candidate_id": "adt-l15-d1e1874",
+        "intersectionCount": 5,
+        "status": "encoded",
+        "note": "lib. 15 c. 16 attribution; quote @78-97"
+      }
+    ],
+    "ccc7yd-g2137x-d1e2964": [
+      {
+        "candidate_id": "adt-l15-d1e1994",
+        "intersectionCount": 33,
+        "status": "encoded",
+        "note": "adt-l15-d1e1994@216-270; 'cessabunt multa ista...' through 'tui Amen'"
+      }
+    ]
+  }
+}
